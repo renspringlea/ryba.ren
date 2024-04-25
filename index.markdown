@@ -12,4 +12,4 @@ layout: home
 - [My animal advocacy research (Animal Ask website)](https://www.animalask.org/research)
 - [My academic publications (Google Scholar)](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
 - [Additional research and other resources/hot takes (Effective Altruism Forum)](https://forum.effectivealtruism.org/users/ren-ryba)
-- [Personal blog (Bear)](https://www.island.bearblog.dev)
+- [Personal blog (Bear)](https://island.bearblog.dev)
