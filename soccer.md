@@ -1,7 +1,6 @@
 # soccer
 
 ## notes  
-~~~~~~
 navigate:  
 - [matildas-friendlies](#matildas-friendlies)  
 - [olympics](#olympics)  
@@ -10,7 +9,6 @@ navigate:
 
 time-zone: australia/adelaide  
 inspired by plaintextsports.com  
-~~~~~~
 
 ## matildas-friendlies  
 ~~~~~~
