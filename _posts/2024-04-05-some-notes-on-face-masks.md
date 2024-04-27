@@ -18,7 +18,7 @@ tags: life-ops research social-challenges
 - If you assume that applies to, say, 6 weeks, then it's closer to between 6 to 60 people wearing a mask to prevent one infection over 12 months
 - That would suggest that wearing a mask would have somewhere between a ~1% and ~17% chance of preventing an infection over 12 months
 - That seems like excellent value to me
-- *Update 26 April 2024: the rate of COVID is probably closer to 16% (rather than one-third or one-half), see my post [here](https://bearblog.dev/island/dashboard/posts/SUiHMfzPgRavcdckVEWx/). I haven't included this updated number in the above calculation. If I did, it would mean that the chance of a mask stopping an infection increases by a factor of 2 or 3. That is, rather than the ~1 to 17% as chance that I conclude below, the answer would be something like ~2.5% to ~45%. The error bars are still very wide, resulting from the other parameters in this calculation that have wide error bars.*
+- *Update 26 April 2024: the rate of COVID is probably closer to 16% (rather than one-third or one-half), see my post [here](2024-04-25-some-data-on-respiratory-infections-in-australia.md). I haven't included this updated number in the above calculation. If I did, it would mean that the chance of a mask stopping an infection increases by a factor of 2 or 3. That is, rather than the ~1 to 17% as chance that I conclude below, the answer would be something like ~2.5% to ~45%. The error bars are still very wide, resulting from the other parameters in this calculation that have wide error bars.*
 
 # Notes from studies
 
@@ -71,4 +71,3 @@ tags: life-ops research social-challenges
 - This was written mid-Feb
 - So if that's a representative 6-week period, it would equate to ~450,000 infections over a 12-month period **as an underestimate**
 - That's 1-2% of the Australian population, though plausibly that number could be more like 5% or even 10% if you assume that rates of non-reporting are high (which they are)
-
