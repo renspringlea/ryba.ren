@@ -1,0 +1,10 @@
+---
+layout: post
+title: "I know nothing"
+tags: microblog philosophy self-improvement
+---
+1. "Once upon a time, I, Chuang Tzu, dreamt that I was a butterfly, flitting around and enjoying myself. I had no idea I was Chuang Tzu. Then suddenly I woke up and was Chuang Tzu again. But I could not tell, had I been Chuang Tzu dreaming I was a butterfly, or a butterfly dreaming I was now Chuang Tzu?" - *Chuang-tzu* 2 (*Working Everything Out Evenly*), tr. Palmer. 
+2. I have no empirical knowledge. I have no idea what the consequences of my actions are. The effects of my actions are probably dominated by knock-on effects, rather than the directly observable effects. Many things considered to be robust scientific facts are often revealed to be far less robust than they initially appeared (dietary science provides numerous examples of this!).
+3. I have no idea what the nature of reality is. Is reality made of matter (materialism), mind (theism), a computer simulation, or something else? There are compelling arguments for all these possibilities, and many more. Even my day-to-day beliefs are extremely narrow and debatable - is this really my body, when it contains more bacteria than human cells, and is even home to thousands of individual animals? Why do I think on the scale of days and metres, rather than the scale of microns or galaxies, or microseconds or eons? Why do I focus only on the narrow range of electromagnetic radiation that I can perceive?
+4. I have no idea what is good or bad. There are numerous competing moral theories, all quite compelling in their own way, but each giving conflicting views. We've made minimal progress on what consciousness is, whether there is free will, and how consciousness is distributed among organisms (and other objects). For any action, you can describe a sequence of consequences that repeatedly flips the sum value of the action from net good, to net bad, back to net good, and so on, like the Chinese parable of the horse.
+5. "I was conscious that I knew practically nothing." - Socrates, Plato's *Apology* (22), tr. Fowler, Harold N

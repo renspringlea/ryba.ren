@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Be compassionate, but not a pushover"
+tags: microblog religion philosophy self-improvement
+---
+1. "[...] I say to you, Do not resist an evildoer. But if anyone strikes you on the right cheek, turn the other also; and if anyone wants to sue you and take your coat, give your cloak as well; and if anyone forces you to go one mile, go also the second mile. Give to everyone who begs from you, and do not refuse anyone who wants to borrow from you." Matthew 5:38-42 NRSV
+2. "Bhikkhus, even if bandits were to sever you savagely limb by limb with a two-handled saw, he who gave rise to a mind of hate towards them would not be carrying out my teaching. Herein, Bhikkus, you should train thus: 'Our minds will remain unaffected, and we will utter no evil words; we shall abide compassionate for their welfare, with a mind of loving-kindness, without inner hate. [...]'" *Kakacūpama Sutta* (*Majjhima Nikaya 21*), tr. Ñāṇamoli and Bodhi.
+3. "Jesus offers what the biblical scholar Walter Wink called the 'third way': rather than escalate the violence, and rather than lose personal dignity, face the perpetrator by making the violence and so the wrongness of the situation clear. What looks like humiliation to an outside - being slapped, stripping naked, carrying gear - becomes an opportunity of expressing agency. [...] [T]he victim resists humiliation by displaying agency and courage." - Levine, Amy-Jill 2020, *Sermon on the Mount: A Beginner's Guide to the Kingdom of Heaven*, ch.2.
+4. "[...] Jesus tells his disciples that they should take care both in their proclamations and in their allocations not to put themselves in danger [...] Disciples are to be generous and compassionate; they are not to be stupid." - Levine, Amy-Jill 2020, *Sermon on the Mount: A Beginner's Guide to the Kingdom of Heaven*, ch.6.
+5. The sage has high generosity. The ordinary person has medium generosity. The pushover appears, from the outside, to have high generosity. So to an external observer, the sage and the pushover may appear indistinguishable, but they could not be more different.

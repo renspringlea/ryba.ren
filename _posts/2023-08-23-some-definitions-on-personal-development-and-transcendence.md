@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Some definitions on personal development and transcendence"
+tags: microblog philosophy self-improvement
+---
+1. Deficiency realm (D-realm): "motivated by a lack of satisfaction, whether it’s the lack of food, safety, affection, belonging, or self-esteem." - Kaufman, Scott B 2021, *Transcend: The New Science of Self-Actualization*
+2. Being realm (B-realm): "like replacing a clouded lens with a clear one [...] one is more accepting and loving of oneself and others [...] more about 'What choices will lead me to greater integration and wholeness?'" - Kaufman
+3. Self-actualization: "becoming all that we are uniquely capable of becoming", especially for humanitarian ends. But "only part of the journey". - Kaufman
+4. Transcenders: "[...] peak experiences and plateau experiences become the most important things in their lives [...] speak easily, naturally, and unconsciously the language of Being (B-language), the language of poets, of mystics, of seers, of profoundly religious people [...] perceive the sacred within the secular [...] much more consciously and deliberately motivated by B-values, such as perfection, truth, beauty, goodness, unity, dichotomy-transcendence [...] prone to a kind of cosmic sadness or B-sadness over the stupidity of people, their self-defeat, their blindness, their cruelty to one another, their shortsightedness. [...]"
+5. Secondary integration: "alignment between personal values and behavior, and the individual tailors their actions to work towards higher goals such as the betterment of society in general. The individual has formed their ideal personality and experiences peace with one’s self. All motivation is in the higher forms of empathy, autonomy, and authenticity." - [Positive Psychology](https://positivepsychology.com/dabrowskis-positive-disintegration/#levels-positive-disintegration); and also see Michael M 2009, "Peace Pilgrim, Exemplar of Level V", *Roeper Review* 31:103-112, [available online](https://www.positivedisintegration.com/Piechowski2009.pdf)
