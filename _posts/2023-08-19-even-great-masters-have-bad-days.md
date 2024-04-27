@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Even great masters have bad days"
+tags: microblog religion philosophy self-improvement
+---
+1. “Leaving that place, Jesus withdrew to the region of Tyre and Sidon. A Canaanite woman from that vicinity came to him, crying out, ‘Lord, Son of David, have mercy on me! My daughter is demon-possessed and suffering terribly.’ Jesus did not answer a word. So his disciples came to him and urged him, ‘Send her away, for she keeps crying out after us.’ He answered, ‘I was sent only to the lost sheep of Israel.’ The woman came and knelt before him. ‘Lord, help me!’ she said. He replied, ‘It is not right to take the children’s bread and toss it to the dogs.’ ‘Yes it is, Lord,’ she said. ‘Even the dogs eat the crumbs that fall from their master’s table.’” - Matthew 15:21-27 NRSVUE
+2. Shakyamuni Buddha said: “It’s impossible for a woman to be a perfected one, a fully awakened Buddha. But it is possible for a man to be a perfected one, a fully awakened Buddha.” - Bahudhātukasutta (MN 115), tr. Sujato
+3. Admittedly, there is some debate about whether this passage from the Buddha was part of the original collection, or whether it was a later addition. Thich Nhat Hanh in *Old Path, White Clouds* does seem to accept this passage as valid, and you can sense a subtle anxiety when he writes (ch45): “[The Buddha] explained that it was not discrimination against women that made him hesitant to ordain them. He was unsure how to open the sangha to women without creating harmful conflict both within and outside of the sangha.”
+4. Thich Nhat Hanh also writes (ch15): “He abandoned all reliance on tradition and scripture to find the way on his own.” The same attitude is captured by the words of Shaun Bartone (2019, “Conduct Unbecoming”, in Manders, Kevin & Marston, Elizabeth, *Transcending: Trans Buddhist Voices*): “Shakyamuni hit the road.” And a Dharma brother of ours said that the practice is very simple: “Don’t be a dick.”
+5. We can emulate the wholesome aspects of the great masters while still accepting that they were only human and, like any human, they would have had more than a few bad days.
