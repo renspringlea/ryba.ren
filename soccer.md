@@ -1,4 +1,4 @@
-### notes  
+# notes  
 navigate:  
 - [matildas-friendlies](#matildas-friendlies)  
 - [olympics](#olympics)  
@@ -8,13 +8,13 @@ navigate:
 time-zone: australia/adelaide  
 inspired by plaintextsports.com  
 
-## matildas-friendlies  
+# matildas-friendlies  
 2024-05-31 fri  19:40 australia v china pr  
 2024-06-03 mon  19:10 australia v china pr  
 
 source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
 
-## olympics  
+# olympics  
 2024-07-26 fri  00:30 spain v japan  
 2024-07-26 fri  00:30 canada v new zealand  
 2024-07-26 fri  02:30 caf1 v brazil  
@@ -47,13 +47,13 @@ group b: usa, germany, australia, caf2
 group c: spain, japan, brazil, caf1  
 source: [fifa](https://www.fifa.com/fifaplus/en/tournaments/olympicgames/paris2024/womens/scores-fixtures)  
 
-## cp-world-cup  
+# cp-world-cup  
 2024-11-11 mon  begin  
 2024-11-20 wed  end  
 
 source: [ifcpf](https://www.ifcpf.com/tournaments)  
 
-## nwsl  
+# nwsl  
 2024-04-28 sun  08:30 north carolina courage v seattle reign  
 2024-04-28 sun  09:00 chicago red stars v portland thorns fc  
 2024-04-28 sun  09:00 utah royals fc v houston dash  
