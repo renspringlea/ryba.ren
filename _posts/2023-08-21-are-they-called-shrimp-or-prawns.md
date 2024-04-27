@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are they called "shrimp" or "prawns"?"
+title: "Are they called shrimp or prawns?"
 tags: animals
 ---
 This was a great rabbit hole. Some people distinguish between "shrimp" and "prawns" on biological grounds, arguing that some species are only correctly called "shrimp" while others are only correctly called "prawns". However, I think that the only defensible conclusion is that both "shrimp" and "prawns" are terms for the same thing, and the one to use basically depends on the country you're in.
