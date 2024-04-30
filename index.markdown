@@ -4,8 +4,24 @@
 
 layout: home
 ---
-* • they/them
+~~~
+┌───────────────────┐ ┌────────────────┐
+│  75               │ │  7             │
+│  xxxxxx           │ │  xxx     xx    │
+│  xx   xx   xxxx   │ │  xxxxx   xx    │
+│  xx  xxx  xx   xx │ │  xx  xx  xx    │
+│  xxxxxx   xxxxxxx │ │  xx   xx xx    │
+│  xx   xxx xx      │ │  xx    xxxx    │
+│  xx     x  xxxxxx │ │  xx     xxx    │
+│                   │ │                │
+│  Rhenium          │ │  Nitrogen      │
+│  186.21           │ │  14.007        │
+└───────────────────┘ └────────────────┘
+~~~
+
+* • Ren Ryba (they/them)
 * • I live and work on the unceded land of the Kaurna people
+* • "Ryba" rhymes with "belieber" (no relation)
 * • I like [soccer](soccer.html)
 
 ## My work
