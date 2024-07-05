@@ -3,8 +3,14 @@
 ## notes  
 navigate:  
 - [matildas-friendlies](#matildas-friendlies)  
+- [perth-international](#perth-international)  
+- [nwsl-liga-mx](#nwsl-liga-mx)  
+- [concacaf](#concacaf)  
 - [olympics](#olympics)  
+- [a-league](#a-league)  
 - [cp-world-cup](#cp-world-cup)  
+- [euros](#euros)  
+- [asian-cup](#asian-cup)  
 - [nwsl](#nwsl)  
 
 time-zone: australia/adelaide  
@@ -12,29 +18,59 @@ inspired by plaintextsports.com
 
 ## matildas-friendlies  
 ~~~~~~
-2024-05-31 fri  19:40 australia v china pr  
-2024-06-03 mon  19:10 australia v china pr  
+2024-07-14 sun  05:00 australia v canada  
 ~~~~~~
 
 source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
+
+## perth-international
+~~~~~~
+20240828  manchester city v leiscester city  
+20240829  west ham v psg  
+20240901  third place match and final match  
+~~~~~~
+
+source: [tegsport](https://tegsport.com.au/event/perth-international-football-cup/)  
+
+## nwsl-liga-mx  
+~~~~~~
+20240719 begin  
+20240802 end group stage  
+20240806 semifinals  
+20241025 final  
+~~~~~~
+
+source: [nwsl](https://www.nwslsoccer.com/nwsl-x-liga-mx-femenil-summer-cup)  
+local times  
+
+## concacaf
+~~~~~~
+20240815  begin
+20241017  end group stage
+20250522-5  finals
+~~~~~~
+
+source: [concacaf](https://www.concacaf.com/w-champions-cup/news/concacaf-announces-schedule-for-inaugural-concacaf-w-champions-cup/)  
+local times  
+
 
 ## olympics  
 ~~~~~~
 2024-07-26 fri  00:30 spain v japan  
 2024-07-26 fri  00:30 canada v new zealand  
-2024-07-26 fri  02:30 caf1 v brazil  
+2024-07-26 fri  02:30 nigeria v brazil  
 2024-07-26 fri  02:30 germany v australia  
 2024-07-26 fri  04:30 france v colombia  
-2024-07-26 fri  04:30 usa v caf2  
+2024-07-26 fri  04:30 usa v zambia  
 2024-07-29 mon  00:30 brazil v japan  
 2024-07-29 mon  00:30 new zealand v colombia  
-2024-07-29 mon  02:30 spain v caf1  
-2024-07-29 mon  02:30 australia v caf2  
+2024-07-29 mon  02:30 spain v nigeria  
+2024-07-29 mon  02:30 australia v zambia  
 2024-07-29 mon  04:30 usa v germany  
 2024-07-29 mon  04:30 france v canada  
-2024-08-01 thu  00:30 japan v caf1  
+2024-08-01 thu  00:30 japan v nigeria  
 2024-08-01 thu  00:30 brazil v spain  
-2024-08-01 thu  02:30 caf2 v germany  
+2024-08-01 thu  02:30 zambia v germany  
 2024-08-01 thu  02:30 australia v usa  
 2024-08-01 thu  04:30 colombia v canada  
 2024-08-01 thu  04:30 new zealand v france  
@@ -49,9 +85,14 @@ source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)
 ~~~~~~
 
 group a: france, colombia, canada, new zealand  
-group b: usa, germany, australia, caf2  
-group c: spain, japan, brazil, caf1  
+group b: usa, germany, australia, zambia  
+group c: spain, japan, brazil, nigeria  
 source: [fifa](https://www.fifa.com/fifaplus/en/tournaments/olympicgames/paris2024/womens/scores-fixtures)  
+
+## a-league
+~~~~~~
+2024-10  begin
+~~~~~~
 
 ## cp-world-cup  
 ~~~~~~
@@ -61,54 +102,19 @@ source: [fifa](https://www.fifa.com/fifaplus/en/tournaments/olympicgames/paris20
 
 source: [ifcpf](https://www.ifcpf.com/tournaments)  
 
+## euros
+~~~~~~
+2025-07-02  begin
+2025-07-27  end
+~~~~~~
+
+## asian-cup
+~~~~~~
+2026
+~~~~~~
+
 ## nwsl  
 ~~~~~~
-2024-04-28 sun  08:30 north carolina courage v seattle reign  
-2024-04-28 sun  09:00 chicago red stars v portland thorns fc  
-2024-04-28 sun  09:00 utah royals fc v houston dash  
-2024-04-28 sun  11:30 san diego wave fc v bay fc  
-2024-04-29 mon  06:30 gotham fc v racing louisville fc  
-2024-05-02 thu  08:30 orlando pride v north carolina courage  
-2024-05-02 thu  09:30 chicago red stars v washington spirit  
-2024-05-02 thu  11:30 bay fc v portland thorns fc  
-2024-05-04 sat  11:00 utah royals fc v angel city fc  
-2024-05-04 sat  11:30 seattle reign v san diego wave fc  
-2024-05-05 sun  09:00 gotham fc v north carolina courage  
-2024-05-05 sun  11:30 portland thorns fc v washington spirit  
-2024-05-06 mon  02:30 houston dash v kansas city current  
-2024-05-06 mon  07:30 orlando pride v racing louisville fc  
-2024-05-06 mon  09:30 bay fc v chicago red stars  
-2024-05-09 thu  09:30 houston dash v gotham fc  
-2024-05-09 thu  11:30 seattle reign v kansas city current  
-2024-05-09 thu  11:30 san diego wave fc v utah royals fc  
-2024-05-11 sat  09:30 racing louisville fc v washington spirit  
-2024-05-12 sun  09:00 orlando pride v bay fc  
-2024-05-12 sun  11:30 portland thorns fc v seattle reign  
-2024-05-13 mon  07:00 chicago red stars v utah royals fc  
-2024-05-13 mon  07:30 kansas city current v north carolina courage  
-2024-05-13 mon  09:00 san diego wave fc v gotham fc  
-2024-05-13 mon  09:00 angel city fc v houston dash  
-2024-05-18 sat  09:30 north carolina courage v utah royals fc  
-2024-05-18 sat  09:30 houston dash v portland thorns fc  
-2024-05-18 sat  12:00 bay fc v san diego wave fc  
-2024-05-19 sun  09:00 washington spirit v angel city fc  
-2024-05-19 sun  11:00 kansas city current v racing louisville fc  
-2024-05-20 mon  06:30 gotham fc v chicago red stars  
-2024-05-20 mon  07:30 seattle reign v orlando pride  
-2024-05-24 fri  11:30 angel city fc v san diego wave fc  
-2024-05-25 sat  08:30 orlando pride v portland thorns fc  
-2024-05-25 sat  09:00 washington spirit v seattle reign  
-2024-05-25 sat  09:30 houston dash v north carolina courage  
-2024-05-25 sat  11:30 bay fc v gotham fc  
-2024-05-26 sun  09:00 chicago red stars v racing louisville fc  
-2024-05-26 sun  11:30 utah royals fc v kansas city current  
-2024-06-08 sat  09:30 racing louisville fc v houston dash  
-2024-06-08 sat  11:30 san diego wave fc v orlando pride  
-2024-06-09 sun  02:00 gotham fc v angel city fc  
-2024-06-09 sun  09:00 chicago red stars v bay fc  
-2024-06-09 sun  09:00 utah royals fc v washington spirit  
-2024-06-09 sun  11:30 portland thorns fc v north carolina courage  
-2024-06-10 mon  07:30 kansas city current v seattle reign  
 2024-06-15 sat  09:30 kansas city current v chicago red stars  
 2024-06-16 sun  02:30 racing louisville fc v gotham fc  
 2024-06-16 sun  09:00 north carolina courage v orlando pride  
