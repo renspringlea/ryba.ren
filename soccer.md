@@ -2,7 +2,7 @@
 
 ## notes  
 navigate:  
-- [matildas-friendlies](#matildas-friendlies)  
+- [international-friendlies](#international-friendlies)  
 - [perth-international](#perth-international)  
 - [nwsl-liga-mx](#nwsl-liga-mx)  
 - [concacaf](#concacaf)  
@@ -16,28 +16,29 @@ navigate:
 time-zone: australia/adelaide  
 inspired by plaintextsports.com  
 
-## matildas-friendlies  
+## international-friendlies  
 ~~~~~~
 2024-07-14 sun  05:00 australia v canada  
+2024-08-19  gotham fc v chelsea
 ~~~~~~
 
 source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
 
 ## perth-international
 ~~~~~~
-20240828  manchester city v leiscester city  
-20240829  west ham v psg  
-20240901  third place match and final match  
+2024-08-28  manchester city v leiscester city  
+2024-08-29  west ham v psg  
+2024-09-01  third place match and final match  
 ~~~~~~
 
 source: [tegsport](https://tegsport.com.au/event/perth-international-football-cup/)  
 
 ## nwsl-liga-mx  
 ~~~~~~
-20240719 begin  
-20240802 end group stage  
-20240806 semifinals  
-20241025 final  
+2024-07-19 begin  
+2024-08-02 end group stage  
+2024-08-06 semifinals  
+2024-10-25 final  
 ~~~~~~
 
 source: [nwsl](https://www.nwslsoccer.com/nwsl-x-liga-mx-femenil-summer-cup)  
@@ -45,9 +46,10 @@ local times
 
 ## concacaf
 ~~~~~~
-20240815  begin
-20241017  end group stage
-20250522-5  finals
+2024-08-15  begin
+2024-10-17  end group stage
+2025-05-22  begin finals
+2025-05-25  end finals
 ~~~~~~
 
 source: [concacaf](https://www.concacaf.com/w-champions-cup/news/concacaf-announces-schedule-for-inaugural-concacaf-w-champions-cup/)  
