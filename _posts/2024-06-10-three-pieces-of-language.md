@@ -23,3 +23,6 @@ I haven't found anybody writing about this yet, except for a few off-hand mentio
 I have this feeling of hesitation or fear when I think of reading or watching or talking about something that is important to me. The fear relates to not wanting to get information overload or to be faced with too much emotive or action-relevant content. The feeling isn't the information overwhelm itself, but the fear of information overwhelm that makes me disengage from reading, watching, or talking about stuff that is highly relevant to my work or life.
 
 This can manifest in, for example, not wanting to talk about a favourite book genre with a stranger, or feeling scared of beginning a literature review on a topic that I'm researching for work.
+
+
+edit: oh, and PDA (pathological demand avoidance // personal drive for autonomy)!
