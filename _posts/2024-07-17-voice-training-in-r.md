@@ -5,21 +5,21 @@ tags: life-ops self-improvement plaintext
 ---
 1. Assemble some samples of voices that you like. You can do this using youtube-dl to download clips from Youtube and then chop them up using ffmpeg. If needed, you can also use ffmpeg to convert to mp3. Command line code:  
 
-~~~~~~
+``` bash
 youtube-dl -x [insert-some-video-url-here]
 ffmpeg -i  file.m4a -ss 0 to 20 -c copy file2.m4a
 ffmpeg -i file2.m4a file.mp3  
-~~~~~~  
+```  
 
 2. For comparison, record yourself speaking (e.g. in Audacity).  
 3. Use the program aubio to extract the pitch of all the mp3 files in the specific directory (note that you need to install aubio first!). Command line code:  
 
-~~~~~~  
+``` bash  
 for f in *.mp3; do aubiopitch -i "$f" > "${f%.o}.txt"; done  
-~~~~~~  
+```  
 
 4. Process the data and visualise in R. R code:  
-~~~~~~  
+``` R  
 # Get all files ending in .mp3.txt from the folder and read them as lines
 # into R
 filelist <- list.files(pattern = "*.mp3.txt")
@@ -60,6 +60,6 @@ g1
 
 # Save graph to file
 ggsave("g1.png",g1,width=6,height=4)
-~~~~~~
+```
 
 ![Image](https://i.ibb.co/XSZ5wYH/g1.png)
