@@ -2,11 +2,11 @@
 
 ## notes  
 navigate:  
+- [olympics](#olympics)  
 - [international-friendlies](#international-friendlies)  
 - [perth-international](#perth-international)  
 - [nwsl-liga-mx](#nwsl-liga-mx)  
 - [concacaf](#concacaf)  
-- [olympics](#olympics)  
 - [a-league](#a-league)  
 - [cp-world-cup](#cp-world-cup)  
 - [euros](#euros)  
@@ -15,45 +15,6 @@ navigate:
 
 time-zone: australia/adelaide  
 inspired by plaintextsports.com  
-
-## international-friendlies  
-~~~~~~
-2024-07-14 sun  05:00 australia v canada  
-2024-08-19  gotham fc v chelsea
-~~~~~~
-
-source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
-
-## perth-international
-~~~~~~
-2024-08-28  manchester city v leiscester city  
-2024-08-29  west ham v psg  
-2024-09-01  third place match and final match  
-~~~~~~
-
-source: [tegsport](https://tegsport.com.au/event/perth-international-football-cup/)  
-
-## nwsl-liga-mx  
-~~~~~~
-2024-07-19 begin  
-2024-08-02 end group stage  
-2024-08-06 semifinals  
-2024-10-25 final  
-~~~~~~
-
-source: [nwsl](https://www.nwslsoccer.com/nwsl-x-liga-mx-femenil-summer-cup)  
-local times  
-
-## concacaf
-~~~~~~
-2024-08-15  begin
-2024-10-17  end group stage
-2025-05-22  begin finals
-2025-05-25  end finals
-~~~~~~
-
-source: [concacaf](https://www.concacaf.com/w-champions-cup/news/concacaf-announces-schedule-for-inaugural-concacaf-w-champions-cup/)  
-local times  
 
 
 ## olympics  
@@ -90,6 +51,46 @@ group a: france, colombia, canada, new zealand
 group b: usa, germany, australia, zambia  
 group c: spain, japan, brazil, nigeria  
 source: [fifa](https://www.fifa.com/fifaplus/en/tournaments/olympicgames/paris2024/womens/scores-fixtures)  
+
+
+## international-friendlies  
+~~~~~~
+2024-08-19  gotham fc v chelsea
+~~~~~~
+
+source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
+
+## perth-international
+~~~~~~
+2024-08-28  manchester city v leiscester city  
+2024-08-29  west ham v psg  
+2024-09-01  third place match and final match  
+~~~~~~
+
+source: [tegsport](https://tegsport.com.au/event/perth-international-football-cup/)  
+
+## nwsl-liga-mx  
+~~~~~~
+2024-07-19 begin  
+2024-08-02 end group stage  
+2024-08-06 semifinals  
+2024-10-25 final  
+~~~~~~
+
+source: [nwsl](https://www.nwslsoccer.com/nwsl-x-liga-mx-femenil-summer-cup)  
+local times  
+
+## concacaf
+~~~~~~
+2024-08-15  begin
+2024-10-17  end group stage
+2025-05-22  begin finals
+2025-05-25  end finals
+~~~~~~
+
+source: [concacaf](https://www.concacaf.com/w-champions-cup/news/concacaf-announces-schedule-for-inaugural-concacaf-w-champions-cup/)  
+local times  
+
 
 ## a-league
 ~~~~~~
