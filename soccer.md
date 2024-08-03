@@ -5,6 +5,7 @@ navigate:
 - [olympics](#olympics)  
 - [international-friendlies](#international-friendlies)  
 - [perth-international](#perth-international)  
+- [u20-world-cup](#u20-world-cup)  
 - [nwsl-liga-mx](#nwsl-liga-mx)  
 - [concacaf](#concacaf)  
 - [a-league](#a-league)  
@@ -60,7 +61,7 @@ source: [fifa](https://www.fifa.com/fifaplus/en/tournaments/olympicgames/paris20
 
 source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
 
-## perth-international
+## perth-international  
 ~~~~~~
 2024-08-28  manchester city v leiscester city  
 2024-08-29  west ham v psg  
@@ -68,6 +69,15 @@ source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)
 ~~~~~~
 
 source: [tegsport](https://tegsport.com.au/event/perth-international-football-cup/)  
+
+## u20-world-cup  
+~~~~~~
+2024-09-01  8:30 colombia v australia  
+2024-09-04  7:30 mexico v australia  
+2024-09-07  10:30 australia v cameroon  
+~~~~~~
+
+source: [matildas](https://www.matildas.com.au/)  
 
 ## nwsl-liga-mx  
 ~~~~~~
