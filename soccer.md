@@ -2,7 +2,6 @@
 
 ## notes  
 navigate:  
-- [olympics](#olympics)  
 - [international-friendlies](#international-friendlies)  
 - [perth-international](#perth-international)  
 - [u20-world-cup](#u20-world-cup)  
@@ -16,43 +15,6 @@ navigate:
 
 time-zone: australia/adelaide  
 inspired by plaintextsports.com  
-
-
-## olympics  
-~~~~~~
-2024-07-26 fri  00:30 spain v japan  
-2024-07-26 fri  00:30 canada v new zealand  
-2024-07-26 fri  02:30 nigeria v brazil  
-2024-07-26 fri  02:30 germany v australia  
-2024-07-26 fri  04:30 france v colombia  
-2024-07-26 fri  04:30 usa v zambia  
-2024-07-29 mon  00:30 brazil v japan  
-2024-07-29 mon  00:30 new zealand v colombia  
-2024-07-29 mon  02:30 spain v nigeria  
-2024-07-29 mon  02:30 australia v zambia  
-2024-07-29 mon  04:30 usa v germany  
-2024-07-29 mon  04:30 france v canada  
-2024-08-01 thu  00:30 japan v nigeria  
-2024-08-01 thu  00:30 brazil v spain  
-2024-08-01 thu  02:30 zambia v germany  
-2024-08-01 thu  02:30 australia v usa  
-2024-08-01 thu  04:30 colombia v canada  
-2024-08-01 thu  04:30 new zealand v france  
-2024-08-03 sat  22:30 1b v 2c (20 quarter)  
-2024-08-04 sun  00:30 1c v 3ab (21 quarter)  
-2024-08-04 sun  02:30 2a v 2b (22 quarter)  
-2024-08-04 sun  04:30 1a v 3bc (19 quarter)  
-2024-08-07 wed  01:30 w20 v w22 (24 semi)  
-2024-08-07 wed  04:30 w19 v w21 (23 semi)  
-2024-08-09 fri  22:30 ru23 v ru24 (bronze)  
-2024-08-11 sun  00:30 w23 v w24 (gold)  
-~~~~~~
-
-group a: france, colombia, canada, new zealand  
-group b: usa, germany, australia, zambia  
-group c: spain, japan, brazil, nigeria  
-source: [fifa](https://www.fifa.com/fifaplus/en/tournaments/olympicgames/paris2024/womens/scores-fixtures)  
-
 
 ## international-friendlies  
 ~~~~~~
