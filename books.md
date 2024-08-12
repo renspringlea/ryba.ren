@@ -9,7 +9,6 @@ navigate:
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
-Criteria: a proper classic, would be in contention for best-of-all-time  
 - To Kill a Mockingbird (Harper Lee) (R)  
 > Perfect. One of the greatest books in the English language. For me, that category has this book and The Catcher in the Rye. "Right pretty spell we're having, isn't it, Mr. Arthur?" Beautiful.  
 - The Picture of Dorian Gray (Oscar Wilde)  
@@ -32,7 +31,6 @@ Criteria: a proper classic, would be in contention for best-of-all-time
 > Did not finish. Struggled to get into this one. I picked this due to the narrator being Kirby Heybourne.  
 
 ## Queer fiction  
-Aiming for a mix of some trans, some femme, and some middle-grade  
 - Those Who Wait (Haley Cass)  
 > Verdict: B. Did not finish. It's fun, but nothing really grabs me or draws me in. The two main characters' professions (politics and academia) are given in less detail than I'd have liked, and many of the details that are given seem unrealistic.  
 - Aristotle and Dante Discover the Secrets of the Universe (Benjamin Alire Sáenz)  
@@ -73,7 +71,6 @@ Aiming for a mix of some trans, some femme, and some middle-grade
 > Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a bit difficult to understand / zero to sixty. More smut than I expected. The vegan content is fun! The lobster analogy was quite regrettable. "I'm a 27-year old woman but his tone alone makes me feel like a kid." "The things I want are smaller than that."  
 
 ## Politics and history  
-Criteria: from AskHistorians Master Book List or written by a proper professor-level historian  
 - Tides of History's Season 4: Prehistory, eps 1 - 49 (Patrick Wyman)  
 > Verdict: A/A+, depending on episode. Extremely high-quality and very rigorous - the author shares many of my core views on doing science and interpreting evidence. My absolute favourites were the episode on Ötzi and the episode on the Yamnaya Culture. The tattoo episode was cool too. Skipped a few eps that didn't interest me (especially post-agriculture).  
 - Paul: A Very Short Introduction (EP Sanders)  
