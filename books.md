@@ -8,7 +8,6 @@ navigate:
 
 # 2024  
 april 2024 -> end of 2024  
-~~~~~~  
 ## Classics  
 Criteria: a proper classic, would be in contention for best-of-all-time  
 - To Kill a Mockingbird (Harper Lee) (R)  
@@ -101,11 +100,11 @@ Criteria: from AskHistorians Master Book List or written by a proper professor-l
 > B. It's fine. It mostly does what it says, though there is less focus on the specific points of disagreement than I'd hoped. There are many gems from both authors, though the arguments of Wright frequently struck me as poorly argued, rambling, and occasionally incoherent (and Wright's glorification of how Christianity influences politics in Africa struck me as uncomfortable, given e.g. the death penalty used against queer people).  
 - The Novice (Thich Nhat Hanh)  
 > A wonderful and deep teaching on equanimity.  
-~~~~~~  
+
 
 ## 2023-2024  
 august 2023 -> april 2024  
-~~~~~~  
+
 Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)  
 
 - An Anthology of Poems by Buddhist Nuns of Late Imperial China (Beata Grant)  
@@ -166,11 +165,11 @@ Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)
 - The Political Thought of Xi Jinping (Tsang and Cheung)  
 - King (Jonathan Eig)  
 
-~~~~~~  
+
 
 ## 2017-2023  
 late 2017 -> august 2023  
-~~~~~~  
+
 Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)  
 
 - What a Fish Knows: The Inner Lives of Our Underwater Cousins  
@@ -514,6 +513,6 @@ Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)
 - Catacalysm  
 - Call of the Penguins  
 - Transcend: The New Science of Self-Actualization (!!!)  
-~~~~~~  
+
 
 note: for this list, I did not keep track of authors. I asked Gemini to assign each book to the most likely author, but its performance was quite poor (e.g. it attributed My Story to George W. Bush rather than Julia Gillard, and the Bible to "Jesus Christ"!). So the books remain authorless.  
