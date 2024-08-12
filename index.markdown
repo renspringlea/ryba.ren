@@ -22,7 +22,7 @@ layout: home
 * • Ren Ryba (they/them)
 * • I live and work on the unceded land of the Kaurna people
 * • "Ryba" means "fish" in Slovak, Polish and probably a bunch of other languages, and it rhymes with "belieber" (no relation)
-* • I like [soccer](soccer.html)
+* • I like [soccer](soccer.html) and [books](books.html)
 
 ## My work
 * • [My animal advocacy research (Animal Ask website)](https://www.animalask.org/research)
