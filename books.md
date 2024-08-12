@@ -39,7 +39,7 @@ Aiming for a mix of some trans, some femme, and some middle-grade
 > Verdict: A. A touching and extremely relatable look at what it is to be a geeky, vaguely depressed male going through adolescence. "I had a rule that it was better to be bored by yourself than bored with someone else. I pretty much lived by that rule. Maybe that was why I didn't have any friends." The scene with the BB guns is really, really relatable. Some of the themes were pretty heavy.  
 - Him (Sarina Bowen, Elle Kennedy)  
 > Verdict: A-. Smuttier than I anticipated (I read it for the articles!). Still, quality writing and a great voice performance and got heartwarming towards the end.  
-- Wolfsong (TJ Klune) @libby @begun  
+- Wolfsong (TJ Klune)  
 > Verdict: A. Wow! The quality of the writing is extremely high. Touching. Beautiful. I actually did not finish it because it became too violent for me (and this is why I deleted the rest of the books in the series from my reading list and replaced them with other books).  
 - Ivy Aberdeen's Letter to the World (Ashley Herring Blake)  
 > Verdict: A. Beautiful. "A storm was coming, which was perfect."  
@@ -59,7 +59,7 @@ Aiming for a mix of some trans, some femme, and some middle-grade
 > Verdict: A. Banger. The writing is excellent. I'm often not a fan of sequels, but this one really meets expectations.  
 - Season of Love (Helena Greer)  
 > Verdict: B, maybe B-. Bread and butter, if nothing too memorable or special. The pacing has some issues, though I must admit that it sort of makes it feel mundane in a really realistic way. The dialogue often feels a bit stiff. I like how the plot didn't fall into the common trap of "there's a secret rich character who saves the day".  
-- Cemetery Boys  
+- Cemetery Boys (Aiden Thomas)  
 > Verdict: A. It's excellent. Touching and beautiful. Really creative and sympathetic, a top-notch example of what queer fiction can be. The desire for acceptance as onesself really resonates.  
 - Idlewild (James Frankie Thomas)  
 > Verdict: A, perhaps bordering on A+. Amazing. Insanely, insanely good writing. Absolutely hilarious and also touching and dark and resonates deeply. Actually damn near perfect, except that the Fay-Theo relationship disturbs me on a deep level (though I'm aware that was very deliberate). This book has something I've only really encountered in Euphoria Kids and Station Eleven: it's comforting in a really unique way (despite being disturbing), and there is no other book like it. "I can't talk about Idlewild. If you weren't there, you wouldn't understand." Excellent voice acting too.  
@@ -74,13 +74,13 @@ Aiming for a mix of some trans, some femme, and some middle-grade
 
 ## Politics and history  
 Criteria: from AskHistorians Master Book List or written by a proper professor-level historian  
-- Tides of History's Season 4: Prehistory, eps 1 - 49 (Patrick Wyman) @escapepod @begun  
+- Tides of History's Season 4: Prehistory, eps 1 - 49 (Patrick Wyman)  
 > Verdict: A/A+, depending on episode. Extremely high-quality and very rigorous - the author shares many of my core views on doing science and interpreting evidence. My absolute favourites were the episode on Ötzi and the episode on the Yamnaya Culture. The tattoo episode was cool too. Skipped a few eps that didn't interest me (especially post-agriculture).  
 - Paul: A Very Short Introduction (EP Sanders)  
 > Verdict: A.  
-- Postwar: A history of Europe since 1945 (Tony Judt) @kobo @begun  
+- Postwar: A history of Europe since 1945 (Tony Judt)
 > Verdict: A+. Masterpiece, extremely detailed and well-researched. I particularly like the earlier chapters on Europe's immediate postwar economic development and the later chapter on how the discourse of human rights emerged, neither of which was guaranteed (and two things that often get taken for granted today).  
-- The Landscape of History (John Lewis Gaddis) @audible-us @begun  
+- The Landscape of History (John Lewis Gaddis)  
 > This book is good fun. It's a personal and philosophical reflection that focuses on what it means to do history, though it's witty and it meanders enjoyably along the way. Chapter 4 and its emphasis on staying attached to reality, over theoretical purity and elegance, resonated with me. Some of the conclusions in Chapter 5 seem invalid to me, but I suppose this is because my job is to predict and influence the future (i.e. make policy), and the author is very clear that he doesn't think this is the job of a historian.  
 
 ## Science  
