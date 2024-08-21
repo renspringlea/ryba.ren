@@ -31,6 +31,8 @@ april 2024 -> end of 2024
 > Did not finish. Struggled to get into this one. I picked this due to the narrator being Kirby Heybourne.  
 
 ## Queer fiction  
+- A Day of Fallen Night (Samantha Shannon)  
+> Verdict: A. Beautiful, slow, gentle, compelling. Outstanding writing. Certainly lives up to the quality of the first book. It's actually very readable as a standalone. I feel like the pregnancy was represented very well (the ageism was sold a bit too hard which was a shame). This quote from when the character in the cold North feels the volcano erupt: "Pleasure and pain and fear, a deep recognition." I love the cheeky trans rep.  
 - Those Who Wait (Haley Cass)  
 > Verdict: B. Did not finish. It's fun, but nothing really grabs me or draws me in. The two main characters' professions (politics and academia) are given in less detail than I'd have liked, and many of the details that are given seem unrealistic.  
 - Aristotle and Dante Discover the Secrets of the Universe (Benjamin Alire Sáenz)  
@@ -91,6 +93,8 @@ april 2024 -> end of 2024
 > Did not finish. The science writing is pretty mediocre - it feels more like an academic trying to *do science writing*. Chapter 2 is much too long  and none of it is about exoplanets, so it's weird to have it up front.  
 
 ## Religion  
+- Forgiveness: Finding Peace Through Letting Go (Adam Hamilton)  
+> Really beautiful and well written. I like the image of sin as straying from the path or missing the mark. And sin - and not seeking forgiveness - as a burden, like carrying a backpack full of pebbles; so seeking forgiveness is the way to be set free. Putting justice in God's hands. Tillich: "Forgiveness is God's answer to the question of human existence." Of course: "Forgive us our trespasses/debts, as we have forgiven those who trespass/debt against us." "Father, forgive them, for they know not what they do." "Love your enemies, and pray for those who persecute you."  
 - An Anthology of Poetry by Buddhist Nuns of Late Imperial China (Beata Grant)  
 > Banger  
 - The Meaning of Jesus: Two Visions (Wright and Borg)  
@@ -98,6 +102,9 @@ april 2024 -> end of 2024
 - The Novice (Thich Nhat Hanh)  
 > A wonderful and deep teaching on equanimity.  
 
+## Misc  
+- What Comes After (Joanne Tompkins)  
+> Verdict: A, maybe A- given the triggering content. Quakers and the PNW, what else can you ask for? Beautiful writing, very touching. I really like Isaac and Evangeline, beautiful characters. The religion content is very interesting. I like Isaac's distinction between meditation and discernment. The descriptions of the landscape are beautiful. "We name our villains, and then treat them in a way that proves us prophets." "It seemed such a normal thing, this invitation. It was a wonder Evangeline didn't cry." Picked due to narrators. A bit tricky to dodge the triggering content, which was often difficult and challenging to read (animal cruelty in Ch12 and 13 and others, and some domestic violence and sexual assault content too). The dog dies in Ch59 and Ch60. I stopped reading at that point.  
 
 ## 2023-2024  
 august 2023 -> april 2024  
