@@ -9,6 +9,8 @@ navigate:
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- Cat's Cradle (Kurt Vonnegut)  
+> Got about halfway through. Pretty funny. Not terribly deep or profound. It's very slice of life but also a darkly satirical novel about the bomb and the international order - imagine Monty Python x Dr Strangelove x Midnight Diner. The casual ableism/racism/misogyny is a shame. "He had a dazzling talent of spending millions without increasing mankind's store of anything but chagrin." "The form of government was anarchy, save in the situation when Cassel Sugar wanted to own something, in which situation the form of government was feudalism." And "Never index your own book" hahahaha  
 - To Kill a Mockingbird (Harper Lee) (R)  
 > Perfect. One of the greatest books in the English language. For me, that category has this book and The Catcher in the Rye. "Right pretty spell we're having, isn't it, Mr. Arthur?" Beautiful.  
 - The Picture of Dorian Gray (Oscar Wilde)  
@@ -31,6 +33,8 @@ april 2024 -> end of 2024
 > Did not finish. Struggled to get into this one. I picked this due to the narrator being Kirby Heybourne.  
 
 ## Queer fiction  
+- Ophelia After All (Racquel Marie)  
+> Did not finish. Struggled to get into this one. Botany!  
 - A Day of Fallen Night (Samantha Shannon)  
 > Verdict: A. Beautiful, slow, gentle, compelling. Outstanding writing. Certainly lives up to the quality of the first book. It's actually very readable as a standalone. I feel like the pregnancy was represented very well (the ageism was sold a bit too hard which was a shame). This quote from when the character in the cold North feels the volcano erupt: "Pleasure and pain and fear, a deep recognition." I love the cheeky trans rep.  
 - Those Who Wait (Haley Cass)  
@@ -105,6 +109,8 @@ april 2024 -> end of 2024
 ## Misc  
 - What Comes After (Joanne Tompkins)  
 > Verdict: A, maybe A- given the triggering content. Quakers and the PNW, what else can you ask for? Beautiful writing, very touching. I really like Isaac and Evangeline, beautiful characters. The religion content is very interesting. I like Isaac's distinction between meditation and discernment. The descriptions of the landscape are beautiful. "We name our villains, and then treat them in a way that proves us prophets." "It seemed such a normal thing, this invitation. It was a wonder Evangeline didn't cry." Picked due to narrators. A bit tricky to dodge the triggering content, which was often difficult and challenging to read (animal cruelty in Ch12 and 13 and others, and some domestic violence and sexual assault content too). The dog dies in Ch59 and Ch60. I stopped reading at that point.  
+- Suicide and the Meaning of Civilization (T. G. Masaryk)  
+> Got about 1/3 of the way through. I gather that the gist of his argument is that suicide might be influenced to some small extent by material and physical conditions, but the primary explanation is to do with spirituality in society. The whole idea that suicide is a moral failing or weakness and that it happens in response to invariably trivial events is a bit cracked. You definitely get the sense that this is an Old World Gentleman! e.g. some very colonial language; mentioning that "the primitives" don't commit suicide; Buddhism causes suicide; "it has been proved that the educated classes practice marriage most morally" hahahahaha! (I'm reminded of the line in Lee Kuan Yew's memoirs where he claimed that Singapore has no sex workers. Like, give me a break!) It's also funny that Masaryk (writing in the late 1800s) mourns the decline of virtue and morality at the expense of materialism! Some of the arguments border on eugenics, a real shame. And you can forgive a guy for the inconsistent treatment of confounding variables. Still, fairly impressive and systematic/data-driven as far as 19th century monographs on sensitive social issues go.  
 
 ## 2023-2024  
 august 2023 -> april 2024  
