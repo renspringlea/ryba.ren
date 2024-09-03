@@ -8,6 +8,7 @@ navigate:
 - [nwsl-liga-mx](#nwsl-liga-mx)  
 - [concacaf](#concacaf)  
 - [a-league](#a-league)  
+- [not-soccer](#not-soccer)
 - [cp-world-cup](#cp-world-cup)  
 - [euros](#euros)  
 - [asian-cup](#asian-cup)  
@@ -67,6 +68,12 @@ local times
 ## a-league
 ~~~~~~
 2024-10  begin
+~~~~~~
+
+## not-soccer
+~~~~~~
+2024-10  begin wnbl  
+2025-01  begin unrivalled  
 ~~~~~~
 
 ## cp-world-cup  

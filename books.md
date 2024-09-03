@@ -2,13 +2,22 @@
 
 ## notes    
 navigate:    
+- [Leaderboard](#Leaderboard)  
 - [2024](#2024)  
 - [2023-2024](#2023-2024)    
 - [2017-2023](#2017-2023)  
 
+# Leaderboard  
+List of greatest novels ever written, according to Ren:  
+- The Catcher in the Rye  
+- To Kill a Mockingbird  
+- The Haunting of Hill House  
+
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- Level 7 (Mordecai Roshwald)  
+> Automation: a cautionary tale. Not terribly deep (heh) or sophisticated. "Somehow I did not feel as sorry for humanity as the speaker seemed to. [...] Why is it better to have more people rather than less?"  
 - Cat's Cradle (Kurt Vonnegut)  
 > Got about halfway through. Pretty funny. Not terribly deep or profound. It's very slice of life but also a darkly satirical novel about the bomb and the international order - imagine Monty Python x Dr Strangelove x Midnight Diner. The casual ableism/racism/misogyny is a shame. "He had a dazzling talent of spending millions without increasing mankind's store of anything but chagrin." "The form of government was anarchy, save in the situation when Cassel Sugar wanted to own something, in which situation the form of government was feudalism." And "Never index your own book" hahahaha  
 - To Kill a Mockingbird (Harper Lee) (R)  
@@ -33,6 +42,10 @@ april 2024 -> end of 2024
 > Did not finish. Struggled to get into this one. I picked this due to the narrator being Kirby Heybourne.  
 
 ## Queer fiction  
+- Stay Gold  
+> Verdict: B, maybe B-. Good characters. The representation of transitioning is very good. The height and voice anxiety. Lots of casual microaggressions and fear (not to mention the medical gatekeeping) and the occasional slur, all of which *really* resonates. Some violence at the end. The relationship with his sister Rocky is really endearing. "No-one knows I'm trans. No-one knows I'm alive, really. I couldn't be happier." "Love Actually-shaming" hahahaha. I must say, I was a bit disappointed by Georgia's response to Pony coming out. Georgia has lots of naivete and privilege that gets really on my nerves. Same issue with Max honestly (he should have known better). I can understand why the book got some poor reviews. But I think given that the author is writing an own-voice story, there is a bit more leeway for this sort of thing - it certainly is realistic.  
+- The Seven Husbands of Evelyn Hugo (Taylor Jenkins Reid)  
+> Stopped reading at about 20%, entirely because the themes don't resonate with me. However excellent writing, especially the soliloquies. The teenage bits are heartbreaking.  
 - Ophelia After All (Racquel Marie)  
 > Did not finish. Struggled to get into this one. Botany!  
 - A Day of Fallen Night (Samantha Shannon)  
@@ -77,6 +90,8 @@ april 2024 -> end of 2024
 > Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a bit difficult to understand / zero to sixty. More smut than I expected. The vegan content is fun! The lobster analogy was quite regrettable. "I'm a 27-year old woman but his tone alone makes me feel like a kid." "The things I want are smaller than that."  
 
 ## Politics and history  
+- The Dangerous Life and Ideas of Diogenes the Cynic  
+> So good! Short but rigorous and enjoyable. "The big thiefs are leading away the little one." And on whether the gods exist: "I do not know, only that they ought to exist." Covers Cynicism and life in the ancient world in general. It's refreshing to read an ancient thinker place animals (dogs especially!) above humans on a hierarchy! The book definitely takes advantage of how thin the sources are to give more detail than is probably necessary about the chronology of the barrel as an invention/money laundering practices/etc etc (I dig it though). There are a few interesting tidbits on gender assignment.  
 - Tides of History's Season 4: Prehistory, eps 1 - 49 (Patrick Wyman)  
 > Verdict: A/A+, depending on episode. Extremely high-quality and very rigorous - the author shares many of my core views on doing science and interpreting evidence. My absolute favourites were the episode on Ötzi and the episode on the Yamnaya Culture. The tattoo episode was cool too. Skipped a few eps that didn't interest me (especially post-agriculture).  
 - Paul: A Very Short Introduction (EP Sanders)  
