@@ -16,6 +16,8 @@ List of greatest novels ever written, according to Ren:
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- The Haunting of Hill House  
+> Ok I'm pretty sure this book is actually perfect, like genuinely Catcher/Mockingbird tier. "Ghost story" doesn't do it justice. Amazing, even from the very first paragraph. Really beautiful characters and examination of interpersonal dynamics. Eleanor's road trip/escapism mental monologue at the start! "I think that I should like this better if I had the blanket over my head." Biggest mood hahahaha  
 - Level 7 (Mordecai Roshwald)  
 > Automation: a cautionary tale. Not terribly deep (heh) or sophisticated. "Somehow I did not feel as sorry for humanity as the speaker seemed to. [...] Why is it better to have more people rather than less?"  
 - Cat's Cradle (Kurt Vonnegut)  
@@ -42,6 +44,8 @@ april 2024 -> end of 2024
 > Did not finish. Struggled to get into this one. I picked this due to the narrator being Kirby Heybourne.  
 
 ## Queer fiction  
+- The Senator's Wife  
+> Verdict: probably a B/B-, and not as much soccer content as I'd have liked. Got like 80% through. The men in this book are all complete turds; the violence and humiliation makes me uncomfortable but I must admit it's realistic. The whole "hidden relationship" dynamic drags on a bit, I get that it's necessary given the setting but it feels a bit old school for an American queer fiction novel. The Australian accents are truly depraved.  
 - Stay Gold  
 > Verdict: B, maybe B-. Good characters. The representation of transitioning is very good. The height and voice anxiety. Lots of casual microaggressions and fear (not to mention the medical gatekeeping) and the occasional slur, all of which *really* resonates. Some violence at the end. The relationship with his sister Rocky is really endearing. "No-one knows I'm trans. No-one knows I'm alive, really. I couldn't be happier." "Love Actually-shaming" hahahaha. I must say, I was a bit disappointed by Georgia's response to Pony coming out. Georgia has lots of naivete and privilege that gets really on my nerves. Same issue with Max honestly (he should have known better). I can understand why the book got some poor reviews. But I think given that the author is writing an own-voice story, there is a bit more leeway for this sort of thing - it certainly is realistic.  
 - The Seven Husbands of Evelyn Hugo (Taylor Jenkins Reid)  
@@ -111,7 +115,9 @@ april 2024 -> end of 2024
 - Alien Earths: The New Science of Planet Hunting in the Cosmos (Lisa Kaltenegger)  
 > Did not finish. The science writing is pretty mediocre - it feels more like an academic trying to *do science writing*. Chapter 2 is much too long  and none of it is about exoplanets, so it's weird to have it up front.  
 
-## Religion  
+## Religion and Philosophy  
+- The Myth of Sisyphus (Camus)  
+> I find the writing a little bit hard to follow, but I think I vibe with the book on balance. The absurd: the futility of the search for meaning in an indifferent universe that refuses to provide it ("unreasonable silence"). The absurd does not justify suicide; it justifies revolt, freedom, and passion - embracing all that life and the unreasonable world has to offer. "... whether or not life had to have a meaning to be lived. It now becomes clear on the contrary that it will be lived all the better if it has no meaning. [..] One of the only coherent philosophical positions is thus revolt. It is a constant confrontation between man and his own obscurity." And suicide does not represent the logical outcome (neither does being a dick - Camus was certainly no moral relativist, but it seems that what we think of as "morality" is not the topic of the book). So more like just leaning into it and Living Your Life, not accepting some external system of moral philosophy as literally and externally valid (= philosophical suicide) but looking the absurdist tension in the face and just doing what you dedicate yourself to, while being aware that that activity is still meaningless. The best example: Camus' love of soccer. (Criticises Kierkegaard for abandoning reason, though I think there are more similarities than Camus would admit: "Seeking what is true is not seeking what is desirable. [...] The absurd mind, rather than resigning itself to falsehood, prefers to adopt fearlessly Kierkgaard's reply: despair.")  
 - Forgiveness: Finding Peace Through Letting Go (Adam Hamilton)  
 > Really beautiful and well written. I like the image of sin as straying from the path or missing the mark. And sin - and not seeking forgiveness - as a burden, like carrying a backpack full of pebbles; so seeking forgiveness is the way to be set free. Putting justice in God's hands. Tillich: "Forgiveness is God's answer to the question of human existence." Of course: "Forgive us our trespasses/debts, as we have forgiven those who trespass/debt against us." "Father, forgive them, for they know not what they do." "Love your enemies, and pray for those who persecute you."  
 - An Anthology of Poetry by Buddhist Nuns of Late Imperial China (Beata Grant)  

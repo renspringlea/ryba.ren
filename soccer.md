@@ -19,19 +19,9 @@ inspired by plaintextsports.com
 
 ## international-friendlies  
 ~~~~~~
-2024-08-19  gotham fc v chelsea
 ~~~~~~
 
 source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
-
-## perth-international  
-~~~~~~
-2024-08-28  manchester city v leiscester city  
-2024-08-29  west ham v psg  
-2024-09-01  third place match and final match  
-~~~~~~
-
-source: [tegsport](https://tegsport.com.au/event/perth-international-football-cup/)  
 
 ## u20-world-cup  
 ~~~~~~
@@ -42,32 +32,9 @@ source: [tegsport](https://tegsport.com.au/event/perth-international-football-cu
 
 source: [matildas](https://www.matildas.com.au/)  
 
-## nwsl-liga-mx  
-~~~~~~
-2024-07-19 begin  
-2024-08-02 end group stage  
-2024-08-06 semifinals  
-2024-10-25 final  
-~~~~~~
-
-source: [nwsl](https://www.nwslsoccer.com/nwsl-x-liga-mx-femenil-summer-cup)  
-local times  
-
-## concacaf
-~~~~~~
-2024-08-15  begin
-2024-10-17  end group stage
-2025-05-22  begin finals
-2025-05-25  end finals
-~~~~~~
-
-source: [concacaf](https://www.concacaf.com/w-champions-cup/news/concacaf-announces-schedule-for-inaugural-concacaf-w-champions-cup/)  
-local times  
-
-
 ## a-league
 ~~~~~~
-2024-10  begin
+2024-11-01  begin
 ~~~~~~
 
 ## not-soccer
@@ -97,44 +64,6 @@ source: [ifcpf](https://www.ifcpf.com/tournaments)
 
 ## nwsl  
 ~~~~~~
-2024-06-15 sat  09:30 kansas city current v chicago red stars  
-2024-06-16 sun  02:30 racing louisville fc v gotham fc  
-2024-06-16 sun  09:00 north carolina courage v orlando pride  
-2024-06-16 sun  09:00 washington spirit v san diego wave fc  
-2024-06-16 sun  11:00 houston dash v angel city fc  
-2024-06-17 mon  05:30 seattle reign v portland thorns fc  
-2024-06-17 mon  11:30 bay fc v utah royals fc  
-2024-06-20 thu  08:30 gotham fc v san diego wave fc  
-2024-06-20 thu  11:30 angel city fc v racing louisville fc  
-2024-06-22 sat  09:30 orlando pride v utah royals fc  
-2024-06-23 sun  09:00 houston dash v san diego wave fc  
-2024-06-23 sun  11:30 bay fc v angel city fc  
-2024-06-24 mon  02:00 gotham fc v washington spirit  
-2024-06-24 mon  05:30 portland thorns fc v kansas city current  
-2024-06-24 mon  07:30 north carolina courage v chicago red stars  
-2024-06-24 mon  07:30 seattle reign v racing louisville fc  
-2024-06-29 sat  09:30 kansas city current v houston dash  
-2024-06-29 sat  11:30 san diego wave fc v chicago red stars  
-2024-06-30 sun  05:30 racing louisville fc v bay fc  
-2024-06-30 sun  09:00 washington spirit v north carolina courage  
-2024-06-30 sun  11:30 utah royals fc v portland thorns fc  
-2024-07-01 mon  02:30 gotham fc v seattle reign  
-2024-07-01 mon  09:00 angel city fc v orlando pride  
-2024-07-06 sat  11:30 portland thorns fc v san diego wave fc  
-2024-07-07 sun  02:30 chicago red stars v houston dash  
-2024-07-07 sun  09:00 kansas city current v orlando pride  
-2024-07-07 sun  11:30 angel city fc v gotham fc  
-2024-07-07 sun  11:30 bay fc v washington spirit  
-2024-07-08 mon  06:00 north carolina courage v racing louisville fc  
-2024-07-08 mon  07:30 seattle reign v utah royals fc  
-2024-08-24 sat  09:30 houston dash v orlando pride  
-2024-08-24 sat  11:00 utah royals fc v bay fc  
-2024-08-25 sun  03:30 gotham fc v portland thorns fc  
-2024-08-25 sun  05:30 san diego wave fc v angel city fc  
-2024-08-25 sun  09:00 racing louisville fc v chicago red stars  
-2024-08-26 mon  01:30 washington spirit v kansas city current  
-2024-08-26 mon  11:30 seattle reign v north carolina courage  
-2024-08-31 sat  11:30 portland thorns fc v bay fc  
 2024-09-01 sun  09:00 racing louisville fc v seattle reign  
 2024-09-01 sun  11:00 houston dash v utah royals fc  
 2024-09-02 mon  03:30 north carolina courage v kansas city current  
