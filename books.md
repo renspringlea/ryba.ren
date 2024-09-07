@@ -16,6 +16,8 @@ List of greatest novels ever written, according to Ren:
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- Rebecca (Daphne du Maurier)  
+> Excellent. Beautiful writing in the interpersonal bits, and really atmospheric when describing Manderley. Really masterful actually, everything from the whether to nuances in the social interactions. In a weird way, I felt a lot of respect for Max in how he behaved during the events after the party onwards, especially with Favel. Mrs Danver's grief. "I find a little of my family goes a very long way." Ben breaks my heart. The blackface bit is unfortunate.  
 - The Haunting of Hill House  
 > Ok I'm pretty sure this book is actually perfect, like genuinely Catcher/Mockingbird tier. "Ghost story" doesn't do it justice. Amazing, even from the very first paragraph. Really beautiful characters and examination of interpersonal dynamics. Eleanor's road trip/escapism mental monologue at the start! "I think that I should like this better if I had the blanket over my head." Biggest mood hahahaha  
 - Level 7 (Mordecai Roshwald)  
@@ -44,6 +46,8 @@ april 2024 -> end of 2024
 > Did not finish. Struggled to get into this one. I picked this due to the narrator being Kirby Heybourne.  
 
 ## Queer fiction  
+- The Absinthe Underground (Jamie Pacton)  
+> Verdict: B/B+. Got about 60% through. It's fine. Absinthe-themed steampunk fairy lesbians. (As creative a setting as Light from Uncommon Stars, and that is saying something.) I feel like the book could do with 10% more detail in the characters' reactions to events and inner lives, which seem a little bit stiff and on rails given the story.  
 - The Senator's Wife  
 > Verdict: probably a B/B-, and not as much soccer content as I'd have liked. Got like 80% through. The men in this book are all complete turds; the violence and humiliation makes me uncomfortable but I must admit it's realistic. The whole "hidden relationship" dynamic drags on a bit, I get that it's necessary given the setting but it feels a bit old school for an American queer fiction novel. The Australian accents are truly depraved.  
 - Stay Gold  
@@ -116,6 +120,8 @@ april 2024 -> end of 2024
 > Did not finish. The science writing is pretty mediocre - it feels more like an academic trying to *do science writing*. Chapter 2 is much too long  and none of it is about exoplanets, so it's weird to have it up front.  
 
 ## Religion and Philosophy  
+- Hearing the Message of Ecclesiastes (Christopher J. H. Wright)  
+> Excellent. Academically rigorous but still grounded in the burning desire to figure out what the hell is going on with life. Doesn't shy away from the tough questions: "it's not just a world that baffles our understanding; it's also a world we can't bear to look at for very long", "a heart filled with grief and anger... it is just plain wrong, intolerably so". And very well-written and memorable, on par with some of the stronger science communicators. The idea of idleness/being deprived of work (broadly interpreted) as "dehumanizing to some degree". Wisdom and education and even pleasure are commended in Scripture, but do not contain the truth about life. The idea of a "faith-life balance". The idea of Kohelet as saying things that are true, but not the whole truth - what we can see and reason in our immediately surroundings is not the whole story.  
 - The Myth of Sisyphus (Camus)  
 > I find the writing a little bit hard to follow, but I think I vibe with the book on balance. The absurd: the futility of the search for meaning in an indifferent universe that refuses to provide it ("unreasonable silence"). The absurd does not justify suicide; it justifies revolt, freedom, and passion - embracing all that life and the unreasonable world has to offer. "... whether or not life had to have a meaning to be lived. It now becomes clear on the contrary that it will be lived all the better if it has no meaning. [..] One of the only coherent philosophical positions is thus revolt. It is a constant confrontation between man and his own obscurity." And suicide does not represent the logical outcome (neither does being a dick - Camus was certainly no moral relativist, but it seems that what we think of as "morality" is not the topic of the book). So more like just leaning into it and Living Your Life, not accepting some external system of moral philosophy as literally and externally valid (= philosophical suicide) but looking the absurdist tension in the face and just doing what you dedicate yourself to, while being aware that that activity is still meaningless. The best example: Camus' love of soccer. (Criticises Kierkegaard for abandoning reason, though I think there are more similarities than Camus would admit: "Seeking what is true is not seeking what is desirable. [...] The absurd mind, rather than resigning itself to falsehood, prefers to adopt fearlessly Kierkgaard's reply: despair.")  
 - Forgiveness: Finding Peace Through Letting Go (Adam Hamilton)  
