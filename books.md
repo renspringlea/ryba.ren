@@ -16,6 +16,10 @@ List of greatest novels ever written, according to Ren:
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- Contact (Carl Sagan)  
+> Good fun. Extremely realistic, it's very obvious (in a good way) that the author is an expert. Overall a really imaginative and well-founded first-contact story. I like VeGe a lot. A bit explainy / telling rather than showing / unrealistic dialogue, I guess because it started as a screenplay. The religion content is a little weak/strawmanny on both sides of the on-screen debate which I think is a shame (where are the deeply religious scientists and the historical-critical bible scholars?).  
+- Edgar Allan Poe (POE! by Selected Shorts)  
+> This guy is Good At Writing. I love that these particular recordings were performed in front of an audience - certainly the best way to perform poetry.  
 - Rebecca (Daphne du Maurier)  
 > Excellent. Beautiful writing in the interpersonal bits, and really atmospheric when describing Manderley. Really masterful actually, everything from the whether to nuances in the social interactions. In a weird way, I felt a lot of respect for Max in how he behaved during the events after the party onwards, especially with Favel. Mrs Danver's grief. "I find a little of my family goes a very long way." Ben breaks my heart. The blackface bit is unfortunate.  
 - The Haunting of Hill House  
@@ -110,6 +114,8 @@ april 2024 -> end of 2024
 > This book is good fun. It's a personal and philosophical reflection that focuses on what it means to do history, though it's witty and it meanders enjoyably along the way. Chapter 4 and its emphasis on staying attached to reality, over theoretical purity and elegance, resonated with me. Some of the conclusions in Chapter 5 seem invalid to me, but I suppose this is because my job is to predict and influence the future (i.e. make policy), and the author is very clear that he doesn't think this is the job of a historian.  
 
 ## Science  
+- The Little Book of Aliens (Adam Frank)  
+> Verdict: A/A+. Holy moly science is cool! Extremely well written, great science communication, actually very funny on occasion. ("Once people realised what was going on, they got together, held hands, sang Kumbaya, and then severely curtailed the production of CFCs.") Cool how it covers both formal SETI and the UFO stuff. I like the rigour in the history bits. I really vibe with how the author thinks about science and empirical questions. (The point about climate change being a natural consequence of generating energy given the second law - hadn't thought about it that way bit makes perfect sense. And TIL that extra dimensions as a different plane of existence first caught hold after public reporting of general relativity, especially given seance-y type spirituality communities at the time.)  
 - Conscious: A Brief Guide to the Fundamental Mystery of the Mind (Annaka Harris)  
 > Verdict: B. Decent overview, but doesn't go into the details of the relevant arguments as much as I would have liked, so the logic is a bit jumpy and incomplete. Some of the arguments were weak. There's a strong subtheme on panpsychism, which is fine for what it is.  
 - The Character of Physical Law (Richard Feynman)  
