@@ -8,7 +8,8 @@ navigate:
 - [2017-2023](#2017-2023)  
 
 # Leaderboard  
-List of greatest novels ever written, according to Ren:  
+List of greatest novels ever written, according to Ren (no particular oder):  
+- Go Tell It on the Mountain  
 - The Catcher in the Rye  
 - To Kill a Mockingbird  
 - The Haunting of Hill House  
@@ -16,6 +17,8 @@ List of greatest novels ever written, according to Ren:
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- Go Tell It on the Mountain (James Baldwin)  
+> Amazing. Perfect, I can't even describe. I have a suspicion that I'll need to reread this when I'm a bit older. The grief towards the end of Gabriel's part is the most moving thing I have ever read. I like Richard a lot. Deborah: "The Lord sure give that woman [Esther's mother] a heavy cross to bead." Esther: "Be careful how you talk to me. I ain't the first girl been ruined by a holy man, either."  
 - Contact (Carl Sagan)  
 > Good fun. Extremely realistic, it's very obvious (in a good way) that the author is an expert. Overall a really imaginative and well-founded first-contact story. I like VeGe a lot. A bit explainy / telling rather than showing / unrealistic dialogue, I guess because it started as a screenplay. The religion content is a little weak/strawmanny on both sides of the on-screen debate which I think is a shame (where are the deeply religious scientists and the historical-critical bible scholars?).  
 - Edgar Allan Poe (POE! by Selected Shorts)  

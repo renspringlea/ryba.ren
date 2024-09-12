@@ -19,6 +19,7 @@ inspired by plaintextsports.com
 
 ## international-friendlies  
 ~~~~~~
+2024-10-29  3:40 germany v australia
 ~~~~~~
 
 source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
