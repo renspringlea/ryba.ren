@@ -105,6 +105,13 @@ april 2024 -> end of 2024
 > Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a bit difficult to understand / zero to sixty. More smut than I expected. The vegan content is fun! The lobster analogy was quite regrettable. "I'm a 27-year old woman but his tone alone makes me feel like a kid." "The things I want are smaller than that."  
 
 ## Politics and history  
+- Cicero: Letters to Atticus (tr. Eric Otto Winstedt)  
+> This is nuts - a front-row seat to the end of the Roman Republic, crazy! Actually quite touching and sympathetic to have this insight into Cicero's day-to-day life and thoughts and world.  
+> I enjoy the insights into electoral politics: "Candidates are plagued with all sorts of unfairness nowadays."  
+> You can really feel his despair about the state of the country.  
+> Letter 13 (1.1.13) mentions a "man in woman's clothes".  
+> "What will history be thinking of me 600 years hence?" (1.2.5)  
+> "I am sick of life. The whole world is so thoroughly out of joint." (1.2.24) "I can't write anymore. I am so downhearted and wretched." (1.3.2) "My life is one long misery and I am crushed with the weight of my sorrows." (1.3.5) And he hints that Atticus advised him against suicide! "What is there for me to live for?" (1.3.6) Not being able to sleep (2.8.1). After Tullia dies it gets real, using writing a book to keep his grief in check (3.12.14). "In the morning I hide myself in a dense and wild wood and I don't come out until evening ... my only discourse is with books, though tears interrupt it" (3.12.15). Preparing shrine/memorial arrangements. Really touching. I wish his book on grief had not been lost!  
 - Florence Nightingale at First Hand: Vision, Power, Legacy (Lynn McDonald)  
 > An amazing book. A+ for Nightingale's life (a bona fide gem of humanity), and even A/A+ for the book itself (it's crystal clear that this is written by the world's foremost expert, and I love how it's rigorously and almost entirely based on primary sources - cuts through the overabundant noise).  
 > A statistician, researcher, lobbyist, and a skilled liberal/social reform political activist (often from her own sick room), and also deeply religious (an experience of being called to service by God; accountable "we serve not a committee but the Lord"; "a blessed life when we can live it for others"; saw the face of God in the poor, sick, and imprisoned; "how I wish God was king or at least the Prince of Wales"!) - amazing!  
