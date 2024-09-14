@@ -13,7 +13,7 @@ I realised that if you have a large language model installed locally on your com
 Thus, you can automate the process of categorising the automatically determined keywords.  
 
 In the following R code, I've adapted the code from the second link:  
-1. I specify my native search terms up-front  
+1. I specify my naive search terms up-front  
 2. I repeat the process demonstrated in the second link  
 3. I save the automatically generated keywords to file  
 4. I use system() to call llm (which I installed on my computer previously, using gemini-pro) and give it a prompt to assign each automatically generated keyword to a category  
