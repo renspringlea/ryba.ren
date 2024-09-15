@@ -141,6 +141,28 @@ april 2024 -> end of 2024
 > Did not finish. The science writing is pretty mediocre - it feels more like an academic trying to *do science writing*. Chapter 2 is much too long  and none of it is about exoplanets, so it's weird to have it up front.  
 
 ## Religion and Philosophy  
+- Hyperefficient (Mithu Storoni)  
+> (see dedicated blog post for my take)  
+- Every Day Matters (Brandon D. Crowe)  
+> Pretty bread and butter for the genre, but well-balanced and just generally moderate/sensible in a way that is strangely rare in the genre.  
+> I enjoy the mix of wisdom literature (Proverbs and Ecclesiastes) and New Testament stuff (even if it is Paul! But I can see why the author chose Paul given the topic). I chose this because the author is a professor and I think it's more relevant for me for that reason.  
+> "I'm called to love and serve my wife"  
+> Biblical productivity must be guided by the two great commands: loving God and loving your neighbour (Mt 22).  
+> From those to whom lots has been entrusted, lots will be required. (L)  
+> There's a season of life for working hard and a season of life for resting (Ecc)  
+> Humans are always limited (and thus we can't ever achieve everything we would like - reminds me of 4000 Weeks idea of giving up hope//Camus's Sisyphus) and our plans are only best guesses, not guarantees; enjoy the gifts of life (and make time to do this each day! Including sleep, which is a gift) but God is in control (Ecc)  
+> Paul didn't measure his success by worldly standards; faced hardships and criticism by his contemporaries; but his work is still bearing fruit today  
+> "Sometimes failure in the eyes of the world is success in the eyes of God."  
+> So don't be afraid of hard work, but also work smarter and more strategically  
+> Focus, and even be happy to remain under the radar  
+> "You are responsible for yourself, and you must take that task seriously"  
+> Bible verses for each of your purposes  
+> what you do is who you are; your actions reflect your true priorities; your calendar needs to reflect your stated priorities  
+> Success in family can't be measured in the same way as success in the professional world  
+> You will not regret spending time with your family  
+> Rest  
+> Caring for body - energy and health  
+> Daily spiritual discipline  
 - Hearing the Message of Ecclesiastes (Christopher J. H. Wright)  
 > Excellent. Academically rigorous but still grounded in the burning desire to figure out what the hell is going on with life. Doesn't shy away from the tough questions: "it's not just a world that baffles our understanding; it's also a world we can't bear to look at for very long", "a heart filled with grief and anger... it is just plain wrong, intolerably so". And very well-written and memorable, on par with some of the stronger science communicators. The idea of idleness/being deprived of work (broadly interpreted) as "dehumanizing to some degree". Wisdom and education and even pleasure are commended in Scripture, but do not contain the truth about life. The idea of a "faith-life balance". The idea of Kohelet as saying things that are true, but not the whole truth - what we can see and reason in our immediately surroundings is not the whole story - this challenging book (along with Job and Lamentations) is included as part of Scripture for a reason, but it is also only part of Scripture.  
 - The Myth of Sisyphus (Camus)  
