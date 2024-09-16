@@ -4,13 +4,13 @@ title: "Hyperefficient (Dr Mithu Storoni)"
 tags: life-ops self-improvement philosophy
 ---
 # My general impression of the book
-> I think this does an outstanding job of capturing something that I've been feeling but that I was unable to put words to
-> The title of the book doesn't really capture how profound the actual content is. To me, the value of the book is closer to "the existential and practical implications of extreme connectivity and powerful software"
-> The book alternates between "deeply insightful and profound truth" and "absolute bread and butter productivity advice"
-> Heaps of very evil animal experiments are referenced which I think is a shame
-> Personally speaking, this book explains a lot about me that I found confusing - e.g. my intuitive attraction towards very lofi/text-based tools, my allergy to email, my difficulty finding any benefit from coworking, my need to have the lights off when working if im tired
-> So while I think there are some things in this book that aren't news to anyone who has read a productivity book before, there are also extremely valuable insights that I think will help me for many years
-> Some of the bits of empirical evidence are overinterpreted
+> I think this does an outstanding job of capturing something that I've been feeling but that I was unable to put words to  
+> The title of the book doesn't really capture how profound the actual content is. To me, the value of the book is closer to "the existential and practical implications of extreme connectivity and powerful software"  
+> The book alternates between "deeply insightful and profound truth" and "absolute bread and butter productivity advice"  
+> Heaps of very evil animal experiments are referenced which I think is a shame  
+> Personally speaking, this book explains a lot about me that I found confusing - e.g. my intuitive attraction towards very lofi/text-based tools, my allergy to email, my difficulty finding any benefit from coworking, my need to have the lights off when working if im tired  
+> So while I think there are some things in this book that aren't news to anyone who has read a productivity book before, there are also extremely valuable insights that I think will help me for many years  
+> Some of the bits of empirical evidence are overinterpreted  
 
 # Specific notes
 Specifically listened to a) the audiobook and b) the two-part interview from 20240827 and 20240829 from the Greg Mckeown Podcast
