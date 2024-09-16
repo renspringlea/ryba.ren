@@ -29,6 +29,7 @@ github_username:  jekyll
 
 # Build settings
 theme: jekyll-theme-nix
+future: true
 plugins:
   - jekyll-feed
 
