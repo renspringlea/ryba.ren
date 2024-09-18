@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "Gatekeeping attention"  
-tags: microblog religion philosophy self-improvement  
+tags: microblog philosophy self-improvement  
 ---  
 Remember: Sturgeon's law was published in 1957—think of how much cheaper it has become to produce information since then!  
 
