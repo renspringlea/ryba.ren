@@ -30,4 +30,4 @@ layout: home
 * • [Additional research and other resources/hot takes (Effective Altruism Forum)](https://forum.effectivealtruism.org/users/ren-ryba)
 
 ## Blog
-*RSS feed [here](ryba.ren/feed.xml)*
+*RSS feed [here](feed.xml)*
