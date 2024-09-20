@@ -3,7 +3,7 @@ layout: post
 title: "The uncelebrated Welsh woman who might have saved your child's life"
 ---
 
-This is an object that, at least if you live in the Western world, you have probably cherished held close to you at some point in your life. You have probably slept with one of these in your bed!
+This is an object that, at least if you live in the Western world, you have almost certainly cherished and cuddled and held close to you at some point in your life. You have probably slept with one of these in your bed!
 
 ![safety-eye.jpg](/assets/images/safety-eye.jpg){: width="400" }  
 
