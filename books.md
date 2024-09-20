@@ -141,6 +141,17 @@ april 2024 -> end of 2024
 > Did not finish. The science writing is pretty mediocre - it feels more like an academic trying to *do science writing*. Chapter 2 is much too long  and none of it is about exoplanets, so it's weird to have it up front.  
 
 ## Religion and Philosophy  
+- The Power of Thank You: Discover the Joy of Gratitude (Joyce Meyer)  
+> Decent, maybe a B/B-, does what it says on the tin. I think this author would get along with Thich Nhat Hanh. I don't agree with everything the author says or how they say it, but there are some true nuggets of gold.  
+> Being thankful for all things at all times (1 Thess) as a sign of spiritual maturity.  
+> "Be thankful, and say so" (Ps) - people cannot read your mind! this is a way to help reduce negative self-talk in the minds of people close to you.  
+> The idea of not wishing for others' problems to go away/praying that they can bear whatever they are facing: while I get and mostly sympathise with what the author means, I disagree with applying this belief to anything other than mild problems, and to me this belief is a sign that someone has not experienced high-intensity suffering (I think the commentary on Job I read a few months back gives this a much more sober treatment). (Update: this view of mine was very incorrect, see ch3 and ch5.)  
+> the anecdote of the homeless guy who was grateful to be able to feed the birds - how touching!  
+> presence, not presents  
+> the uncritical analysis of Esther in ch6 felt weird considering how bloodthirsty that book is, though I am certainly not well-informed about that book and how it should be interpreted (same with Chronicles in ch12)  
+> giving as a privilege  
+> patience - you are not always ready for what you ask for  
+> the bit about the moral decline of the United States felt a bit strange/out of place and fell into oversimplification and the "good old days" trap  
 - Hyperefficient (Mithu Storoni)  
 > (see dedicated blog post for my take)  
 - Every Day Matters (Brandon D. Crowe)  

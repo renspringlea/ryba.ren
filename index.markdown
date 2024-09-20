@@ -30,4 +30,5 @@ layout: home
 * • [Additional research and other resources/hot takes (Effective Altruism Forum)](https://forum.effectivealtruism.org/users/ren-ryba)
 
 ## Blog
-*RSS feed [here](feed.xml)*
+*RSS feed [here](feed.xml)*  
+(This is a place where I share hot takes and tidbits for my friends and family. Unlike in my longer work (above), I'm making no attempt to be rigorous. Every topic I mention has been explored—and critiqued!—with much more rigour elsewhere.)  
