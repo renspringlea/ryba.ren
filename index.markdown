@@ -17,6 +17,10 @@ layout: home
 |  Rhenium          | |  Nitrogen      |
 |  186.21           | |  14.007        |
 +-------------------+ +----------------+
+
+My lifespan:
+33% loading...
+⬤⬤⬤⬤⬤⬤◐○○○○○○○○○○○○○
 ~~~
 
 * • Ren Ryba (they/them)

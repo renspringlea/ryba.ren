@@ -3,6 +3,7 @@ layout: post
 title: "Making systematic literature searches slightly more automated"
 tags: plaintext research life-ops self-improvement
 ---
+# 1. Automatic keyword generation  
 Install the package here: https://elizagrames.github.io/litsearchr/  
 Use is demonstrated here: https://elizagrames.github.io/litsearchr/litsearchr_vignette.html  
 
@@ -17,7 +18,7 @@ In the following R code, I've adapted the code from the second link:
 2. I repeat the process demonstrated in the second link  
 3. I save the automatically generated keywords to file  
 4. I use system() to call llm (which I installed on my computer previously, using gemini-pro) and give it a prompt to assign each automatically generated keyword to a category  
-5. I ffinally do a little bit of text manipulation on the results to make it readily pastable into Web of Science or whatever database  
+5. I finally do a little bit of text manipulation on the results to make it readily pastable into Web of Science or whatever database  
 
 ~~~  
 library(litsearchr)  
@@ -75,3 +76,58 @@ searchterms_sorted <- paste(searchterms_sorted,collapse=" AND ")
 
 writeLines(searchterms_sorted,"final_search_term.txt")  
 ~~~  
+
+# 2. Automatic interpretation of abstracts  
+
+I think this particular tool is *less* useful than it might seem, as it comes with some limitations.  
+
+But basically if you install the R package gemini.R, you can write a large language model prompt and then ask Gemini to interpret that prompt given some abstract (if you read the abstracts from your full search into R). If you pop this into a loop, you can basically get Gemini to extract basic information from the abstract or even the full text of the paper.  
+
+I would hesitate to use this for anything high-stakes, as Gemini (and other LLMs) frequently get things wrong. (Hence "Pandora's prompt" below!) I would certainly take care to validate the answers that the LLM produces if this information is action-relevant. But it could be useful to e.g. generate a quick summary of which country each study was conducted in.  
+
+~~~
+library(gemini.R)
+library(ggplot2)
+
+# Set API key
+setAPI("YOUR_GEMINI_API_KEY_HERE")
+
+# Load saved search results from a locally stored CSV file containing titles and abstracts
+savedrecs_raw <- read.csv("savedrecs.csv")
+savedrecs <- savedrecs_raw[, c("Title", "Abstract.Note")]  # Select only relevant columns (Title, Abstract)
+
+# Prepare prompts for Gemini model queries
+pandoras_prompt_base <- "Here is the title and abstract of a scientific journal article. Pretend you are the lead author of this paper, then answer the question that follows."
+pandoras_prompt_2 <- "Tell me which country this was conducted in. Do not explain your answer; simply give the country name, using the UN two-letter code."
+
+# Create placeholder columns for storing Gemini model replies
+savedrecs$Gemini_reply_2 <- "a"
+
+# Loop through each record (each title and abstract)
+for (i in c(1:nrow(savedrecs))) {
+  title_tmp <- savedrecs$Title[i]  # Get the title for the current article
+  abstract_tmp <- savedrecs$Abstract.Note[i]  # Get the abstract for the current article
+
+  # Prepare the prompt (introducing the question and asking for the country where the research was conducted)
+  prompt_string_2 <- paste0(
+    pandoras_prompt_base, "\n",
+    "The title is:\n", title_tmp, "\n\n",
+    "The abstract is:", abstract_tmp, "\n",
+    "The question is:\n", pandoras_prompt_2
+  )
+
+  # Query the Gemini model with the first prompt and store the reply
+  gemini_reply_tmp_2 <- gemini(prompt_string_2)
+
+  # Wait 5 seconds (to avoid making too many calls at once)
+  Sys.sleep(5)
+
+  # Store the Gemini model replies in the corresponding columns
+  savedrecs$Gemini_reply_2[i] <- gemini_reply_tmp_2
+}
+
+# Visualize the distribution of responses (countries) from the Gemini model using ggplot2
+ggplot(aes(x=Gemini_reply_2), data=savedrecs) +
+  theme_bw() +  # Make the theme not awful
+  geom_bar()  # Create a bar chart
+~~~
