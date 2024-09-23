@@ -17,6 +17,10 @@ List of greatest novels ever written, according to Ren (no particular oder):
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- Nada (Carmen Laforet)  
+> "the need, felt by all people who are not very attractive, to make material payment for what is, to them, extraordinary, someone's interest and affection"  
+> "The next day I’d hover clumsily near my grandmother. I detected so sweet a smile in her light eyes when she looked at me that I was moved as if the roots of my spirit were clutching at me until I wanted to cry. If, impelled by my feelings, I’d put my arms around her, I’d encounter a little body, hard and cold as if made of wire, inside which beat a surprisingly strong heart."  
+> It's good - a much darker Catcher in the Rye plus poverty, and a woman's experience which is very different. Honest and real. Andrea's poverty and chronic hunger makes me sad (and IRL more grateful for the Marshall Plan). A lot of suffering in this family and community - the DV is hard to read, especially towards the end.  
 - Go Tell It on the Mountain (James Baldwin)  
 > Amazing. Perfect, I can't even describe. I have a suspicion that I'll need to reread this when I'm a bit older. The grief towards the end of Gabriel's part is the most moving thing I have ever read. I like Richard a lot. Deborah: "The Lord sure give that woman [Esther's mother] a heavy cross to bead." Esther: "Be careful how you talk to me. I ain't the first girl been ruined by a holy man, either."  
 - Contact (Carl Sagan)  
@@ -610,6 +614,10 @@ Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)
 - Catacalysm  
 - Call of the Penguins  
 - Transcend: The New Science of Self-Actualization (!!!)  
-
+- Illuminae (Amie Kaufman, Jay Kristoff)  
+- Gemina (Amie Kaufman, Jay Kristoff)  
+- Obsidio (Amie Kaufman, Jay Kristoff)  
+- The Secret Keeper (Kate Morton)  
+- The Clockmaker's Daughter (The Secret Keeper)  
 
 note: for this list, I did not keep track of authors. I asked Gemini to assign each book to the most likely author, but its performance was quite poor (e.g. it attributed My Story to George W. Bush rather than Julia Gillard, and the Bible to "Jesus Christ"!). So the books remain authorless.  
