@@ -17,6 +17,8 @@ List of greatest novels ever written, according to Ren (no particular oder):
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- Wuthering Heights (Emily Bronte)  
+> It's good. Beautifully written and passionate; the passage where Catherine talks about the lapwings is touching. Immense grief and sadness: "You have a heart and nerves the same as your brother men. Why should you be anxious to conceal them? Your pride cannot blind God." The domestic violence is hard. Got about halfway through as it gets pretty dark.  
 - Nada (Carmen Laforet)  
 > "the need, felt by all people who are not very attractive, to make material payment for what is, to them, extraordinary, someone's interest and affection"  
 > "The next day I’d hover clumsily near my grandmother. I detected so sweet a smile in her light eyes when she looked at me that I was moved as if the roots of my spirit were clutching at me until I wanted to cry. If, impelled by my feelings, I’d put my arms around her, I’d encounter a little body, hard and cold as if made of wire, inside which beat a surprisingly strong heart."  
@@ -109,6 +111,8 @@ april 2024 -> end of 2024
 > Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a bit difficult to understand / zero to sixty. More smut than I expected. The vegan content is fun! The lobster analogy was quite regrettable. "I'm a 27-year old woman but his tone alone makes me feel like a kid." "The things I want are smaller than that."  
 
 ## Politics and history  
+- The Spartans: A Very Short Introduction (Andrew Bayliss)  
+> Good book. Sparta was not very egalitarian! multiple classes (esp Helots, somewhere between serfs and slaves, and the Spartan reliance on the Helots is a key reason for Sparta's eventual decline) and definite inequality in wealth. Tough to tease apart the truth from exaggerations and later myths, but there do seem to be some unique aspects. Probably didn't systematically commit infantacide (or at least no more than normal for the time). Certainly no feminist paradise. I enjoy the summary of later thinkers' views on Sparta (negative from Alexander Hamilton, positive the NRA and English schools, strong positive from Hitler/official Nazi policy)  
 - Lives of the Anchoresses: The Rise of the Urban Recluse in Medieval Europe (Anneke B. Mulder-Bakker)  
 > Excellent rigorous piece of historical study, brings a great gender lens and makes the case that the phenomenon of anchoresses, and women's contribution to lived religious experience (as opposed to the influence of male-dominated formal institutions) more broadly, has been systematically underestimated by historians. I love how it's both comprehensive (the author kept a list of all anchorites that they knew about!) and a detailed look at the lives of 5 specific anchoresses. Chapter 4 (Juliana) gets very technical!  
 > Society did not permit women to become hermits, hence the anchoress/recluse (plus contemplative nuns and Beguines). "clausura" referred to cloistered nuns but also livestock and prisonsers! (not to recluses).  
