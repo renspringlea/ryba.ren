@@ -151,10 +151,23 @@ april 2024 -> end of 2024
 > Verdict: A. The final lecture was a bit weaker, but all other lectures were so strong that it's overall very good.  
 - From Eternity to Here (Sean Carroll)  
 > Verdict: A. Completely amazing. Top-notch science communication too. The only real weakness is that the physics gets very very detailed and complicated.  
-- Alien Earths: The New Science of Planet Hunting in the Cosmos (Lisa Kaltenegger)  
-> Did not finish. The science writing is pretty mediocre - it feels more like an academic trying to *do science writing*. Chapter 2 is much too long  and none of it is about exoplanets, so it's weird to have it up front.  
 
 ## Religion and Philosophy  
+- Reclaiming Rest: The Promise of Sabbath, Solitude, and Stillness in a Restless World (Kate H. Rademacher)  
+> Specifically reading chapters 3, 7, 9, 13, and 15 through 17.  
+> Verdict: Unambiguously A+. Really outstanding. This book is lovely and beautiful and touching and it makes me feel very seen - the author has a way with words. Beautiful global perspective and deep mindfulness of history and historical legacies. I think I'll be coming back to this book for many years.
+> On the seventh day, God created _menuha_ (rest/peace/tranquility). Until the sabbath was created, creation was not complete.  
+> sabbath as an immense privilege, and thus it feels weird to rest even as an advocate; the author's story of spending sabbath in a hotel in Nigeria manned by armed guards; doesn't shy away from the grief and despair about the modern world (see ch13 and 15 especially); "for many people, prayer and social justice work are inexplicably linked"; a protest where there was a memorial of silence for the duration of George Floyd's being choked to death, wow.; and the last chapter  
+> the author works in global public health! TIL Nigeria is projected to be the third most populous country by 2050!  
+> "silence and solitude are universally recognised spiritual practices" [and silence and solitude as preserving energy] - elizabeth gilbert  
+> the bit about the total eclipse does an incredible job of putting into words what I have experienced but could not describe: "The experience was similar to what my sabbath year had given me: a new view of a familiar landscape, a glimpse of a different way of life, a life with more quiet and stillness and more space and time for God. [...] We no longer see ourselves as the centre of the universe. Instead, we experience a new alignment of the the heavenly bodies and, in the process, discover a transformed landscape on the Earth below."  
+> time confetti vs time serenity (Schulte)  
+> aspects of dual belonging: "a Jesus-infused version of a Buddhist meditation practice" (she has a Buddhist husband); then "becoming bilingual" in the language of secular humanism and the language of faith "maybe the world needs both"; "I needed a theology of work and rest that puts God's grace at the centre of things" esp ch17 quote from her cousin: "We can prepare the soil and plant the seed, but we don't make the plants grow. That's where the divine comes in." Wow.  
+> lectio divina in the author's daily prayer practice as a way to listen, just a couple of lines of scripture  
+> baptism as a tomb for the self  
+> Wilberforce (!!!) was a massive sabbath fan and advocated strongly for rest  
+- Letters to a Young Poet (Rilke)  
+> Amazing. The writing has outstanding beauty. Covers many topics—producing art but also love, sexuality, religion, human existence, sadness. "But what may one day be possible for many, the solitary can prepare for, and build with hands less prone to error. So, my dear sir, love solitude and enjoy the pain it brings with lovely sound of lament. [...] solitude will be a haven and home to you."  
 - The Power of Thank You: Discover the Joy of Gratitude (Joyce Meyer)  
 > Decent, maybe a B/B-, does what it says on the tin. I think this author would get along with Thich Nhat Hanh. I don't agree with everything the author says or how they say it, but there are some true nuggets of gold.  
 > Being thankful for all things at all times (1 Thess) as a sign of spiritual maturity.  
