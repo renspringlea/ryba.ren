@@ -59,6 +59,9 @@ april 2024 -> end of 2024
 > Did not finish. Struggled to get into this one. I picked this due to the narrator being Kirby Heybourne.  
 
 ## Queer fiction  
+- The Pairing (Casey McQuiston)  
+> Verdict: B. Actually stopped at 20%, just didn't feel motivated to finish it.  
+> Good fun. You have to suspend disbelief a little bit (the story is hot people drinking expensive wine and having lots of sex). Very funny though - the author has returned to the comic gold of their first two novels.  
 - The Absinthe Underground (Jamie Pacton)  
 > Verdict: B/B+. Got about 60% through. It's fine. Absinthe-themed steampunk fairy lesbians. (As creative a setting as Light from Uncommon Stars, and that is saying something.) I feel like the book could do with 10% more detail in the characters' reactions to events and inner lives, which seem a little bit stiff and on rails given the story.  
 - The Senator's Wife  
@@ -111,6 +114,11 @@ april 2024 -> end of 2024
 > Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a bit difficult to understand / zero to sixty. More smut than I expected. The vegan content is fun! The lobster analogy was quite regrettable. "I'm a 27-year old woman but his tone alone makes me feel like a kid." "The things I want are smaller than that."  
 
 ## Politics and history  
+- Protestantism: A Very Short Introduction (Mark A. Noll)  
+> Wonderful global perspective. Very well-written.  
+> that Luther fellow was a bit of dynamo (and cheeky Marburg bit!). Kierkegaard described as "intensely whimsical" HAHAHA I want that on my tombstone!  
+> Pentecostalism as rapidly expanding but somewhat distinct as a branch, especially having had major breaks from historical Protestantism (esp e.g. megachurches), same with independent churches  
+> the Protestant challenge to Catholic authority, and resulting conflicts, as also contributing to secularisation  
 - The Spartans: A Very Short Introduction (Andrew Bayliss)  
 > Good book. Sparta was not very egalitarian! multiple classes (esp Helots, somewhere between serfs and slaves, and the Spartan reliance on the Helots is a key reason for Sparta's eventual decline) and definite inequality in wealth. Tough to tease apart the truth from exaggerations and later myths, but there do seem to be some unique aspects. Probably didn't systematically commit infantacide (or at least no more than normal for the time). Certainly no feminist paradise. I enjoy the summary of later thinkers' views on Sparta (negative from Alexander Hamilton, positive the NRA and English schools, strong positive from Hitler/official Nazi policy)  
 - Lives of the Anchoresses: The Rise of the Urban Recluse in Medieval Europe (Anneke B. Mulder-Bakker)  
