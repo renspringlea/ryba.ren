@@ -6,7 +6,7 @@ title: "The great leveller: a counterargument to the dizzying pace of science"
 Consider my previous three blog posts:    
 - In [the first one]({% post_url 2024-09-09-pace-of-science %}), I argue that knowing stuff in our present reality requires constantly seeking and updating on new scientific information.
 - In the [second one]({% post_url 2024-09-17-rate-of-skills %}), I argue that doing stuff in our present reality requires constantly seeking and implementing new, more efficient tools and skills.
-- In the [third one]({% post_url 2024-09-17-dizzyiing-sane %}), I suggest some ways to manage this new reality.
+- In the [third one]({% post_url 2024-09-17-dizzying-sane %}), I suggest some ways to manage this new reality.
 
 In this post, I've got a quick counterargument to the whole idea that we are living in a particularly fast or dizzying reality.
 
