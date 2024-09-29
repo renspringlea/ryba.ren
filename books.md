@@ -17,6 +17,8 @@ List of greatest novels ever written, according to Ren (no particular oder):
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- We Have Always Lived in the Castle (Shirley Jackson)  
+> Excellent of course, but didn't grab me quite as much as Hill House. The OCD is a bit heartbreaking but also I kinda understand. The last few chapters are very powerful and heartbreaking.  
 - Wuthering Heights (Emily Bronte)  
 > It's good. Beautifully written and passionate; the passage where Catherine talks about the lapwings is touching. Immense grief and sadness: "You have a heart and nerves the same as your brother men. Why should you be anxious to conceal them? Your pride cannot blind God." The domestic violence is hard. Got about halfway through as it gets pretty dark.  
 - Nada (Carmen Laforet)  
