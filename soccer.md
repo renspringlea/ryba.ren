@@ -19,7 +19,12 @@ inspired by plaintextsports.com
 
 ## international-friendlies  
 ~~~~~~
-2024-10-29  3:40 germany v australia
+2024-10-26  4:30 switzerland v australia  
+2024-10-29  3:40 germany v australia  
+2024-11-28  20:30 australia v brazil  
+2024-12-01  19:05 australia v brazil  
+2024-12-04  19:30 australia v chinese taipei  
+2024-12-07  19:00 australia v chinese taipei  
 ~~~~~~
 
 source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
