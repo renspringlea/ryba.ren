@@ -17,6 +17,10 @@ List of greatest novels ever written, according to Ren (no particular oder):
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- The Old Man and the Sea (Ernest Hemingway)  
+> Beautiful.  
+> "But are they worthy to eat him? No. Of course not."  
+> "God, help me endure."  
 - We Have Always Lived in the Castle (Shirley Jackson)  
 > Excellent of course, but didn't grab me quite as much as Hill House. The OCD is a bit heartbreaking but also I kinda understand. The last few chapters are very powerful and heartbreaking.  
 - Wuthering Heights (Emily Bronte)  

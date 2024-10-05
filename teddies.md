@@ -33,3 +33,28 @@ Windsor is a handsome gentleman who likes to know exactly what is happening at a
 ![windsor.jpg](/assets/images/windsor.jpg){: width='400' }  
   
 
+## Carrot  
+Carrot is super enthusiastic and excited about everything. They get so excited that they end up squeaking with excitement. They are the hype carrot that you need in your life.  
+![carrot.jpg](/assets/images/carrot.jpg){: width='400' }  
+  
+
+## Fluffball  
+This is Fluffball, she loves to pop up behind people and go boo to try and scare them. She also loves being cheeky and playing tricks and being silly. Please give all the ear scritches.  
+![fluffball.jpg](/assets/images/fluffball.jpg){: width='400' }  
+  
+
+## Kóala  
+Kóala is an expert on all things mattresses and will gladly test them out for you. They are also very good at snoozles and will gladly teach you how it's done properly. Most of all, Kóala loves cuddles!  
+![kóala.jpg](/assets/images/kóala.jpg){: width='400' }  
+  
+
+## Kolala  
+Kolala is a shy polite soul who likes to be cuddled up close. They are super good at encouraging everyone. They prefer to be loved by dogs by a distance, thank you, due to an unfortunate previous close encounter.  
+![kolala.jpg](/assets/images/kolala.jpg){: width='400' }  
+  
+
+## Rosemary  
+Rosemary is a small bear with a big heart. She was lying all soggy and cold on the pavement in the rain, so she asked to come home with us and we dried her off and gave her a warm spot to doze off. Rosemary loves causing mischief with her friends Ratty, Rattwo, Caterpillar, and Tigger (the small Tigger!).  
+![rosemary.jpg](/assets/images/rosemary.jpg){: width='400' }  
+  
+
