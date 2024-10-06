@@ -17,6 +17,8 @@ List of greatest novels ever written, according to Ren (no particular oder):
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- East of Eden (John Steinbeck)  
+> Deeply enjoyable. The writing is so good. It's pretty messed up in a lot of ways, though certainly realistic and detailed - it's got a lot in common with Anna Karenina in that these characters are so detailed and could walk off the page. Very insightful about society, people and their lives, etc. Lots of pretty intense violence. I really like Lee (the beets! hahahahah!). the bit about "an ability to generalise that only the inexperienced can have". Tom's suicide, wow. Poor old Adam. "To inflict any hurt on anything for any purpose became inimical to him." Mary trans vibes!  
 - The Old Man and the Sea (Ernest Hemingway)  
 > Beautiful.  
 > "But are they worthy to eat him? No. Of course not."  
@@ -167,6 +169,15 @@ april 2024 -> end of 2024
 > Verdict: A. Completely amazing. Top-notch science communication too. The only real weakness is that the physics gets very very detailed and complicated.  
 
 ## Religion and Philosophy  
+- Following the Red Bird: First Steps into a Life of Faith (Kate H. Rademacher)  
+> Great read, didn't touch me as deeply as the other book of hers that I read but still many nuggets of gold.  
+> "embracing a life of service and devotion"  
+> "There's always God's next call." "A gift that only they can give. A contribution that only they can make."  
+> God as looking for how we respond to tension with the conflicting views of others, whose callings may be as legitimate as ours: "paradoxical, radical love" (in some ways it makes me think of when soccer players pray on the pitch)  
+> self-promotion and being something (competitive hustle culture, "spectacular") vs "called to serve, not to be serve" and "he who is last will be first" (makes me think of baubles - we are worth more than that, hence doing worthy things, i.e. serving others)  
+> "How does one receive accolades and advancement with a spiritually pure heart?" - can having influence and legitimacy in the public arena be a way to serve others?  
+> sabbath as sacrifice and the passage in John (?) that the branches that bear fruit are pruned to make them bear more fruit  
+> Borg: "divine intention" and "divine interaction" (as opposed to divine intervention)  
 - Reclaiming Rest: The Promise of Sabbath, Solitude, and Stillness in a Restless World (Kate H. Rademacher)  
 > Specifically reading chapters 3, 7, 9, 13, and 15 through 17.  
 > Verdict: Unambiguously A+. Really outstanding. This book is lovely and beautiful and touching and it makes me feel very seen - the author has a way with words. Beautiful global perspective and deep mindfulness of history and historical legacies. I think I'll be coming back to this book for many years.
