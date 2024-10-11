@@ -17,6 +17,8 @@ List of greatest novels ever written, according to Ren (no particular oder):
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+- Journal of a Solitude (May Sarton)  
+> It's fine, not great. Does what it says on the tin. It's the journal of a poet, so naturally beautiful/touching writing. It's about solitude, depression, writing, gardening, feminism, postwar society, life. I'm not sure I'd actually get along with the author! The bird dies.  
 - East of Eden (John Steinbeck)  
 > Deeply enjoyable. The writing is so good. It's pretty messed up in a lot of ways, though certainly realistic and detailed - it's got a lot in common with Anna Karenina in that these characters are so detailed and could walk off the page. Very insightful about society, people and their lives, etc. Lots of pretty intense violence. I really like Lee (the beets! hahahahah!). the bit about "an ability to generalise that only the inexperienced can have". Tom's suicide, wow. Poor old Adam. "To inflict any hurt on anything for any purpose became inimical to him." Mary trans vibes!  
 - The Old Man and the Sea (Ernest Hemingway)  
