@@ -8,7 +8,7 @@ navigate:
 - [2017-2023](#2017-2023)  
 
 # Leaderboard  
-List of greatest novels ever written, according to Ren (no particular oder):  
+List of greatest novels ever written, according to Ren (no particular order):  
 - Go Tell It on the Mountain  
 - The Catcher in the Rye  
 - To Kill a Mockingbird  
@@ -20,162 +20,164 @@ april 2024 -> end of 2024
 <details>
   <summary>Hapworth 16, 1924 (J. D. Salinger)</summary>  
 
-> I don't think this is bad like the critics say; it doesn't feel that different from the rest of his stories and novellas. Maybe I just like slice of life stories more than the average critic. I admit some of the content isn't terribly believable (especially the 7-year-old narrator talking repeatedly in detail about young women and their virginity, and the whole thing with the books - I'm simply pretending the narrator is 17 or 27) but it definitely has some gems  
-> "This has the hallmarks of being one of the future despairs of my life" hahaha  
-> "For all our extreme youth, we remain quite vulnerable, amusing foils where gorgeous, untalented girls are concerned. I'm working on it, but it is a fairly severe problem."  
-> "A fine, undisguised Australian accent does not seem to lend itself quite freely to arousing affectionate regard. It is practically foolproof against pleasing or diverting for its own sake. This is a sad state of affairs [...] If you can possibly do it without unhappiness, excessive strain, or the feeling that you are slighting or offending the decent, charming Australian people of your childhood, please keep your accent off the record." LOL  
+I don't think this is bad like the critics say; it doesn't feel that different from the rest of his stories and novellas. Maybe I just like slice of life stories more than the average critic. I admit some of the content isn't terribly believable (especially the 7-year-old narrator talking repeatedly in detail about young women and their virginity, and the whole thing with the books - I'm simply pretending the narrator is 17 or 27) but it definitely has some gems  
+"This has the hallmarks of being one of the future despairs of my life" hahaha  
+"For all our extreme youth, we remain quite vulnerable, amusing foils where gorgeous, untalented girls are concerned. I'm working on it, but it is a fairly severe problem."  
+"A fine, undisguised Australian accent does not seem to lend itself quite freely to arousing affectionate regard. It is practically foolproof against pleasing or diverting for its own sake. This is a sad state of affairs [...] If you can possibly do it without unhappiness, excessive strain, or the feeling that you are slighting or offending the decent, charming Australian people of your childhood, please keep your accent off the record." LOL  
 
 </details>
 
-- Big Sur (Jack Kerouac)  
-> Verdict: A+/C-.  
-> SO funny! The entire passage in ch11 about the bidets and the share house hahahahaha! "George and his theories about erogenous Buddha" hahahaha  
-> It's also distasteful in a weird way. Can't tell if it's a profound work of art or three drunk guys in a trench coat (Kerouac's biography points towards the latter). Like what would the author have written if he weren't an alcoholic?  
-> Lots in common with Catcher - it's essentially a slice of life story depicting an unfolding existential crisis, though death and alcohol rather than alienation and innocence  
-> "'You want to be a hermit, you say, but you don't do it much, I noticed, you're just tired of life and want to sleep.'"  
-> The cat dies (among many other animals). The occasional content about Japanese people feels a bit weird, other random bits like that (the 10-year-old girl??).  
+<details>
+  <summary> Big Sur (Jack Kerouac)  </summary>
+
+Verdict: A+/C-.  
+SO funny! The entire passage in ch11 about the bidets and the share house hahahahaha! "George and his theories about erogenous Buddha" hahahaha  
+It's also distasteful in a weird way. Can't tell if it's a profound work of art or three drunk guys in a trench coat (Kerouac's biography points towards the latter). Like what would the author have written if he weren't an alcoholic?  
+Lots in common with Catcher - it's essentially a slice of life story depicting an unfolding existential crisis, though death and alcohol rather than alienation and innocence  
+"'You want to be a hermit, you say, but you don't do it much, I noticed, you're just tired of life and want to sleep.'"  
+The cat dies (among many other animals). The occasional content about Japanese people feels a bit weird, other random bits like that (the 10-year-old girl??).  
 
 </details>
 <details>
   <summary> Journal of a Solitude (May Sarton)  </summary>
 
-> It's fine, not great. Does what it says on the tin. It's the journal of a poet, so naturally beautiful/touching writing. It's about solitude, depression, writing, gardening, feminism, postwar society, life. I'm not sure I'd actually get along with the author! The bird dies.  
+It's fine, not great. Does what it says on the tin. It's the journal of a poet, so naturally beautiful/touching writing. It's about solitude, depression, writing, gardening, feminism, postwar society, life. I'm not sure I'd actually get along with the author! The bird dies.  
 
 </details>
 <details>
   <summary> East of Eden (John Steinbeck)  </summary>
 
-> Deeply enjoyable. The writing is so good. It's pretty messed up in a lot of ways, though certainly realistic and detailed - it's got a lot in common with Anna Karenina in that these characters are so detailed and could walk off the page. Very insightful about society, people and their lives, etc. Lots of pretty intense violence. I really like Lee (the beets! hahahahah!). the bit about "an ability to generalise that only the inexperienced can have". Tom's suicide, wow. Poor old Adam. "To inflict any hurt on anything for any purpose became inimical to him." Mary trans vibes!  
+Deeply enjoyable. The writing is so good. It's pretty messed up in a lot of ways, though certainly realistic and detailed - it's got a lot in common with Anna Karenina in that these characters are so detailed and could walk off the page. Very insightful about society, people and their lives, etc. Lots of pretty intense violence. I really like Lee (the beets! hahahahah!). the bit about "an ability to generalise that only the inexperienced can have". Tom's suicide, wow. Poor old Adam. "To inflict any hurt on anything for any purpose became inimical to him." Mary trans vibes!  
 
 </details>
 <details>
   <summary> The Old Man and the Sea (Ernest Hemingway)  </summary>
 
-> Beautiful.  
-> "But are they worthy to eat him? No. Of course not."  
-> "God, help me endure."  
+Beautiful.  
+"But are they worthy to eat him? No. Of course not."  
+"God, help me endure."  
 
 </details>
 <details>
   <summary> We Have Always Lived in the Castle (Shirley Jackson)  </summary>
 
-> Excellent of course, but didn't grab me quite as much as Hill House. The OCD is a bit heartbreaking but also I kinda understand. The last few chapters are very powerful and heartbreaking.  
+Excellent of course, but didn't grab me quite as much as Hill House. The OCD is a bit heartbreaking but also I kinda understand. The last few chapters are very powerful and heartbreaking.  
 
 </details>
 <details>
   <summary> Wuthering Heights (Emily Bronte)  </summary>
 
-> It's good. Beautifully written and passionate; the passage where Catherine talks about the lapwings is touching. Immense grief and sadness: "You have a heart and nerves the same as your brother men. Why should you be anxious to conceal them? Your pride cannot blind God." The domestic violence is hard. Got about halfway through as it gets pretty dark.  
+It's good. Beautifully written and passionate; the passage where Catherine talks about the lapwings is touching. Immense grief and sadness: "You have a heart and nerves the same as your brother men. Why should you be anxious to conceal them? Your pride cannot blind God." The domestic violence is hard. Got about halfway through as it gets pretty dark.  
 
 </details>
 <details>
   <summary> Nada (Carmen Laforet)  </summary>
 
-> "the need, felt by all people who are not very attractive, to make material payment for what is, to them, extraordinary, someone's interest and affection"  
-> "The next day I’d hover clumsily near my grandmother. I detected so sweet a smile in her light eyes when she looked at me that I was moved as if the roots of my spirit were clutching at me until I wanted to cry. If, impelled by my feelings, I’d put my arms around her, I’d encounter a little body, hard and cold as if made of wire, inside which beat a surprisingly strong heart."  
-> It's good - a much darker Catcher in the Rye plus poverty, and a woman's experience which is very different. Honest and real. Andrea's poverty and chronic hunger makes me sad (and IRL more grateful for the Marshall Plan). A lot of suffering in this family and community - the DV is hard to read, especially towards the end.  
+"the need, felt by all people who are not very attractive, to make material payment for what is, to them, extraordinary, someone's interest and affection"  
+"The next day I’d hover clumsily near my grandmother. I detected so sweet a smile in her light eyes when she looked at me that I was moved as if the roots of my spirit were clutching at me until I wanted to cry. If, impelled by my feelings, I’d put my arms around her, I’d encounter a little body, hard and cold as if made of wire, inside which beat a surprisingly strong heart."  
+It's good - a much darker Catcher in the Rye plus poverty, and a woman's experience which is very different. Honest and real. Andrea's poverty and chronic hunger makes me sad (and IRL more grateful for the Marshall Plan). A lot of suffering in this family and community - the DV is hard to read, especially towards the end.  
 
 </details>
 <details>
   <summary> Go Tell It on the Mountain (James Baldwin)  </summary>
 
-> Amazing. Perfect, I can't even describe. I have a suspicion that I'll need to reread this when I'm a bit older. The grief towards the end of Gabriel's part is the most moving thing I have ever read. I like Richard a lot. Deborah: "The Lord sure give that woman [Esther's mother] a heavy cross to bead." Esther: "Be careful how you talk to me. I ain't the first girl been ruined by a holy man, either."  
+Amazing. Perfect, I can't even describe. I have a suspicion that I'll need to reread this when I'm a bit older. The grief towards the end of Gabriel's part is the most moving thing I have ever read. I like Richard a lot. Deborah: "The Lord sure give that woman [Esther's mother] a heavy cross to bead." Esther: "Be careful how you talk to me. I ain't the first girl been ruined by a holy man, either."  
 
 </details>
 <details>
   <summary> Contact (Carl Sagan)  </summary>
 
-> Good fun. Extremely realistic, it's very obvious (in a good way) that the author is an expert. Overall a really imaginative and well-founded first-contact story. I like VeGe a lot. A bit explainy / telling rather than showing / unrealistic dialogue, I guess because it started as a screenplay. The religion content is a little weak/strawmanny on both sides of the on-screen debate which I think is a shame (where are the deeply religious scientists and the historical-critical bible scholars?).  
+Good fun. Extremely realistic, it's very obvious (in a good way) that the author is an expert. Overall a really imaginative and well-founded first-contact story. I like VeGe a lot. A bit explainy / telling rather than showing / unrealistic dialogue, I guess because it started as a screenplay. The religion content is a little weak/strawmanny on both sides of the on-screen debate which I think is a shame (where are the deeply religious scientists and the historical-critical bible scholars?).  
 
 </details>
 <details>
   <summary> Edgar Allan Poe (POE! by Selected Shorts)  </summary>
 
-> This guy is Good At Writing. I love that these particular recordings were performed in front of an audience - certainly the best way to perform poetry.  
+This guy is Good At Writing. I love that these particular recordings were performed in front of an audience - certainly the best way to perform poetry.  
 
 </details>
 <details>
   <summary> Rebecca (Daphne du Maurier)  </summary>
 
-> Excellent. Beautiful writing in the interpersonal bits, and really atmospheric when describing Manderley. Really masterful actually, everything from the whether to nuances in the social interactions. In a weird way, I felt a lot of respect for Max in how he behaved during the events after the party onwards, especially with Favel. Mrs Danver's grief. "I find a little of my family goes a very long way." Ben breaks my heart. The blackface bit is unfortunate.  
+Excellent. Beautiful writing in the interpersonal bits, and really atmospheric when describing Manderley. Really masterful actually, everything from the whether to nuances in the social interactions. In a weird way, I felt a lot of respect for Max in how he behaved during the events after the party onwards, especially with Favel. Mrs Danver's grief. "I find a little of my family goes a very long way." Ben breaks my heart. The blackface bit is unfortunate.  
 
 </details>
 <details>
   <summary> The Haunting of Hill House  </summary>
 
-> Ok I'm pretty sure this book is actually perfect, like genuinely Catcher/Mockingbird tier. "Ghost story" doesn't do it justice. Amazing, even from the very first paragraph. Really beautiful characters and examination of interpersonal dynamics. Eleanor's road trip/escapism mental monologue at the start! "I think that I should like this better if I had the blanket over my head." Biggest mood hahahaha  
+Ok I'm pretty sure this book is actually perfect, like genuinely Catcher/Mockingbird tier. "Ghost story" doesn't do it justice. Amazing, even from the very first paragraph. Really beautiful characters and examination of interpersonal dynamics. Eleanor's road trip/escapism mental monologue at the start! "I think that I should like this better if I had the blanket over my head." Biggest mood hahahaha  
 
 </details>
 <details>
   <summary> Level 7 (Mordecai Roshwald)  </summary>
 
-> Automation: a cautionary tale. Not terribly deep (heh) or sophisticated. "Somehow I did not feel as sorry for humanity as the speaker seemed to. [...] Why is it better to have more people rather than less?"  
+Automation: a cautionary tale. Not terribly deep (heh) or sophisticated. "Somehow I did not feel as sorry for humanity as the speaker seemed to. [...] Why is it better to have more people rather than less?"  
 
 </details>
 <details>
   <summary> Cat's Cradle (Kurt Vonnegut)  </summary>
 
-> Got about halfway through. Pretty funny. Not terribly deep or profound. It's very slice of life but also a darkly satirical novel about the bomb and the international order - imagine Monty Python x Dr Strangelove x Midnight Diner. The casual ableism/racism/misogyny is a shame. "He had a dazzling talent of spending millions without increasing mankind's store of anything but chagrin." "The form of government was anarchy, save in the situation when Cassel Sugar wanted to own something, in which situation the form of government was feudalism." And "Never index your own book" hahahaha  
+Got about halfway through. Pretty funny. Not terribly deep or profound. It's very slice of life but also a darkly satirical novel about the bomb and the international order - imagine Monty Python x Dr Strangelove x Midnight Diner. The casual ableism/racism/misogyny is a shame. "He had a dazzling talent of spending millions without increasing mankind's store of anything but chagrin." "The form of government was anarchy, save in the situation when Cassel Sugar wanted to own something, in which situation the form of government was feudalism." And "Never index your own book" hahahaha  
 
 </details>
 <details>
   <summary> To Kill a Mockingbird (Harper Lee) (R)  </summary>
 
-> Perfect. One of the greatest books in the English language. For me, that category has this book and The Catcher in the Rye. "Right pretty spell we're having, isn't it, Mr. Arthur?" Beautiful.  
+Perfect. One of the greatest books in the English language. For me, that category has this book and The Catcher in the Rye. "Right pretty spell we're having, isn't it, Mr. Arthur?" Beautiful.  
 
 </details>
 <details>
   <summary> The Picture of Dorian Gray (Oscar Wilde)  </summary>
 
-> "Your prayer of pride has been answered, and your prayer of repentance will be also." It's fine. There are a few strokes of genius in it. Poor old Basil. It's funny if you enjoy the ironies, though it has no small degree of misogyny, anti-semitism, etc.  
+"Your prayer of pride has been answered, and your prayer of repentance will be also." It's fine. There are a few strokes of genius in it. Poor old Basil. It's funny if you enjoy the ironies, though it has no small degree of misogyny, anti-semitism, etc.  
 
 </details>
 <details>
   <summary> Fahrenheit 451 (Ray Bradbury)  </summary>
 
-> Excellent, great even. Much more detail and depth than the popular summaries you hear would suggest. "I'm seventeen and I'm crazy." For me, the only thing stopping this from being a perfect book is that it's a bit one-sided in its allegory and isn't super nuanced in its critique of society (as Catcher and Mockingbird both are, in my opinion).  
+Excellent, great even. Much more detail and depth than the popular summaries you hear would suggest. "I'm seventeen and I'm crazy." For me, the only thing stopping this from being a perfect book is that it's a bit one-sided in its allegory and isn't super nuanced in its critique of society (as Catcher and Mockingbird both are, in my opinion).  
 
 </details>
 <details>
   <summary> The Last Man (Mary Wollstonecraft Shelley)  </summary>
 
-> Truly excellent. Deeply beautiful. Sublime, even. Even the philosophical reflections are genuinely outstanding. Amazing expression of grief / overwhelming sadness at the climax of vol 1 chapter 8, and of renunciation at the start of vol 2 chapter 4. "You are all going to die. ... not one of you, my ill-fated crowd, can escape." Lots of interesting parallels with Station Eleven, e.g. the "Farewell" chapter, and the prophet.  
+Truly excellent. Deeply beautiful. Sublime, even. Even the philosophical reflections are genuinely outstanding. Amazing expression of grief / overwhelming sadness at the climax of vol 1 chapter 8, and of renunciation at the start of vol 2 chapter 4. "You are all going to die. ... not one of you, my ill-fated crowd, can escape." Lots of interesting parallels with Station Eleven, e.g. the "Farewell" chapter, and the prophet.  
 
 </details>
 <details>
   <summary> Hamlet (Shakespeare)  </summary>
 
-> Lives up to the hype. Can't say I understood all of it. Probably would be easier watching as a movie with subtitles. Act 3 Scene 1 is a banger: "Get thee to a nunnery. Why wouldst thou be a breeder of sinners? I am myself indifferent honest, but yet I could accuse me of such things that it were better my mother had not borne me"  
+Lives up to the hype. Can't say I understood all of it. Probably would be easier watching as a movie with subtitles. Act 3 Scene 1 is a banger: "Get thee to a nunnery. Why wouldst thou be a breeder of sinners? I am myself indifferent honest, but yet I could accuse me of such things that it were better my mother had not borne me"  
 
 </details>
 <details>
   <summary> Mrs Dalloway (Virginia Woolf)  </summary>
 
-> A bit challenging to follow at first, but very enjoyable overall. Got 63% through. The bit about Sally and the bit about Septimus are sad and very beautiful. "Oddly enough, she was one of the most thoroughgoing sceptics he had ever met, and possibly (this was a theory he used to make up to account for her, so transparent in some ways, so inscrutable in others), possibly she said to herself, As we are a doomed race, chained to a sinking ship (her favourite reading as a girl was Huxley and Tyndall, and they were fond of these nautical metaphors), as the whole thing is a bad joke, let us, at any rate, do our part; mitigate the sufferings of our fellow-prisoners (Huxley again); decorate the dungeon with flowers and air-cushions; be as decent as we possibly can. Those ruffians, the Gods, shan't have it all their own way,—her notion being that the Gods, who never lost a chance of hurting, thwarting and spoiling human lives were seriously put out if, all the same, you behaved like a lady."  
+A bit challenging to follow at first, but very enjoyable overall. Got 63% through. The bit about Sally and the bit about Septimus are sad and very beautiful. "Oddly enough, she was one of the most thoroughgoing sceptics he had ever met, and possibly (this was a theory he used to make up to account for her, so transparent in some ways, so inscrutable in others), possibly she said to herself, As we are a doomed race, chained to a sinking ship (her favourite reading as a girl was Huxley and Tyndall, and they were fond of these nautical metaphors), as the whole thing is a bad joke, let us, at any rate, do our part; mitigate the sufferings of our fellow-prisoners (Huxley again); decorate the dungeon with flowers and air-cushions; be as decent as we possibly can. Those ruffians, the Gods, shan't have it all their own way,—her notion being that the Gods, who never lost a chance of hurting, thwarting and spoiling human lives were seriously put out if, all the same, you behaved like a lady."  
 
 </details>
 <details>
   <summary> Franny and Zooey (J. D. Salinger)  </summary>
 
-> Excellent. Franny's existential crisis in *Franny* is just outstanding - "sad-making" and her obsession with The Way of the Pilgrim. Seymour's haiku and suicide. Salinger, of course, has a compelling way of writing about the every day details of life. I suspect much of the book went over my head, I think rereading when I'm older would be interesting  
+Excellent. Franny's existential crisis in *Franny* is just outstanding - "sad-making" and her obsession with The Way of the Pilgrim. Seymour's haiku and suicide. Salinger, of course, has a compelling way of writing about the every day details of life. I suspect much of the book went over my head, I think rereading when I'm older would be interesting  
 
 </details>
 <details>
   <summary> Anna Karenina (Leo Tolstoy)  </summary>
 
-> Got to 76%, bit of a slog! A detailed, deeply nuanced, and even sympathetic look at the countless facets of life and society, especially when it comes to class and gender. The level of detail, especially about people's inner lives and the complicated relationships and interpersonal dynamics, is pretty amazing. I like Kitty's religious awakening towards the end of Part II and Levin's interactions with the peasants and existential crisis.  
+Got to 76%, bit of a slog! A detailed, deeply nuanced, and even sympathetic look at the countless facets of life and society, especially when it comes to class and gender. The level of detail, especially about people's inner lives and the complicated relationships and interpersonal dynamics, is pretty amazing. I like Kitty's religious awakening towards the end of Part II and Levin's interactions with the peasants and existential crisis.  
 
 </details>
 <details>
   <summary> Raise High the Roof Beam, Carpenters and Seymour, An Introduction (J. D. Salinger)  </summary>
 
-> The first book is outstanding, masterful. I don't know how Salinger can write a book about nothing and make it so rich and layered. Seymour, what a character! "How beautifully difficult, and therefore true." Despite the topic it feels closer to Catcher than Franny and Zooey in vibe. The second story went over my head a bit.  
+The first book is outstanding, masterful. I don't know how Salinger can write a book about nothing and make it so rich and layered. Seymour, what a character! "How beautifully difficult, and therefore true." Despite the topic it feels closer to Catcher than Franny and Zooey in vibe. The second story went over my head a bit.  
 
 </details>
 <details>
   <summary> The Beautiful and the Damned (F. Scott Fitzgerald)  </summary>
 
-> Did not finish. Struggled to get into this one. I picked this due to the narrator being Kirby Heybourne.  
+Did not finish. Struggled to get into this one. I picked this due to the narrator being Kirby Heybourne.  
 
 ## Queer fiction  
 
@@ -183,158 +185,158 @@ april 2024 -> end of 2024
 <details>
   <summary> The Pairing (Casey McQuiston)  </summary>
 
-> Verdict: B. Actually stopped at 20%, just didn't feel motivated to finish it.  
-> Good fun. You have to suspend disbelief a little bit (the story is hot people drinking expensive wine and having lots of sex). Very funny though - the author has returned to the comic gold of their first two novels.  
+Verdict: B. Actually stopped at 20%, just didn't feel motivated to finish it.  
+Good fun. You have to suspend disbelief a little bit (the story is hot people drinking expensive wine and having lots of sex). Very funny though - the author has returned to the comic gold of their first two novels.  
 
 </details>
 <details>
   <summary> The Absinthe Underground (Jamie Pacton)  </summary>
 
-> Verdict: B/B+. Got about 60% through. It's fine. Absinthe-themed steampunk fairy lesbians. (As creative a setting as Light from Uncommon Stars, and that is saying something.) I feel like the book could do with 10% more detail in the characters' reactions to events and inner lives, which seem a little bit stiff and on rails given the story.  
+Verdict: B/B+. Got about 60% through. It's fine. Absinthe-themed steampunk fairy lesbians. (As creative a setting as Light from Uncommon Stars, and that is saying something.) I feel like the book could do with 10% more detail in the characters' reactions to events and inner lives, which seem a little bit stiff and on rails given the story.  
 
 </details>
 <details>
   <summary> The Senator's Wife  </summary>
 
-> Verdict: probably a B/B-, and not as much soccer content as I'd have liked. Got like 80% through. The men in this book are all complete turds; the violence and humiliation makes me uncomfortable but I must admit it's realistic. The whole "hidden relationship" dynamic drags on a bit, I get that it's necessary given the setting but it feels a bit old school for an American queer fiction novel. The Australian accents are truly depraved.  
+Verdict: probably a B/B-, and not as much soccer content as I'd have liked. Got like 80% through. The men in this book are all complete turds; the violence and humiliation makes me uncomfortable but I must admit it's realistic. The whole "hidden relationship" dynamic drags on a bit, I get that it's necessary given the setting but it feels a bit old school for an American queer fiction novel. The Australian accents are truly depraved.  
 
 </details>
 <details>
   <summary> Stay Gold  </summary>
 
-> Verdict: B, maybe B-. Good characters. The representation of transitioning is very good. The height and voice anxiety. Lots of casual microaggressions and fear (not to mention the medical gatekeeping) and the occasional slur, all of which *really* resonates. Some violence at the end. The relationship with his sister Rocky is really endearing. "No-one knows I'm trans. No-one knows I'm alive, really. I couldn't be happier." "Love Actually-shaming" hahahaha. I must say, I was a bit disappointed by Georgia's response to Pony coming out. Georgia has lots of naivete and privilege that gets really on my nerves. Same issue with Max honestly (he should have known better). I can understand why the book got some poor reviews. But I think given that the author is writing an own-voice story, there is a bit more leeway for this sort of thing - it certainly is realistic.  
+Verdict: B, maybe B-. Good characters. The representation of transitioning is very good. The height and voice anxiety. Lots of casual microaggressions and fear (not to mention the medical gatekeeping) and the occasional slur, all of which *really* resonates. Some violence at the end. The relationship with his sister Rocky is really endearing. "No-one knows I'm trans. No-one knows I'm alive, really. I couldn't be happier." "Love Actually-shaming" hahahaha. I must say, I was a bit disappointed by Georgia's response to Pony coming out. Georgia has lots of naivete and privilege that gets really on my nerves. Same issue with Max honestly (he should have known better). I can understand why the book got some poor reviews. But I think given that the author is writing an own-voice story, there is a bit more leeway for this sort of thing - it certainly is realistic.  
 
 </details>
 <details>
   <summary> The Seven Husbands of Evelyn Hugo (Taylor Jenkins Reid)  </summary>
 
-> Stopped reading at about 20%, entirely because the themes don't resonate with me. However excellent writing, especially the soliloquies. The teenage bits are heartbreaking.  
+Stopped reading at about 20%, entirely because the themes don't resonate with me. However excellent writing, especially the soliloquies. The teenage bits are heartbreaking.  
 
 </details>
 <details>
   <summary> Ophelia After All (Racquel Marie)  </summary>
 
-> Did not finish. Struggled to get into this one. Botany!  
+Did not finish. Struggled to get into this one. Botany!  
 
 </details>
 <details>
   <summary> A Day of Fallen Night (Samantha Shannon)  </summary>
 
-> Verdict: A. Beautiful, slow, gentle, compelling. Outstanding writing. Certainly lives up to the quality of the first book. It's actually very readable as a standalone. I feel like the pregnancy was represented very well (the ageism was sold a bit too hard which was a shame). This quote from when the character in the cold North feels the volcano erupt: "Pleasure and pain and fear, a deep recognition." I love the cheeky trans rep.  
+Verdict: A. Beautiful, slow, gentle, compelling. Outstanding writing. Certainly lives up to the quality of the first book. It's actually very readable as a standalone. I feel like the pregnancy was represented very well (the ageism was sold a bit too hard which was a shame). This quote from when the character in the cold North feels the volcano erupt: "Pleasure and pain and fear, a deep recognition." I love the cheeky trans rep.  
 
 </details>
 <details>
   <summary> Those Who Wait (Haley Cass)  </summary>
 
-> Verdict: B. Did not finish. It's fun, but nothing really grabs me or draws me in. The two main characters' professions (politics and academia) are given in less detail than I'd have liked, and many of the details that are given seem unrealistic.  
+Verdict: B. Did not finish. It's fun, but nothing really grabs me or draws me in. The two main characters' professions (politics and academia) are given in less detail than I'd have liked, and many of the details that are given seem unrealistic.  
 
 </details>
 <details>
   <summary> Aristotle and Dante Discover the Secrets of the Universe (Benjamin Alire Sáenz)  </summary>
 
-> Verdict: A. A touching and extremely relatable look at what it is to be a geeky, vaguely depressed male going through adolescence. "I had a rule that it was better to be bored by yourself than bored with someone else. I pretty much lived by that rule. Maybe that was why I didn't have any friends." The scene with the BB guns is really, really relatable. Some of the themes were pretty heavy.  
+Verdict: A. A touching and extremely relatable look at what it is to be a geeky, vaguely depressed male going through adolescence. "I had a rule that it was better to be bored by yourself than bored with someone else. I pretty much lived by that rule. Maybe that was why I didn't have any friends." The scene with the BB guns is really, really relatable. Some of the themes were pretty heavy.  
 
 </details>
 <details>
   <summary> Him (Sarina Bowen, Elle Kennedy)  </summary>
 
-> Verdict: A-. Smuttier than I anticipated (I read it for the articles!). Still, quality writing and a great voice performance and got heartwarming towards the end.  
+Verdict: A-. Smuttier than I anticipated (I read it for the articles!). Still, quality writing and a great voice performance and got heartwarming towards the end.  
 
 </details>
 <details>
   <summary> Wolfsong (TJ Klune)  </summary>
 
-> Verdict: A. Wow! The quality of the writing is extremely high. Touching. Beautiful. I actually did not finish it because it became too violent for me (and this is why I deleted the rest of the books in the series from my reading list and replaced them with other books).  
+Verdict: A. Wow! The quality of the writing is extremely high. Touching. Beautiful. I actually did not finish it because it became too violent for me (and this is why I deleted the rest of the books in the series from my reading list and replaced them with other books).  
 
 </details>
 <details>
   <summary> Ivy Aberdeen's Letter to the World (Ashley Herring Blake)  </summary>
 
-> Verdict: A. Beautiful. "A storm was coming, which was perfect."  
+Verdict: A. Beautiful. "A storm was coming, which was perfect."  
 
 </details>
 <details>
   <summary> The Lightning-Struck Heart (TJ Klune)  </summary>
 
-> Verdict: A. Hysterical. It's quite rare to find a genuinely hilarious comedy novel. Despite being absolutely packed full of penis jokes, the story is engaging and genuinely touching. Poor old Todd. Though some of the jokes come off as ableist or fat-phobic which is a shame, and the Roma thing doesn't sit comfortably with me.  
+Verdict: A. Hysterical. It's quite rare to find a genuinely hilarious comedy novel. Despite being absolutely packed full of penis jokes, the story is engaging and genuinely touching. Poor old Todd. Though some of the jokes come off as ableist or fat-phobic which is a shame, and the Roma thing doesn't sit comfortably with me.  
 
 </details>
 <details>
   <summary> How to Become a Planet (Nicole Melleby)  </summary>
 
-> Verdict: A. Beautiful book. Such a mood. A girl who loves space and has depression and anxiety. And there is trans rep and OCD rep! Beautiful look at how families cope too.  
+Verdict: A. Beautiful book. Such a mood. A girl who loves space and has depression and anxiety. And there is trans rep and OCD rep! Beautiful look at how families cope too.  
 
 </details>
 <details>
   <summary> On the Same Page (Haley Cass)  </summary>
 
-> Verdict: A-/B+. It's good fun and a cute, wholesome story if you don't take it too seriously and if you suspend disbelief a little bit.  
+Verdict: A-/B+. It's good fun and a cute, wholesome story if you don't take it too seriously and if you suspend disbelief a little bit.  
 
 </details>
 <details>
   <summary> Here We Go Again (Alison Cochrun)  </summary>
 
-> Verdict: B+. Really funny - the humour really lands. Was this book written for me? A queer anxious coffee-addicted overachiever takes a road trip, with the romantic interest and a dying old man, and at least beginning in the PNW. Stopped at 80% because it got too heavy.  
+Verdict: B+. Really funny - the humour really lands. Was this book written for me? A queer anxious coffee-addicted overachiever takes a road trip, with the romantic interest and a dying old man, and at least beginning in the PNW. Stopped at 80% because it got too heavy.  
 
 </details>
 <details>
   <summary> Not My Problem (Ciara Smyth)  </summary>
 
-> Verdict: A/A-. Good fun. The humour is good. The loneliness and rejection/separation anxiety at the beginning really hits, and the class thing. You have to really feel for this kid. The neglect (and its interaction with the schooling system and power dynamics) is heartbreaking.  
+Verdict: A/A-. Good fun. The humour is good. The loneliness and rejection/separation anxiety at the beginning really hits, and the class thing. You have to really feel for this kid. The neglect (and its interaction with the schooling system and power dynamics) is heartbreaking.  
 
 </details>
 <details>
   <summary> A Destiny of Dragons (TJ Klune)  </summary>
 
-> Did not finish. It leans into the story and fantasy content rather than the humour, the problem being that the former isn't that good. Also the book leans into the racially charged content a bit which is unfortunate.  
+Did not finish. It leans into the story and fantasy content rather than the humour, the problem being that the former isn't that good. Also the book leans into the racially charged content a bit which is unfortunate.  
 
 </details>
 <details>
   <summary> The Follower of Flowers (Natalia Hernandez)  </summary>
 
-> Verdict: A. Banger. The writing is excellent. I'm often not a fan of sequels, but this one really meets expectations.  
+Verdict: A. Banger. The writing is excellent. I'm often not a fan of sequels, but this one really meets expectations.  
 
 </details>
 <details>
   <summary> Season of Love (Helena Greer)  </summary>
 
-> Verdict: B, maybe B-. Bread and butter, if nothing too memorable or special. The pacing has some issues, though I must admit that it sort of makes it feel mundane in a really realistic way. The dialogue often feels a bit stiff. I like how the plot didn't fall into the common trap of "there's a secret rich character who saves the day".  
+Verdict: B, maybe B-. Bread and butter, if nothing too memorable or special. The pacing has some issues, though I must admit that it sort of makes it feel mundane in a really realistic way. The dialogue often feels a bit stiff. I like how the plot didn't fall into the common trap of "there's a secret rich character who saves the day".  
 
 </details>
 <details>
   <summary> Cemetery Boys (Aiden Thomas)  </summary>
 
-> Verdict: A. It's excellent. Touching and beautiful. Really creative and sympathetic, a top-notch example of what queer fiction can be. The desire for acceptance as onesself really resonates.  
+Verdict: A. It's excellent. Touching and beautiful. Really creative and sympathetic, a top-notch example of what queer fiction can be. The desire for acceptance as onesself really resonates.  
 
 </details>
 <details>
   <summary> Idlewild (James Frankie Thomas)  </summary>
 
-> Verdict: A, perhaps bordering on A+. Amazing. Insanely, insanely good writing. Absolutely hilarious and also touching and dark and resonates deeply. Actually damn near perfect, except that the Fay-Theo relationship disturbs me on a deep level (though I'm aware that was very deliberate). This book has something I've only really encountered in Euphoria Kids and Station Eleven: it's comforting in a really unique way (despite being disturbing), and there is no other book like it. "I can't talk about Idlewild. If you weren't there, you wouldn't understand." Excellent voice acting too.  
+Verdict: A, perhaps bordering on A+. Amazing. Insanely, insanely good writing. Absolutely hilarious and also touching and dark and resonates deeply. Actually damn near perfect, except that the Fay-Theo relationship disturbs me on a deep level (though I'm aware that was very deliberate). This book has something I've only really encountered in Euphoria Kids and Station Eleven: it's comforting in a really unique way (despite being disturbing), and there is no other book like it. "I can't talk about Idlewild. If you weren't there, you wouldn't understand." Excellent voice acting too.  
 
 </details>
 <details>
   <summary> Confidence (Rafael Frumkin)  </summary>
 
-> Did not finish - felt too adversarial and unwholesome. I love how he says that words on a page are "static and parsable", I really relate to that.  
+Did not finish - felt too adversarial and unwholesome. I love how he says that words on a page are "static and parsable", I really relate to that.  
 
 </details>
 <details>
   <summary> Catch and Cradle (Katia Rose)  </summary>
 
-> Verdict: B. A little on the nose, but good fun. Great rep (non-binary athlete!).  
+Verdict: B. A little on the nose, but good fun. Great rep (non-binary athlete!).  
 
 </details>
 <details>
   <summary> Playing for Keeps (Jennifer Dugan)  </summary>
 
-> Verdict: B/B-, but stopped at 50%. Good fun. Mostly well-written, I think I enjoyed it more than her previous books. Minor gripes: it's a little zero to sixty; there's a vague first-girlfriend feeling and not so much actual chemistry; much of the plot is just "these are teenagers making very normal decisions and the adults all suck". The whole "secret girlfriends" thing sorta makes me anxious as a plot device - queer people put up with enough of that already. Surprise soccer content!  
+Verdict: B/B-, but stopped at 50%. Good fun. Mostly well-written, I think I enjoyed it more than her previous books. Minor gripes: it's a little zero to sixty; there's a vague first-girlfriend feeling and not so much actual chemistry; much of the plot is just "these are teenagers making very normal decisions and the adults all suck". The whole "secret girlfriends" thing sorta makes me anxious as a plot device - queer people put up with enough of that already. Surprise soccer content!  
 
 </details>
 <details>
   <summary> The Romance Recipe (Ruby Barrett)  </summary>
 
-> Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a bit difficult to understand / zero to sixty. More smut than I expected. The vegan content is fun! The lobster analogy was quite regrettable. "I'm a 27-year old woman but his tone alone makes me feel like a kid." "The things I want are smaller than that."  
+Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a bit difficult to understand / zero to sixty. More smut than I expected. The vegan content is fun! The lobster analogy was quite regrettable. "I'm a 27-year old woman but his tone alone makes me feel like a kid." "The things I want are smaller than that."  
 
 ## Politics and history  
 
@@ -342,76 +344,76 @@ april 2024 -> end of 2024
 <details>
   <summary> Protestantism: A Very Short Introduction (Mark A. Noll)  </summary>
 
-> Wonderful global perspective. Very well-written.  
-> that Luther fellow was a bit of dynamo (and cheeky Marburg bit!). Kierkegaard described as "intensely whimsical" HAHAHA I want that on my tombstone!  
-> Pentecostalism as rapidly expanding but somewhat distinct as a branch, especially having had major breaks from historical Protestantism (esp e.g. megachurches), same with independent churches  
-> the Protestant challenge to Catholic authority, and resulting conflicts, as also contributing to secularisation  
+Wonderful global perspective. Very well-written.  
+that Luther fellow was a bit of dynamo (and cheeky Marburg bit!). Kierkegaard described as "intensely whimsical" HAHAHA I want that on my tombstone!  
+Pentecostalism as rapidly expanding but somewhat distinct as a branch, especially having had major breaks from historical Protestantism (esp e.g. megachurches), same with independent churches  
+the Protestant challenge to Catholic authority, and resulting conflicts, as also contributing to secularisation  
 
 </details>
 <details>
   <summary> The Spartans: A Very Short Introduction (Andrew Bayliss)  </summary>
 
-> Good book. Sparta was not very egalitarian! multiple classes (esp Helots, somewhere between serfs and slaves, and the Spartan reliance on the Helots is a key reason for Sparta's eventual decline) and definite inequality in wealth. Tough to tease apart the truth from exaggerations and later myths, but there do seem to be some unique aspects. Probably didn't systematically commit infantacide (or at least no more than normal for the time). Certainly no feminist paradise. I enjoy the summary of later thinkers' views on Sparta (negative from Alexander Hamilton, positive the NRA and English schools, strong positive from Hitler/official Nazi policy)  
+Good book. Sparta was not very egalitarian! multiple classes (esp Helots, somewhere between serfs and slaves, and the Spartan reliance on the Helots is a key reason for Sparta's eventual decline) and definite inequality in wealth. Tough to tease apart the truth from exaggerations and later myths, but there do seem to be some unique aspects. Probably didn't systematically commit infantacide (or at least no more than normal for the time). Certainly no feminist paradise. I enjoy the summary of later thinkers' views on Sparta (negative from Alexander Hamilton, positive the NRA and English schools, strong positive from Hitler/official Nazi policy)  
 
 </details>
 <details>
   <summary> Lives of the Anchoresses: The Rise of the Urban Recluse in Medieval Europe (Anneke B. Mulder-Bakker)  </summary>
 
-> Excellent rigorous piece of historical study, brings a great gender lens and makes the case that the phenomenon of anchoresses, and women's contribution to lived religious experience (as opposed to the influence of male-dominated formal institutions) more broadly, has been systematically underestimated by historians. I love how it's both comprehensive (the author kept a list of all anchorites that they knew about!) and a detailed look at the lives of 5 specific anchoresses. Chapter 4 (Juliana) gets very technical!  
-> Society did not permit women to become hermits, hence the anchoress/recluse (plus contemplative nuns and Beguines). "clausura" referred to cloistered nuns but also livestock and prisonsers! (not to recluses).  
-> the 12th and 13th century as a religious renewal, the first time when many Europeans felt an inner/personal experience with Christianity, focused on the parish community  
-> the anchorhold as a charismatic and theologically and politically influential position. anchoresses as focused on serving the community (like the desert fathers in fact stayed quite close to the people and felt called to serve the people's needs pastorally, and later views of extreme withdrawal from the world are thus a bit of a false projection backwards, see ch7), "dedicating themselves to God without turning away from the world"; "mainly a women's affair" and "an urban phenomenon" (an evolution from pre-12th century when reclusion was part of rural monasticism); extremely stubborn!; usually older women, specifically restricted to 40+  
-> My favourite is Margaret of Magdeburg, who initially experienced intense loneliness and despair and also had a disability ("lameness"). enclosed at age 12! Really neglected and mistreated by the church superiors and the wider community.  
+Excellent rigorous piece of historical study, brings a great gender lens and makes the case that the phenomenon of anchoresses, and women's contribution to lived religious experience (as opposed to the influence of male-dominated formal institutions) more broadly, has been systematically underestimated by historians. I love how it's both comprehensive (the author kept a list of all anchorites that they knew about!) and a detailed look at the lives of 5 specific anchoresses. Chapter 4 (Juliana) gets very technical!  
+Society did not permit women to become hermits, hence the anchoress/recluse (plus contemplative nuns and Beguines). "clausura" referred to cloistered nuns but also livestock and prisonsers! (not to recluses).  
+the 12th and 13th century as a religious renewal, the first time when many Europeans felt an inner/personal experience with Christianity, focused on the parish community  
+the anchorhold as a charismatic and theologically and politically influential position. anchoresses as focused on serving the community (like the desert fathers in fact stayed quite close to the people and felt called to serve the people's needs pastorally, and later views of extreme withdrawal from the world are thus a bit of a false projection backwards, see ch7), "dedicating themselves to God without turning away from the world"; "mainly a women's affair" and "an urban phenomenon" (an evolution from pre-12th century when reclusion was part of rural monasticism); extremely stubborn!; usually older women, specifically restricted to 40+  
+My favourite is Margaret of Magdeburg, who initially experienced intense loneliness and despair and also had a disability ("lameness"). enclosed at age 12! Really neglected and mistreated by the church superiors and the wider community.  
 
 </details>
 <details>
   <summary> Cicero: Letters to Atticus (tr. Eric Otto Winstedt)  </summary>
 
-> This is nuts - a front-row seat to the end of the Roman Republic, crazy! Actually quite touching and sympathetic to have this insight into Cicero's day-to-day life and thoughts and world.  
-> I enjoy the insights into electoral politics: "Candidates are plagued with all sorts of unfairness nowadays."  
-> You can really feel his despair about the state of the country.  
-> Letter 13 (1.1.13) mentions a "man in woman's clothes".  
-> "What will history be thinking of me 600 years hence?" (1.2.5)  
-> "I am sick of life. The whole world is so thoroughly out of joint." (1.2.24) "I can't write anymore. I am so downhearted and wretched." (1.3.2) "My life is one long misery and I am crushed with the weight of my sorrows." (1.3.5) And he hints that Atticus advised him against suicide! "What is there for me to live for?" (1.3.6) Not being able to sleep (2.8.1). After Tullia dies it gets real, using writing a book to keep his grief in check (3.12.14). "In the morning I hide myself in a dense and wild wood and I don't come out until evening ... my only discourse is with books, though tears interrupt it" (3.12.15). Preparing shrine/memorial arrangements. Really touching. I wish his book on grief had not been lost!  
+This is nuts - a front-row seat to the end of the Roman Republic, crazy! Actually quite touching and sympathetic to have this insight into Cicero's day-to-day life and thoughts and world.  
+I enjoy the insights into electoral politics: "Candidates are plagued with all sorts of unfairness nowadays."  
+You can really feel his despair about the state of the country.  
+Letter 13 (1.1.13) mentions a "man in woman's clothes".  
+"What will history be thinking of me 600 years hence?" (1.2.5)  
+"I am sick of life. The whole world is so thoroughly out of joint." (1.2.24) "I can't write anymore. I am so downhearted and wretched." (1.3.2) "My life is one long misery and I am crushed with the weight of my sorrows." (1.3.5) And he hints that Atticus advised him against suicide! "What is there for me to live for?" (1.3.6) Not being able to sleep (2.8.1). After Tullia dies it gets real, using writing a book to keep his grief in check (3.12.14). "In the morning I hide myself in a dense and wild wood and I don't come out until evening ... my only discourse is with books, though tears interrupt it" (3.12.15). Preparing shrine/memorial arrangements. Really touching. I wish his book on grief had not been lost!  
 
 </details>
 <details>
   <summary> Florence Nightingale at First Hand: Vision, Power, Legacy (Lynn McDonald)  </summary>
 
-> An amazing book. A+ for Nightingale's life (a bona fide gem of humanity), and even A/A+ for the book itself (it's crystal clear that this is written by the world's foremost expert, and I love how it's rigorously and almost entirely based on primary sources - cuts through the overabundant noise).  
-> A statistician, researcher, lobbyist, and a skilled liberal/social reform political activist (often from her own sick room), and also deeply religious (an experience of being called to service by God; accountable "we serve not a committee but the Lord"; "a blessed life when we can live it for others"; saw the face of God in the poor, sick, and imprisoned; "how I wish God was king or at least the Prince of Wales"!) - amazing!  
-> struggled with illness/permanent disability ("prisoner to my bed") but used her best hours on the most impactful projects, kept a limit on social visitors  
-> advocated for more M&E of government's laws; a fan of Marcus Aurelius's Meditations; an animal person, took care of animals; mortification and self-denial as a form of seeking one's own desires!; intellectually an ancestor of Gandhi (via mentor of his mentor) and thus King; was frequently insulted in the pages of academic journals, even simply for being a woman  
+An amazing book. A+ for Nightingale's life (a bona fide gem of humanity), and even A/A+ for the book itself (it's crystal clear that this is written by the world's foremost expert, and I love how it's rigorously and almost entirely based on primary sources - cuts through the overabundant noise).  
+A statistician, researcher, lobbyist, and a skilled liberal/social reform political activist (often from her own sick room), and also deeply religious (an experience of being called to service by God; accountable "we serve not a committee but the Lord"; "a blessed life when we can live it for others"; saw the face of God in the poor, sick, and imprisoned; "how I wish God was king or at least the Prince of Wales"!) - amazing!  
+struggled with illness/permanent disability ("prisoner to my bed") but used her best hours on the most impactful projects, kept a limit on social visitors  
+advocated for more M&E of government's laws; a fan of Marcus Aurelius's Meditations; an animal person, took care of animals; mortification and self-denial as a form of seeking one's own desires!; intellectually an ancestor of Gandhi (via mentor of his mentor) and thus King; was frequently insulted in the pages of academic journals, even simply for being a woman  
 
 </details>
 <details>
   <summary> The Dangerous Life and Ideas of Diogenes the Cynic  </summary>
 
-> So good! Short but rigorous and enjoyable. "The big thiefs are leading away the little one." And on whether the gods exist: "I do not know, only that they ought to exist." Covers Cynicism and life in the ancient world in general. It's refreshing to read an ancient thinker place animals (dogs especially!) above humans on a hierarchy! The book definitely takes advantage of how thin the sources are to give more detail than is probably necessary about the chronology of the barrel as an invention/money laundering practices/etc etc (I dig it though). There are a few interesting tidbits on gender assignment.  
+So good! Short but rigorous and enjoyable. "The big thiefs are leading away the little one." And on whether the gods exist: "I do not know, only that they ought to exist." Covers Cynicism and life in the ancient world in general. It's refreshing to read an ancient thinker place animals (dogs especially!) above humans on a hierarchy! The book definitely takes advantage of how thin the sources are to give more detail than is probably necessary about the chronology of the barrel as an invention/money laundering practices/etc etc (I dig it though). There are a few interesting tidbits on gender assignment.  
 
 </details>
 <details>
   <summary> Tides of History's Season 4: Prehistory, eps 1 - 49 (Patrick Wyman)  </summary>
 
-> Verdict: A/A+, depending on episode. Extremely high-quality and very rigorous - the author shares many of my core views on doing science and interpreting evidence. My absolute favourites were the episode on Ötzi and the episode on the Yamnaya Culture. The tattoo episode was cool too. Skipped a few eps that didn't interest me (especially post-agriculture).  
+Verdict: A/A+, depending on episode. Extremely high-quality and very rigorous - the author shares many of my core views on doing science and interpreting evidence. My absolute favourites were the episode on Ötzi and the episode on the Yamnaya Culture. The tattoo episode was cool too. Skipped a few eps that didn't interest me (especially post-agriculture).  
 
 </details>
 <details>
   <summary> Paul: A Very Short Introduction (EP Sanders)  </summary>
 
-> Verdict: A.  
+Verdict: A.  
 
 </details>
 <details>
   <summary> Postwar: A history of Europe since 1945 (Tony Judt)</summary>
 
-> Verdict: A+. Masterpiece, extremely detailed and well-researched. I particularly like the earlier chapters on Europe's immediate postwar economic development and the later chapter on how the discourse of human rights emerged, neither of which was guaranteed (and two things that often get taken for granted today).  
+Verdict: A+. Masterpiece, extremely detailed and well-researched. I particularly like the earlier chapters on Europe's immediate postwar economic development and the later chapter on how the discourse of human rights emerged, neither of which was guaranteed (and two things that often get taken for granted today).  
 
 </details>
 <details>
   <summary> The Landscape of History (John Lewis Gaddis)  </summary>
 
-> This book is good fun. It's a personal and philosophical reflection that focuses on what it means to do history, though it's witty and it meanders enjoyably along the way. Chapter 4 and its emphasis on staying attached to reality, over theoretical purity and elegance, resonated with me. Some of the conclusions in Chapter 5 seem invalid to me, but I suppose this is because my job is to predict and influence the future (i.e. make policy), and the author is very clear that he doesn't think this is the job of a historian.  
+This book is good fun. It's a personal and philosophical reflection that focuses on what it means to do history, though it's witty and it meanders enjoyably along the way. Chapter 4 and its emphasis on staying attached to reality, over theoretical purity and elegance, resonated with me. Some of the conclusions in Chapter 5 seem invalid to me, but I suppose this is because my job is to predict and influence the future (i.e. make policy), and the author is very clear that he doesn't think this is the job of a historian.  
 
 ## Science  
 
@@ -419,25 +421,25 @@ april 2024 -> end of 2024
 <details>
   <summary> The Little Book of Aliens (Adam Frank)  </summary>
 
-> Verdict: A/A+. Holy moly science is cool! Extremely well written, great science communication, actually very funny on occasion. ("Once people realised what was going on, they got together, held hands, sang Kumbaya, and then severely curtailed the production of CFCs.") Cool how it covers both formal SETI and the UFO stuff. I like the rigour in the history bits. I really vibe with how the author thinks about science and empirical questions. (The point about climate change being a natural consequence of generating energy given the second law - hadn't thought about it that way bit makes perfect sense. And TIL that extra dimensions as a different plane of existence first caught hold after public reporting of general relativity, especially given seance-y type spirituality communities at the time.)  
+Verdict: A/A+. Holy moly science is cool! Extremely well written, great science communication, actually very funny on occasion. ("Once people realised what was going on, they got together, held hands, sang Kumbaya, and then severely curtailed the production of CFCs.") Cool how it covers both formal SETI and the UFO stuff. I like the rigour in the history bits. I really vibe with how the author thinks about science and empirical questions. (The point about climate change being a natural consequence of generating energy given the second law - hadn't thought about it that way bit makes perfect sense. And TIL that extra dimensions as a different plane of existence first caught hold after public reporting of general relativity, especially given seance-y type spirituality communities at the time.)  
 
 </details>
 <details>
   <summary> Conscious: A Brief Guide to the Fundamental Mystery of the Mind (Annaka Harris)  </summary>
 
-> Verdict: B. Decent overview, but doesn't go into the details of the relevant arguments as much as I would have liked, so the logic is a bit jumpy and incomplete. Some of the arguments were weak. There's a strong subtheme on panpsychism, which is fine for what it is.  
+Verdict: B. Decent overview, but doesn't go into the details of the relevant arguments as much as I would have liked, so the logic is a bit jumpy and incomplete. Some of the arguments were weak. There's a strong subtheme on panpsychism, which is fine for what it is.  
 
 </details>
 <details>
   <summary> The Character of Physical Law (Richard Feynman)  </summary>
 
-> Verdict: A. The final lecture was a bit weaker, but all other lectures were so strong that it's overall very good.  
+Verdict: A. The final lecture was a bit weaker, but all other lectures were so strong that it's overall very good.  
 
 </details>
 <details>
   <summary> From Eternity to Here (Sean Carroll)  </summary>
 
-> Verdict: A. Completely amazing. Top-notch science communication too. The only real weakness is that the physics gets very very detailed and complicated.  
+Verdict: A. Completely amazing. Top-notch science communication too. The only real weakness is that the physics gets very very detailed and complicated.  
 
 ## Religion and Philosophy  
 
@@ -445,118 +447,118 @@ april 2024 -> end of 2024
 <details>
   <summary> Following the Red Bird: First Steps into a Life of Faith (Kate H. Rademacher)  </summary>
 
-> Great read, didn't touch me as deeply as the other book of hers that I read but still many nuggets of gold.  
-> "embracing a life of service and devotion"  
-> "There's always God's next call." "A gift that only they can give. A contribution that only they can make."  
-> God as looking for how we respond to tension with the conflicting views of others, whose callings may be as legitimate as ours: "paradoxical, radical love" (in some ways it makes me think of when soccer players pray on the pitch)  
-> self-promotion and being something (competitive hustle culture, "spectacular") vs "called to serve, not to be serve" and "he who is last will be first" (makes me think of baubles - we are worth more than that, hence doing worthy things, i.e. serving others)  
-> "How does one receive accolades and advancement with a spiritually pure heart?" - can having influence and legitimacy in the public arena be a way to serve others?  
-> sabbath as sacrifice and the passage in John (?) that the branches that bear fruit are pruned to make them bear more fruit  
-> Borg: "divine intention" and "divine interaction" (as opposed to divine intervention)  
+Great read, didn't touch me as deeply as the other book of hers that I read but still many nuggets of gold.  
+"embracing a life of service and devotion"  
+"There's always God's next call." "A gift that only they can give. A contribution that only they can make."  
+God as looking for how we respond to tension with the conflicting views of others, whose callings may be as legitimate as ours: "paradoxical, radical love" (in some ways it makes me think of when soccer players pray on the pitch)  
+self-promotion and being something (competitive hustle culture, "spectacular") vs "called to serve, not to be serve" and "he who is last will be first" (makes me think of baubles - we are worth more than that, hence doing worthy things, i.e. serving others)  
+"How does one receive accolades and advancement with a spiritually pure heart?" - can having influence and legitimacy in the public arena be a way to serve others?  
+sabbath as sacrifice and the passage in John (?) that the branches that bear fruit are pruned to make them bear more fruit  
+Borg: "divine intention" and "divine interaction" (as opposed to divine intervention)  
 
 </details>
 <details>
   <summary> Reclaiming Rest: The Promise of Sabbath, Solitude, and Stillness in a Restless World (Kate H. Rademacher)  </summary>
 
-> Specifically reading chapters 3, 7, 9, 13, and 15 through 17.  
-> Verdict: Unambiguously A+. Really outstanding. This book is lovely and beautiful and touching and it makes me feel very seen - the author has a way with words. Beautiful global perspective and deep mindfulness of history and historical legacies. I think I'll be coming back to this book for many years.
-> On the seventh day, God created _menuha_ (rest/peace/tranquility). Until the sabbath was created, creation was not complete.  
-> sabbath as an immense privilege, and thus it feels weird to rest even as an advocate; the author's story of spending sabbath in a hotel in Nigeria manned by armed guards; doesn't shy away from the grief and despair about the modern world (see ch13 and 15 especially); "for many people, prayer and social justice work are inexplicably linked"; a protest where there was a memorial of silence for the duration of George Floyd's being choked to death, wow.; and the last chapter  
-> the author works in global public health! TIL Nigeria is projected to be the third most populous country by 2050!  
-> "silence and solitude are universally recognised spiritual practices" [and silence and solitude as preserving energy] - elizabeth gilbert  
-> the bit about the total eclipse does an incredible job of putting into words what I have experienced but could not describe: "The experience was similar to what my sabbath year had given me: a new view of a familiar landscape, a glimpse of a different way of life, a life with more quiet and stillness and more space and time for God. [...] We no longer see ourselves as the centre of the universe. Instead, we experience a new alignment of the the heavenly bodies and, in the process, discover a transformed landscape on the Earth below."  
-> time confetti vs time serenity (Schulte)  
-> aspects of dual belonging: "a Jesus-infused version of a Buddhist meditation practice" (she has a Buddhist husband); then "becoming bilingual" in the language of secular humanism and the language of faith "maybe the world needs both"; "I needed a theology of work and rest that puts God's grace at the centre of things" esp ch17 quote from her cousin: "We can prepare the soil and plant the seed, but we don't make the plants grow. That's where the divine comes in." Wow.  
-> lectio divina in the author's daily prayer practice as a way to listen, just a couple of lines of scripture  
-> baptism as a tomb for the self  
-> Wilberforce (!!!) was a massive sabbath fan and advocated strongly for rest  
+Specifically reading chapters 3, 7, 9, 13, and 15 through 17.  
+Verdict: Unambiguously A+. Really outstanding. This book is lovely and beautiful and touching and it makes me feel very seen - the author has a way with words. Beautiful global perspective and deep mindfulness of history and historical legacies. I think I'll be coming back to this book for many years.
+On the seventh day, God created _menuha_ (rest/peace/tranquility). Until the sabbath was created, creation was not complete.  
+sabbath as an immense privilege, and thus it feels weird to rest even as an advocate; the author's story of spending sabbath in a hotel in Nigeria manned by armed guards; doesn't shy away from the grief and despair about the modern world (see ch13 and 15 especially); "for many people, prayer and social justice work are inexplicably linked"; a protest where there was a memorial of silence for the duration of George Floyd's being choked to death, wow.; and the last chapter  
+the author works in global public health! TIL Nigeria is projected to be the third most populous country by 2050!  
+"silence and solitude are universally recognised spiritual practices" [and silence and solitude as preserving energy] - elizabeth gilbert  
+the bit about the total eclipse does an incredible job of putting into words what I have experienced but could not describe: "The experience was similar to what my sabbath year had given me: a new view of a familiar landscape, a glimpse of a different way of life, a life with more quiet and stillness and more space and time for God. [...] We no longer see ourselves as the centre of the universe. Instead, we experience a new alignment of the the heavenly bodies and, in the process, discover a transformed landscape on the Earth below."  
+time confetti vs time serenity (Schulte)  
+aspects of dual belonging: "a Jesus-infused version of a Buddhist meditation practice" (she has a Buddhist husband); then "becoming bilingual" in the language of secular humanism and the language of faith "maybe the world needs both"; "I needed a theology of work and rest that puts God's grace at the centre of things" esp ch17 quote from her cousin: "We can prepare the soil and plant the seed, but we don't make the plants grow. That's where the divine comes in." Wow.  
+lectio divina in the author's daily prayer practice as a way to listen, just a couple of lines of scripture  
+baptism as a tomb for the self  
+Wilberforce (!!!) was a massive sabbath fan and advocated strongly for rest  
 
 </details>
 <details>
   <summary> Letters to a Young Poet (Rilke)  </summary>
 
-> Amazing. The writing has outstanding beauty. Covers many topics—producing art but also love, sexuality, religion, human existence, sadness. "But what may one day be possible for many, the solitary can prepare for, and build with hands less prone to error. So, my dear sir, love solitude and enjoy the pain it brings with lovely sound of lament. [...] solitude will be a haven and home to you."  
+Amazing. The writing has outstanding beauty. Covers many topics—producing art but also love, sexuality, religion, human existence, sadness. "But what may one day be possible for many, the solitary can prepare for, and build with hands less prone to error. So, my dear sir, love solitude and enjoy the pain it brings with lovely sound of lament. [...] solitude will be a haven and home to you."  
 
 </details>
 <details>
   <summary> The Power of Thank You: Discover the Joy of Gratitude (Joyce Meyer)  </summary>
 
-> Decent, maybe a B/B-, does what it says on the tin. I think this author would get along with Thich Nhat Hanh. I don't agree with everything the author says or how they say it, but there are some true nuggets of gold.  
-> Being thankful for all things at all times (1 Thess) as a sign of spiritual maturity.  
-> "Be thankful, and say so" (Ps) - people cannot read your mind! this is a way to help reduce negative self-talk in the minds of people close to you.  
-> The idea of not wishing for others' problems to go away/praying that they can bear whatever they are facing: while I get and mostly sympathise with what the author means, I disagree with applying this belief to anything other than mild problems, and to me this belief is a sign that someone has not experienced high-intensity suffering (I think the commentary on Job I read a few months back gives this a much more sober treatment). (Update: this view of mine was very incorrect, see ch3 and ch5.)  
-> the anecdote of the homeless guy who was grateful to be able to feed the birds - how touching!  
-> presence, not presents  
-> the uncritical analysis of Esther in ch6 felt weird considering how bloodthirsty that book is, though I am certainly not well-informed about that book and how it should be interpreted (same with Chronicles in ch12)  
-> giving as a privilege  
-> patience - you are not always ready for what you ask for  
-> the bit about the moral decline of the United States felt a bit strange/out of place and fell into oversimplification and the "good old days" trap  
+Decent, maybe a B/B-, does what it says on the tin. I think this author would get along with Thich Nhat Hanh. I don't agree with everything the author says or how they say it, but there are some true nuggets of gold.  
+Being thankful for all things at all times (1 Thess) as a sign of spiritual maturity.  
+"Be thankful, and say so" (Ps) - people cannot read your mind! this is a way to help reduce negative self-talk in the minds of people close to you.  
+The idea of not wishing for others' problems to go away/praying that they can bear whatever they are facing: while I get and mostly sympathise with what the author means, I disagree with applying this belief to anything other than mild problems, and to me this belief is a sign that someone has not experienced high-intensity suffering (I think the commentary on Job I read a few months back gives this a much more sober treatment). (Update: this view of mine was very incorrect, see ch3 and ch5.)  
+the anecdote of the homeless guy who was grateful to be able to feed the birds - how touching!  
+presence, not presents  
+the uncritical analysis of Esther in ch6 felt weird considering how bloodthirsty that book is, though I am certainly not well-informed about that book and how it should be interpreted (same with Chronicles in ch12)  
+giving as a privilege  
+patience - you are not always ready for what you ask for  
+the bit about the moral decline of the United States felt a bit strange/out of place and fell into oversimplification and the "good old days" trap  
 
 </details>
 <details>
   <summary> Hyperefficient (Mithu Storoni)  </summary>
 
-> (see dedicated blog post for my take)  
+(see dedicated blog post for my take)  
 
 </details>
 <details>
   <summary> Every Day Matters (Brandon D. Crowe)  </summary>
 
-> Pretty bread and butter for the genre, but well-balanced and just generally moderate/sensible in a way that is strangely rare in the genre.  
-> I enjoy the mix of wisdom literature (Proverbs and Ecclesiastes) and New Testament stuff (even if it is Paul! But I can see why the author chose Paul given the topic). I chose this because the author is a professor and I think it's more relevant for me for that reason.  
-> "I'm called to love and serve my wife"  
-> Biblical productivity must be guided by the two great commands: loving God and loving your neighbour (Mt 22).  
-> From those to whom lots has been entrusted, lots will be required. (L)  
-> There's a season of life for working hard and a season of life for resting (Ecc)  
-> Humans are always limited (and thus we can't ever achieve everything we would like - reminds me of 4000 Weeks idea of giving up hope//Camus's Sisyphus) and our plans are only best guesses, not guarantees; enjoy the gifts of life (and make time to do this each day! Including sleep, which is a gift) but God is in control (Ecc)  
-> Paul didn't measure his success by worldly standards; faced hardships and criticism by his contemporaries; but his work is still bearing fruit today  
-> "Sometimes failure in the eyes of the world is success in the eyes of God."  
-> So don't be afraid of hard work, but also work smarter and more strategically  
-> Focus, and even be happy to remain under the radar  
-> "You are responsible for yourself, and you must take that task seriously"  
-> Bible verses for each of your purposes  
-> what you do is who you are; your actions reflect your true priorities; your calendar needs to reflect your stated priorities  
-> Success in family can't be measured in the same way as success in the professional world  
-> You will not regret spending time with your family  
-> Rest  
-> Caring for body - energy and health  
-> Daily spiritual discipline  
+Pretty bread and butter for the genre, but well-balanced and just generally moderate/sensible in a way that is strangely rare in the genre.  
+I enjoy the mix of wisdom literature (Proverbs and Ecclesiastes) and New Testament stuff (even if it is Paul! But I can see why the author chose Paul given the topic). I chose this because the author is a professor and I think it's more relevant for me for that reason.  
+"I'm called to love and serve my wife"  
+Biblical productivity must be guided by the two great commands: loving God and loving your neighbour (Mt 22).  
+From those to whom lots has been entrusted, lots will be required. (L)  
+There's a season of life for working hard and a season of life for resting (Ecc)  
+Humans are always limited (and thus we can't ever achieve everything we would like - reminds me of 4000 Weeks idea of giving up hope//Camus's Sisyphus) and our plans are only best guesses, not guarantees; enjoy the gifts of life (and make time to do this each day! Including sleep, which is a gift) but God is in control (Ecc)  
+Paul didn't measure his success by worldly standards; faced hardships and criticism by his contemporaries; but his work is still bearing fruit today  
+"Sometimes failure in the eyes of the world is success in the eyes of God."  
+So don't be afraid of hard work, but also work smarter and more strategically  
+Focus, and even be happy to remain under the radar  
+"You are responsible for yourself, and you must take that task seriously"  
+Bible verses for each of your purposes  
+what you do is who you are; your actions reflect your true priorities; your calendar needs to reflect your stated priorities  
+Success in family can't be measured in the same way as success in the professional world  
+You will not regret spending time with your family  
+Rest  
+Caring for body - energy and health  
+Daily spiritual discipline  
 
 </details>
 <details>
   <summary> Hearing the Message of Ecclesiastes (Christopher J. H. Wright)  </summary>
 
-> Excellent. Academically rigorous but still grounded in the burning desire to figure out what the hell is going on with life. Doesn't shy away from the tough questions: "it's not just a world that baffles our understanding; it's also a world we can't bear to look at for very long", "a heart filled with grief and anger... it is just plain wrong, intolerably so". And very well-written and memorable, on par with some of the stronger science communicators. The idea of idleness/being deprived of work (broadly interpreted) as "dehumanizing to some degree". Wisdom and education and even pleasure are commended in Scripture, but do not contain the truth about life. The idea of a "faith-life balance". The idea of Kohelet as saying things that are true, but not the whole truth - what we can see and reason in our immediately surroundings is not the whole story - this challenging book (along with Job and Lamentations) is included as part of Scripture for a reason, but it is also only part of Scripture.  
+Excellent. Academically rigorous but still grounded in the burning desire to figure out what the hell is going on with life. Doesn't shy away from the tough questions: "it's not just a world that baffles our understanding; it's also a world we can't bear to look at for very long", "a heart filled with grief and anger... it is just plain wrong, intolerably so". And very well-written and memorable, on par with some of the stronger science communicators. The idea of idleness/being deprived of work (broadly interpreted) as "dehumanizing to some degree". Wisdom and education and even pleasure are commended in Scripture, but do not contain the truth about life. The idea of a "faith-life balance". The idea of Kohelet as saying things that are true, but not the whole truth - what we can see and reason in our immediately surroundings is not the whole story - this challenging book (along with Job and Lamentations) is included as part of Scripture for a reason, but it is also only part of Scripture.  
 
 </details>
 <details>
   <summary> The Myth of Sisyphus (Camus)  </summary>
 
-> I find the writing a little bit hard to follow, but I think I vibe with the book on balance. The absurd: the futility of the search for meaning in an indifferent universe that refuses to provide it ("unreasonable silence"). The absurd does not justify suicide; it justifies revolt, freedom, and passion - embracing all that life and the unreasonable world has to offer. "... whether or not life had to have a meaning to be lived. It now becomes clear on the contrary that it will be lived all the better if it has no meaning. [..] One of the only coherent philosophical positions is thus revolt. It is a constant confrontation between man and his own obscurity." And suicide does not represent the logical outcome (neither does being a dick - Camus was certainly no moral relativist, but it seems that what we think of as "morality" is not the topic of the book). So more like just leaning into it and Living Your Life, not accepting some external system of moral philosophy as literally and externally valid (= philosophical suicide) but looking the absurdist tension in the face and just doing what you dedicate yourself to, while being aware that that activity is still meaningless. The best example: Camus' love of soccer. (Criticises Kierkegaard for abandoning reason, though I think there are more similarities than Camus would admit: "Seeking what is true is not seeking what is desirable. [...] The absurd mind, rather than resigning itself to falsehood, prefers to adopt fearlessly Kierkgaard's reply: despair.")  
+I find the writing a little bit hard to follow, but I think I vibe with the book on balance. The absurd: the futility of the search for meaning in an indifferent universe that refuses to provide it ("unreasonable silence"). The absurd does not justify suicide; it justifies revolt, freedom, and passion - embracing all that life and the unreasonable world has to offer. "... whether or not life had to have a meaning to be lived. It now becomes clear on the contrary that it will be lived all the better if it has no meaning. [..] One of the only coherent philosophical positions is thus revolt. It is a constant confrontation between man and his own obscurity." And suicide does not represent the logical outcome (neither does being a dick - Camus was certainly no moral relativist, but it seems that what we think of as "morality" is not the topic of the book). So more like just leaning into it and Living Your Life, not accepting some external system of moral philosophy as literally and externally valid (= philosophical suicide) but looking the absurdist tension in the face and just doing what you dedicate yourself to, while being aware that that activity is still meaningless. The best example: Camus' love of soccer. (Criticises Kierkegaard for abandoning reason, though I think there are more similarities than Camus would admit: "Seeking what is true is not seeking what is desirable. [...] The absurd mind, rather than resigning itself to falsehood, prefers to adopt fearlessly Kierkgaard's reply: despair.")  
 
 </details>
 <details>
   <summary> Forgiveness: Finding Peace Through Letting Go (Adam Hamilton)  </summary>
 
-> Really beautiful and well written. I like the image of sin as straying from the path or missing the mark. And sin - and not seeking forgiveness - as a burden, like carrying a backpack full of pebbles; so seeking forgiveness is the way to be set free. Putting justice in God's hands. Tillich: "Forgiveness is God's answer to the question of human existence." Of course: "Forgive us our trespasses/debts, as we have forgiven those who trespass/debt against us." "Father, forgive them, for they know not what they do." "Love your enemies, and pray for those who persecute you."  
+Really beautiful and well written. I like the image of sin as straying from the path or missing the mark. And sin - and not seeking forgiveness - as a burden, like carrying a backpack full of pebbles; so seeking forgiveness is the way to be set free. Putting justice in God's hands. Tillich: "Forgiveness is God's answer to the question of human existence." Of course: "Forgive us our trespasses/debts, as we have forgiven those who trespass/debt against us." "Father, forgive them, for they know not what they do." "Love your enemies, and pray for those who persecute you."  
 
 </details>
 <details>
   <summary> An Anthology of Poetry by Buddhist Nuns of Late Imperial China (Beata Grant)  </summary>
 
-> Banger  
+Banger  
 
 </details>
 <details>
   <summary> The Meaning of Jesus: Two Visions (Wright and Borg)  </summary>
 
-> B. It's fine. It mostly does what it says, though there is less focus on the specific points of disagreement than I'd hoped. There are many gems from both authors, though the arguments of Wright frequently struck me as poorly argued, rambling, and occasionally incoherent (and Wright's glorification of how Christianity influences politics in Africa struck me as uncomfortable, given e.g. the death penalty used against queer people).  
+B. It's fine. It mostly does what it says, though there is less focus on the specific points of disagreement than I'd hoped. There are many gems from both authors, though the arguments of Wright frequently struck me as poorly argued, rambling, and occasionally incoherent (and Wright's glorification of how Christianity influences politics in Africa struck me as uncomfortable, given e.g. the death penalty used against queer people).  
 
 </details>
 <details>
   <summary> The Novice (Thich Nhat Hanh)  </summary>
 
-> A wonderful and deep teaching on equanimity.  
+A wonderful and deep teaching on equanimity.  
 
 ## Misc  
 
@@ -564,13 +566,13 @@ april 2024 -> end of 2024
 <details>
   <summary> What Comes After (Joanne Tompkins)  </summary>
 
-> Verdict: A, maybe A- given the triggering content. Quakers and the PNW, what else can you ask for? Beautiful writing, very touching. I really like Isaac and Evangeline, beautiful characters. The religion content is very interesting. I like Isaac's distinction between meditation and discernment. The descriptions of the landscape are beautiful. "We name our villains, and then treat them in a way that proves us prophets." "It seemed such a normal thing, this invitation. It was a wonder Evangeline didn't cry." Picked due to narrators. A bit tricky to dodge the triggering content, which was often difficult and challenging to read (animal cruelty in Ch12 and 13 and others, and some domestic violence and sexual assault content too). The dog dies in Ch59 and Ch60. I stopped reading at that point.  
+Verdict: A, maybe A- given the triggering content. Quakers and the PNW, what else can you ask for? Beautiful writing, very touching. I really like Isaac and Evangeline, beautiful characters. The religion content is very interesting. I like Isaac's distinction between meditation and discernment. The descriptions of the landscape are beautiful. "We name our villains, and then treat them in a way that proves us prophets." "It seemed such a normal thing, this invitation. It was a wonder Evangeline didn't cry." Picked due to narrators. A bit tricky to dodge the triggering content, which was often difficult and challenging to read (animal cruelty in Ch12 and 13 and others, and some domestic violence and sexual assault content too). The dog dies in Ch59 and Ch60. I stopped reading at that point.  
 
 </details>
 <details>
   <summary> Suicide and the Meaning of Civilization (T. G. Masaryk)  </summary>
 
-> Got about 1/3 of the way through. I gather that the gist of his argument is that suicide might be influenced to some small extent by material and physical conditions, but the primary explanation is to do with spirituality in society. The whole idea that suicide is a moral failing or weakness and that it happens in response to invariably trivial events is a bit cracked. You definitely get the sense that this is an Old World Gentleman! e.g. some very colonial language; mentioning that "the primitives" don't commit suicide; Buddhism causes suicide; "it has been proved that the educated classes practice marriage most morally" hahahahaha! (I'm reminded of the line in Lee Kuan Yew's memoirs where he claimed that Singapore has no sex workers. Like, give me a break!) It's also funny that Masaryk (writing in the late 1800s) mourns the decline of virtue and morality at the expense of materialism! Some of the arguments border on eugenics, a real shame. And you can forgive a guy for the inconsistent treatment of confounding variables. Still, fairly impressive and systematic/data-driven as far as 19th century monographs on sensitive social issues go.  </details>
+Got about 1/3 of the way through. I gather that the gist of his argument is that suicide might be influenced to some small extent by material and physical conditions, but the primary explanation is to do with spirituality in society. The whole idea that suicide is a moral failing or weakness and that it happens in response to invariably trivial events is a bit cracked. You definitely get the sense that this is an Old World Gentleman! e.g. some very colonial language; mentioning that "the primitives" don't commit suicide; Buddhism causes suicide; "it has been proved that the educated classes practice marriage most morally" hahahahaha! (I'm reminded of the line in Lee Kuan Yew's memoirs where he claimed that Singapore has no sex workers. Like, give me a break!) It's also funny that Masaryk (writing in the late 1800s) mourns the decline of virtue and morality at the expense of materialism! Some of the arguments border on eugenics, a real shame. And you can forgive a guy for the inconsistent treatment of confounding variables. Still, fairly impressive and systematic/data-driven as far as 19th century monographs on sensitive social issues go.  </details>
 
 ## 2023-2024  
 august 2023 -> april 2024  
