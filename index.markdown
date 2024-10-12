@@ -34,4 +34,4 @@ Years lived: 33%...
 
 ## Blog
 *RSS feed [here](feed.xml)*  
-(This is a place where I share hot takes and tidbits for my friends and family. Unlike in my longer work above, I'm making no attempt to be rigorous. Every topic I mention has been explored—and critiqued!—with much more rigour elsewhere.)  
+(This is a place where I share hot takes and tidbits. I'm making no attempt to be rigorous—these are much closer to journal entries than academic publications. Every topic I mention has been explored—and critiqued!—with much more rigour elsewhere.)  
