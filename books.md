@@ -179,9 +179,11 @@ The first book is outstanding, masterful. I don't know how Salinger can write a 
 
 Did not finish. Struggled to get into this one. I picked this due to the narrator being Kirby Heybourne.  
 
-## Queer fiction  
 
 </details>
+
+## Queer fiction
+
 <details>
   <summary> The Pairing (Casey McQuiston)  </summary>
 
@@ -336,11 +338,12 @@ Verdict: B/B-, but stopped at 50%. Good fun. Mostly well-written, I think I enjo
 <details>
   <summary> The Romance Recipe (Ruby Barrett)  </summary>
 
-Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a bit difficult to understand / zero to sixty. More smut than I expected. The vegan content is fun! The lobster analogy was quite regrettable. "I'm a 27-year old woman but his tone alone makes me feel like a kid." "The things I want are smaller than that."  
-
-## Politics and history  
+Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a bit difficult to understand / zero to sixty. More smut than I expected. The vegan content is fun! The lobster analogy was quite regrettable. "I'm a 27-year old woman but his tone alone makes me feel like a kid." "The things I want are smaller than that."   
 
 </details>
+
+## Politics and history
+
 <details>
   <summary> Protestantism: A Very Short Introduction (Mark A. Noll)  </summary>
 
@@ -415,9 +418,10 @@ Verdict: A+. Masterpiece, extremely detailed and well-researched. I particularly
 
 This book is good fun. It's a personal and philosophical reflection that focuses on what it means to do history, though it's witty and it meanders enjoyably along the way. Chapter 4 and its emphasis on staying attached to reality, over theoretical purity and elegance, resonated with me. Some of the conclusions in Chapter 5 seem invalid to me, but I suppose this is because my job is to predict and influence the future (i.e. make policy), and the author is very clear that he doesn't think this is the job of a historian.  
 
+</details>
+
 ## Science  
 
-</details>
 <details>
   <summary> The Little Book of Aliens (Adam Frank)  </summary>
 
@@ -439,11 +443,12 @@ Verdict: A. The final lecture was a bit weaker, but all other lectures were so s
 <details>
   <summary> From Eternity to Here (Sean Carroll)  </summary>
 
-Verdict: A. Completely amazing. Top-notch science communication too. The only real weakness is that the physics gets very very detailed and complicated.  
-
-## Religion and Philosophy  
+Verdict: A. Completely amazing. Top-notch science communication too. The only real weakness is that the physics gets very very detailed and complicated.   
 
 </details>
+
+## Religion and Philosophy
+
 <details>
   <summary> Following the Red Bird: First Steps into a Life of Faith (Kate H. Rademacher)  </summary>
 
@@ -560,9 +565,10 @@ B. It's fine. It mostly does what it says, though there is less focus on the spe
 
 A wonderful and deep teaching on equanimity.  
 
+</details>
+
 ## Misc  
 
-</details>
 <details>
   <summary> What Comes After (Joanne Tompkins)  </summary>
 
