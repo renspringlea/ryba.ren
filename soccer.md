@@ -45,7 +45,7 @@ source: [matildas](https://www.matildas.com.au/)
 
 ## not-soccer
 ~~~~~~
-2024-10  begin wnbl  
+2024-10-30  begin wnbl (espn or 9now)  
 2025-01  begin unrivalled  
 ~~~~~~
 

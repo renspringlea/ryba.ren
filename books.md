@@ -17,6 +17,20 @@ List of greatest novels ever written, according to Ren (no particular oder):
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
+<details>
+  <summary>Hapworth 16, 1924 (J. D. Salinger)</summary>  
+> I don't think this is bad like the critics say; it doesn't feel that different from the rest of his stories and novellas. Maybe I just like slice of life stories more than the average critic. I admit some of the content isn't terribly believable (especially the 7-year-old narrator talking repeatedly in detail about young women and their virginity, and the whole thing with the books - I'm simply pretending the narrator is 17 or 27) but it definitely has some gems  
+> "This has the hallmarks of being one of the future despairs of my life" hahaha  
+> "For all our extreme youth, we remain quite vulnerable, amusing foils where gorgeous, untalented girls are concerned. I'm working on it, but it is a fairly severe problem."  
+> "A fine, undisguised Australian accent does not seem to lend itself quite freely to arousing affectionate regard. It is practically foolproof against pleasing or diverting for its own sake. This is a sad state of affairs [...] If you can possibly do it without unhappiness, excessive strain, or the feeling that you are slighting or offending the decent, charming Australian people of your childhood, please keep your accent off the record." LOL  
+</details>
+- Big Sur (Jack Kerouac)  
+> Verdict: A+/C-.  
+> SO funny! The entire passage in ch11 about the bidets and the share house hahahahaha! "George and his theories about erogenous Buddha" hahahaha  
+> It's also distasteful in a weird way. Can't tell if it's a profound work of art or three drunk guys in a trench coat (Kerouac's biography points towards the latter). Like what would the author have written if he weren't an alcoholic?  
+> Lots in common with Catcher - it's essentially a slice of life story depicting an unfolding existential crisis, though death and alcohol rather than alienation and innocence  
+> "'You want to be a hermit, you say, but you don't do it much, I noticed, you're just tired of life and want to sleep.'"  
+> The cat dies (among many other animals). The occasional content about Japanese people feels a bit weird, other random bits like that (the 10-year-old girl??).  
 - Journal of a Solitude (May Sarton)  
 > It's fine, not great. Does what it says on the tin. It's the journal of a poet, so naturally beautiful/touching writing. It's about solitude, depression, writing, gardening, feminism, postwar society, life. I'm not sure I'd actually get along with the author! The bird dies.  
 - East of Eden (John Steinbeck)  
