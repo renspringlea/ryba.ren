@@ -58,3 +58,18 @@ Rosemary is a small bear with a big heart. She was lying all soggy and cold on t
 ![rosemary.jpg](/assets/images/rosemary.jpg){: width='400' }  
   
 
+## Cherry  
+Cherry is shy. She loves fashion and the colour pink. Her favourite time of year is spring when the cherry blossom comes out.  
+![cherry.jpg](/assets/images/cherry.jpg){: width='400' }  
+  
+
+## Libby  
+Libby loves meditating and teaching and helping her friends with meditation. She's so patient and calm and considerate of everyone. She loves doing helping.  
+![libby.jpg](/assets/images/libby.jpg){: width='400' }  
+  
+
+## Perry  
+Perry is a cuddle bug! They are happiest when they are snuggled up with others. They love to be warm and cosy in their dressing gown and slippers.  
+![perry.jpg](/assets/images/perry.jpg){: width='400' }  
+  
+
