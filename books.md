@@ -18,6 +18,12 @@ List of greatest novels ever written, according to Ren (no particular order):
 april 2024 -> end of 2024  
 ## Classics  
 <details>
+  <summary>The Looking Glass War (John le Carré, BBC radio dramatisation)</summary>
+
+Good fun, not much more than that. I enjoyed having Palpatine, what a wonderful actor! Poor old Sarah.
+</details>
+
+<details>
   <summary>Hapworth 16, 1924 (J. D. Salinger)</summary>  
 
 I don't think this is bad like the critics say; it doesn't feel that different from the rest of his stories and novellas. Maybe I just like slice of life stories more than the average critic. I admit some of the content isn't terribly believable (especially the 7-year-old narrator talking repeatedly in detail about young women and their virginity, and the whole thing with the books - I'm simply pretending the narrator is 17 or 27) but it definitely has some gems  
@@ -343,6 +349,23 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 </details>
 
 ## Politics and history
+
+<details>
+  <summary>The Earliest History of the Christian Gathering: Origin, Development and Content of the Christian Gathering in the First to Third Centuries (Valeriy A. Alikin)</summary>
+
+> reading ch1-3
+> originally essentially a supper on Sunday evenings, in the tradition of meal -> symposium common in the greco-roman world in all sorts of religious cults and associations or clubs
+> sunday was a working day until 325 CE when Constantine made it a day of rest
+> the Christian meeting was held on Sunday evening after work (being the first possible opportunity after the Saturday evening sabbath meal, so it's additional to the sabbath, not a continuation of it); there was a festive vibe to this meeting and this made the whole sunday special
+> meeting houses, private houses (by far the most common!), rooms, or precincts of temples; "adapted themselves to the spaces available"
+> gave way to Eucharist on Sunday morning, open to everyone who was baptised (!) in contrast to the more exclusive (even if for purely logistical reasons) Sunday evening meals which continued though more of a charity meal
+> the author argues that the Eucharist originates from an earlier communal meal, and the association with Jesus' body and blood and the tradition of Jesus having instituted the meal are later developments (!)
+> the Last Supper, including the episode in the Gospels, is thus a later development (though still very early!) to explain a pre-existing community tradition, in the context of the community's existing view that Jesus died for them and that they are one with Jesus' body
+> the author reports that this view is widely accepted among scholars
+> in other words the communal meal (~ the Eucharist, which means thanksgiving) existed first, and the Last Supper story was created to explain the meal and give it meaning. so thanksgiving meal first, and only then body and blood and purported origin as Jesus's final meal.
+> not clear from the sources how the Eucharist was understood beforehand, though elements of thanksgiving, unity (everyone eating from one loaf)
+
+</details>
 
 <details>
   <summary> Protestantism: A Very Short Introduction (Mark A. Noll)  </summary>
