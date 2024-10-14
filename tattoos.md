@@ -97,3 +97,23 @@ Tattoo by Chiara (Feelin' Blue Tattoo). This one hurt lots.
 - Semi-colon, by Chiara (Feelin' Blue Tattoo). The meaning of this tattoo is explained [here](https://www.projectsemicolon.com/).  
 - Equals sign, by Maury Decay. I wanted to get something celebrating pride from Maury, as they're queer too.  
 ![sibling.jpg](/assets/images/(sibling.jpg){: width='600' }  
+
+## estrogen  
+Tattoo by Chiara (Feelin' Blue Tattoo). The chemical symbol for estrogen. I am a proud estrogen enjoyer.  
+![estrogen.jpg](/assets/images/(estrogen.jpg){: width='600' }  
+
+## florence nightingale  
+Tattoo by Chiara (Feelin' Blue Tattoo). This is the famous pie graph used by Florence Nightingale to communicate the impact of her hospital reforms on injured soldiers' death rates to British policymakers (story described in more detail [here](https://www.m-a.org.uk/resources/PE10CasualtiesofWar.pdf)). While Nightingale's use of pie graphs in this instance has been criticised (and I think pie graphs are, in fact, a rubbish way to visualise data and should never be used), it remains that this was a demonstration of Nightingale's outstanding ability to communicate statistical data to convince policymakers of the value of her reforms in preventing unnecessary suffering and death.  
+![florence.jpg](/assets/images/(florence.jpg){: width='600' }  
+
+## proto-indo-europeans  
+Tattoo by Chiara (Feelin' Blue Tattoo). This is a map, produced by David W. Anthony in the book The Horse, the Wheel, and Language. The map shows the hypothesised range of the homeland of the Yamnaya culture, who are believed to be speakers of the Proto-Indo-European language. This language is the common ancestor of all Indo-European languages, an astonishingly diverse language family containing English, the Romance languages, the Slavic languages, Greek, Sanskrit (!), the Iranian languages, and many others. The deep roots and shared similarities between these languages fascinates me. Today, the area illustrated in this graph is in eastern Ukraine and western Russia!  
+![protoindoeuropean.jpg](/assets/images/(protoindoeuropean.jpg){: width='600' }  
+
+## pulsar  
+Tattoo by Chiara (Feelin' Blue Tattoo). This is the famous pulsar map. This is part of the set of designs, created by the team consisting of Carl Sagan, Frank Drake, Linda Salzman Sagan, on board the [1972 and 1973 Pioneer spacecraft](https://en.wikipedia.org/wiki/Pioneer_plaque). The pulsar map was also used on the famous [golden record](https://en.wikipedia.org/wiki/Voyager_Golden_Record) on the two 1977 Voyager spacecraft.  
+![pulsar.jpg](/assets/images/(pulsar.jpg){: width='600' }  
+
+## station eleven  
+Tattoo by Chiara (Feelin' Blue Tattoo). This symbol is a recurring motif in the novel Station Eleven by Emily St. John Mandel (and the TV series adaptation of the novel). The symbol even appears as a tattoo on one of the characters! This is one of my favourite books and one of my favourite TV series.  
+![stationeleven.jpg](/assets/images/(stationeleven.jpg){: width='600' }  
