@@ -3,6 +3,7 @@ Artists:
 - Josh Darkly (Adelaide) [@joshdarkly](https://www.instagram.com/joshdarkly/?hl=en)  
 - Chiara (Feelin' Blue Tattoo) (Adelaide) [@feelin.blue.tattoo](https://www.instagram.com/feelin.blue.tattoo/)  
 - Matt Telford (Adelaide) [matttelfordart.com](https://www.matttelfordart.com/)  
+- Kacey Meg (Adelaide) [kaceymegtattoos.com](https://www.kaceymegtattoos.com/)  
 - Jessica Holmes (Adelaide) [@jessicaholmestattoo](https://www.instagram.com/jessicaholmestattoo/?hl=en)  
 - Scott Middlin (Adelaide) [@scottmiddlin](https://www.instagram.com/scottmiddlin/?hl=en)  
 - Maury Decay (London) [@maurydecay_tattoo](https://www.instagram.com/maurydecay_tattoos/?hl=en)  
@@ -32,6 +33,10 @@ This tattoo (along with the starbird from Star Wars, below, and the equals sign 
 ## star wars  
 Tattoo by Maury Decay. This is the starbird symbol from the animated TV series Star Wars: Rebels. Sabine Wren spray-paints this symbol everywhere in the show. Maury did an awesome job replicating this spray-paint style.  
 ![starwars.jpg](/assets/images/starwars.jpg){: width='300' }  
+
+## pokemon
+Tattoos by Kacey Meg. Teddiursa and Wooloo. These were pre-existing designs (one-offs) offered by Kacey. I found her portfolio absolutely outstanding, and these two tattoos turned out very well too. I intend to add to these by asking Kacey to do Absol and Cubone at some point.  
+![pokemon.jpg](/assets/images/pokemon.jpg){: width='300' }  
 
 ## philosophy symbols; i think  
 The top two symbols are ones that I created. The first symbol represents the Buddhist Discourse on the Simile of the Saw. The schematic picture of a saw hides the characters M and N and the numerals II and I, to represent this Discourse's location in the Pali canon (Majjhima Nikaya 21). The second symbol represents the Sermon on the Mount. The schematic picture of a mountain hides the characters M and 5 (Matthew 5).  
