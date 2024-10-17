@@ -189,6 +189,12 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 </details>
 
 ## Queer fiction
+<details>
+  <summary> The Long Way to a Small, Angry Planet (Becky Chambers) (R)</summary>
+
+Still a strong A, perhaps A+; as good and fun as I remember! One of my favourite realistic/near-future scifi worlds. There is a deep beauty in the world and the characters - I love how much care the author has taken in fleshing out the world and how it's extremely realistic but hopeful. Wonderfully slice-of-lifey; this book is like a warm hug. (Re-read.)
+
+</details>
 
 <details>
   <summary> The Pairing (Casey McQuiston)  </summary>
