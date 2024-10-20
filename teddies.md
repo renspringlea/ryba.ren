@@ -73,3 +73,43 @@ Perry is a cuddle bug! They are happiest when they are snuggled up with others. 
 ![perry.jpg](/assets/images/perry.jpg){: width='400' }  
   
 
+## Baby-Tigger  
+Baby Tigger is a member of the infamous Mischief Squad (Baby Tigger, Caterpillar, Ratty, Rattwo, Rosemary). He is a small Tigger with big ideas for causing mischief. He loves snacks and loves his friends, but most of all loves being tucked into bed after a long day of having fun.  
+![baby-tigger.jpg](/assets/images/baby-tigger.jpg){: width='400' }  
+  
+
+## Bride  
+Bride loves love. She is the sweetest, most loving bear and is often caring for the younger ones. She is also very happy to give fashion advice, if asked.  
+![bride.jpg](/assets/images/bride.jpg){: width='400' }  
+  
+
+## Ollie  
+Ollie enjoys going schlump to stick to people's heads. He's a cheeky mischief maker!  
+![ollie.jpg](/assets/images/ollie.jpg){: width='400' }  
+  
+
+## Patty  
+Patty is a shy platypus. He likes to watch what others are doing. He loves 1:1 attention and cuddles.  
+![patty.jpg](/assets/images/patty.jpg){: width='400' }  
+  
+
+## Pooh-As-Tigger  
+Pooh as Tigger, what can I say.... They're a cheeky one! They love causing mischief with their bestie Tigger as Pooh. You'll also catch them tackling/rolling around playing and giggling.  
+![pooh-as-tigger.jpg](/assets/images/pooh-as-tigger.jpg){: width='400' }  
+  
+
+## Tigger-As-Pooh  
+Tigger as Pooh, they are the other half of Pooh as Tigger. You'll always find them together causing mischief, being cheeky, rolling around together and giggling!  
+![tigger-as-pooh.jpg](/assets/images/tigger-as-pooh.jpg){: width='400' }  
+  
+
+## Turtle  
+Turtle loves warm baths, splashing around and making foamy soap hairstyles.  
+![turtle.jpg](/assets/images/turtle.jpg){: width='400' }  
+  
+
+## Tweety  
+Tweety is fabulous, just look at her cape! She is a fashionista and enjoys helping all her friends with their outfit choices.  
+![tweety.jpg](/assets/images/tweety.jpg){: width='400' }  
+  
+

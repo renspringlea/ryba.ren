@@ -190,6 +190,18 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 
 ## Queer fiction
 <details>
+  <summary> The History of Living Forever (Jake Wolff)
+
+> Verdict: A. This book is a gem. Beautiful and heartbreaking. Extremely well-written. The loneliness of super smart people. The narrator/protagonist is quite funny. It's like a dark academia version of Lolita set in a contemporary high school. A bit of discomfort (drugs, travel, etc) but it works well. Ending was satisfying too.
+> It's got a similar sense of deep moral discomfort and an adult's betrayal of a child as Lolita (in a weird way it feels refreshing to read about a really unhealthy queer relationship; I know many would disagree but I feel like I'm at that point). This man is truly unhinged.
+> contains animal experimentation and death; also multiple explicit autopsies
+> "I should clarify, for the record, that Sammy's relationship with me was against the law."
+> "'I'll call the police!' It was the first time I'd seen one of those devices [an emergency falls alarm] used for the purpose of intimidation." hahahahaha!
+> "Radkin, for all his menace, had a nine-to-five."
+
+</details>
+
+<details>
   <summary> The Long Way to a Small, Angry Planet (Becky Chambers) (R)</summary>
 
 Still a strong A, perhaps A+; as good and fun as I remember! One of my favourite realistic/near-future scifi worlds. There is a deep beauty in the world and the characters - I love how much care the author has taken in fleshing out the world and how it's extremely realistic but hopeful. Wonderfully slice-of-lifey; this book is like a warm hug. (Re-read.)
