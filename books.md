@@ -190,7 +190,14 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 
 ## Queer fiction
 <details>
-  <summary> The History of Living Forever (Jake Wolff)
+  <summary> It Started with a Kiss (Clare Lydon)</summary>
+
+> B/B-. Bread and butter. I like the running-a-business/ops vibes.
+
+</details>
+
+<details>
+  <summary> The History of Living Forever (Jake Wolff)</summary>
 
 > Verdict: A. This book is a gem. Beautiful and heartbreaking. Extremely well-written. The loneliness of super smart people. The narrator/protagonist is quite funny. It's like a dark academia version of Lolita set in a contemporary high school. A bit of discomfort (drugs, travel, etc) but it works well. Ending was satisfying too.
 > It's got a similar sense of deep moral discomfort and an adult's betrayal of a child as Lolita (in a weird way it feels refreshing to read about a really unhealthy queer relationship; I know many would disagree but I feel like I'm at that point). This man is truly unhinged.
