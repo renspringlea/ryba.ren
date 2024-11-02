@@ -113,3 +113,33 @@ Tweety is fabulous, just look at her cape! She is a fashionista and enjoys helpi
 ![tweety.jpg](/assets/images/tweety.jpg){: width='400' }  
   
 
+## Caterpillar  
+Caterpillar is a member of the infamous Mischief Squad (Baby Tigger, Caterpillar, Ratty, Rattwo, Rosemary). They look sensible on the outside but that's what helps them get up to much mischief when your back is turned. They also like snuggling up into small warm spots like pockets.  
+![caterpillar.jpg](/assets/images/caterpillar.jpg){: width='400' }  
+  
+
+## Chester  
+Chester is a derpy red panda who loves to sit and gossip with his bestie Chestnut. They contemplate the meaning of life together whilst looking after the babies (Mr Marcus Moose and Svida). They are super comforting and enjoy snuggling up for a long cuddle in your arms.  
+![chester.jpg](/assets/images/chester.jpg){: width='400' }  
+  
+
+## Piglet-Flower  
+Piglet (with a flower) is the most kind and caring piglet. They will always be there for you and give you a flower to brighten your day. To relax, they love to admire and smell flowers in the garden.  
+![piglet-flower.jpg](/assets/images/piglet-flower.jpg){: width='400' }  
+  
+
+## Tigger-Recyclable  
+Tigger (recyclable) is very bouncy and enthusiastic about life and recycling! (Probably because they are made from recycled plastic). Tigger is the silly sidekick to balance out Mr Penguin's sensibleness.  
+![tigger-recyclable.jpg](/assets/images/tigger-recyclable.jpg){: width='400' }  
+  
+
+## Tixi  
+Tixi found their name with the help of Owen. They like causing mischief and hanging about. You'll often catch them rolling around from place to place, with a soft giggle as they go past you.  
+![tixi.jpg](/assets/images/tixi.jpg){: width='400' }  
+  
+
+## Whale  
+Whale is a twin, their bestie is Whale (Ben's). Whale loves belly rubs and nuzzling up by your neck. Whale is a really good listener and brings calmness and contemplation to your life.  
+![whale.jpg](/assets/images/whale.jpg){: width='400' }  
+  
+
