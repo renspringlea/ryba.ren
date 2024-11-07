@@ -2,9 +2,9 @@
 layout: post
 title: "Trump's second term and variable mortgage rates in Australia"
 ---
-TL;DR: My suspicion is that we won't see a major increase in inflation in the next couple of years, at least in Australia. There are many logical assumptions that need to be met for "Trump says during an election campaign that he wants to increase tariffs" to cause "Australian mortgages cost more", and I'm not convinced that all (or even many) of these logical assumptions hold. There are also non-political reasons suggesting that Australian mortgages will decrease in the next few years (and I happen to find these reasons more convincing).
+TL;DR: My suspicion is that we won't see a major increase in inflation in the next couple of years, at least in Australia. There are many logical assumptions that need to be met for "Trump says during an election campaign that he wants to increase tariffs" to cause "Australian mortgages cost more", and I'm not convinced that all (or even many) of these logical assumptions hold. There are also more mundane reasons suggesting that Australian mortgages will decrease in the next few years (and I happen to find these reasons more convincing). But basically I'm not sufficiently convinced by reasoning about Trump's policies to act in any way other than how I'm already acting, at least when it comes to my mortgage.  
 
-Of course, this is an exercise in predicting financial markets. Inflation next year could be -0.5% or it could be 15%; nobody really knows, and my guess is just a guess. If I were actually an expert at this, I wouldn't waste this skill on writing blog articles! (I'd simply get filthy rich, donate all the money to fish and shrimp welfare, then run away and become a cave hermit.)
+Of course, this is an exercise in predicting financial markets. Inflation next year could be -0.5% or it could be 15%; nobody really knows, my guess is just a guess, and I could be very wrong. If I were actually an expert at this, I wouldn't waste this skill on writing blog articles! (I'd simply get filthy rich, donate all the money to fish and shrimp welfare, then run away and become a cave hermit.)
 
 Here's some thoughts:
 
