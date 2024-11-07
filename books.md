@@ -376,6 +376,18 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 ## Politics and history
 
 <details>
+  <summary>Franklin and Winston: An Intimate Portrait of an Epic Friendship (Jon Meacham)</summary>
+
+> Really excellent. Outstanding writing.
+> Vaguely irritated by the uncritical "Churchill good, Axis bad" characterisation of the war. Though I certainly agree that Churchill fellow was one hell of a leader.
+> "It is fun to be in the same decade as you."
+> FDR as a "frustrated clergyman at heart"
+> Roosevelt "had about a hundred ideas a day, four of which were good" hahahaha
+> This outstanding bit about rest: "... Roosevelt slept well. At the pinnacle of their power and responsibilities during the war, both men did. They knew there would be another fight another day, probably the very next day, and that energy spent fretting about what could not be undone was wasted."
+
+</details>
+
+<details>
   <summary>The Earliest History of the Christian Gathering: Origin, Development and Content of the Christian Gathering in the First to Third Centuries (Valeriy A. Alikin)</summary>
 
 > reading ch1-3
@@ -646,6 +658,13 @@ A wonderful and deep teaching on equanimity.
 </details>
 
 ## Misc  
+
+<details>
+  <summary>The Shifting Fog (Kate Morton)  </summary>
+
+> Verdict: B. Enjoyable, as the author's other novels are, immersive and compelling characters. "Age is the great mellower." The protagonist is endearing, especially with her Sherlock Holmes novels! Alfred's shell shock is touching and heartbreaking. Got like two thirds of the way through, might finish but not super motivated.
+
+</details>
 
 <details>
   <summary> What Comes After (Joanne Tompkins)  </summary>
