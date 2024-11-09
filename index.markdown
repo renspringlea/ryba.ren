@@ -9,9 +9,7 @@ layout: home
 * I live and work on the unceded land of the Kaurna people
 * "Ryba" means "fish" in Slovak, and it rhymes with "sneezer"
 * I like [books](books.html), [tattoos](tattoos.html), and  [soccer](soccer.html)
-
-Years lived: 33%...
-⬤⬤⬤⬤⬤⬤◐○○○○○○○○○○○○○
+* Years lived [33%] ⬤⬤⬤⬤⬤⬤◐○○○○○○○○○○○○○
 
 ## My work
 * [My animal advocacy research (Animal Ask website)](https://www.animalask.org/research)
