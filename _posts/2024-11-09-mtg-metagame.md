@@ -757,4 +757,3 @@ title: "MTG metagame analysis (Pioneer 20241109 ANZ Super Series Cycle 7 Regiona
 - 1 Welcoming Vampire
 - 1 Yasharn, Implacable Earth
 - 1 Zacama, Primal Calamity
--
