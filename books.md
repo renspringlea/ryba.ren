@@ -374,6 +374,22 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 </details>
 
 ## Politics and history
+<details>
+  <summary> William Wilberforce: A Hero for Humanity (Kevin Belmonte)</summary>
+  
+> Perfection. An excellent biography of a truly great man. The biography is all the more readable for being thematic rather than chronological, though it occasionally leans slightly into hagiography.
+> I wish I could be friends with Wilberforce! I think he would get along with the EAA crowd, especially given his significant animal welfare advocacy.
+> It always strikes me that many of the greatest reformers in history (Paul, Wilberforce, Nightingale, King) come from comparatively privileged upbringings.
+> Didn't realise he was around for the height of the American revolutionary war and on at least one occasion hung out with Franklin and Lafayette, plus friends with John Jay and John Quincy Adams (!). And he was besties with *that* Pitt. And friends with Bentham maybe? And as an abolitionist, collaborator with William Smith, grandfather of Florence Nightinggale! Influenced Victoria (*that* Victoria) directly and indirectly. Sponsored the education of the Brontes.
+> even after his Great Change, very conscientious and considerate about what specific religious doctrines he assented to
+> the brief consideration about leaving public life which we are *very* fortunate he didn't act on; similar to my "against kindness" blog post and Thay's "Buddhas are found in places of suffering" in that it's about doing as much good as we can, not chasing purity (the "Eusabian temptation" as the author puts it); as Wilberforce puts it "to consider our pecular situation and then to do all the good we can"
+> answering the question "Who is my neighbour" (in  the context of Jesus's two commandments) by looking at the story of the Good Samaritan - yep that's an elegant and powerful way of looking at things
+> a huge bookworm and big on self-improvement
+> chronic illness
+> basically took the GWWC pledge hahahaha
+> of course faced huge amounts of "venom and vitriol" from his opponents
+
+</details>
 
 <details>
   <summary>Franklin and Winston: An Intimate Portrait of an Epic Friendship (Jon Meacham)</summary>
