@@ -28,7 +28,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-nix
+remote_theme: b2a3e8/jekyll-theme-console
+#theme: jekyll-theme-nix
 plugins:
   - jekyll-feed
 
