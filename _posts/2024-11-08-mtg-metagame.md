@@ -1,0 +1,1502 @@
+---
+layout: post
+title: "MTG metagame analysis (Pioneer 20241109 ANZ Super Series Cycle 7 Regional Championships - Sydney)"
+---
+# archetypes
+(note: names as listed)
+37 Izzet Phoenix
+
+21 Rakdos Demons
+
+14 Selesnya Company
+
+11 Rakdos Midrange
+
+10 Azorius Control
+
+10 Mardu Greasefang
+
+10 Rakdos Prowess
+
+9 Mono-Black Demons
+
+8 Four-Color Zur
+
+7 Jund Sacrifice
+
+5 Rakdos Transmogrify
+
+4 Azorius Lotus Field
+
+4 Lotus Field Combo
+
+4 Rakdos Aggro
+
+4 Rakdos Cauldron
+
+4 Rakdos Mice
+
+3 Azorius Humans
+
+3 Enigmatic Incarnation
+
+3 Jund Combo
+
+3 Sultai Acererak Combo
+
+2 Abzan Greasefang
+
+2 Azorius Spirits
+
+2 Boros Burn
+
+2 Esper Control
+
+2 Golgari Combo
+
+2 Mono-White Humans
+
+2 Naya Midrange
+
+2 Orzhov Demons
+
+2 Selesnya Aggro
+
+2 Selesnya Angels
+
+1 Abzan Aggro
+
+1 Azorius Yorion
+
+1 Bant Ramp
+
+1 Boros Convoke
+
+1 Dimir Ninjas
+
+1 Enigmatic Fires
+
+1 Esper Greasefang
+
+1 Five-color Niv-Mizzet
+
+1 Golgari Food
+
+1 Golgari Midrange
+
+1 Golgari Sacrifice
+
+1 Gruul Prowess
+
+1 Izzet Burn
+
+1 Jeskai Ascendancy Combo
+
+1 Jeskai Control
+
+1 Jeskai Creativity
+
+1 Mono-Black Control
+
+1 Mono-Green Devotion
+
+1 Mono-Red Prowess
+
+1 Niv to Light
+
+1 Orzhov Humans
+
+1 Orzhov Midrange
+
+1 Quintorius Combo
+
+1 Rona Lukka Combo
+
+1 Selesnya Scales
+
+1 Simic Aggro
+
+1 Sultai Oculus
+
+1 Sultai Soulflayer
+
+
+
+# cards
+448 Fatal Push
+
+416 Thoughtseize
+
+275 Blood Crypt
+
+270 Blackcleave Cliffs
+
+267 Fable of the Mirror-Breaker
+
+219 Blightstep Pathway
+
+215 Mutavault
+
+213 Duress
+
+201 Bloodtithe Harvester
+
+189 Unlicensed Hearse
+
+176 Torch the Tower
+
+175 Consider
+
+173 Island
+
+172 Unholy Annex // Ritual Chamber
+
+164 Spirebluff Canal
+
+161 Treasure Cruise
+
+160 Steam Vents
+
+156 Picklock Prankster
+
+154 Opt
+
+153 Artist's Talent
+
+151 Sleight of Hand
+
+148 Arclight Phoenix
+
+148 Riverglide Pathway
+
+148 Swamp
+
+138 Unstoppable Slasher
+
+137 Fiery Impulse
+
+129 Plains
+
+124 Sulfurous Springs
+
+123 Lightning Axe
+
+115 Invoke Despair
+
+111 Anger of the Gods
+
+111 Mystical Dispute
+
+108 Archfiend of the Dross
+
+107 Temple Garden
+
+106 Portable Hole
+
+99 Blazemire Verge
+
+94 Vanishing Verse
+
+91 Reckoner Bankbuster
+
+90 Monastery Swiftspear
+
+89 Rest in Peace
+
+88 Hallowed Fountain
+
+88 Kumano Faces Kakkazan
+
+88 Monstrous Rage
+
+88 Ob Nixilis, the Adversary
+
+86 The Wandering Emperor
+
+85 Go Blank
+
+84 Collected Company
+
+84 Elvish Mystic
+
+84 Llanowar Elves
+
+84 Mountain
+
+83 Razorverge Thicket
+
+82 Get Lost
+
+82 Haunted Ridge
+
+82 Skyclave Apparition
+
+80 Brazen Borrower
+
+80 Floodfarm Verge
+
+80 Jegantha, the Wellspring
+
+80 Spell Pierce
+
+76 Heartfire Hero
+
+75 Thalia, Guardian of Thraben
+
+74 Otawara, Soaring City
+
+74 Slickshot Show-Off
+
+73 Overgrown Tomb
+
+72 Emberheart Challenger
+
+72 Leyline Binding
+
+71 Brushland
+
+71 Dovin's Veto
+
+71 Enduring Innocence
+
+70 Extinction Event
+
+69 Archon of Emeria
+
+69 March of Otherworldly Light
+
+69 Proft's Eidetic Memory
+
+68 Bloodletter of Aclazotz
+
+68 Concealed Courtyard
+
+67 Abrade
+
+66 Sheoldred, the Apocalypse
+
+65 Fear of Missing Out
+
+65 Heartless Act
+
+65 Takenuma, Abandoned Mire
+
+64 Branchloft Pathway
+
+64 Up the Beanstalk
+
+63 Aven Interrupter
+
+63 Field of Ruin
+
+62 Annul
+
+61 Werefox Bodyguard
+
+59 Sacred Foundry
+
+59 Sokenzan, Crucible of Defiance
+
+57 Den of the Bugbear
+
+57 Infuriate
+
+57 Negate
+
+56 Callous Sell-Sword
+
+56 Go for the Throat
+
+56 No More Lies
+
+55 Blooming Marsh
+
+55 Boseiju, Who Endures
+
+55 Cavern of Souls
+
+55 Overlord of the Hauntwoods
+
+54 Third Path Iconoclast
+
+53 Memory Deluge
+
+52 Fountainport
+
+52 Godless Shrine
+
+52 Greasefang, Okiba Boss
+
+52 Parhelion II
+
+50 Knockout Blow
+
+50 Urborg, Tomb of Yawgmoth
+
+48 Eiganjo, Seat of the Empire
+
+48 Hidetsugu Consumes All
+
+48 Into the Flood Maw
+
+47 Chandra's Defeat
+
+46 Bitter Triumph
+
+46 Hive of the Eye Tyrant
+
+46 Ramunap Ruins
+
+46 Stormcarved Coast
+
+45 Leyline of the Void
+
+45 Overlord of the Mistmoors
+
+43 Narset, Parter of Veils
+
+42 Brutal Cathar
+
+42 Elite Spellbinder
+
+42 Overlord of the Balemurk
+
+41 Beza, the Bounding Spring
+
+41 Hushwood Verge
+
+41 Zagoth Triome
+
+40 Case of the Stashed Skeleton
+
+40 Cauldron Familiar
+
+40 Deserted Beach
+
+40 Scavenger's Talent
+
+40 Witch's Oven
+
+39 Claim /// Fame
+
+39 Overlord of the Floodpits
+
+39 Zur, Eternal Schemer
+
+37 Castle Locthwain
+
+37 Reckless Rage
+
+37 Teferi, Hero of Dominaria
+
+36 Deadly Dispute
+
+36 Forest
+
+36 Manifold Mouse
+
+36 Stomping Ground
+
+35 Farewell
+
+35 Indatha Triome
+
+34 Hall of Storm Giants
+
+34 Hengegate Pathway
+
+33 Anoint with Affliction
+
+33 Kutzil's Flanker
+
+32 Crackling Drake
+
+32 Graveyard Trespasser
+
+32 Lotus Field
+
+31 Damping Sphere
+
+31 Elesh Norn, Mother of Machines
+
+31 Mana Confluence
+
+31 Spara's Headquarters
+
+30 Anointed Peacekeeper
+
+30 Battlefield Forge
+
+30 Botanical Sanctum
+
+30 Restless Anchorage
+
+30 Watery Grave
+
+29 Breeding Pool
+
+29 High Noon
+
+29 Leyline of Sanctity
+
+29 Supreme Verdict
+
+28 Hazoret the Fervent
+
+28 Kellan, Daring Traveler
+
+28 Mayhem Devil
+
+28 Shark Typhoon
+
+28 Ygra, Eater of All
+
+27 Seachrome Coast
+
+26 Ledger Shredder
+
+26 Meticulous Archive
+
+26 Raffine's Tower
+
+25 Ashiok, Dream Render
+
+25 Atraxa, Grand Unifier
+
+25 Back to Nature
+
+25 Ketria Triome
+
+25 Shivan Reef
+
+25 Temporary Lockdown
+
+24 Adeline, Resplendent Cathar
+
+24 Blade of the Oni
+
+24 Thalia's Lieutenant
+
+24 Thespian's Stage
+
+24 Transmogrify
+
+23 Darkbore Pathway
+
+23 Thornspire Verge
+
+23 Turn Inside Out
+
+22 Coppercoat Vanguard
+
+22 Gideon, Ally of Zendikar
+
+22 Gloomlake Verge
+
+22 Sheoldred's Edict
+
+22 Skysovereign, Consul Flagship
+
+21 Dromoka's Command
+
+21 Rona, Herald of Invasion
+
+21 Thought Distortion
+
+21 Urabrask's Forge
+
+21 Wedding Announcement
+
+21 Yorion, Sky Nomad
+
+20 Caustic Bronco
+
+20 Pawpatch Formation
+
+20 Strict Proctor
+
+20 The Meathook Massacre
+
+19 Agatha's Soul Cauldron
+
+19 Cut Down
+
+19 Prismari Command
+
+19 Recruitment Officer
+
+19 Three Steps Ahead
+
+18 Aether Gust
+
+17 Dauntless Bodyguard
+
+17 Fabled Passage
+
+17 Galvanic Iteration
+
+17 Screaming Nemesis
+
+17 Shefet Dunes
+
+16 Dreadmaw's Ire
+
+16 Enigmatic Incarnation
+
+16 Ghost Vacuum
+
+16 Hidden Strings
+
+16 Knight of Autumn
+
+16 Mockingbird
+
+16 Play with Fire
+
+16 Plaza of Heroes
+
+16 Pore Over the Pages
+
+16 Soul-Scar Mage
+
+16 Sylvan Scrying
+
+16 Temporal Trespass
+
+16 Tree of Perdition
+
+16 Vizier of Tumbling Sands
+
+16 Voldaren Thrillseeker
+
+15 Darkslick Shores
+
+15 Elspeth's Smite
+
+15 Gilded Goose
+
+14 Adarkar Wastes
+
+14 Deduce
+
+14 Hopeful Initiate
+
+14 Horned Loch-Whale
+
+14 Sylvan Caryatid
+
+14 Wizard's Lightning
+
+13 Abrupt Decay
+
+13 Lightning Helix
+
+13 Path of Peril
+
+13 Raugrin Triome
+
+13 Thundertrap Trainer
+
+12 Chandra, Awakened Inferno
+
+12 Claim the Firstborn
+
+12 Cry of the Carnarium
+
+12 Dig Through Time
+
+12 Heliod's Intervention
+
+12 Honest Rutstein
+
+12 Indomitable Creativity
+
+12 Inspiring Vantage
+
+12 Jetmir's Garden
+
+12 Raffine's Informant
+
+12 Raucous Theater
+
+12 Relic of Legends
+
+12 Shattered Sanctum
+
+11 Acererak the Archlich
+
+11 Ancestral Anger
+
+11 Cathar Commando
+
+11 Caves of Koilos
+
+11 Containment Priest
+
+11 Gwenna, Eyes of Gaea
+
+11 Light Up the Stage
+
+11 Liliana of the Veil
+
+11 Llanowar Wastes
+
+11 Overlord of the Boilerbilges
+
+11 Savai Triome
+
+11 Settle the Wreckage
+
+11 Skewer the Critics
+
+11 Tear Asunder
+
+11 Virtue of Persistence
+
+11 Woodland Cemetery
+
+10 Abhorrent Oculus
+
+10 Elegant Parlor
+
+10 Feed the Swarm
+
+10 Flicker of Fate
+
+10 Kroxa, Titan of Death's Hunger
+
+10 Mox Amber
+
+10 Omen of the Sea
+
+10 Pillage the Bog
+
+10 Roaring Furnace // Steaming Sauna
+
+10 Titan's Strength
+
+10 Torpor Orb
+
+10 Veteran Survivor
+
+10 Voice of Resurgence
+
+9  Swamp
+
+9 Bala Ged Recovery
+
+9 Castle Ardenvale
+
+9 Haywire Mite
+
+9 Magebane Lizard
+
+9 March of Wretched Sorrow
+
+9 Sheltered by Ghosts
+
+9 Silence
+
+9 Spelunking
+
+9 Trumpeting Carnosaur
+
+9 Withering Torment
+
+8 Baneslayer Angel
+
+8 Beanstalk Giant
+
+8 Bishop of Wings
+
+8 Bring to Light
+
+8 Cache Grab
+
+8 Deafening Clarion
+
+8 Deafening Silence
+
+8 Declaration in Stone
+
+8 Enduring Curiosity
+
+8 Esika's Chariot
+
+8 Fae of Wishes
+
+8 Fallaji Archaeologist
+
+8 Ghitu Lavarunner
+
+8 Giada, Font of Hope
+
+8 Glissa Sunslayer
+
+8 Grisly Salvage
+
+8 Kaheera, the Orphanguard
+
+8 Kayla's Reconstruction
+
+8 Kolaghan's Command
+
+8 Luminarch Aspirant
+
+8 Mausoleum Wanderer
+
+8 Neoform
+
+8 Pick Your Poison
+
+8 Quintorius Kand
+
+8 Rattlechains
+
+8 Resplendent Angel
+
+8 Righteous Valkyrie
+
+8 Say Its Name
+
+8 Sentinel of the Nameless City
+
+8 Soul-Guide Lantern
+
+8 Spark Double
+
+8 Spell Queller
+
+8 Spinewoods Armadillo
+
+8 Sunken Citadel
+
+8 Supreme Phantom
+
+8 Thraben Inspector
+
+8 Vinereap Mentor
+
+8 Ziatora's Proving Ground
+
+7 Beacon Bolt
+
+7 Chained to the Rocks
+
+7 Extraction Specialist
+
+7 Hullbreaker Horror
+
+7 Lier, Disciple of the Drowned
+
+7 Loran of the Third Path
+
+7 Nowhere to Run
+
+7 Otherworldly Gaze
+
+7 Priest of Forgotten Gods
+
+7 Retraction Helix
+
+7 Split Up
+
+7 Virtue of Loyalty
+
+6 Altanak, the Thrice-Called
+
+6 Bedeck // Bedazzle
+
+6 Brightclimb Pathway
+
+6 Cling to Dust
+
+6 Deep-Cavern Bat
+
+6 Dragonlord Dromoka
+
+6 Fires of Invention
+
+6 Greater Tanuki
+
+6 Invasion of Gobakhan
+
+6 Kalitas, Traitor of Ghet
+
+6 Kinnan, Bonder Prodigy
+
+6 Marvin, Murderous Mimic
+
+6 Nahiri, the Harbinger
+
+6 Omnath, Locus of Creation
+
+6 Ossification
+
+6 Soul Partition
+
+6 Summary Dismissal
+
+6 Titan of Industry
+
+6 Volcanic Spite
+
+5 Bonecrusher Giant
+
+5 Clearwater Pathway
+
+5 Destroy Evil
+
+5 Disdainful Stroke
+
+5 Drowned Catacomb
+
+5 Glacial Fortress
+
+5 Glistening Deluge
+
+5 Grafdigger's Cage
+
+5 Guardian of Faith
+
+5 Hallowed Moonlight
+
+5 Lightning Strike
+
+5 Nine Lives
+
+5 Nykthos, Shrine to Nyx
+
+5 Oath of Nissa
+
+5 Rending Volley
+
+5 Starnheim Unleashed
+
+5 Sunfall
+
+5 Sunpetal Grove
+
+5 Tyvar, Jubilant Brawler
+
+5 Valgavoth, Terror Eater
+
+5 Valki, God of Lies
+
+4 Archdruid's Charm
+
+4 Barkchannel Pathway
+
+4 Blossoming Defense
+
+4 Bolas's Citadel
+
+4 Boros Charm
+
+4 Botanical Brawler
+
+4 Brave the Elements
+
+4 Brokers Hideout
+
+4 Brotherhood's End
+
+4 Cabaretti Courtyard
+
+4 Cacophony Scamp
+
+4 Case of the Crimson Pulse
+
+4 Catacomb Sifter
+
+4 Cavalier of Thorns
+
+4 Change the Equation
+
+4 Clever Impersonator
+
+4 Conclave Mentor
+
+4 Copperline Gorge
+
+4 Curious Obsession
+
+4 Disturbing Mirth
+
+4 Doomskar
+
+4 Emry, Lurker of the Loch
+
+4 Faerie Miscreant
+
+4 Floodpits Drowner
+
+4 Geier Reach Sanitarium
+
+4 Geistlight Snare
+
+4 Get Out
+
+4 Gleeful Demolition
+
+4 Grapple with the Past
+
+4 Hardened Scales
+
+4 Hopeless Nightmare
+
+4 Impulse
+
+4 Insidious Roots
+
+4 Interplanar Beacon
+
+4 Jeskai Ascendancy
+
+4 Kaito, Bane of Nightmares
+
+4 Kambal, Consul of Allocation
+
+4 Karplusan Forest
+
+4 Keruga, the Macrosage
+
+4 Kiora, Behemoth Beckoner
+
+4 Lair of the Hydra
+
+4 Leyline of the Guildpact
+
+4 Lotus Cobra
+
+4 Lukka, Coppercoat Outcast
+
+4 Lumra, Bellow of the Woods
+
+4 Mazemind Tome
+
+4 Moon-Circuit Hacker
+
+4 Mosswood Dreadknight
+
+4 Nashi, Searcher in the Dark
+
+4 Necromentia
+
+4 Nissa, Resurgent Animist
+
+4 Niv-Mizzet Reborn
+
+4 No One Left Behind
+
+4 Novice Inspector
+
+4 Obscura Storefront
+
+4 Old-Growth Troll
+
+4 Outcaster Trailblazer
+
+4 Phyrexian Fleshgorger
+
+4 Popular Egotist
+
+4 Prosperous Innkeeper
+
+4 Questing Druid
+
+4 Redcap Melee
+
+4 Reflector Mage
+
+4 Restless Spire
+
+4 Rockface Village
+
+4 Ruric Thar, the Unbowed
+
+4 Silverquill Silencer
+
+4 Slogurk, the Overslime
+
+4 Soulflayer
+
+4 Spectral Sailor
+
+4 Spyglass Siren
+
+4 Stonecoil Serpent
+
+4 Storm the Festival
+
+4 Thassa's Oracle
+
+4 The End
+
+4 Unmoored Ego
+
+4 Untimely Malfunction
+
+4 Voldaren Epicure
+
+4 Vraska, Golgari Queen
+
+4 Warden of the Inner Sky
+
+4 Woe Strider
+
+4 Yavimaya Coast
+
+4 Zetalpa, Primal Dawn
+
+3 Access Tunnel
+
+3 Aclazotz, Deepest Betrayal
+
+3 Approach of the Second Sun
+
+3 Assassin's Trophy
+
+3 Atarka's Command
+
+3 Audacity
+
+3 Balmor, Battlemage Captain
+
+3 Banefire
+
+3 Braids, Arisen Nightmare
+
+3 Bristly Bill, Spine Sower
+
+3 Collective Brutality
+
+3 Deathcap Glade
+
+3 Emergent Ultimatum
+
+3 Ertai Resurrected
+
+3 Fateful Absence
+
+3 Fortified Beachhead
+
+3 Fortified Village
+
+3 Fracture
+
+3 Giant Killer
+
+3 Gideon of the Trials
+
+3 Imodane's Recruiter
+
+3 Innkeeper's Talent
+
+3 Invasion of Ixalan
+
+3 Jace Reawakened
+
+3 Kodama of the West Tree
+
+3 Krenko's Buzzcrusher
+
+3 Lazav, the Multifarious
+
+3 Lyra Dawnbringer
+
+3 Misery's Shadow
+
+3 Mishra's Research Desk
+
+3 Molten Collapse
+
+3 Niv-Mizzet, Parun
+
+3 Outland Liberator
+
+3 Ozolith, the Shattered Spire
+
+3 Port of Karfell
+
+3 Regal Caracal
+
+3 Reidane, God of the Worthy
+
+3 Resolute Reinforcements
+
+3 Setessan Petitioner
+
+3 Shacklegeist
+
+3 Snakeskin Veil
+
+3 Spikefield Hazard
+
+3 Sunset Revelry
+
+3 The Stone Brain
+
+3 The World Tree
+
+3 Thief of Sanity
+
+3 Tormod's Crypt
+
+3 Treacherous Blessing
+
+3 Undercity Sewers
+
+3 Underground River
+
+3 Urborg Scavengers
+
+3 Wish
+
+3 Worldspine Wurm
+
+3 Xenagos, God of Revels
+
+3 Young Pyromancer
+
+2  Mountain
+
+2  Plains
+
+2 Alpine Moon
+
+2 Arabella, Abandoned Doll
+
+2 Arasta of the Endless Web
+
+2 Archangel of Tithes
+
+2 Bag of Holding
+
+2 Beseech the Mirror
+
+2 Bloodsoaked Champion
+
+2 Castle Vantress
+
+2 Cemetery Illuminator
+
+2 Censor
+
+2 Conclave Tribunal
+
+2 Cragplate Baloth
+
+2 Dark Petition
+
+2 Day's Undoing
+
+2 Deadly Cover-Up
+
+2 Depopulate
+
+2 Destructive Revelry
+
+2 Devouring Light
+
+2 Dire Tactics
+
+2 Dreadhorde Arcanist
+
+2 Dreadhorde Invasion
+
+2 Experimental Confectioner
+
+2 Fading Hope
+
+2 Fanatical Offering
+
+2 Glasspool Mimic
+
+2 Goldvein Hydra
+
+2 Grand Abolisher
+
+2 Heliod, the Radiant Dawn
+
+2 Heroic Intervention
+
+2 Holy Cow
+
+2 Hostage Taker
+
+2 Imposing Sovereign
+
+2 Inspiring Overseer
+
+2 Jace, Architect of Thought
+
+2 Jirina, Dauntless General
+
+2 Kari Zev's Expertise
+
+2 Kenrith, the Returned King
+
+2 Knight-Errant of Eos
+
+2 Kytheon, Hero of Akros
+
+2 Lithomantic Barrage
+
+2 Long Goodbye
+
+2 Mirrorshell Crab
+
+2 Narset of the Ancient Way
+
+2 Nightveil Predator
+
+2 Niv-Mizzet, Supreme
+
+2 Not on My Watch
+
+2 Nylea's Presence
+
+2 Obliterating Bolt
+
+2 Obstinate Baloth
+
+2 Parting Gust
+
+2 Pithing Needle
+
+2 Pyroclasm
+
+2 Radiant Flames
+
+2 Ral, Crackling Wit
+
+2 Rampaging Ferocidon
+
+2 Ray of Enfeeblement
+
+2 Restless Cottage
+
+2 Ritual of Soot
+
+2 Samut, Voice of Dissent
+
+2 Savage Summoning
+
+2 Scavenging Ooze
+
+2 Searing Blood
+
+2 Seed of Hope
+
+2 Shadowy Backstreet
+
+2 Shore Up
+
+2 Solemnity
+
+2 Sorin the Mirthless
+
+2 Sorin, Vengeful Bloodlord
+
+2 Soul Search
+
+2 Sprite Dragon
+
+2 Stubborn Denial
+
+2 Sunspine Lynx
+
+2 Surge of Salvation
+
+2 Tail Swipe
+
+2 Tears of Valakut
+
+2 Test of Talents
+
+2 The Wandering Rescuer
+
+2 Thing in the Ice
+
+2 Trail of Crumbs
+
+2 Twisted Fealty
+
+2 Ulvenwald Oddity
+
+2 Unable to Scream
+
+2 Underground Mortuary
+
+2 Unwanted Remake
+
+2 Valley Floodcaller
+
+2 Vanquish the Horde
+
+2 Venerated Loxodon
+
+2 Void Rend
+
+2 Witchstalker Frenzy
+
+2 Wrenn's Resolve
+
+1  Forest
+
+1 Aetherflux Reservoir
+
+1 Ancient Cornucopia
+
+1 Archangel Avacyn
+
+1 Azorius Charm
+
+1 Barrier Breach
+
+1 Basri Ket
+
+1 Boon-Bringer Valkyrie
+
+1 Camellia, the Seedmiser
+
+1 Can't Stay Away
+
+1 Case of the Gateway Express
+
+1 Casualties of War
+
+1 Cathartic Pyre
+
+1 Cave of the Frost Dragon
+
+1 Chandra, Torch of Defiance
+
+1 Cityscape Leveler
+
+1 Cleansing Nova
+
+1 Consuming Tide
+
+1 Cosmic Rebirth
+
+1 Cragcrown Pathway
+
+1 Cruelclaw's Heist
+
+1 Deflecting Palm
+
+1 Divine Smite
+
+1 Doppelgang
+
+1 Eerie Ultimatum
+
+1 Elspeth, Sun's Champion
+
+1 Emrakul, the Promised End
+
+1 Exquisite Firecraft
+
+1 General Kudro of Drannith
+
+1 Glarb, Calamity's Augur
+
+1 Hedge Maze
+
+1 Hushbringer
+
+1 Inspired Ultimatum
+
+1 Inti, Seneschal of the Sun
+
+1 Ipnu Rivulet
+
+1 Jwari Disruption
+
+1 Kroxa and Kunoros
+
+1 Lavaspur Boots
+
+1 Linvala, the Preserver
+
+1 Lush Portico
+
+1 Metropolis Reformer
+
+1 Mirrex
+
+1 Monstrous Emergence
+
+1 Moon-Blessed Cleric
+
+1 Narset's Reversal
+
+1 Needleverge Pathway
+
+1 Nicol Bolas, Dragon-God
+
+1 Nimble Larcenist
+
+1 Noxious Gearhulk
+
+1 Omniscience
+
+1 Ornithopter
+
+1 Painful Truths
+
+1 Polukranos Reborn
+
+1 Preacher of the Schism
+
+1 Reckless Impulse
+
+1 Rhonas the Indomitable
+
+1 Sanctuary Warden
+
+1 Sarkhan the Masterless
+
+1 Scavenger Grounds
+
+1 Shalai, Voice of Plenty
+
+1 Shambling Vent
+
+1 Sire of Insanity
+
+1 Snow-Covered Island
+
+1 Sphinx of the Final Word
+
+1 Sundown Pass
+
+1 Teferi, Master of Time
+
+1 Thalia, Heretic Cathar
+
+1 The Cruelty of Gix
+
+1 The Eternal Wanderer
+
+1 The Scorpion God
+
+1 Tocasia's Welcome
+
+1 Tolsimir, Friend to Wolves
+
+1 Tranquil Frillback
+
+1 Urgent Necropsy
+
+1 Voyaging Satyr
+
+1 Vraska, Betrayal's Sting
+
+1 Welcoming Vampire
+
+1 Yasharn, Implacable Earth
+
+1 Zacama, Primal Calamity
