@@ -1,20 +1,20 @@
 # books  
 
-## notes    <br />
+## notes
 navigate:    
 - [Leaderboard](#Leaderboard)  
 - [2024](#2024)  
 - [2023-2024](#2023-2024)    
 - [2017-2023](#2017-2023)  
 
-# Leaderboard  <br />
+# Leaderboard  
 List of greatest novels ever written, according to Ren (no particular order):  
 - Go Tell It on the Mountain  
 - The Catcher in the Rye  
 - To Kill a Mockingbird  
 - The Haunting of Hill House  
 
-# 2024  <br />
+# 2024  
 april 2024 -> end of 2024  
 ## Classics  
 <details>
@@ -189,12 +189,26 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <br /></details>
 
 ## Queer fiction
+
+<details>
+  <summary> All Our Hidden Gifts (Caroline O'Donoghue)</summary>
+
+> Verdict: A. Really sweet and touching, high school drama about loneliness and guilt featuring a cursed Tarot deck and genderqueer rep! Very original<br />
+> also strong subplot about queer backlash :( hate crimes in ch32 and 36 :(<br />
+> It has some similarities with Sarah Jane Adventures (the Doctor Who spinoff) in that there are children making wild crackpot theories based on nothing and those theories turn out to be exactly right, probably the book's only weakness<br />
+> "Er, Ro doesn't *get* metaphors because he's a Protestant" hahahahahaha<br />
+> "Oh, you're all pro-woman and genderqueer until I start talking about my period" hahaha<br />
+<br />
+
+</details>
+
 <details>
   <summary> It Started with a Kiss (Clare Lydon)</summary>
 <br />
 > B/B-. Bread and butter. I like the running-a-business/ops vibes.
 
-<br /></details>
+<br />
+</details>
 
 <details>
   <summary> The History of Living Forever (Jake Wolff)</summary>
@@ -374,6 +388,23 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <br /></details>
 
 ## Politics and history
+
+<details>
+  <summary> The Most Controversial Decision: Truman, the Atomic Bombs, and the Defeat of Japan (Wilson Miscamble)</summary>
+
+> This is good history, really puts you in the mindset and worldview of the people present.<br />
+> argues that the bombs did speed up the surrender, but this wasn't necessarily deliberate or expected or guaranteed (even an attempted coup to stop the surrender)<br />
+> they wanted to end a very bloody conflict against an entrenched enemy minimising American lost lives, took the bomb and its implications very seriously (as they did the moral costs of conventional war) but didn't have a great idea of exactly what its effects would be. in fact they were expecting to have to keep fighting a conventional war<br />
+> but clearly it was a very big bomb so a more economical way of carpet bombing cites which they were already doing, and had some idea of its shock value.<br />
+> truman inherited the overall strategy of "of course we'll use this weapon in this war" and no military leaders or advisors seriously suggested otherwise, and there were no serious alternatives<br />
+> the author distinguishes between "pre-Hiroshima world" and "post-Hiroshima world" which seems reasonable to me; after the war truman became much more reluctant and cognizant of the cost in civilian lives of nuclear bombs<br />
+> the author emphasises how bloody the war was, esp re indiscriminate bombing and the acceptance of targeting non-combatants (see tokyo, london, many other examples): "a moral Rubicon had been crossed long before Hiroshima"<br />
+> so (my elaboration) it's almost like "why are we focusing on the nuclear bombs in the first place?". i actually find this very convincing<br />
+> the author contrasts the salient destruction of a city with the dispersed but equally or more horrific atrocities committed by japanese soldiers against civilians in china and many other parts of asia. this reminds me of the distinction between the salient chernobyl vs the diffuse but more deadly human cost of fossil fuels<br />
+> I definitely get the feeling that I couldn't have come up with a less awful decision even with perfect hindsight and infinite time for reflection, luxuries that the people at time certainly did not have: "Harry Truman of Independence, Missouri was hardly some moral monster...  those who from the safe distance of 65 years criticise his decision would do well to place themselves in his shoes and ask what they might have done in the circumstances."<br />
+
+</details>
+
 <details>
   <summary> William Wilberforce: A Hero for Humanity (Kevin Belmonte)</summary>
 <br />
@@ -693,7 +724,7 @@ Verdict: A, maybe A- given the triggering content. Quakers and the PNW, what els
 <br />
 Got about 1/3 of the way through. I gather that the gist of his argument is that suicide might be influenced to some small extent by material and physical conditions, but the primary explanation is to do with spirituality in society. The whole idea that suicide is a moral failing or weakness and that it happens in response to invariably trivial events is a bit cracked. You definitely get the sense that this is an Old World Gentleman! e.g. some very colonial language; mentioning that "the primitives" don't commit suicide; Buddhism causes suicide; "it has been proved that the educated classes practice marriage most morally" hahahahaha! (I'm reminded of the line in Lee Kuan Yew's memoirs where he claimed that Singapore has no sex workers. Like, give me a break!) It's also funny that Masaryk (writing in the late 1800s) mourns the decline of virtue and morality at the expense of materialism! Some of the arguments border on eugenics, a real shame. And you can forgive a guy for the inconsistent treatment of confounding variables. Still, fairly impressive and systematic/data-driven as far as 19th century monographs on sensitive social issues go.  <br /></details>
 
-## 2023-2024  <br />
+## 2023-2024  
 august 2023 -> april 2024  
 <br />
 Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)  
@@ -758,7 +789,7 @@ Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)
 
 
 
-## 2017-2023  <br />
+## 2017-2023  
 late 2017 -> august 2023  
 <br />
 Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)  
