@@ -14,11 +14,14 @@ inspired by plaintextsports.com
 
 ## cp-world-cup  
 ~~~~~~
-2024-11-11 mon  begin  
-2024-11-20 wed  end  
+2024-11-15  00 japan v australia
+2024-11-17  00 australia v usa
+2024-11-18  00 australia v ireland
+2024-11-19  00 australia v denmark
 ~~~~~~
 
 source: [ifcpf](https://www.ifcpf.com/tournaments)  
+coverage: [football australia](https://www.youtube.com/@footballaustralia)  
 
 ## international-friendlies  
 ~~~~~~
