@@ -390,6 +390,30 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 ## Politics and history
 
 <details>
+  <summary>
+
+The New Frontiers of Space: Economic Implications, Security Issues and Evolving Scenarios (Stefania Paladini)</summary>
+
+> Excellent overview of the space industry and policy, very broad in scope. I like all the data and history that puts things into perspective. It's about 6 years old now but seems mostly up-to-date, only exceptions are a few specific projects/missions.
+> Satellies (esp communication and earth observation satellites) are two major components of the industry, though more seemingly mundane. And originally defense.
+> Some recent impressive growth but perhaps a bit slower than I'd have thought. All sectors still bottlenecked by launch costs.
+> The insane billionaire and his company are just one actor among many (incl many emerging chinese companies), if certainly the most successful private actor
+> regional space agencies (e.g. asia pacific) as an emerging trend
+> orbital space is a limited resource
+> TIL ESA isnt actually an EU institution and the lists of states involved in each are different
+> EU space budget has increased, unlike NASA
+> in terms of absolute national budget spent on space, France is actually second after USA
+> China pursuing numerous space collabs with other countries, generating soft power
+> very interesting discussion on the many limitations of current space law
+> helium 3 is abundant in space (not on earth though!) and can be used to power fusion reactors
+> you can put nanosatellites into orbit for $8000! crazy!
+> Ultrascope, a 3D printable telescope
+> a large economic and practical gap between putting something into earth orbit and leaving earth orbit, high failure rates for mars in particular
+> the colonial language in the space settlement section makes me deeply uncomfortable, probably there's less critique of the idea is present in this book than what exists in the literature
+
+</details>
+
+<details>
   <summary> The Most Controversial Decision: Truman, the Atomic Bombs, and the Defeat of Japan (Wilson Miscamble)</summary>
 
 > This is good history, really puts you in the mindset and worldview of the people present.<br />
