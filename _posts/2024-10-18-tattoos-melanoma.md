@@ -37,3 +37,50 @@ And lastly, my paper award of the year goes to: [Rahmat et al 2023, Skin cancer 
 - "Eight trans women were diagnosed with melanoma (SIR 1.80 [95% CI 0.83–3.41] vs. all men; SIR 1.40 [0.65–2.65] vs. all women), and seven developed squamous cell carcinoma (SIR 0.78 [0.34–1.55] vs. all men; SIR 1.15 [0.50–2.27] vs. all women). Two trans men developed melanoma (SIR 1.05 [0.18–3.47] vs. all men; SIR 0.77 [0.14-2.70] vs. all women)."  
 - "GAHT did not appear to affect skin cancer incidence in this large cohort of transgender individuals."  
 - "Melanoma incidence among trans women has previously been assessed in a study from the United States on overall cancer incidence in 4,889 transgender individuals from the Kaiser Permanente database linked with the Surveillance Epidemiology and End Results database and was found not to be different compared with the cisgender population. However, information on hormone use was not provided in this study. More recently, Singer et al. examined the relation between gender identity and self-reported lifetime prevalence of skin cancer in a population, also in the United States, that included cisgender, transgender, and gender nonconforming individuals, also without taking GAHT into account. In accordance with our analysis, no significantly different odds ratios of skin cancer history among trans men or trans women, compared with cisgender men, were reported."  
+
+Update 20241116  
+I've been thinking more about the increased risk of skin cancer due to a family history of skin cancer. Specifically, two of my second-degree relatives (an auntie and an uncle) died at a tragically young age due to melanoma.  
+
+[Wu et al 2019, Melanoma risk assessment based on relatives’ age at diagnosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC5962262/#S10)  
+- "FDR" = first-degree relative; "SDR" = second-degree relative; "HR" = hazard ratio  
+- "Overall, FDR of cases had a 92% increased risk of melanoma compared to FDR of their respective controls (HR 1.92, CI 1.79–2.07)."  
+- "Familial risk of melanoma among SDR was typically lower (most HRs between 1.4 and 2.1) than that for FDR (Online Resource 3). Among SDR, higher risk for melanoma was observed for SDR ages 29 or younger and SDR between ages 30 and 39 related to cases diagnosed between ages 30 and 39 (HR 2.46, CI 1.18–5.14; HR 3.18, CI 1.77–5.74, respectively)."  
+- eyeballing Fig. 1, the effect of FDR and SDR look very similar! though this may be in part due to the way that the graph is designed, as the HR scale goes up to 8 and most of the actual HRs are below 3ish so probably the two groups look more similar than they actually are.  
+- in any case, looking at supplemental table 3, for cases aged 40-49, the HR of SDRs ranges from 1.13 to 1.68, and only one is statistically significant. compare this to the HR of FDRs in supplemental table 2 which are *much* higher, between 1.55 and 4.89 and statistically highly significant with only one non-significant value.  
+
+Following my existing maths above:  
+- A random Australian website tells me that 1 in 22 Australian women are diagnosed with melanoma before age 85. That makes it 4.5%.    
+- If I'm interpreting Wu et al correctly, and allowing an oversimplification in not stratifying the calculation by my own age, a HR of ~1.3 due to SDR would mean that my baseline probability of lifetime melanoma is 5.85%.  
+
+I can't find much quantitative information in the literature about the risk from having multiple relatives with melanoma.  
+
+[Clinical Applications of Melanoma Genetics](https://link.springer.com/article/10.1007/s11864-014-0282-8)  
+- "As the number of cases of melanoma in one family increases, so does the likelihood of a hereditary melanoma predisposition, such as CDKN2A. However, the baseline threshold for number of cases in the family differs based on geographic region. This is due to multiple factors that also affect sporadic melanoma incidence, including ethnicity and sun exposure [2, 29, 30]. In regions or ethnicities with a relatively high incidence of melanoma the likelihood of detecting a CDKN2A mutation is low unless multiple melanomas, or other CDKN2A-related features, are present within a family [1, 31]. Within a North American cohort of families with hereditary melanoma, approximately 30 % of families with three cases of melanoma had a CDKN2A mutation. A higher CDKN2A mutation frequency of approximately 80 % was reported for families with six or more cases of melanoma [1]."  
+
+So it seems like we'd be justified in believing that having 2 SDRs with melanoma increases your risk more than 1 SDR does. But I don't have enough information about the specific level of this risk to do anything more than make a guess.  
+
+Also I'm not satisfied with my above rough analysis that uses the area of skin to calculate risk on a particular body part. But I found this study:  
+
+[Conte et al 2021, Population-Based Study Detailing Cutaneous Melanoma Incidence and Mortality Trends in Canada](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2022.830254/full)  
+- see Figure 1B, which shows the risk by body part. For female arms, this is 29.2% (as a percentage of all melanomas on any body part). This study is about Canada which is a huge limitation (Canada = snow and moose; Australia = the surface of the sun).  
+
+All this together (you'd need to change these numbers to do a similar analysis for yourself):  
+- Baseline lifetime melanoma rate: 4.5%  
+- Hazard risk due to one second-degree relative = ~1.3  
+- Hazard risk due to an additional second-degree relative beyond the first = ??? let's say ~1.2  
+- Proportion of melanomas on arms = 29.2% (this includes two arms)  
+
+Thus, *my* very rough chance of getting a melanoma on my left arm is:  
+
+~~~  
+4.5% * 1.3 * 1.2 * 0.292 * 0.5  
+= ~ 1.0%  
+~~~  
+
+So the chance of getting a melanoma on a certain part of the arm would be proportionally less. e.g. if a new tattoo covers, say, 30% of the area of my arm, we'd be looking at 0.3% of getting a melanoma in the area of the tattoo over my life. This is much larger than my more rough analysis (the original "< 0.01%" that I arrived at, above). But in absolute terms, it is still a very small risk.  
+
+So even if a tattoo makes it more difficult to spot a melanoma by some percentage, the actual lifetime risk of facing the situation "has melanoma on tattoo and failed to detect it because of the tattoo" would also be ~0.3%. (It's not "dying of melanoma" or even "failing to detect that melanoma", it's "getting the melanoma in that spot at all".)  
+
+To give this number some context: 0.3% is about 1 in 333 people. This is less likely than a random natural birth resulting in twins (1 in 250) (source: [this random magazine article](https://stacker.com/art-culture/odds-50-random-events-happening-you)). It's about as likely as your car being stolen in a one-year period (if you live in the United States and own a car). It's less likely than being named Emma (if you are a girl). It's actually less likely than dying in a car crash. It's about as likely an encounter on Pokémon: Let’s Go! resulting in a shiny Pokémon—*after* the player has already maxed out their shiny rate. And—this one's my favourite—it's about half as likely as a women's soccer player in college going on to play in the NWSL! ([source](https://www.ncaa.org/sports/2015/3/6/estimated-probability-of-competing-in-professional-athletics.aspx))  
+
+I'm not sure if I'd feel justified in changing life plans based on any of the above probabilities. e.g. beyond the usual and obvious precautions, I don't take active steps to drive less because of the risk of dying in a car crash. I wouldn't bother preparing two cots in the nursery because of a slight probability of having twins. And I wouldn't make any firm life plans based on the assumption that I would make it into the NWSL!
