@@ -8,6 +8,8 @@ Goodreads doesn't have a strong search function. For example, if you want to sea
 
 Fortunately, you can just download all of Goodreads. It takes about a year if you don't bother to optimise the scraping at all.  
 
+(Note: you should only need to scrape books published in 2018 onwards, as there is an existing public dataset of 2.3M books up until 2017 [here](https://mengtingwan.github.io/data/goodreads.html))
+
 # Get the ISBNs of ~every book  
 
 The first step is to download the Open Library data dump. Basically, you can download all of Open Library's book data [here](https://openlibrary.org/developers/dumps) (in fact I used a torrent as archive.org was still recovering from the recent cyberattack). See [here](https://github.com/LibrariesHacked/openlibrary-search) for detailed instructions on processing this data.  
