@@ -392,6 +392,25 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <details>
   <summary>
 
+    The United Nations: A Very Short Introduction (Jussi M. Hanhimäki)
+    </summary>
+
+
+    > Very well written (if a few turns of phrase that are a bit yikes)<br />
+    > the classic "prevent you from going to hell, not get you to heaven" reminds me of Masaryk's "practical little utopias"<br />
+    > indispensable and flawed<br />
+    > cultural conflicts in the day to day work of the civil servants, hadnt thought about that but makes perfect sense!<br />
+    > kinda argues that being politically messy and a bureaucratic monster is a necessary consequence of its goals (an international organisation), I find myself kinda enjoying this feature! like how cool that messy humanity is doing something like this at all!<br />
+    > has definitely done some good, esp WHO, UNICEF, some positive effects of the UNSC and so on, just need to interpret this in the context of the obvious political reality of countries pursuing their own interests (and the fact that this is baked in might limit its power but stops countries walking out like Japan did from the League, so kinda good design; this vibes with my pre-existing view on the UN)<br />
+    > the UNSC as a context for negotiating the end to conflicts, not a way to prevent conflicts<br />
+    > certainly some peacekeeping hits, if well below 100%<br />
+    <br />
+
+</details>
+
+<details>
+  <summary>
+
 The New Frontiers of Space: Economic Implications, Security Issues and Evolving Scenarios (Stefania Paladini)</summary>
 
 > Excellent overview of the space industry and policy, very broad in scope. I like all the data and history that puts things into perspective. It's about 6 years old now but seems mostly up-to-date, only exceptions are a few specific projects/missions.
@@ -729,6 +748,16 @@ A wonderful and deep teaching on equanimity.
 <br /></details>
 
 ## Misc  
+
+<details>
+  <summary>
+
+- Pinball, 1973 (Haruki Murakami)</summary>
+<br />
+
+> It's a moody Murakami novel. I REALLY like the whole pinball thing. Bit of animal violence which is sad - but it is a moody Murakami novel.
+
+<br /></details>
 
 <details>
   <summary>The Shifting Fog (Kate Morton)  </summary>
