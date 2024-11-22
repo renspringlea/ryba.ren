@@ -189,6 +189,14 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <br /></details>
 
 ## Queer fiction
+<details>
+  <summary>Butter, Sugar, Magic (Jessica Rosenberg)</summary>
+
+> Verdict: B-. Bread and butter; a textbook example of escapist/cozy slice of life. The premise is a bit mary-sue and the details are a bit tropey, but since it's clearly and deliberately an escapist novel, these aren't a major issue. Writing is fine if not great.<br />
+> "Straight espresso. Badass." hahahahahaha<br />
+> setting the crickets free!<br />
+
+</details>
 
 <details>
   <summary> All Our Hidden Gifts (Caroline O'Donoghue)</summary>
