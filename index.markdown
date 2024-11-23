@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Tomorrow will be different!
+Tomorrow will be different! ☮
 
 ## Ren Ryba (they/them)
 * I live and work on the unceded land of the Kaurna people
@@ -18,6 +18,15 @@ Tomorrow will be different!
 * [My academic publications (Google Scholar)](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
 * [Additional research and hot takes (Effective Altruism Forum)](https://forum.effectivealtruism.org/users/ren-ryba)
 * [Finsight](https://finsight.fish)  
+
+## Recent books I've read
+* Butter, Sugar, Magic (Jessica Rosenberg) [misc fiction]
+* All Our Hidden Gifts (Caroline O'Donoghue) [queer fiction]
+* Pinball, 1973 (Haruki Murakami) [misc fiction]
+* The United Nations: A Very Short Introduction (Jussi M. Hanhimäki) [politics and history]
+* The New Frontiers of Space: Economic Implications, Security Issues and Evolving Scenarios (Stefania Paladini) [politics and history]
+
+Full list [here](books.html)
 
 ## Blog
 *RSS feed [here](feed.xml)*
