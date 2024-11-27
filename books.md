@@ -390,6 +390,34 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 ## Politics and history
 
 <details>
+<summary>Thomas Jefferson: The Art of Power (John Meacham)</summary>
+
+
+> Once again an excellent biography on an excellent subject from this biographer. It's a challenge to make this subject feel new but this writer does so, and without shying away from the (many) ugly bits.<br />
+> the underappreciated dynasty (jefferson, madison, monroe, van buren)<br />
+> hated arguing, avoided face to face conflict, actually not a great orator so didn't speak in front of crowds much and cultivated writing and conversation instead<br />
+> born into extreme privilege, obviously, enjoyed the high life<br />
+> owned over 600 slaves aye aye aye<br />
+> bit of a wannabe womanizer<br />
+> didnt know he was *comparatively* progressive on slavery, though on one occasion basically advocated for the genocide of Native Americans<br />
+> complained when his documents were critiqued and edited by the congress hahahahahah same<br />
+> "Rebellion to tyrants is obedience to God."<br />
+> Virginia's legislature almost voted to establish a dictatorship! actually makes sense given all that talk about importing a monarch<br />
+> the grief over his wife's death is very touching<br />
+> "We are therefore never safe til our magazines are filled with arms."<br />
+> the whole thing with Sally Hemmings, while certainly nauseating and heartbreaking, is told here in a level-headed balanced way that I think works well. Hemmings is a very crafty and strong operator.<br />
+> intense animosity and occasional gridlock within the congress even at this early stage<br />
+> the alien and sedition acts were more messed up than i thought!<br />
+> hamilton straight up tried to illegally overturn jefferson's election win, and jefferson's supporters spoke of marching on the capitol!<br />
+> pet mockingbirds as president!<br />
+> concerns about blind party loyalty; heaps of impeachment happening at this early stage; federalists stacking the judiciary<br />
+<br />
+
+</details>
+
+
+
+<details>
 <summary>The United Nations: A Very Short Introduction (Jussi M. Hanhimäki)    </summary>
 
 > Very well written (if a few turns of phrase that are a bit yikes)<br />

@@ -20,7 +20,7 @@ Tomorrow will be different! ☮
 * [Finsight](https://finsight.fish)  
 
 ## Recent books I've read
-* Butter, Sugar, Magic (Jessica Rosenberg) [misc fiction]
+* Thomas Jefferson: The Art of Power (John Meacham) [politics and history]
 * All Our Hidden Gifts (Caroline O'Donoghue) [queer fiction]
 * Pinball, 1973 (Haruki Murakami) [misc fiction]
 * The United Nations: A Very Short Introduction (Jussi M. Hanhimäki) [politics and history]
