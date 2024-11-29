@@ -143,3 +143,53 @@ Whale is a twin, their bestie is Whale (Ben's). Whale loves belly rubs and nuzzl
 ![whale.jpg](/assets/images/whale.jpg){: width='400' }  
   
 
+## Buddy  
+Buddy is very loyal to his friends, especially Harriett and Dotty. He will do anything to make sure they are happy. He enjoys tagging along with them on adventures.  
+![buddy.jpg](/assets/images/buddy.jpg){: width='400' }  
+  
+
+## Chippy  
+Chippy is super cheeky and loves to play and cause mischief with Ball Koala. He enjoys watching and playing soccer with his bestie beside him.  
+![chippy.jpg](/assets/images/chippy.jpg){: width='400' }  
+  
+
+## Cookiemonster  
+Cookie Monster enjoys tummy tickles and will laugh if you tickle him too much. He's very jovial and enjoys a good laugh.  
+![cookiemonster.jpg](/assets/images/cookiemonster.jpg){: width='400' }  
+  
+
+## Dino  
+Dino is a cuddle bug, he feels safest when he's holding onto someone. His best friend is Snakey because there's so much of him to hold.  
+![dino.jpg](/assets/images/dino.jpg){: width='400' }  
+  
+
+## Dotty  
+Dotty is part of a trio with Harriett and Buddy. She's the leader of the group and the one who encourages them to go on adventures.  
+![dotty.jpg](/assets/images/dotty.jpg){: width='400' }  
+  
+
+## Elmo  
+Elmo is twins with Cookie Monster (Ben's). Elmo loves to hang out and will chat your ear off about anything and everything.  
+![elmo.jpg](/assets/images/elmo.jpg){: width='400' }  
+  
+
+## Miniminnie  
+Mini Minnie is an incredible escape artist. Her and her friends were trapped in a glass box with a giant claw that randomly came down to poke and prod at them. Our brave hero Mini Minnie led them all up and down and around and all the way to freedom. Since her heroics, she now prefers to spend her time quietly reflecting on how beautiful the world is.  
+![miniminnie.jpg](/assets/images/miniminnie.jpg){: width='400' }  
+  
+
+## Minniemouse  
+Minnie Mouse was kindly given to me by a cleaner at Disneyland/world when I was 2 and sick. She's always there to help you feel pretty and sees the beauty in everything. She is a real fashionista and loves twirly skirts and big bows.  
+![minniemouse.jpg](/assets/images/minniemouse.jpg){: width='400' }  
+  
+
+## Snakey  
+Snakey enjoys hugging and being hugged. She loves having Dino hang with her. She also enjoys curling up to bask in the sun and have a gentle snooze.  
+![snakey.jpg](/assets/images/snakey.jpg){: width='400' }  
+  
+
+## T  
+T! T is the best letter of all the letters. In their spare time (when they aren't busy being the best) they enjoy poking and prodding people.  
+![t.jpg](/assets/images/t.jpg){: width='400' }  
+  
+

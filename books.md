@@ -771,6 +771,20 @@ A wonderful and deep teaching on equanimity.
 
 ## Misc  
 
+<details>
+<summary>The City and Its Uncertain Walls (Haruki Murakami)</summary>
+
+> a very typical murakami, in a good way<br />
+> I like the stay in the small town, reminiscient of Commendatore<br />
+> Some quite beautiful reflections on love and loss<br />
+> the boy who is a savant but refused to participate in PE hahahaha<br />
+> very interesting meta passage on magical realism<br />
+> (death of a child and then a suicide in ch40; bit of transphobic content in ch40 though not in the context of trans people)<br />
+
+<br />
+
+</details>
+
 
 <details>
 <summary>Butter, Sugar, Magic (Jessica Rosenberg)</summary>

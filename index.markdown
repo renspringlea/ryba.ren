@@ -20,8 +20,8 @@ Tomorrow will be different! ☮
 * [Finsight](https://finsight.fish)  
 
 ## Recent books I've read
+* The City and Its Uncertain Walls (Haruki Murakami) [misc fiction]
 * Thomas Jefferson: The Art of Power (John Meacham) [politics and history]
-* All Our Hidden Gifts (Caroline O'Donoghue) [queer fiction]
 * Pinball, 1973 (Haruki Murakami) [misc fiction]
 * The United Nations: A Very Short Introduction (Jussi M. Hanhimäki) [politics and history]
 * The New Frontiers of Space: Economic Implications, Security Issues and Evolving Scenarios (Stefania Paladini) [politics and history]
