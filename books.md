@@ -191,6 +191,15 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 ## Queer fiction
 
 <details>
+<summary>How You Get the Girl (Anita Kelly)</summary>
+
+> Verdict: A-/B+. quite heartwarming and wholesome; enjoyable and refreshingly strong implementation of the genre. Nice mental health content. BUCKY THE PIG!<br />
+> minor gripes: some of the details of the romance plot feel vaguely juvenile; the coach babysitting one of the players feels a bit off; weird that the characters, given their politics, aren't critical of thanksgiving<br />
+> I love the first name "London"<br />
+
+</details>
+
+<details>
 <summary>All Our Hidden Gifts (Caroline O'Donoghue)</summary>
 
 > Verdict: A. Really sweet and touching, high school drama about loneliness and guilt featuring a cursed Tarot deck and genderqueer rep! Very original<br />
@@ -388,6 +397,68 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <br /></details>
 
 ## Politics and history
+
+<details>
+<summary>The Contemporary Reader of Gender and Fat Studies (ed Amy Erdman Farrell)</summary>
+
+> 100% certified banger!!! like i think much of the overall vibe i already agreed with at least on a conscious level, but really helps to have it written down in detail and explored from all these angles i hadnt considered. the writing is excellent.<br />
+> despite the fact that I work full-time in trying to dismantle economic systems of oppression, this book has done more to radicalise me than anything I've read in years hahahaha<br />
+> a small number of the essays (like just a couple) strike me as uncritical and one-sided<br />
+> skipped a few that were difficult to read (especially around eating disorders and surgery)<br />
+> (1) adipose tissue exists, but the meaning tied to it is entirely discursive (and wrapped up in other areas of discourse and context, i.e. gender, race, one's occupation, one's culture esp neoliberal and individualist culture)<br />
+> masquerades as being about aesthethics and health<br />
+> (2) "an anti-fat society"<br />
+> "the courtesy of civil inattention" but often not paid when a person is not meeting the standards of the male gaze "emphasised femininity"<br />
+> "obesity epidemic discourse"<br />
+> a form of violence (!!!)<br />
+> femininity is linked with thinness and whiteness (and shortness), causes much suffering in trans and gender non conforming people wrt "passing"<br />
+> fat people (especially fat femme people) often erased from queer spaces, incl queer dating community, misgendering<br />
+> (3) the neoliberal commodification of the body, which must meet often numeric and usually arbitrary requirements (size, exercise, diet), which is then taken as a measure of health or lack thereof and understood to be determined by one's own individual will and discipline<br />
+> healthiness and attractiveness are often conflated<br />
+> obesity epidemic discourse -> simultaneously diseased and villified, cause of a social, economic and political problem, esp associated with greed, use of resources -> a moral panic (!)<br />
+> but in fact these problems are caused by the structures of the neoliberal economy itself, and fat people are thus scapegoated<br />
+> neoliberal body discourse has appropriated feminist ideas, e.g. choice, self-determination, empowerment, and of course commercial appropriation of the body positivity movement<br />
+> "perform health in a normative manner"<br />
+> (4) being queer and being fat both seen as deviant and hiding perversions<br />
+> "comfort and respectability politics" (antisocial queer studies)<br />
+> (5) "it's an impossible task, but one completely worthy of you"<br />
+> "if there is an end to our suffering, it is not ..."<br />
+> "understudied, and therefore positioned as anecdotal"<br />
+> (6) "the university classroom erases bodies"<br />
+> nobody should be forced to be mindful, can be good reasons (esp power imbalance) to keep your guard up<br />
+> fat people being denied gender affirmation surgery, including with no data to back up this denial<br />
+> beauty privilege (where beauty means white supremacist cisheteronormative standards of beauty)<br />
+> the language of horror to describe both transness and fatness<br />
+> "at some point in my early thirties, privilege stopped being my aim on most days. im more interested in justice..."<br />
+> (10) denial of IVF based on weight<br />
+> weight control of parents and children as eugenics<br />
+> (12)<br />
+> eating disorder literature centres the experience of white Western people/women<br />
+> (16)<br />
+> wall-e equates fat with laziness and decay<br />
+> "what if you were ok with your body the way it is right now?" fear of letting oneself go, failure of keeping up with standards<br />
+> the female body as something to be watched<br />
+> while plus sized models can extend the set of acceptable standards, in doing so this supports the culture's obsession with objectification and reproduces heternormative bodily ideals. i.e. plus sized models are still sexualised and subject to the male gaze; more bodies are now worthy of objectification.<br />
+> (17)<br />
+> "why do we oppress fat people, and who benefits from that oppression?"<br />
+> "gender apathetic" as a gender identity, what a great phrase!<br />
+> "benevolent anti-fatness"<br />
+> "pretty privilege" and "ugly others"<br />
+> "if one seeks gender affirmation, one must always be moving away from fatness"<br />
+> occupying fatness as a form of protest (the chapter gives many examples of doing this in a subversive artistic context)<br />
+> (19)<br />
+> "compulsory body-thinness" and the "not-thin-yet body"<br />
+> (20)<br />
+> "I miss believing that we were changing the world in radical ways."<br />
+> a house filled with images of fat women!<br />
+> "part of ageing for me is needing more time to rest and recover"<br />
+> ideology of food as bad<br />
+> (22)<br />
+> noone can read or learn all of Torah, but everyone can find the teachings that are most our own<br />
+> (23)<br />
+> "no requirement that we have to love our bodies for them to count"<br />
+
+</details>
 
 <details>
 <summary>Thomas Jefferson: The Art of Power (John Meacham)</summary>

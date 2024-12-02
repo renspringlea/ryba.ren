@@ -1,5 +1,5 @@
 # soccer  
-plus basketball, sue me  
+australian women's cp team confirmed GOAT, undefeated run and gold medal at the recent world cup!  
 
 ## notes  
 navigate:  
@@ -11,17 +11,6 @@ navigate:
 
 time-zone: australia/adelaide  
 inspired by plaintextsports.com  
-
-## cp-world-cup  
-~~~~~~
-2024-11-15  00 japan v australia
-2024-11-17  00 australia v usa
-2024-11-18  00 australia v ireland
-2024-11-19  00 australia v denmark
-~~~~~~
-
-source: [ifcpf](https://www.ifcpf.com/tournaments)  
-coverage: [football australia](https://www.youtube.com/@footballaustralia)  
 
 ## international-friendlies  
 ~~~~~~
@@ -36,8 +25,8 @@ source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)
 ## leagues
 ~~~~~~
 2024-11-01  begin a-league
-2024-10-30  begin wnbl (espn or 9now) basketball
-2025-01  begin unrivalled basketball
+2024-10-30  begin wnbl (espn or 9now) basketball (not soccer, sue me)
+2025-01  begin unrivalled basketball (not soccer, sue me)
 ~~~~~~
 
 ## euros
