@@ -193,3 +193,93 @@ T! T is the best letter of all the letters. In their spare time (when they aren'
 ![t.jpg](/assets/images/t.jpg){: width='400' }  
   
 
+## Bruto  
+Bruto is a cheeky monster. Christmas is his favourite time of year. He enjoys watching the Christmas pageant with his friends whilst having snacks. He is quite the hugger and enjoys hugging your arm and belly rubs  
+![bruto.jpg](/assets/images/bruto.jpg){: width='400' }  
+  
+
+## Cookiesandcream  
+Cookies and Cream comes from Ren's childhood. They are a gentle bear who loves cuddles but also loves sugary treats. They love keeping the little ones comfortable and feeling safe.  
+![cookiesandcream.jpg](/assets/images/cookiesandcream.jpg){: width='400' }  
+  
+
+## Doodlebear  
+Doodle bear loves attention. She collected the names of all my friends from primary school and their messages for me on my last day before moving to another school. She likes to do dancing and twirling her skirt  
+![doodlebear.jpg](/assets/images/doodlebear.jpg){: width='400' }  
+  
+
+## Gina  
+Gina is our style queen. She's always looking fabulous and really enjoys accessorising. She enjoys running fashion shows and helping all the soft friends with their styles.  
+![gina.jpg](/assets/images/gina.jpg){: width='400' }  
+  
+
+## Hellokitty  
+Hello Kitty came all the way from Komatsu in Japan. She enjoys celebrating Christmas, especially the sparkly lights! She is good at looking after all the presents and keeps them safe in her present sack.  
+![hellokitty.jpg](/assets/images/hellokitty.jpg){: width='400' }  
+  
+
+## Jeffrey  
+Jeffrey is a love bug, he just loves love. He is a polite and romantic giraffe. His idea of the perfect date involves candlelight, flowers, soft music and staring into each other's eyes.  
+![jeffrey.jpg](/assets/images/jeffrey.jpg){: width='400' }  
+  
+
+## Millie  
+Millie is a very cheery and caring bear. She keeps everyone in good spirits and is always there to support them. She's a very kind and caring bear. Her twin is Mollie.  
+![millie.jpg](/assets/images/millie.jpg){: width='400' }  
+  
+
+## Mollie  
+Mollie is Millie's twin. They are polar opposites in their weather preferences (Mollie loves summer and Millie loves winter) but in every other way they are alike. She is super supportive and caring (with a medium dose of cheeky giggly in there too).  
+![mollie.jpg](/assets/images/mollie.jpg){: width='400' }  
+  
+
+## Mrspiggy  
+Mrs Piggy is a very mature and sensible pig who spends majority of her time hanging about and keeping an eye on everything to make sure everyone is okay. Occasionally she will get the sillies and start bouncing around and doing slinky down stairs. Her bestie is Monkey (Ben's slinky friend).  
+![mrspiggy.jpg](/assets/images/mrspiggy.jpg){: width='400' }  
+  
+
+## Pat  
+Pat was named after a distant relative from England called Patrick. Pat joined the family from an Aldi store in Europe and that's why he loves a winter Christmas. Pat is exuberant about life and loves travelling and new adventures with his friends.  
+![pat.jpg](/assets/images/pat.jpg){: width='400' }  
+  
+
+## Patrick  
+Patrick moved from Bikini Bottom into our house. When he moved, sadly he couldn't bring his rock (house) but he has come to find burrowing under soft blankets and pillows to be even more cosy! Patrick is carefree and relaxed. He goes with the flow and is here to have a good time with his friends (everyone). He enjoys hanging around and doing cartwheels.  
+![patrick.jpg](/assets/images/patrick.jpg){: width='400' }  
+  
+
+## Rizzotherat  
+Rizzo the rat came from a McHappy Meal and you can totally tell because he always has this big cheeky happy grin on his face. He spends a lot of the day (and night) searching for snacks, especially cheese!  
+![rizzotherat.jpg](/assets/images/rizzotherat.jpg){: width='400' }  
+  
+
+## Rosie  
+Rosie is a very calm bunny who is always there to support you. She enjoys having her ears stroked gently.  
+![rosie.jpg](/assets/images/rosie.jpg){: width='400' }  
+  
+
+## Senormousy  
+Señor Mousy is a bumbly friend who enjoys a good nuzzle up to your neck. He is a snoozely kind of alpaca who is happy to receive back rubs please.  
+![senormousy.jpg](/assets/images/senormousy.jpg){: width='400' }  
+  
+
+## Snowflake  
+Snowflake is a humble penguin who enjoys a good waddle around. They're super helpful and polite. Their best friends are Bentley and Foxy Loxy.  
+![snowflake.jpg](/assets/images/snowflake.jpg){: width='400' }  
+  
+
+## Summer  
+Summer is a polite, quiet and shy kitten. She waits until you invite her for cuddles but she does love all the cuddles so please invite her lots! When she isn't cuddling, you will find her snoozing in a sunny patch.  
+![summer.jpg](/assets/images/summer.jpg){: width='400' }  
+  
+
+## Tartanted  
+Tartan Ted is a very special ted. She looked after me when I went to Nan and Pops house for sleepovers and she always made it feel like home. She's a very caring and loving ted just like Nan and Pop. Her best friends are Ben's tartan Ted with green overalls and Alanna's knitted old gentleman. Tartan Teds birthday is the same date as Pop's birthday.  
+![tartanted.jpg](/assets/images/tartanted.jpg){: width='400' }  
+  
+
+## Tedwithatartanbow  
+Ted (with a tartan bow) is a very loyal ted. She is always there for you, to give you snuggles when you need it. Ted likes doing twirls and swirls wearing their vest so that it sparkles and makes all the other soft friends go wow and get excited and happy! Ted has been with me for what seems like forever, I can remember a time that Ted wasn't part of the family. Ted has a bestie called Ted who lives with Ben and has a more red/black bow.  
+![tedwithatartanbow.jpg](/assets/images/tedwithatartanbow.jpg){: width='400' }  
+  
+
