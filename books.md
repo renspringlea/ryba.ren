@@ -191,6 +191,18 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 ## Queer fiction
 
 <details>
+<summary>The Brightness Between Us (Eliot Schrefer)</summary>
+
+> Extremely good, a worthy follow up to the first book (no easy task). Very well put together (a challenging task given the many moving pieces in the story).<br />
+> great science. love all the little details of the planet<br />
+> i vibe with early-book yarrow<br />
+> delicious cameo of the indonesia radio signal from the previous book<br />
+> the bit with kodiak the sheep is really beautiful<br />
+> (death of infants; violent death of animals; and the bit with the earth animals makes me sad)<br />
+
+</details>
+
+<details>
 <summary>How You Get the Girl (Anita Kelly)</summary>
 
 > Verdict: A-/B+. quite heartwarming and wholesome; enjoyable and refreshingly strong implementation of the genre. Nice mental health content. BUCKY THE PIG!<br />
@@ -397,6 +409,18 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <br /></details>
 
 ## Politics and history
+
+<details>
+<summary>The Autobiography of Malcolm X</summary>
+
+> how much suffering<br />
+> only got 50% through and even then had to pace myself with this one, both due to the subject matter and it's just challenging to spend too much time in this guy's head. one of the simultaneous crackpot and visionary types.<br />
+> "that they will even violate and mutilate their God-created bodies to try to look pretty by white standards"<br />
+> "Any person who claims to have deep feelings for other human beings should think a long, long time before he votes to have other men kept behind bars, caged. I'm not saying there shouldn't be prisons. But there shouldn't be bars."<br />
+> (depictions of animal slaughter, as well as a great deal of violence against humans)<br />
+<br />
+
+</details>
 
 <details>
 <summary>The Contemporary Reader of Gender and Fat Studies (ed Amy Erdman Farrell)</summary>

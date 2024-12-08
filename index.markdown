@@ -20,11 +20,11 @@ Tomorrow will be different! ☮
 * [Finsight](https://finsight.fish)  
 
 ## Recent books I've read
+* The Autobiography of Malcolm X [politics and history]
+* The Brightness Between Us (Eliot Schrefer) [queer fiction]
 * The Contemporary Reader of Gender and Fat Studies (ed Amy Erdman Farrell) [politics and history]
-* How You Get the Girl (Anita Kelly) [queer fiction]
 * The City and Its Uncertain Walls (Haruki Murakami) [misc fiction]
 * Thomas Jefferson: The Art of Power (John Meacham) [politics and history]
-* The United Nations: A Very Short Introduction (Jussi M. Hanhimäki) [politics and history]
 
 Full list [here](books.html)
 
