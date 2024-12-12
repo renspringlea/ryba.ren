@@ -9,8 +9,9 @@ Tomorrow will be different! ☮
 
 ## Ren Ryba (they/them)
 * I live and work on the unceded land of the Kaurna people
-* "Ryba" means "fish" in Slovak, and it rhymes with "sneezer"
+* I am proud to be transgender and neurodivergent
 * I like [books](books.html), [tattoos](tattoos.html), and  [soccer](soccer.html)
+* "Ryba" means "fish" in Slovak, and it rhymes with "sneezer"
 * Years lived [34%] ⬤⬤⬤⬤⬤⬤◕○○○○○○○○○○○○○
 
 ## My work
@@ -20,11 +21,12 @@ Tomorrow will be different! ☮
 * [Finsight](https://finsight.fish)  
 
 ## Recent books I've read
+* Neuroqueer Heresies (Nick Walker) [politics and history]
+* Make the Season Bright (Ashley Herring Blake) [queer fiction]
 * The Autobiography of Malcolm X [politics and history]
 * The Brightness Between Us (Eliot Schrefer) [queer fiction]
 * The Contemporary Reader of Gender and Fat Studies (ed Amy Erdman Farrell) [politics and history]
 * The City and Its Uncertain Walls (Haruki Murakami) [misc fiction]
-* Thomas Jefferson: The Art of Power (John Meacham) [politics and history]
 
 Full list [here](books.html)
 

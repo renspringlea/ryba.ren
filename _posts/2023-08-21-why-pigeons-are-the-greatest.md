@@ -13,3 +13,5 @@ Further reading:
 - [Palomacy Pigeon & Dove Rescue](pigeonrescue.org)
 - Pearce, Fred 2015, *The New Wild: Why Invasive Species Will Be Nature's Salvation*
 - The 2019 animated film *Spies in Disguise*, starring Will Smith and Tom Holland.
+
+Also, see [the pigeon sculpture](https://www.abc.net.au/news/2020-11-06/big-pigeon-sculpture-unveiled-in-rundle-mall/12853372) in the Adelaide city centre! What a banger!

@@ -191,6 +191,13 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 ## Queer fiction
 
 <details>
+<summary>Make the Season Bright (Ashley Herring Blake)</summary>
+
+> its good, clear A. really well-written. a gay, vaguely antisocial classical musician who hates december.<br />
+
+</details>
+
+<details>
 <summary>The Brightness Between Us (Eliot Schrefer)</summary>
 
 > Extremely good, a worthy follow up to the first book (no easy task). Very well put together (a challenging task given the many moving pieces in the story).<br />
@@ -409,6 +416,24 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <br /></details>
 
 ## Politics and history
+
+<details>
+<summary>Neuroqueer Heresies (Nick Walker)</summary>
+
+> I think this information is important and worth reading. I find myself getting irked by the way the information is presented, somewhat repetitive etc. So I found some bits extremely useful and others irrelevant, which I skipped - treated the book more like a set of lectures than a single narrative<br />
+> This book makes me feel better about myself and the future of society<br />
+> I disagree with some of the author's strategic details, e.g. focus on (her specific interpretations of) language, her apparent pursuit of a distant utopia. at least in my experience of the animal advocacy movement, I haven't seen these to be terribly effective choices, but of course this is a movement whose day-to-day details I know far less about<br />
+> social anxiety as an oppression and trauma as disproportionately imposed on neurodivergent people by a neurotypical society<br />
+> the essay "What is autism?" makes me feel very seen<br />
+> the quote "Power is the ability not to have to learn."<br />
+> stimming includes fidgets, plus enjoying specific sounds, scents, and sights (bit broader than I previously assumed, but makes perfect sense)<br />
+> she's into zazen. which is actually a bit strange because much of her language and approach is hostile and exclusionary/name-cally, e.g. "stop acting like a fucking cop", which is not in line with Buddhist practice, a shame from an otherwise rigorous and compassionate thinker<br />
+> heteronormativity and neuronormativity as the same oppressive process<br />
+> likewise, neuroqueering as something that is done, analogy with gender and sexuality<br />
+> though the author doesnt reject essentialism totally in either neurodiversity or gender/sexuality, theyre roughly 80/20 constructionist/essentialist but essentialist as "innate tendencies or dispositions" not "shape of genitals"<br />
+> there's no "neurotypical brain" or "autistic brain", just like there's no "male brain" or "female brain", especially as neurotypicality and neurodivergence have a large component of performance and cultural context<br />
+
+</details>
 
 <details>
 <summary>The Autobiography of Malcolm X</summary>
