@@ -21,6 +21,7 @@ Tomorrow will be different! ☮
 * [Finsight](https://finsight.fish)  
 
 ## Recent books I've read
+* The Coldest Touch (Isabel Sterling) [queer fiction]
 * Neuroqueer Heresies (Nick Walker) [politics and history]
 * Make the Season Bright (Ashley Herring Blake) [queer fiction]
 * The Autobiography of Malcolm X [politics and history]

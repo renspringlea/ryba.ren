@@ -191,6 +191,17 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 ## Queer fiction
 
 <details>
+<summary>The Coldest Touch (Isabel Sterling)</summary>
+
+> got to about 75%, stopped because became pretty violent. this book is real. pretty intense look at grief and secondary trauma and depression. this is one traumatised kid.<br />
+> plot feels slightly undercooked<br />
+> i feel like these vampires are bad at project management. like paying for clares vampire therapist would have to have like a 10x ROI for the vampires. i could go on.<br />
+> (contains a frog dissection)<br />
+<br />
+
+</details>
+
+<details>
 <summary>Make the Season Bright (Ashley Herring Blake)</summary>
 
 > its good, clear A. really well-written. a gay, vaguely antisocial classical musician who hates december.<br />
