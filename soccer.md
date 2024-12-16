@@ -14,10 +14,9 @@ inspired by plaintextsports.com
 
 ## international-friendlies  
 ~~~~~~
-2024-11-28  20:30 australia v brazil  
-2024-12-01  19:05 australia v brazil  
-2024-12-04  19:30 australia v chinese taipei  
-2024-12-07  19:00 australia v chinese taipei  
+2025-02-19  22:05 japan v australia
+2025-02-23  22:05 usa v australia
+2025-02-27  12:30 australia v colombia
 ~~~~~~
 
 source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
@@ -25,7 +24,6 @@ source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)
 ## leagues
 ~~~~~~
 2024-11-01  begin a-league
-2024-10-30  begin wnbl (espn or 9now) basketball (not soccer, sue me)
 2025-01  begin unrivalled basketball (not soccer, sue me)
 ~~~~~~
 
