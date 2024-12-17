@@ -191,6 +191,19 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 ## Queer fiction
 
 <details>
+<summary>Something's Different (Quinn Ivins)</summary>
+
+> B+, it's good fun, academic office politics and a slow burn romance. flirting over linear models and antidepressants hahahah<br />
+> "thank god for my zoloft"<br />
+> "the formatting was hideous! nice slide, jackass"<br />
+> caitlin's anxiety/ocd/catastrophising resonates very strongly, and overachieving as a defense mechanism<br />
+> her family is a bit harsh given what she did for them!<br />
+> (contains cockroach death :()<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Coldest Touch (Isabel Sterling)</summary>
 
 > got to about 75%, stopped because became pretty violent. this book is real. pretty intense look at grief and secondary trauma and depression. this is one traumatised kid.<br />
@@ -750,7 +763,27 @@ Verdict: A. Completely amazing. Top-notch science communication too. The only re
 
 <br /></details>
 
-## Religion and Philosophy
+## Religion, Philosophy, and Lifestyle
+
+<details>
+<summary>Taking Off the Mask: Practical Exercises to Help Understand and Minimise the Effects of Autistic Camouflaging (Hannah Louise Belcher)</summary>
+
+> nice and validating. also nice to have a late-identifying autistic person who gets through uni before figuring it out. the book is a bit "mental health 101" in some sections though the author does flag this up front<br />
+> grief and anger that she hadn't been recognised and helped sooner<br />
+> a strategy can be helpful to help survive at one point and then less relevant and worth letting go of later on<br />
+> imposter syndrome re accepting ones autism<br />
+> masking is also done by many/all neurotypical people, though at a lower level, as part of meeting other peoples expectations<br />
+> going to great lengths to learn the rules and scripts of particular social contexts<br />
+> so immersed in camoflaguing that she doesn't actually hear what the other person says (!!!)<br />
+> working as a freelancer rather than full time in a single location<br />
+> preferring to sit back and watch social situations rather than participating<br />
+> what you actually want in life being hidden by what you think you should do. so reframing one's identity and figuring out what one actually wants. especially identifying childhood interests.<br />
+> Fred the Bear!<br />
+> becoming less concerned with other peoples impressions as she grows older<br />
+> making databases of her movie figurines!<br />
+<br />
+
+</details>
 
 <details>
 <summary>What Are We Doing When We Pray? On Prayer and the Nature of Faith (Vincent Brümmer)</summary>
