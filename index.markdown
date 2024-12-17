@@ -21,11 +21,11 @@ Tomorrow will be different! ☮
 * [Finsight](https://finsight.fish)  
 
 ## Recent books I've read
+* Something's Different (Quinn Ivins) [queer fiction]
+* Taking Off the Mask: Practical Exercises to Help Understand and Minimise the Effects of Autistic Camouflaging (Hannah Louise Belcher) [lifestyle]
 * The Coldest Touch (Isabel Sterling) [queer fiction]
 * Neuroqueer Heresies (Nick Walker) [politics and history]
-* Make the Season Bright (Ashley Herring Blake) [queer fiction]
 * The Autobiography of Malcolm X [politics and history]
-* The Brightness Between Us (Eliot Schrefer) [queer fiction]
 * The Contemporary Reader of Gender and Fat Studies (ed Amy Erdman Farrell) [politics and history]
 * The City and Its Uncertain Walls (Haruki Murakami) [misc fiction]
 
