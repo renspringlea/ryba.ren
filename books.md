@@ -191,6 +191,17 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 ## Queer fiction
 
 <details>
+<summary>Improbable Magic for Cynical Witches (Kate Scelsa)</summary>
+
+> verdict: strong A. its lovely and touching, coming of age with depression and alienation and reclaiming a messed up history and living with trauma. also beautiful social anxiety, loneliness, and lyme disease rep. feel very seen. some of the specifics are a bit on the nose but the protagonist is so, so relatable and endearing that it sorta works.<br />
+> how lucky to have a friend like susan!<br />
+> "this is what ive been reduced to; needing my mother's password to try to make a few friends"<br />
+> "what if you were enough, all on your own?"<br />
+<br />
+
+</details>
+
+<details>
 <summary>Something's Different (Quinn Ivins)</summary>
 
 > B+, it's good fun, academic office politics and a slow burn romance. flirting over linear models and antidepressants hahahah<br />
