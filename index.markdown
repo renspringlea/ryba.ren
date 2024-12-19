@@ -21,13 +21,13 @@ Tomorrow will be different! ☮
 * [Finsight](https://finsight.fish)  
 
 ## Recent books I've read
+* Shortest Way Home: One Mayor's Challenge and a Model to America's Future (Pete Buttigieg) [poliitcs and history]
 * Improbable Magic for Cynical Witches (Kate Scelsa) [queer fiction]
 * Something's Different (Quinn Ivins) [queer fiction]
 * Taking Off the Mask: Practical Exercises to Help Understand and Minimise the Effects of Autistic Camouflaging (Hannah Louise Belcher) [lifestyle]
 * Neuroqueer Heresies (Nick Walker) [politics and history]
 * The Autobiography of Malcolm X [politics and history]
 * The Contemporary Reader of Gender and Fat Studies (ed Amy Erdman Farrell) [politics and history]
-* The City and Its Uncertain Walls (Haruki Murakami) [misc fiction]
 
 Full list [here](books.html)
 

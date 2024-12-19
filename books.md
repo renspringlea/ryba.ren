@@ -453,6 +453,18 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 ## Politics and history
 
 <details>
+<summary>Shortest Way Home: One Mayor's Challenge and a Model to America's Future (Pete Buttigieg)</summary>
+
+> got like 50% through. beautifully written, strikes me as a pretty sensible and compassionate, if very conventional, guy; just made me tired to read about all this hand-shaking.<br />
+> mentions romero! partially stimulated his interest in human rights<br />
+> "For others, work can only be meaningful if its fundamental purpose is in things that would matter even if no-one would pay you to care about them."<br />
+> "There is something jarring about the idea that anyone thinks himself truly fit to perform the tremendously difficult and sensitive tasks of public office."<br />
+> the extremely local and retail politics gives me the heeby-jeebies. all those *people*!<br />
+<br />
+
+</details>
+
+<details>
 <summary>Neuroqueer Heresies (Nick Walker)</summary>
 
 > I think this information is important and worth reading. I find myself getting irked by the way the information is presented, somewhat repetitive etc. So I found some bits extremely useful and others irrelevant, which I skipped - treated the book more like a set of lectures than a single narrative<br />
