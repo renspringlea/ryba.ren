@@ -283,3 +283,78 @@ Ted (with a tartan bow) is a very loyal ted. She is always there for you, to giv
 ![tedwithatartanbow.jpg](/assets/images/tedwithatartanbow.jpg){: width='400' }  
   
 
+## Christmaspooh  
+Christmas Pooh is all about joy! They love bringing Christmas cheer to one and all. HO HO HO POOH IS HERE, SPREADING CHRISTMAS CHEER! They like to ring Christmas bells and give our presents and kisses to everyone.  
+![christmaspooh.jpg](/assets/images/christmaspooh.jpg){: width='400' }  
+  
+
+## Cosmo  
+Cosmo is one cool reindeer. Cosmo and their partner in crime, Pongo, decided to join the family from Tess' family. Cosmo enjoys spending time laying on a picnic blanket with Pongo and star gazing.  
+![cosmo.jpg](/assets/images/cosmo.jpg){: width='400' }  
+  
+
+## Giraffé  
+Giraffé enjoys warm snuggles, tucked up under your arm. They enjoy being stroked down the mane and getting their feet tickled.  
+![giraffé.jpg](/assets/images/giraffé.jpg){: width='400' }  
+  
+
+## Grady  
+Grady is a very clever cookie. He graduated year 12 with flying colours and gathered our bestest friends and favourite teachers leaving messages.  
+![grady.jpg](/assets/images/grady.jpg){: width='400' }  
+  
+
+## Humph  
+Humph just gets it. Humph offers comfort and solace when it's a hard day or you're feeling down. He makes you feel strong and capable and loved. Humph has really taken Humph junior under his wing and nurtured and loves him with all his heart.  
+![humph.jpg](/assets/images/humph.jpg){: width='400' }  
+  
+
+## Humphjunior  
+Humph Junior was a lost puppy from Tumby Bay op shop. We immediately adopted him as we knew a kind and caring Humph who would look after him and give him the love he needed to come out of his shell. He's now a cheeky mischief maker and loves to scamper off and cause mischief.  
+![humphjunior.jpg](/assets/images/humphjunior.jpg){: width='400' }  
+  
+
+## Maple  
+Maple is a wee chiddler whose Mummy is Willow. He's just becoming brave enough to start peeking out at the world from the safety of his mum's arms. He is a giggler!  
+![maple.jpg](/assets/images/maple.jpg){: width='400' }  
+  
+
+## Marie  
+Marie (pronounced Mary) is a little firecracker! She came popping into our family from a homemade Christmas cracker that the Comley family made for our Christmas Eve celebrations. Marie is very chipper and chatty. She likes to do twirls in her dress alongside Chloe.  
+![marie.jpg](/assets/images/marie.jpg){: width='400' }  
+  
+
+## Pongo  
+Pongo is Cosmo's sidekick. They are inseperable. Pongo enjoys a quiet sit to watch the world go by. They also enjoy sliding around on their belly, cuddling up close and belly rubs.  
+![pongo.jpg](/assets/images/pongo.jpg){: width='400' }  
+  
+
+## Rolypoly  
+Roly Poly is cheeky and you'll catch glimpses of them when they're rolling around from here and there. If you follow the glitter trail that they leave behind them as they roll, you'll find them! They enjoy spending time with their bestie Sprinkles  
+![rolypoly.jpg](/assets/images/rolypoly.jpg){: width='400' }  
+  
+
+## Rufus  
+Rufus was waiting very patiently waiting for me to come along and pick him up from the supermarket. He was the last one left and jumped straight into my bag and hasn't looked back since. He loves a good cuddle up with hot chocolates in hand.  
+![rufus.jpg](/assets/images/rufus.jpg){: width='400' }  
+  
+
+## Santapaws  
+Santa Paws has many many gifts to bring joy to all soft friends near and far. He is a real joker and enjoys making everyone laugh.  
+![santapaws.jpg](/assets/images/santapaws.jpg){: width='400' }  
+  
+
+## Snuffaluff  
+Snuffaluff jumped into our arms at Tumby Bay op shop and has been a wonderful comfort teddy ever since. He's so snuggly and cosy to hug up to and to hold. He loves being there for you.  
+![snuffaluff.jpg](/assets/images/snuffaluff.jpg){: width='400' }  
+  
+
+## Sprinkles  
+Sprinkles can sniff out sugar from miles away. You may find them in the kitchen with their face covered in icing sugar or some other sweet delicious food. Sprinkle's best friend is Roly Poly.   
+![sprinkles.jpg](/assets/images/sprinkles.jpg){: width='400' }  
+  
+
+## Willow  
+Willow is a very protective caring mummy to Maple. She enjoys watching Maple play, learn and grow. She does love a good cuddle  
+![willow.jpg](/assets/images/willow.jpg){: width='400' }  
+  
+
