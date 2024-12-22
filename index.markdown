@@ -21,13 +21,14 @@ Tomorrow will be different! ☮
 * [Finsight](https://finsight.fish)  
 
 ## Recent books I've read
-* Shortest Way Home: One Mayor's Challenge and a Model to America's Future (Pete Buttigieg) [poliitcs and history]
+* Tomorrow Will Be Different: Love, Loss, and the Fight for Trans Equality (Sarah McBride) [politics and history]
+* The Social Semiotics of Tattoos: Skin and Self (Chris William Martin) [politics and history]
+* Late Bloomer (Mazey Eddings) [queer fiction]
+* Shortest Way Home: One Mayor's Challenge and a Model to America's Future (Pete Buttigieg) [politics and history]
 * Improbable Magic for Cynical Witches (Kate Scelsa) [queer fiction]
 * Something's Different (Quinn Ivins) [queer fiction]
 * Taking Off the Mask: Practical Exercises to Help Understand and Minimise the Effects of Autistic Camouflaging (Hannah Louise Belcher) [lifestyle]
 * Neuroqueer Heresies (Nick Walker) [politics and history]
-* The Autobiography of Malcolm X [politics and history]
-* The Contemporary Reader of Gender and Fat Studies (ed Amy Erdman Farrell) [politics and history]
 
 Full list [here](books.html)
 

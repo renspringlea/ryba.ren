@@ -191,6 +191,21 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 ## Queer fiction
 
 <details>
+<summary>Late Bloomer (Mazey Eddings)</summary>
+
+> Verdict: A-. It's funny! It's mostly well-written and very wholesome (occasionally on the nose - but hey, it's a rom com about a flower farm). relatable and endearing mess of a main character<br />
+> autism rep! I really, really feel for Pepper's dread and discomfort at the start. and migraines rep.<br />
+> vague criticism that a couple of the subplots are solved simply because relatives have wealth<br />
+> "Don't call the flowers sluts."<br />
+> "I've discovered the cure to indecent thoughts about one's roommate. Spreadsheets."<br />
+> "All my clothes are the perfect sensory texture. I'm nowhere near stable enough to introduce new fabrics!"<br />
+> "I'm a 5'2" human disaster with green hair. What part of me is scary?"<br />
+> "Me telling you it's time to get up is not a hate crime."<br />
+<br />
+
+</details>
+
+<details>
 <summary>Improbable Magic for Cynical Witches (Kate Scelsa)</summary>
 
 > verdict: strong A. its lovely and touching, coming of age with depression and alienation and reclaiming a messed up history and living with trauma. also beautiful social anxiety, loneliness, and lyme disease rep. feel very seen. some of the specifics are a bit on the nose but the protagonist is so, so relatable and endearing that it sorta works.<br />
@@ -451,6 +466,43 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <br /></details>
 
 ## Politics and history
+
+<details>
+<summary>Tomorrow Will Be Different: Love, Loss, and the Fight for Trans Equality (Sarah McBride)</summary>
+
+> simply one of the best books ever. very possibly the best non-fiction book ive ever read (which is saying something!)<br />
+> she is a very thoughtful woman! both politically and strategically. with some serious intestinal fortitude.<br />
+> the impression that one's dreams and one's identity are mutually exclusive<br />
+> coming out as helping someone else process their emotional journey hahahahha<br />
+> dysphoria as analogous to a feeling of homesickness<br />
+> having no references for successful trans people<br />
+> imagine having the governor of delaware to help you come out to your parents hahahaha<br />
+> book feels a bit like its aiming to educate cis people, but only partially<br />
+> having to learn how to not smile at strangers<br />
+> "Welcome to the White House, Ms McBride." beautiful<br />
+> during the toxic senate debate on the trans equal protection bill and she just gets fed up and sends herself in hahaha what a legend<br />
+> had to skip a lot of the content around Andy's death, which I found too difficult to read<br />
+<br />
+
+</details>
+
+<details>
+<summary>The Social Semiotics of Tattoos: Skin and Self (Chris William Martin)</summary>
+
+> interesting, tattoos as a permanent commitment in an age of liquid modernity (ephemeral consumer culture), a refuge of stability<br />
+> tattoos have multiple meanings, and the meaning of even a specific tattoo can have different meanings over time and space<br />
+> as a body modification form, near universal and extremely persistent<br />
+> 19th and 20th centuries, tattoos were among the thing violently stamped out by Christian missionaries<br />
+> the association with deviance is fairly new and also declining today (especially due to artists' pursuit of higher standards over time), and is heaps problematic in any case<br />
+> "flesh journey"; representing one's journey and others' journeys in flesh<br />
+> the extremely deceptive artist that the author encountered<br />
+> questioning whether tattoos, like film, music, and other art forms, will be monopolised by corporations, it's unusual as an art form that is controlled by individual artists rather than corporations<br />
+> modern custom tattoo shops originate in the 1970s but are now standard<br />
+> "pinterest is the new flash, and instagram is the new portfolio" but most artists wont directly use an internet design, inspiration only; to do with the evolution into an art form (and flash on walls giving way to fine art)<br />
+> the sexuality aspect, e.g. physical attraction to tattooed people<br />
+<br />
+
+</details>
 
 <details>
 <summary>Shortest Way Home: One Mayor's Challenge and a Model to America's Future (Pete Buttigieg)</summary>
