@@ -191,6 +191,15 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 ## Queer fiction
 
 <details>
+<summary>Must Love Silence (Lucy Bexley) (R)</summary>
+
+> biggest vibe. checks out.<br />
+> (re-read)<br />
+<br />
+
+</details>
+
+<details>
 <summary>Late Bloomer (Mazey Eddings)</summary>
 
 > Verdict: A-. It's funny! It's mostly well-written and very wholesome (occasionally on the nose - but hey, it's a rom com about a flower farm). relatable and endearing mess of a main character<br />
@@ -466,6 +475,35 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <br /></details>
 
 ## Politics and history
+
+<details>
+<summary>Tackling Stereotype: Corporeal Reflexivity and Politics of Play in Women’s Rugby (Charlotte Branchu)</summary>
+
+> Just outstanding!<br />
+> (cw: final paragraphs talk about a ban on trans women)<br />
+> rugby as a space and an activity<br />
+> "it is dangerous both physically and morally" on women's rugby<br />
+> physical risk to women in large part caused by the fact that they arent encouraged to become strong and train from a young age<br />
+> questioning the sex of women who do not conform to specific gender roles<br />
+> "Politics are undeniably acted through and within sport."<br />
+> re unequal treatment of women in sport "Women athletes are never just athletes. They are sexualised, reduced to mothers, potential heterosexual partners, or denied their womanhood altogether."<br />
+> sex tests<br />
+> women cannot perform well or succeed without raising questions (!!!!!!!!!!!!! all those transphobic articles)<br />
+> "the good pain", the physical sensation of feeling one's body and one's strength<br />
+> lesbians as sexual predators who invade sports and especially changing room<br />
+> makes deviance a way of life<br />
+> position as identity<br />
+> external standards of fear and violence<br />
+> when one cannot play, feeling like one is "slipping away from the team"<br />
+> learning to care for your own body; not always feel cared for and appreciated by medical professionals ("normative expectations of white male dominance")<br />
+> "My body is doing what I want it to do and it's working for me and it's more than something to look at."<br />
+> confidence that comes from knowing one's strength and overcoming challenges in rugby can translate to other spheres; biology is far from fixed and the bar can be raised<br />
+> "it is something to take very seriously and it is just a game"<br />
+> "came for the sport, stayed for the girls"<br />
+> fluidity and mundanity of same sex relationships and sexual activity, frequently within the team, though rarely using the word "lesbian"; more like "gay" or "girls who like girls" or triggering an identity/sexuality crisis. liberating to be away from men and the male gaze.<br />
+<br />
+
+</details>
 
 <details>
 <summary>Tomorrow Will Be Different: Love, Loss, and the Fight for Trans Equality (Sarah McBride)</summary>
