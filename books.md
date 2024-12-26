@@ -474,6 +474,149 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 
 <br /></details>
 
+## Memoirs and biography
+<details>
+<summary>Late Bloomer: How an Autism Diagnosis Changed My Life (Clem Bastow)</summary>
+
+> dont love the diagnosis language but respect that they feel differently; this book makes me feel extremely seen<br />
+> selectively forgetting not interesting stuff<br />
+> crushing homesickness<br />
+> goddamn i hate nazism<br />
+> and police violence :(<br />
+> reading the wikipedia citations hahaha<br />
+> "the lost generation", people who, had they been born in the 21st century, wouldve been recognised as autistic at age 6 or 8<br />
+> clothing tags<br />
+> fear of skin picking!<br />
+> worst case scenario and catastrophising, easier to imagine (clem bastow)<br />
+> repeating phrases from long forgotten media hahahahaha<br />
+> eating disorders and trouble eating; nothing wrong with autistic kids finding comfort in certain foods; eating the same thing every day<br />
+> comfort in formulaic and predictable plots, looking up spoilers in advance<br />
+> school uniform textures (!)<br />
+> fucking hate child abuse<br />
+> musicals as stimming!<br />
+> "vivid inner world"<br />
+> school refusal<br />
+> "if we suffer from anything, it's too much empathy"<br />
+> "an inhuman ability to produce reams of content" !!!!!!!<br />
+> autistic burnout<br />
+> freelance and remote work (irl a "social and sensory nightmare")<br />
+> abusive boyfriends make me sad<br />
+> feminist media and "the demand to perform trauma"<br />
+> becoming more comfortable living as obviously autistic with age<br />
+> difficulty following conversations in loud environment<br />
+> "pathological need for justice"<br />
+<br />
+
+</details>
+
+<details>
+<summary>Tomorrow Will Be Different: Love, Loss, and the Fight for Trans Equality (Sarah McBride)</summary>
+
+> simply one of the best books ever. very possibly the best non-fiction book ive ever read (which is saying something!)<br />
+> she is a very thoughtful woman! both politically and strategically. with some serious intestinal fortitude.<br />
+> the impression that one's dreams and one's identity are mutually exclusive<br />
+> coming out as helping someone else process their emotional journey hahahahha<br />
+> dysphoria as analogous to a feeling of homesickness<br />
+> having no references for successful trans people<br />
+> imagine having the governor of delaware to help you come out to your parents hahahaha<br />
+> book feels a bit like its aiming to educate cis people, but only partially<br />
+> having to learn how to not smile at strangers<br />
+> "Welcome to the White House, Ms McBride." beautiful<br />
+> during the toxic senate debate on the trans equal protection bill and she just gets fed up and sends herself in hahaha what a legend<br />
+> had to skip a lot of the content around Andy's death, which I found too difficult to read<br />
+<br />
+
+</details>
+
+<details>
+<summary>Shortest Way Home: One Mayor's Challenge and a Model to America's Future (Pete Buttigieg)</summary>
+
+> got like 50% through. beautifully written, strikes me as a pretty sensible and compassionate, if very conventional, guy; just made me tired to read about all this hand-shaking.<br />
+> mentions romero! partially stimulated his interest in human rights<br />
+> "For others, work can only be meaningful if its fundamental purpose is in things that would matter even if no-one would pay you to care about them."<br />
+> "There is something jarring about the idea that anyone thinks himself truly fit to perform the tremendously difficult and sensitive tasks of public office."<br />
+> the extremely local and retail politics gives me the heeby-jeebies. all those *people*!<br />
+<br />
+
+</details>
+
+<details>
+<summary>The Autobiography of Malcolm X</summary>
+
+> how much suffering<br />
+> only got 50% through and even then had to pace myself with this one, both due to the subject matter and it's just challenging to spend too much time in this guy's head. one of the simultaneous crackpot and visionary types.<br />
+> "that they will even violate and mutilate their God-created bodies to try to look pretty by white standards"<br />
+> "Any person who claims to have deep feelings for other human beings should think a long, long time before he votes to have other men kept behind bars, caged. I'm not saying there shouldn't be prisons. But there shouldn't be bars."<br />
+> (depictions of animal slaughter, as well as a great deal of violence against humans)<br />
+<br />
+
+</details>
+
+<details>
+<summary>Thomas Jefferson: The Art of Power (John Meacham)</summary>
+
+
+> Once again an excellent biography on an excellent subject from this biographer. It's a challenge to make this subject feel new but this writer does so, and without shying away from the (many) ugly bits.<br />
+> the underappreciated dynasty (jefferson, madison, monroe, van buren)<br />
+> hated arguing, avoided face to face conflict, actually not a great orator so didn't speak in front of crowds much and cultivated writing and conversation instead<br />
+> born into extreme privilege, obviously, enjoyed the high life<br />
+> owned over 600 slaves aye aye aye<br />
+> bit of a wannabe womanizer<br />
+> didnt know he was *comparatively* progressive on slavery, though on one occasion basically advocated for the genocide of Native Americans<br />
+> complained when his documents were critiqued and edited by the congress hahahahahah same<br />
+> "Rebellion to tyrants is obedience to God."<br />
+> Virginia's legislature almost voted to establish a dictatorship! actually makes sense given all that talk about importing a monarch<br />
+> the grief over his wife's death is very touching<br />
+> "We are therefore never safe til our magazines are filled with arms."<br />
+> the whole thing with Sally Hemmings, while certainly nauseating and heartbreaking, is told here in a level-headed balanced way that I think works well. Hemmings is a very crafty and strong operator.<br />
+> intense animosity and occasional gridlock within the congress even at this early stage<br />
+> the alien and sedition acts were more messed up than i thought!<br />
+> hamilton straight up tried to illegally overturn jefferson's election win, and jefferson's supporters spoke of marching on the capitol!<br />
+> pet mockingbirds as president!<br />
+> concerns about blind party loyalty; heaps of impeachment happening at this early stage; federalists stacking the judiciary<br />
+<br />
+
+</details>
+
+<details>
+<summary>William Wilberforce: A Hero for Humanity (Kevin Belmonte)</summary>
+<br />
+> Perfection. An excellent biography of a truly great man. The biography is all the more readable for being thematic rather than chronological, though it occasionally leans slightly into hagiography.<br />
+> I wish I could be friends with Wilberforce! I think he would get along with the EAA crowd, especially given his significant animal welfare advocacy.<br />
+> It always strikes me that many of the greatest reformers in history (Paul, Wilberforce, Nightingale, King) come from comparatively privileged upbringings.<br />
+> Didn't realise he was around for the height of the American revolutionary war and on at least one occasion hung out with Franklin and Lafayette, plus friends with John Jay and John Quincy Adams (!). And he was besties with *that* Pitt. And friends with Bentham maybe? And as an abolitionist, collaborator with William Smith, grandfather of Florence Nightinggale! Influenced Victoria (*that* Victoria) directly and indirectly. Sponsored the education of the Brontes.<br />
+> even after his Great Change, very conscientious and considerate about what specific religious doctrines he assented to<br />
+> the brief consideration about leaving public life which we are *very* fortunate he didn't act on; similar to my "against kindness" blog post and Thay's "Buddhas are found in places of suffering" in that it's about doing as much good as we can, not chasing purity (the "Eusabian temptation" as the author puts it); as Wilberforce puts it "to consider our pecular situation and then to do all the good we can"<br />
+> answering the question "Who is my neighbour" (in  the context of Jesus's two commandments) by looking at the story of the Good Samaritan - yep that's an elegant and powerful way of looking at things<br />
+> a huge bookworm and big on self-improvement<br />
+> chronic illness<br />
+> basically took the GWWC pledge hahahaha<br />
+> of course faced huge amounts of "venom and vitriol" from his opponents
+
+<br /></details>
+
+<details>
+<summary>Franklin and Winston: An Intimate Portrait of an Epic Friendship (Jon Meacham)</summary>
+<br />
+> Really excellent. Outstanding writing.<br />
+> Vaguely irritated by the uncritical "Churchill good, Axis bad" characterisation of the war. Though I certainly agree that Churchill fellow was one hell of a leader.<br />
+> "It is fun to be in the same decade as you."<br />
+> FDR as a "frustrated clergyman at heart"<br />
+> Roosevelt "had about a hundred ideas a day, four of which were good" hahahaha<br />
+> This outstanding bit about rest: "... Roosevelt slept well. At the pinnacle of their power and responsibilities during the war, both men did. They knew there would be another fight another day, probably the very next day, and that energy spent fretting about what could not be undone was wasted."
+
+<br /></details>
+
+<details>
+<summary>Florence Nightingale at First Hand: Vision, Power, Legacy (Lynn McDonald)  </summary>
+<br /><br />
+An amazing book. A+ for Nightingale's life (a bona fide gem of humanity), and even A/A+ for the book itself (it's crystal clear that this is written by the world's foremost expert, and I love how it's rigorously and almost entirely based on primary sources - cuts through the overabundant noise).  <br />
+A statistician, researcher, lobbyist, and a skilled liberal/social reform political activist (often from her own sick room), and also deeply religious (an experience of being called to service by God; accountable "we serve not a committee but the Lord"; "a blessed life when we can live it for others"; saw the face of God in the poor, sick, and imprisoned; "how I wish God was king or at least the Prince of Wales"!) - amazing!  <br />
+struggled with illness/permanent disability ("prisoner to my bed") but used her best hours on the most impactful projects, kept a limit on social visitors  <br />
+advocated for more M&E of government's laws; a fan of Marcus Aurelius's Meditations; an animal person, took care of animals; mortification and self-denial as a form of seeking one's own desires!; intellectually an ancestor of Gandhi (via mentor of his mentor) and thus King; was frequently insulted in the pages of academic journals, even simply for being a woman  
+
+<br /></details>
+
 ## Politics and history
 
 <details>
@@ -506,25 +649,6 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 </details>
 
 <details>
-<summary>Tomorrow Will Be Different: Love, Loss, and the Fight for Trans Equality (Sarah McBride)</summary>
-
-> simply one of the best books ever. very possibly the best non-fiction book ive ever read (which is saying something!)<br />
-> she is a very thoughtful woman! both politically and strategically. with some serious intestinal fortitude.<br />
-> the impression that one's dreams and one's identity are mutually exclusive<br />
-> coming out as helping someone else process their emotional journey hahahahha<br />
-> dysphoria as analogous to a feeling of homesickness<br />
-> having no references for successful trans people<br />
-> imagine having the governor of delaware to help you come out to your parents hahahaha<br />
-> book feels a bit like its aiming to educate cis people, but only partially<br />
-> having to learn how to not smile at strangers<br />
-> "Welcome to the White House, Ms McBride." beautiful<br />
-> during the toxic senate debate on the trans equal protection bill and she just gets fed up and sends herself in hahaha what a legend<br />
-> had to skip a lot of the content around Andy's death, which I found too difficult to read<br />
-<br />
-
-</details>
-
-<details>
 <summary>The Social Semiotics of Tattoos: Skin and Self (Chris William Martin)</summary>
 
 > interesting, tattoos as a permanent commitment in an age of liquid modernity (ephemeral consumer culture), a refuge of stability<br />
@@ -538,18 +662,6 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 > modern custom tattoo shops originate in the 1970s but are now standard<br />
 > "pinterest is the new flash, and instagram is the new portfolio" but most artists wont directly use an internet design, inspiration only; to do with the evolution into an art form (and flash on walls giving way to fine art)<br />
 > the sexuality aspect, e.g. physical attraction to tattooed people<br />
-<br />
-
-</details>
-
-<details>
-<summary>Shortest Way Home: One Mayor's Challenge and a Model to America's Future (Pete Buttigieg)</summary>
-
-> got like 50% through. beautifully written, strikes me as a pretty sensible and compassionate, if very conventional, guy; just made me tired to read about all this hand-shaking.<br />
-> mentions romero! partially stimulated his interest in human rights<br />
-> "For others, work can only be meaningful if its fundamental purpose is in things that would matter even if no-one would pay you to care about them."<br />
-> "There is something jarring about the idea that anyone thinks himself truly fit to perform the tremendously difficult and sensitive tasks of public office."<br />
-> the extremely local and retail politics gives me the heeby-jeebies. all those *people*!<br />
 <br />
 
 </details>
@@ -569,18 +681,6 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 > likewise, neuroqueering as something that is done, analogy with gender and sexuality<br />
 > though the author doesnt reject essentialism totally in either neurodiversity or gender/sexuality, theyre roughly 80/20 constructionist/essentialist but essentialist as "innate tendencies or dispositions" not "shape of genitals"<br />
 > there's no "neurotypical brain" or "autistic brain", just like there's no "male brain" or "female brain", especially as neurotypicality and neurodivergence have a large component of performance and cultural context<br />
-
-</details>
-
-<details>
-<summary>The Autobiography of Malcolm X</summary>
-
-> how much suffering<br />
-> only got 50% through and even then had to pace myself with this one, both due to the subject matter and it's just challenging to spend too much time in this guy's head. one of the simultaneous crackpot and visionary types.<br />
-> "that they will even violate and mutilate their God-created bodies to try to look pretty by white standards"<br />
-> "Any person who claims to have deep feelings for other human beings should think a long, long time before he votes to have other men kept behind bars, caged. I'm not saying there shouldn't be prisons. But there shouldn't be bars."<br />
-> (depictions of animal slaughter, as well as a great deal of violence against humans)<br />
-<br />
 
 </details>
 
@@ -646,33 +746,6 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 
 </details>
 
-<details>
-<summary>Thomas Jefferson: The Art of Power (John Meacham)</summary>
-
-
-> Once again an excellent biography on an excellent subject from this biographer. It's a challenge to make this subject feel new but this writer does so, and without shying away from the (many) ugly bits.<br />
-> the underappreciated dynasty (jefferson, madison, monroe, van buren)<br />
-> hated arguing, avoided face to face conflict, actually not a great orator so didn't speak in front of crowds much and cultivated writing and conversation instead<br />
-> born into extreme privilege, obviously, enjoyed the high life<br />
-> owned over 600 slaves aye aye aye<br />
-> bit of a wannabe womanizer<br />
-> didnt know he was *comparatively* progressive on slavery, though on one occasion basically advocated for the genocide of Native Americans<br />
-> complained when his documents were critiqued and edited by the congress hahahahahah same<br />
-> "Rebellion to tyrants is obedience to God."<br />
-> Virginia's legislature almost voted to establish a dictatorship! actually makes sense given all that talk about importing a monarch<br />
-> the grief over his wife's death is very touching<br />
-> "We are therefore never safe til our magazines are filled with arms."<br />
-> the whole thing with Sally Hemmings, while certainly nauseating and heartbreaking, is told here in a level-headed balanced way that I think works well. Hemmings is a very crafty and strong operator.<br />
-> intense animosity and occasional gridlock within the congress even at this early stage<br />
-> the alien and sedition acts were more messed up than i thought!<br />
-> hamilton straight up tried to illegally overturn jefferson's election win, and jefferson's supporters spoke of marching on the capitol!<br />
-> pet mockingbirds as president!<br />
-> concerns about blind party loyalty; heaps of impeachment happening at this early stage; federalists stacking the judiciary<br />
-<br />
-
-</details>
-
-
 
 <details>
 <summary>The United Nations: A Very Short Introduction (Jussi M. Hanhimäki)    </summary>
@@ -728,35 +801,6 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 </details>
 
 <details>
-<summary>William Wilberforce: A Hero for Humanity (Kevin Belmonte)</summary>
-<br />
-> Perfection. An excellent biography of a truly great man. The biography is all the more readable for being thematic rather than chronological, though it occasionally leans slightly into hagiography.<br />
-> I wish I could be friends with Wilberforce! I think he would get along with the EAA crowd, especially given his significant animal welfare advocacy.<br />
-> It always strikes me that many of the greatest reformers in history (Paul, Wilberforce, Nightingale, King) come from comparatively privileged upbringings.<br />
-> Didn't realise he was around for the height of the American revolutionary war and on at least one occasion hung out with Franklin and Lafayette, plus friends with John Jay and John Quincy Adams (!). And he was besties with *that* Pitt. And friends with Bentham maybe? And as an abolitionist, collaborator with William Smith, grandfather of Florence Nightinggale! Influenced Victoria (*that* Victoria) directly and indirectly. Sponsored the education of the Brontes.<br />
-> even after his Great Change, very conscientious and considerate about what specific religious doctrines he assented to<br />
-> the brief consideration about leaving public life which we are *very* fortunate he didn't act on; similar to my "against kindness" blog post and Thay's "Buddhas are found in places of suffering" in that it's about doing as much good as we can, not chasing purity (the "Eusabian temptation" as the author puts it); as Wilberforce puts it "to consider our pecular situation and then to do all the good we can"<br />
-> answering the question "Who is my neighbour" (in  the context of Jesus's two commandments) by looking at the story of the Good Samaritan - yep that's an elegant and powerful way of looking at things<br />
-> a huge bookworm and big on self-improvement<br />
-> chronic illness<br />
-> basically took the GWWC pledge hahahaha<br />
-> of course faced huge amounts of "venom and vitriol" from his opponents
-
-<br /></details>
-
-<details>
-<summary>Franklin and Winston: An Intimate Portrait of an Epic Friendship (Jon Meacham)</summary>
-<br />
-> Really excellent. Outstanding writing.<br />
-> Vaguely irritated by the uncritical "Churchill good, Axis bad" characterisation of the war. Though I certainly agree that Churchill fellow was one hell of a leader.<br />
-> "It is fun to be in the same decade as you."<br />
-> FDR as a "frustrated clergyman at heart"<br />
-> Roosevelt "had about a hundred ideas a day, four of which were good" hahahaha<br />
-> This outstanding bit about rest: "... Roosevelt slept well. At the pinnacle of their power and responsibilities during the war, both men did. They knew there would be another fight another day, probably the very next day, and that energy spent fretting about what could not be undone was wasted."
-
-<br /></details>
-
-<details>
 <summary>The Earliest History of the Christian Gathering: Origin, Development and Content of the Christian Gathering in the First to Third Centuries (Valeriy A. Alikin)</summary>
 <br />
 > reading ch1-3<br />
@@ -809,15 +853,7 @@ Letter 13 (1.1.13) mentions a "man in woman's clothes".  <br />
 "I am sick of life. The whole world is so thoroughly out of joint." (1.2.24) "I can't write anymore. I am so downhearted and wretched." (1.3.2) "My life is one long misery and I am crushed with the weight of my sorrows." (1.3.5) And he hints that Atticus advised him against suicide! "What is there for me to live for?" (1.3.6) Not being able to sleep (2.8.1). After Tullia dies it gets real, using writing a book to keep his grief in check (3.12.14). "In the morning I hide myself in a dense and wild wood and I don't come out until evening ... my only discourse is with books, though tears interrupt it" (3.12.15). Preparing shrine/memorial arrangements. Really touching. I wish his book on grief had not been lost!  
 
 <br /></details>
-<details>
-<summary>Florence Nightingale at First Hand: Vision, Power, Legacy (Lynn McDonald)  </summary>
-<br /><br />
-An amazing book. A+ for Nightingale's life (a bona fide gem of humanity), and even A/A+ for the book itself (it's crystal clear that this is written by the world's foremost expert, and I love how it's rigorously and almost entirely based on primary sources - cuts through the overabundant noise).  <br />
-A statistician, researcher, lobbyist, and a skilled liberal/social reform political activist (often from her own sick room), and also deeply religious (an experience of being called to service by God; accountable "we serve not a committee but the Lord"; "a blessed life when we can live it for others"; saw the face of God in the poor, sick, and imprisoned; "how I wish God was king or at least the Prince of Wales"!) - amazing!  <br />
-struggled with illness/permanent disability ("prisoner to my bed") but used her best hours on the most impactful projects, kept a limit on social visitors  <br />
-advocated for more M&E of government's laws; a fan of Marcus Aurelius's Meditations; an animal person, took care of animals; mortification and self-denial as a form of seeking one's own desires!; intellectually an ancestor of Gandhi (via mentor of his mentor) and thus King; was frequently insulted in the pages of academic journals, even simply for being a woman  
 
-<br /></details>
 <details>
 <summary>The Dangerous Life and Ideas of Diogenes the Cynic  </summary>
 <br />
