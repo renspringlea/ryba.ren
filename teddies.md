@@ -358,3 +358,23 @@ Willow is a very protective caring mummy to Maple. She enjoys watching Maple pla
 ![willow.jpg](/assets/images/willow.jpg){: width='400' }  
   
 
+## Honeychum  
+I had Honeychum's name picked out for years before he came along. When I first met Honeychum, he polited hinted "I think Honeychum would suit me...?" And of course he was correct so he proudly got his name. He's a snuggly sort of bear who enjoys being tucked up under someone's arm, all cosy and warm.  
+![honeychum.jpg](/assets/images/honeychum.jpg){: width='400' }  
+  
+
+## Mocha  
+Mocha joined our family from Port Neill. She enjoys sitting on the decking handrail, swinging her legs and watching the world go by. She loves the way the sea breeze feels when it blows her ears. She also enjoys quiet lays in the hammock in the sun, listening to the waves gently crashing on the shore.  
+![mocha.jpg](/assets/images/mocha.jpg){: width='400' }  
+  
+
+## Penelope  
+Penelope is from Port Neill and she is stoked that Mocha has joined the family so that they can discuss all things port Neill from a bunny perspective, sometimes it's nice to have someone who just gets you. She's quite the chatterbox! She enjoys spending time laying in the hammock in the sun next to Mocha and chatting up a storm.  
+![penelope.jpg](/assets/images/penelope.jpg){: width='400' }  
+  
+
+## Tedsmallmyer  
+I met Ted (small Myer) when I visited Santa. They are Santa's little helper and decided to come home with me. Their friends came home with Ben and Alanna and they like to all catch up and have a chat while drinking a hot choccy with sprinkles and a marshmallow on top.  
+![tedsmallmyer.jpg](/assets/images/tedsmallmyer.jpg){: width='400' }  
+  
+

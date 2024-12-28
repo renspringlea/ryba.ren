@@ -191,6 +191,15 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 ## Queer fiction
 
 <details>
+<summary>Paper Love (Jae)</summary>
+
+> Verdict: A. What a comfort book! Germany! Rain! And a business consultant reforming a stationery store, no less. Fun and cozy.<br />
+> "There's no place for sentimentality in business" is that a Monty Python reference hahahaha<br />
+<br />
+
+</details>
+
+<details>
 <summary>Must Love Silence (Lucy Bexley) (R)</summary>
 
 > biggest vibe. checks out.<br />
@@ -913,6 +922,13 @@ Verdict: A. Completely amazing. Top-notch science communication too. The only re
 <br /></details>
 
 ## Religion, Philosophy, and Lifestyle
+
+<details>
+<summary>Queer Theologies: The Basics (Chris Greenough)</summary>
+
+<br />
+
+</details>
 
 <details>
 <summary>Taking Off the Mask: Practical Exercises to Help Understand and Minimise the Effects of Autistic Camouflaging (Hannah Louise Belcher)</summary>

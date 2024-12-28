@@ -23,12 +23,12 @@ Tomorrow will be different! ☮
 ## Recent books I've read
 Full list of all books I've read [here](books.html)
 
+* Queer Theologies: The Basics (Chris Greenough) [religion and philosophy]
+* Paper Love (Jae) [queer fiction]
 * Late Bloomer: How an Autism Diagnosis Changed My Life (Clem Bastow) [memoirs and biography]
 * Tackling Stereotype: Corporeal Reflexivity and Politics of Play in Women’s Rugby (Charlotte Branchu) [politics and history]
-* Must Love Silence (Lucy Bexley) [queer fiction; re-read]]
 * Tomorrow Will Be Different: Love, Loss, and the Fight for Trans Equality (Sarah McBride) [memoirs and biography]
 * The Social Semiotics of Tattoos: Skin and Self (Chris William Martin) [politics and history]
-* Late Bloomer (Mazey Eddings) [queer fiction]
 * Improbable Magic for Cynical Witches (Kate Scelsa) [queer fiction]
 * Taking Off the Mask: Practical Exercises to Help Understand and Minimise the Effects of Autistic Camouflaging (Hannah Louise Belcher) [lifestyle]
 
