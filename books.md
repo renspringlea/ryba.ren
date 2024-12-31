@@ -924,6 +924,34 @@ Verdict: A. Completely amazing. Top-notch science communication too. The only re
 ## Religion, Philosophy, and Lifestyle
 
 <details>
+<summary>Constructing Canine Consent: Conceptualising and adopting a consent-focused relationship with dogs (Erin Jones)</summary>
+
+<br />
+
+</details>
+
+<details>
+<summary>A Book of Silence (Sara Maitland)</summary>
+
+> this book is a deep joy and a relief. very comprehensive and reflective yet mostly well-researched look at solitude.<br />
+> surrounded by 20 miles of nothing on all sides<br />
+> nothing in diary for the next fortnight, nowhere to be except mass and noone coming to visit<br />
+> passage at the start is like "we all do XYZ" which is annoying bc its demonstrably false and "protagonist of reality" energy. like i think the authors own experiences are v interesting and references to previous literature likewise, but when she dips into social commentary its a bit weaker. and similar when talking about depression, lots i dont agree with. her science is often a bit incorrect.<br />
+> conflating menopause with womanhood is a bit cringe<br />
+> designing a "sustainable lifestyle that contains as much silence as possible"<br />
+> interesting that the language used to describe her experience going to the shopping centre after a long period of silence reads almost identical to that of Clem Bastow and other autistic people<br />
+> "silence is the oar for something too deep for words"<br />
+> silence as protest, refusal to enter the arena<br />
+> contains animal murder, killing rabbits in a chapter that glorifies birds no less, absolutely bizarre<br />
+> silence as fulfilment (creative arts) vs silence as emptying (hermits) but still ofc many deep similarities<br />
+> "We would probably diagnose a substantial number of the famous and highly regarded saints of this tradition [eremitism and especially penance] as suffering from eating disorders."<br />
+> "I do not want to struggle each day to milk my goat or forage for wood for my fire, and even if I did, there would still be council tax. What I want to do is live in as much silence as possible."<br />
+> "a hefty dose of good administration" hahaha<br />
+<br />
+
+</details>
+
+<details>
 <summary>Queer Theologies: The Basics (Chris Greenough)</summary>
 
 <br />
