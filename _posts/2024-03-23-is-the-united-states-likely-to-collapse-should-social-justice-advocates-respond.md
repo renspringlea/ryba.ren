@@ -131,11 +131,11 @@ I don't know how the increase of people identifying as "independent" is related 
 The feeling of people towards their own party has remained relatively constant. The feeling of people towards their rival party has declined. This seems consistent with a rise in partisanship as expressed by Jacobs and Milkis.
 
 
-![Graph of public identification with parties over time](https://i.ibb.co/WPF99bk/g2.png)
+![Graph of public identification with parties over time](/assets/images/g2.png)
 
 
 
-![Graph of affective polarization thermometer](https://i.ibb.co/SJsDvJz/g1.png)
+![Graph of affective polarization thermometer](/assets/images/g1.png)
 
 
 _Data on party identification from [Gallup](https://news.gallup.com/poll/343976/quarterly-gap-party-affiliation-largest-2012.aspx). Data on affective polarization from [American National Election Studies](https://electionstudies.org/data-tools/anes-guide/anes-guide.html?chart=affective_polarization_parties)._
@@ -146,7 +146,7 @@ _Data on party identification from [Gallup](https://news.gallup.com/poll/343976/
 Within Congress, parties have become more polarized in how they vote on bills. That is, Democrat representatives have become more different from Republican representatives in their voting patterns (and vice-versa).
 
 
-![Difference in voting between parties in congress over time](https://i.ibb.co/D4rTWFS/g3.png)
+![Difference in voting between parties in congress over time](/assets/images/g3.png)
 
 
 _Data from [Voteview](https://voteview.com/articles/party_polarization)._
@@ -159,7 +159,7 @@ Since the 1950s, Congress has seen a remarkable decline in the number of bills p
 To me, this suggests that Congress is becoming worryingly ineffective. I don't know whether this trend is caused solely by the filibuster in the Senate or whether other dynamics are involved too.
 
 
-![Graph of number of bills passed by congress over time](https://i.ibb.co/NnFzph9/g4.png)
+![Graph of number of bills passed by congress over time](/assets/images/g4.png)
 
 
 _Data on bills from [Congress.gov](https://www.congress.gov/search?pageSort=documentNumber%3Aasc&q=%7B%22congress%22%3A112%2C%22source%22%3A%22legislation%22%2C%22type%22%3A%22bills%22%2C%22chamber%22%3A%22House%22%7D) and Canen et al (4)._
@@ -170,7 +170,7 @@ _Data on bills from [Congress.gov](https://www.congress.gov/search?pageSort=docu
 The number of known extremist groups might be increasing over time, but the trend fluctuates - it's hard to say for sure. The number of extremist _incidents_ is increasing over time and is the highest that the United States has seen since the mid-1970s.
 
 
-![Graph of violent extremism over time](https://i.ibb.co/tJNmTQb/g5.png)
+![Graph of violent extremism over time](/assets/images/g5.png)
 
 
 _Data on the number of extremist groups from [Southern Poverty Law Center](https://www.splcenter.org/hate-map). Data on the number of extremist incidents from [Global Terrorism Database](https://www.start.umd.edu/gtd/search/Results.aspx?country=217)._
@@ -291,4 +291,3 @@ short section on what we can do about it - i.e. how to action this information. 
 3. I feel similarly frightened by legislators' use of the private individual enforcement mechanism (as in the Texas Heartbeat Act, among others) to prevent particular Acts from being reviewed in court; and by present willingness to turn to impeachment as a routine political tactic. I haven't thought very hard about these trends and their implications - rather, even for a cynic like myself, it is just that these tendencies do not sit well with me.
 
 4. The authors give a detailed explanation of this gatekeeping role: "Strong parties stand in the way of unbridled ambition by collectively investing an array of independently empowered individuals and the factions they lead with resources. They arbitrate fractious conflict among ambitious actors by channeling their diverse preferences through rules. [...] Perhaps most important, strong but non-centralized party organizations can constrain presidential ambition. [...] throughout American history executive aggrandizement has been moderated when members of the president's own party have held him accountable. [...] Strong party organizations thus temper populist unrest by creating an alternative set of incentives for party leaders, potential nominees, and the average citizen. [...] Ambitious partisans are coaxed into supporting the institutional vitality of their organization, because no single individual or narrow faction can capture the party label, impose a personal style on its message, or dole out its largesse. The greatest threat to this collective responsibility is a charismatic president who might sacrifice party principle for personal preference - to a cult of personality."
-
