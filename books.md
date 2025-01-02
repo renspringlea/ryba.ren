@@ -214,6 +214,12 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 > absolute perfection. funniest and most touching thing ive read in a long time.<br />
 > unironically think its a best-ever book<br />
 > just outstanding originality and honesty and also just hysterical<br />
+> esoteric trans guy camp bullshit<br />
+> I wrote this because I was really sad<br />
+> Julius Caesar never could have even met Mary Magdalene!! And he hated sucking dick!!<br />
+> Julius Caesar, you have sucked your last dick! Now, I will be giving **your** head... to the people of Rome!<br />
+> We'll die no matter what. There's no need to rush it.<br />
+> Holy shit, I'm obsessed with your single chair no table setup! I lived in a house like this when I first experienced psychosis.<br />
 <br />
 
 </details>
