@@ -23,10 +23,10 @@ Tomorrow will be different! ☮
 ## Recent books I've read
 Full list of all books I've read [here](books.html)
 
+* At the Water's Edge (Harper Bliss) [queer fiction]
 * A Book of Silence (Sara Maitland) [philosophy/lifestyle]
 * Constructing Canine Consent: Conceptualising and adopting a consent-focused relationship with dogs (Erin Jones) [philosophy/lifestyle]
 * Queer Theologies: The Basics (Chris Greenough) [religion and philosophy]
-* Paper Love (Jae) [queer fiction]
 * Late Bloomer: How an Autism Diagnosis Changed My Life (Clem Bastow) [memoirs and biography]
 * Tackling Stereotype: Corporeal Reflexivity and Politics of Play in Women’s Rugby (Charlotte Branchu) [politics and history]
 * Tomorrow Will Be Different: Love, Loss, and the Fight for Trans Equality (Sarah McBride) [memoirs and biography]
