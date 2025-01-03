@@ -367,3 +367,43 @@ Penelope is from Port Neill and she is stoked that Mocha has joined the family s
 ## Tedsmallmyer  
 I met Ted (small Myer) when I visited Santa. They are Santa's little helper and decided to come home with me. Their friends came home with Ben and Alanna and they like to all catch up and have a chat while drinking a hot choccy with sprinkles and a marshmallow on top.  
 ![tedsmallmyer.jpg](/assets/images/tedsmallmyer.jpg){: width='400' }  
+## Caramello  
+Who's looking so fine? Cara Cara Caramello! Caramello is one deliciously handsome alpaca. He is always dressed to impress and for a party. He is very outgoing and loves to celebrate anything and everything. He enjoys nose rubs and ear scritches in his down time.  
+![caramello.jpg](/assets/images/caramello.jpg){: width='400' }  
+  
+
+## Fairy  
+Fairy is a playful llama who loves nothing more than to trot around causing mischief with her twin Floss and her bestie Marcia. She's the leader of the pack and usually the brains behind the mischief. She likes any and all the snacks. She enjoys toe tickles and nuzzling up close. She also likes to play pretend and pretend she's a present!  
+![fairy.jpg](/assets/images/fairy.jpg){: width='400' }  
+  
+
+## Flutter  
+Flutter is very proud of their feathers. Sometimes, when they get really excited, they hop up and down and flap their wings with happiness. They love just being a part of everything, and they love being there for their friends and helping to comfort them.  
+![flutter.jpg](/assets/images/flutter.jpg){: width='400' }  
+  
+
+## Pjbear  
+I'm not sure that there's a more snoozely bear than PJ Bear. He likes cuddling up, usually in a floppy sort of way or all curled up in a ball and then drifting off to sleep. He does gentle snores and enjoys calm long pats (and honey). PJ Bear moved from Tumby Bay op shop to join our family.  
+![pjbear.jpg](/assets/images/pjbear.jpg){: width='400' }  
+  
+
+## Sheepie  
+Sheepie is a very wise old baby sheep! She's seen many things in her time but still enjoys a good tickle and giggle!  
+![sheepie.jpg](/assets/images/sheepie.jpg){: width='400' }  
+  
+
+## Snowman1  
+Snowman is a gentle soul who likes a quiet hang about or a quiet sit and to watch the world go by and everyone being happy.  
+![snowman1.jpg](/assets/images/snowman1.jpg){: width='400' }  
+  
+
+## Snowman2  
+Snowman enjoys hiding treats in their tummy (especially lollies and candy canes!). They are very cheeky and will usually answer you with 'i don't know' and Mexican wave with their arms.  
+![snowman2.jpg](/assets/images/snowman2.jpg){: width='400' }  
+  
+
+## Ted  
+Ted has been with me since Christmas 1996 and has seen some things. He is a very loyal and dignified gentleman. Ted is everything you ever need, he is wise, he is comforting, he is cuddly. Unfortunately Shiloh loved him a bit hard and he is currently undergoing some facial surgery but he has taken it in his stride and still is the best bear in the whole wide world and always will be!  
+![ted.jpg](/assets/images/ted.jpg){: width='400' }  
+  
+

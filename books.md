@@ -10,17 +10,30 @@ navigate:
 
 # Leaderboard  
 List of greatest novels ever written, according to Ren (no particular order):  
-- The Chromatic Fantasy (H.A.)
-- Go Tell It on the Mountain  
-- The Catcher in the Rye  
-- To Kill a Mockingbird  
-- The Haunting of Hill House  
+- The Chromatic Fantasy (H.A., 2023)
+- Go Tell It on the Mountain (James Baldwin, 1953)  
+- The Catcher in the Rye (J. D. Salinger, 1951)  
+- To Kill a Mockingbird (Harper Lee, 1960)  
+- The Haunting of Hill House (Shirley Jackson, 1959)  
 
 # 2025
 
 ## Classics
 
 ## Queer fiction
+
+<details>
+<summary>At the Water's Edge (Harper Bliss)</summary>
+
+> B-. nice broody story of ecologist taking a break and living with burnout and depression. some parts really annoyed me but finished bc the good bits were really good.<br />
+> suicide attempt. just a huge vibe.<br />
+> "the world will survive without you constantly being sorry for everything"<br />
+> "nut brown skin" bit of a yuck phrase<br />
+> mc is a bit of a tool to the love interest, surprised the latter gave her so much patience. parents insufferable too.<br />
+> flirting over dead chickens is not cute<br />
+<br />
+
+</details>
 
 ## Memoirs and biography
 
