@@ -386,13 +386,13 @@ Verdict: B/B+. Got about 60% through. It's fine. Absinthe-themed steampunk fairy
 
 <br /></details>
 <details>
-<summary>The Senator's Wife  </summary>
+<summary>The Senator's Wife (Jen Lyon) </summary>
 <br />
 Verdict: probably a B/B-, and not as much soccer content as I'd have liked. Got like 80% through. The men in this book are all complete turds; the violence and humiliation makes me uncomfortable but I must admit it's realistic. The whole "hidden relationship" dynamic drags on a bit, I get that it's necessary given the setting but it feels a bit old school for an American queer fiction novel. The Australian accents are truly depraved.  
 
 <br /></details>
 <details>
-<summary>Stay Gold  </summary>
+<summary>Stay Gold (Tobly McSmith) </summary>
 <br />
 Verdict: B, maybe B-. Good characters. The representation of transitioning is very good. The height and voice anxiety. Lots of casual microaggressions and fear (not to mention the medical gatekeeping) and the occasional slur, all of which *really* resonates. Some violence at the end. The relationship with his sister Rocky is really endearing. "No-one knows I'm trans. No-one knows I'm alive, really. I couldn't be happier." "Love Actually-shaming" hahahaha. I must say, I was a bit disappointed by Georgia's response to Pony coming out. Georgia has lots of naivete and privilege that gets really on my nerves. Same issue with Max honestly (he should have known better). I can understand why the book got some poor reviews. But I think given that the author is writing an own-voice story, there is a bit more leeway for this sort of thing - it certainly is realistic.  
 
