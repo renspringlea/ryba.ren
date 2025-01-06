@@ -131,11 +131,11 @@ I don't know how the increase of people identifying as "independent" is related 
 The feeling of people towards their own party has remained relatively constant. The feeling of people towards their rival party has declined. This seems consistent with a rise in partisanship as expressed by Jacobs and Milkis.
 
 
-![Graph of public identification with parties over time](/assets/images/g2.png)
+![Graph of public identification with parties over time](/assets/images/g2.png){: width='400' }
 
 
 
-![Graph of affective polarization thermometer](/assets/images/g1.png)
+![Graph of affective polarization thermometer](/assets/images/g1.png){: width='400' }
 
 
 _Data on party identification from [Gallup](https://news.gallup.com/poll/343976/quarterly-gap-party-affiliation-largest-2012.aspx). Data on affective polarization from [American National Election Studies](https://electionstudies.org/data-tools/anes-guide/anes-guide.html?chart=affective_polarization_parties)._
@@ -146,7 +146,7 @@ _Data on party identification from [Gallup](https://news.gallup.com/poll/343976/
 Within Congress, parties have become more polarized in how they vote on bills. That is, Democrat representatives have become more different from Republican representatives in their voting patterns (and vice-versa).
 
 
-![Difference in voting between parties in congress over time](/assets/images/g3.png)
+![Difference in voting between parties in congress over time](/assets/images/g3.png){: width='400' }
 
 
 _Data from [Voteview](https://voteview.com/articles/party_polarization)._
@@ -159,7 +159,7 @@ Since the 1950s, Congress has seen a remarkable decline in the number of bills p
 To me, this suggests that Congress is becoming worryingly ineffective. I don't know whether this trend is caused solely by the filibuster in the Senate or whether other dynamics are involved too.
 
 
-![Graph of number of bills passed by congress over time](/assets/images/g4.png)
+![Graph of number of bills passed by congress over time](/assets/images/g4.png){: width='400' }
 
 
 _Data on bills from [Congress.gov](https://www.congress.gov/search?pageSort=documentNumber%3Aasc&q=%7B%22congress%22%3A112%2C%22source%22%3A%22legislation%22%2C%22type%22%3A%22bills%22%2C%22chamber%22%3A%22House%22%7D) and Canen et al (4)._
@@ -170,7 +170,7 @@ _Data on bills from [Congress.gov](https://www.congress.gov/search?pageSort=docu
 The number of known extremist groups might be increasing over time, but the trend fluctuates - it's hard to say for sure. The number of extremist _incidents_ is increasing over time and is the highest that the United States has seen since the mid-1970s.
 
 
-![Graph of violent extremism over time](/assets/images/g5.png)
+![Graph of violent extremism over time](/assets/images/g5.png){: width='400' }
 
 
 _Data on the number of extremist groups from [Southern Poverty Law Center](https://www.splcenter.org/hate-map). Data on the number of extremist incidents from [Global Terrorism Database](https://www.start.umd.edu/gtd/search/Results.aspx?country=217)._
