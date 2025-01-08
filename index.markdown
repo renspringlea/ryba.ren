@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Tomorrow will be different! ☮
+Tomorrow will be different! ☮☮☮
 
 ## Ren Ryba (they/them)
 * I live and work on the unceded land of the Kaurna people
