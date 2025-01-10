@@ -6,4 +6,4 @@ bundle exec jekyll build --verbose
 git pull
 git add .
 git commit -m "Update"
-git push
+git push 0f
