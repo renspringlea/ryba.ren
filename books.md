@@ -39,6 +39,17 @@ List of greatest novels ever written, according to Ren (no particular order):
 
 ## Politics, history, and society
 
+<details>
+<summary>Covered in Ink: Tattoos, Women, and the Politics of the Body (Beverley Yuen Thompson)</summary>
+
+> mainstream woman models weigh 23% less than the general public, even before photoshop<br />
+> tattoos as motivation to care for oneself<br />
+> something for oneself, not socially mandated caring roles<br />
+> "what about when youre old" as a gendered attack on women<br />
+<br />
+
+</details>
+
 ## Science
 
 ## Religion, philosophy, and lifestyle

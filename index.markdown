@@ -5,12 +5,12 @@
 layout: home
 ---
 
-Tomorrow will be different! ☮☮☮
+
 
 ## Ren Ryba (they/them)
 * I live and work on the unceded land of the Kaurna people
 * I am proud to be transgender and neurodivergent
-* I like [books](books.html), [tattoos](tattoos.html), and  [soccer](soccer.html)
+* I like [books](books.html), [tattoos](tattoos.html), and soccer
 * "Ryba" means "fish" in Slovak, and it rhymes with "sneezer"
 * Years lived [34%] ⬤⬤⬤⬤⬤⬤◕○○○○○○○○○○○○○
 
@@ -23,6 +23,7 @@ Tomorrow will be different! ☮☮☮
 ## Recent books I've read
 Full list of all books I've read [here](books.html)
 
+* Covered in Ink: Tattoos, Women, and the Politics of the Body (Beverley Yuen Thompson) [society]
 * At the Water's Edge (Harper Bliss) [queer fiction]
 * A Book of Silence (Sara Maitland) [philosophy/lifestyle]
 * Constructing Canine Consent: Conceptualising and adopting a consent-focused relationship with dogs (Erin Jones) [philosophy/lifestyle]
@@ -30,7 +31,6 @@ Full list of all books I've read [here](books.html)
 * Late Bloomer: How an Autism Diagnosis Changed My Life (Clem Bastow) [memoirs and biography]
 * Tackling Stereotype: Corporeal Reflexivity and Politics of Play in Women’s Rugby (Charlotte Branchu) [politics and history]
 * Tomorrow Will Be Different: Love, Loss, and the Fight for Trans Equality (Sarah McBride) [memoirs and biography]
-* The Social Semiotics of Tattoos: Skin and Self (Chris William Martin) [politics and history]
 
 ## Blog
 *RSS feed [here](feed.xml)*
