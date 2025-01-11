@@ -1,8 +1,8 @@
 ---
+title: Ren Ryba
 layout: home
 ---
 
-## Ren Ryba
 * My pronouns are they/them and she/her
 * I am proud to be transgender and neurodivergent
 * I live and work on the unceded land of the Kaurna people
@@ -22,7 +22,3 @@ layout: home
 * A Book of Silence (Sara Maitland)
 * Constructing Canine Consent: Conceptualising and adopting a consent-focused relationship with dogs (Erin Jones)
 * Queer Theologies: The Basics (Chris Greenough)
-
-## Blog
-*RSS feed [here](feed.xml)*  
-(This is a place where I share hot takes and tidbits. I'm making no attempt to be rigorous. Every topic I mention here has been explored with much more rigour elsewhere.)  
