@@ -7,7 +7,9 @@ Or free download here:
 - [PDF (best for computers)](assets/trashfish/ryba-2025-trash-fish.pdf)
 - [MP3 (audiobook)](assets/trashfish/ryba-2025-trash-fish.mp3)
 
-<img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" style="float: center" width="400" />
+
+
+<img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" style="text-align: center;" width="300" />
 
 
 Notes:
