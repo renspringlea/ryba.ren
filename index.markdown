@@ -10,10 +10,10 @@ layout: home
 * Years lived [34%] ⬤⬤⬤⬤⬤⬤◕○○○○○○○○○○○○○
 
 ## My work
-* My animal advocacy research can be found on the [Animal Ask website](https://www.animalask.org/research)
-* My academic publications can be found on [Google Scholar](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
-* My additional hot takes can be found on the [Effective Altruism Forum](https://forum.effectivealtruism.org/users/ren-ryba)
-* Data on the European fish farming industry is available on my platform [Finsight](https://finsight.fish)  
+* My animal advocacy research @ [Animal Ask website](https://www.animalask.org/research)
+* My academic publications @ [Google Scholar](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
+* My additional hot takes @ [Effective Altruism Forum](https://forum.effectivealtruism.org/users/ren-ryba)
+* Data on the European fish farming industry @ [Finsight](https://finsight.fish)  
 
 ## Recent books I've read
 *Full list [here](books.html)*  
