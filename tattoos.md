@@ -1,3 +1,9 @@
+---
+layout: page
+title: Tattoos
+menu: main
+---
+
 # tattoos  
 Artists:  
 - Josh Darkly (Adelaide) [@joshdarkly](https://www.instagram.com/joshdarkly/?hl=en)  
