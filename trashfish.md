@@ -1,8 +1,5 @@
 # Trash fish: Navigating the shoals of gender, species, and meaning in an oppressive world
 
-<img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" style="float: right" width="400" />
-
-<span style="float:left" width="400">
 Available for free at Kobo
 
 Or free download here:
@@ -10,6 +7,7 @@ Or free download here:
 - [PDF (best for computers)](assets/trashfish/ryba-2025-trash-fish.pdf)
 - [MP3 (audiobook)](assets/trashfish/ryba-2025-trash-fish.mp3)
 
+<img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" style="float: center" width="400" />
 
 
 Notes:
