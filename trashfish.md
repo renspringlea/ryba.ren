@@ -5,12 +5,11 @@ layout: page
 
 Available for free at Kobo
 
-Or free download here:
+Alternatively, download for free here:
 - [epub (best for e-readers)](assets/trashfish/ryba-2025-trash-fish.epub)
 - [PDF (best for computers or printing)](assets/trashfish/ryba-2025-trash-fish.pdf)
 - [MP3 (audiobook)](assets/trashfish/ryba-2025-trash-fish.mp3)  
 
-Synopsis:
 > In this poignant collection, Dr Ren Ryba—a transgender woman and social justice advocate—grapples with the complexities of identity, fear, and hope in a world often hostile to those who are different.
 >
 > With a melancholic yet constructive voice, these essays explore the complexities of discrimination against trans people, sexuality and neurodivergence, and the paradoxes of spirituality and faith for queer individuals. Woven throughout are moving reflections on Ryba's professional work in animal advocacy and intimate portraits of caring for special-needs animals, which offer insight into how glimmers of hope can be found.
