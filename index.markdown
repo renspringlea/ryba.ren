@@ -5,13 +5,12 @@
 layout: home
 ---
 
-
-
-## Ren Ryba (they/them)
+## Ren Ryba
+* My pronouns are they/them and she/her
 * I live and work on the unceded land of the Kaurna people
 * I am proud to be transgender and neurodivergent
 * I like [books](books.html), [tattoos](tattoos.html), and soccer
-* "Ryba" means "fish" in Slovak, and it rhymes with "sneezer"
+* "Ryba" means "fish" in Slovak, and it rhymes with "Bieber" (no relation)
 * Years lived [34%] ⬤⬤⬤⬤⬤⬤◕○○○○○○○○○○○○○
 
 ## My work
