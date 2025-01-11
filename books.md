@@ -1,4 +1,7 @@
-# books  
+---
+title: Books
+layout: page
+---
 
 ## notes
 navigate:    

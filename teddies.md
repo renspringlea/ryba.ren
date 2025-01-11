@@ -1,4 +1,8 @@
-# teddies
+---
+title: Teddies
+layout: page
+---
+
 ## Gummy  
 Gummy likes long sleep ins, gentle snoozes in the sun, cuddles and snacks. They like to snooze near others so that they can join in when they are awake but it's not rude if they fall asleep either. Gummy is loyal and snuggly.  
 ![gummy.jpg](/assets/images/gummy.jpg){: width="400" }  
@@ -370,75 +374,73 @@ I met Ted (small Myer) when I visited Santa. They are Santa's little helper and 
 ## Caramello  
 Who's looking so fine? Cara Cara Caramello! Caramello is one deliciously handsome alpaca. He is always dressed to impress and for a party. He is very outgoing and loves to celebrate anything and everything. He enjoys nose rubs and ear scritches in his down time.  
 ![caramello.jpg](/assets/images/caramello.jpg){: width='400' }  
-  
+
 
 ## Fairy  
 Fairy is a playful llama who loves nothing more than to trot around causing mischief with her twin Floss and her bestie Marcia. She's the leader of the pack and usually the brains behind the mischief. She likes any and all the snacks. She enjoys toe tickles and nuzzling up close. She also likes to play pretend and pretend she's a present!  
 ![fairy.jpg](/assets/images/fairy.jpg){: width='400' }  
-  
+
 
 ## Flutter  
 Flutter is very proud of their feathers. Sometimes, when they get really excited, they hop up and down and flap their wings with happiness. They love just being a part of everything, and they love being there for their friends and helping to comfort them.  
 ![flutter.jpg](/assets/images/flutter.jpg){: width='400' }  
-  
+
 
 ## Pjbear  
 I'm not sure that there's a more snoozely bear than PJ Bear. He likes cuddling up, usually in a floppy sort of way or all curled up in a ball and then drifting off to sleep. He does gentle snores and enjoys calm long pats (and honey). PJ Bear moved from Tumby Bay op shop to join our family.  
 ![pjbear.jpg](/assets/images/pjbear.jpg){: width='400' }  
-  
+
 
 ## Sheepie  
 Sheepie is a very wise old baby sheep! She's seen many things in her time but still enjoys a good tickle and giggle!  
 ![sheepie.jpg](/assets/images/sheepie.jpg){: width='400' }  
-  
+
 
 ## Snowman1  
 Snowman is a gentle soul who likes a quiet hang about or a quiet sit and to watch the world go by and everyone being happy.  
 ![snowman1.jpg](/assets/images/snowman1.jpg){: width='400' }  
-  
+
 
 ## Snowman2  
 Snowman enjoys hiding treats in their tummy (especially lollies and candy canes!). They are very cheeky and will usually answer you with 'i don't know' and Mexican wave with their arms.  
 ![snowman2.jpg](/assets/images/snowman2.jpg){: width='400' }  
-  
+
 
 ## Ted  
 Ted has been with me since Christmas 1996 and has seen some things. He is a very loyal and dignified gentleman. Ted is everything you ever need, he is wise, he is comforting, he is cuddly. Unfortunately Shiloh loved him a bit hard and he is currently undergoing some facial surgery but he has taken it in his stride and still is the best bear in the whole wide world and always will be!  
 ![ted.jpg](/assets/images/ted.jpg){: width='400' }  
-  
+
 
 ## Calvin  
 Calvin's heart is as big as his eyes. He has real talent in cheering others up through silly dancing, acting or tickling them. Sometimes he likes to do a surprise and will hide and then poke out a claw to Boop whoever is passing by! He finds getting tummy tickles very comforting and it makes him feel very loved.  
 ![calvin.jpg](/assets/images/calvin.jpg){: width='400' }  
-  
+
 
 ## Ember  
 Ember is beautiful and loves to have her make up and bows all done up nicely. She's married to Smokey and they are smitten with each other. Ember is very loving and nurturing. She likes to make sure everyone feels loved and cosy and you'll often find her with a soft friend or two wrapped in her arms and wings.  
 ![ember.jpg](/assets/images/ember.jpg){: width='400' }  
-  
+
 
 ## Floss  
 Floss is easy going and is along for the ride. He loves his twin sister Fairy and has fun going along with any mischief she has planned (including dressing up as a present!). He is very loving and likes to snuggle up close to you. If you give him ear scritches, he'll be gently snoozing next to you in no time.  
 ![floss.jpg](/assets/images/floss.jpg){: width='400' }  
-  
+
 
 ## Lottie  
 Lottie loves Christmas. Her favourite things are having a hot cocoa on Christmas Eve with friends and singing Christmas carols together.  
 ![lottie.jpg](/assets/images/lottie.jpg){: width='400' }  
-  
+
 
 ## Moomoo  
 Moo Moo is the proud parent of the group. He is so so proud of every single soft friend and who they are. He enjoys spending quality time with each of them and cheering them all on through the high and lows of life. Moo Moo is the happiest cow! He enjoys the simple pleasures of life in like breakfast together, snuggles, and cookies with milk.  
 ![moomoo.jpg](/assets/images/moomoo.jpg){: width='400' }  
-  
+
 
 ## Santa  
 Santa is a cheery Santa who is very proud of his stitching and outfit! He enjoys sitting on top of the Christmas tree. I made him when I was younger and he has Santa friends who were made by Mum, Ben and Alanna.  
 ![santa.jpg](/assets/images/santa.jpg){: width='400' }  
-  
+
 
 ## Scrumby  
 Scrumby is one of Ren's besties. They are a beautiful scruffly bird who came from Tumby Bay I think during our trip to Port Neill! They are very silly and love playing games with their friends, then when they're all tuckered out they love to grind their beak while they sit on your shoulder and drift off to sleep.  
 ![scrumby.jpg](/assets/images/scrumby.jpg){: width='400' }  
-  
-
