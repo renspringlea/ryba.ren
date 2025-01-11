@@ -3,7 +3,6 @@ title: Books
 layout: page
 ---
 
-## notes
 navigate:    
 - [Leaderboard](#Leaderboard)  
 - [2025](#2025)
