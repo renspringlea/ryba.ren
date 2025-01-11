@@ -1,7 +1,6 @@
 ---
 title: Tattoos
 layout: page
-menu: main
 ---
 
 # tattoos  
