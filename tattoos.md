@@ -3,7 +3,6 @@ title: My tattoos
 layout: page
 ---
 
-# tattoos  
 Artists:  
 - Josh Darkly (Adelaide) [@joshdarkly](https://www.instagram.com/joshdarkly/?hl=en)  
 - Chiara (Feelin' Blue Tattoo) (Adelaide) [@feelin.blue.tattoo](https://www.instagram.com/feelin.blue.tattoo/)  

@@ -3,8 +3,6 @@ title: "Trash fish: Navigating the shoals of gender, species, and meaning in an 
 layout: page
 ---
 
-## Trash fish: Navigating the shoals of gender, species, and meaning in an oppressive world  
-
 Available for free at Kobo
 
 Or free download here:
@@ -14,9 +12,9 @@ Or free download here:
 
 Synopsis:
 > In this poignant collection, Dr Ren Ryba—a transgender woman and social justice advocate—grapples with the complexities of identity, fear, and hope in a world often hostile to those who are different.
-
+>
 > With a melancholic yet constructive voice, these essays explore the complexities of discrimination against trans people, sexuality and neurodivergence, and the paradoxes of spirituality and faith for queer individuals. Woven throughout are moving reflections on Ryba's professional work in animal advocacy and intimate portraits of caring for special-needs animals, which offer insight into how glimmers of hope can be found.
-
+>
 > This collection is a powerful testament to the resilience of the human spirit and a call to action for a more just and compassionate world.  
 
 
