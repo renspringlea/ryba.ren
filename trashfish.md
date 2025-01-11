@@ -1,7 +1,9 @@
-# Trash fish: Navigating the shoals of gender, species, and meaning in an oppressive world  
+---
+... other attributes ...
+exclude: true
+---
 
-
-
+## Trash fish: Navigating the shoals of gender, species, and meaning in an oppressive world  
 
 Available for free at Kobo
 
