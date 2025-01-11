@@ -23,6 +23,5 @@ layout: home
 * Constructing Canine Consent: Conceptualising and adopting a consent-focused relationship with dogs (Erin Jones)
 * Queer Theologies: The Basics (Chris Greenough)
 
-## Blog
-*RSS feed [here](feed.xml)*  
+## Blog  
 *These posts are hot takes, not systematic or rigorous examinations of any topic.*
