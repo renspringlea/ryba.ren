@@ -1,7 +1,6 @@
 ---
 title: "Trash fish: Navigating the shoals of gender, species, and meaning in an oppressive world"
 layout: default
-exclude: true
 ---
 
 ## Trash fish: Navigating the shoals of gender, species, and meaning in an oppressive world  
