@@ -26,11 +26,9 @@ layout: base
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <span>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </span>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
