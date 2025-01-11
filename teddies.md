@@ -407,3 +407,38 @@ Ted has been with me since Christmas 1996 and has seen some things. He is a very
 ![ted.jpg](/assets/images/ted.jpg){: width='400' }  
   
 
+## Calvin  
+Calvin's heart is as big as his eyes. He has real talent in cheering others up through silly dancing, acting or tickling them. Sometimes he likes to do a surprise and will hide and then poke out a claw to Boop whoever is passing by! He finds getting tummy tickles very comforting and it makes him feel very loved.  
+![calvin.jpg](/assets/images/calvin.jpg){: width='400' }  
+  
+
+## Ember  
+Ember is beautiful and loves to have her make up and bows all done up nicely. She's married to Smokey and they are smitten with each other. Ember is very loving and nurturing. She likes to make sure everyone feels loved and cosy and you'll often find her with a soft friend or two wrapped in her arms and wings.  
+![ember.jpg](/assets/images/ember.jpg){: width='400' }  
+  
+
+## Floss  
+Floss is easy going and is along for the ride. He loves his twin sister Fairy and has fun going along with any mischief she has planned (including dressing up as a present!). He is very loving and likes to snuggle up close to you. If you give him ear scritches, he'll be gently snoozing next to you in no time.  
+![floss.jpg](/assets/images/floss.jpg){: width='400' }  
+  
+
+## Lottie  
+Lottie loves Christmas. Her favourite things are having a hot cocoa on Christmas Eve with friends and singing Christmas carols together.  
+![lottie.jpg](/assets/images/lottie.jpg){: width='400' }  
+  
+
+## Moomoo  
+Moo Moo is the proud parent of the group. He is so so proud of every single soft friend and who they are. He enjoys spending quality time with each of them and cheering them all on through the high and lows of life. Moo Moo is the happiest cow! He enjoys the simple pleasures of life in like breakfast together, snuggles, and cookies with milk.  
+![moomoo.jpg](/assets/images/moomoo.jpg){: width='400' }  
+  
+
+## Santa  
+Santa is a cheery Santa who is very proud of his stitching and outfit! He enjoys sitting on top of the Christmas tree. I made him when I was younger and he has Santa friends who were made by Mum, Ben and Alanna.  
+![santa.jpg](/assets/images/santa.jpg){: width='400' }  
+  
+
+## Scrumby  
+Scrumby is one of Ren's besties. They are a beautiful scruffly bird who came from Tumby Bay I think during our trip to Port Neill! They are very silly and love playing games with their friends, then when they're all tuckered out they love to grind their beak while they sit on your shoulder and drift off to sleep.  
+![scrumby.jpg](/assets/images/scrumby.jpg){: width='400' }  
+  
+
