@@ -24,5 +24,5 @@ layout: home
 * Queer Theologies: The Basics (Chris Greenough)
 
 ## Blog
-*RSS feed [here](feed.xml)*
+*RSS feed [here](feed.xml)*  
 *These posts are hot takes, not systematic or rigorous examinations of any topic.*
