@@ -1,15 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
 ## Ren Ryba
 * My pronouns are they/them and she/her
-* I live and work on the unceded land of the Kaurna people
 * I am proud to be transgender and neurodivergent
-* I like [books](books.html), [tattoos](tattoos.html), and soccer
+* I live and work on the unceded land of the Kaurna people
 * "Ryba" means "fish" in Slovak, and it rhymes with "Bieber" (no relation)
 * Years lived [34%] ⬤⬤⬤⬤⬤⬤◕○○○○○○○○○○○○○
 
