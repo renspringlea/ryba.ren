@@ -1,5 +1,5 @@
 ---
-title: Tattoos
+title: My tattoos
 layout: page
 ---
 
