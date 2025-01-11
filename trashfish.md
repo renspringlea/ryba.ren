@@ -7,9 +7,20 @@ Or free download here:
 - [PDF (best for computers)](assets/trashfish/ryba-2025-trash-fish.pdf)
 - [MP3 (audiobook)](assets/trashfish/ryba-2025-trash-fish.mp3)
 
+Synopsis:
+> In this poignant collection, Dr Ren Ryba—a transgender woman and social justice advocate—grapples with the complexities of identity, fear, and hope in a world often hostile to those who are different.
 
+> With a melancholic yet constructive voice, these essays explore the complexities of discrimination against trans people, sexuality and neurodivergence, and the paradoxes of spirituality and faith for queer individuals. Woven throughout are moving reflections on Ryba's professional work in animal advocacy and intimate portraits of caring for special-needs animals, which offer insight into how glimmers of hope can be found.
 
-<img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" style="text-align: center;" width="300" />
+> This collection is a powerful testament to the resilience of the human spirit and a call to action for a more just and compassionate world.
+\n
+\n
+
+<center>
+
+![Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws](assets/trashfish/cover_compressed.jpg){: width='400' }  
+
+</center>
 
 
 Notes:
