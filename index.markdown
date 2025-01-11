@@ -16,7 +16,7 @@ layout: home
 * Data on the European fish farming industry is available on my platform [Finsight](https://finsight.fish)  
 
 ## Recent books I've read
-Full list of all books I've read [here](books.html)
+[Full list](books.html)
 
 * Covered in Ink: Tattoos, Women, and the Politics of the Body (Beverley Yuen Thompson)
 * At the Water's Edge (Harper Bliss) [fiction]
