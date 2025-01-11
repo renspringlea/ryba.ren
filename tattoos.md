@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Tattoos
+layout: page
 menu: main
 ---
 
