@@ -25,6 +25,16 @@ List of greatest novels ever written, according to Ren (no particular order):
 ## Queer fiction
 
 <details>
+<summary>Purposefully Accidental (G. Benson)</summary>
+
+> B+. writing is good, characters are pretty compelling, the professional relationship is interesting. grief bits are powerful.<br />
+> doesnt strike me as realistic that the characters care so much about the events of age 9 from 25 years ago. like i've had similar experiences at age 15 that we just forget about by 3 years later.<br />
+> weird that wren didnt just wear a face mask to avoid being recognised in the hospital, book was published in 2022<br />
+<br />
+
+</details>
+
+<details>
 <summary>At the Water's Edge (Harper Bliss)</summary>
 
 > B-. nice broody story of ecologist taking a break and living with burnout and depression. some parts really annoyed me but finished bc the good bits were really good.<br />
