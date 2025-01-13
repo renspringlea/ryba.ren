@@ -1318,121 +1318,121 @@ late 2017 -> august 2023
 <br />
 Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)  
 
-- What a Fish Knows: The Inner Lives of Our Underwater Cousins  
-- Homo Deus: A Brief History of Tomorrow  
-- The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century  
-- Asia's Cauldron: The South China Sea and the End of a Stable Pacific  
-- All the Light We Cannot See  
-- The Tipping Point: How Little Things Can Make a Big Difference  
-- The Weight of Ink (!!!)  
-- The Invisible Bridge (!!!)  
-- The Singapore Story: Memoirs of Lee Kuan Yew (!!!)  
-- Sapiens: A Brief History of Humankind  
-- The Immortal Life of Henrietta Lacks  
-- On the Map: A Mind-Expanding Exploration of the Way the World Looks  
-- The Man Who Mistook His Wife for a Hat and Other Clinical Tales  
-- Lives in Ruins: Archeologists and the Seductive Lure of Human Rubble  
-- Raoul Wallenberg: The Biography  
-- Tribe: On Homecoming and Belonging  
-- My Brilliant Friend (The Neapolitan Novels, #1)  
-- Talks With T. G. Masaryk  
-- Beyond Words: What Animals Think and Feel  
-- The Sixth Extinction: An Unnatural History  
-- The Thing with Feathers: The Surprising Lives of Birds and What They Reveal About Being Human  
-- Where Song Began: Australia's Birds and How They Changed the World  
-- Here I Am  
-- The Corfu Trilogy (The Corfu Trilogy #1-3)  
-- A Sting in the Tale: My Adventures with Bumblebees  
-- Czechoslovakia, 1918-88. 70 Years from Independence  
-- The Rosie Project (Don Tillman, #1)  
-- To Kill a Mockingbird  
-- Jasper Jones  
-- Kafka on the Shore  
-- Norwegian Wood  
-- The Wind-Up Bird Chronicle  
-- A Guide to Berlin  
-- Exit West  
-- The Forensic Records Society  
-- The New Wild: Why Invasive Species Will Be Nature's Salvation  
-- Where The Light Falls  
-- The Fate of Africa: A History of Fifty Years of Independence  
-- Lamb: The Gospel According to Biff, Christ's Childhood Pal  
-- The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos  
-- The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth  
-- Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch  
-- Beartown (Beartown, #1)  
-- They're a Weird Mob  
-- King Leopold's Ghost  
-- From Third World to First: The Singapore Story: 1965-2000  
-- The Search For Modern China  
-- The Happiest Refugee: A Memoir  
-- Révolution. C'est notre combat pour la France  
-- Loneliness: Human Nature and the Need for Social Connection  
-- Ache  
-- Nothing to Envy: Ordinary Lives in North Korea  
-- Hamilton: The Revolution  
-- Arguing about Slavery: The Great Battle in the United States Congress  
-- Inhuman Bondage: The Rise and Fall of Slavery in the New World  
-- The Emperor of All Maladies: A Biography of Cancer  
-- I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban  
-- Misbehaving: The Making of Behavioral Economics  
-- Lucky Man  
-- Under a Cruel Star: A Life in Prague, 1941-1968  
-- Economics Rules: The Rights and Wrongs of the Dismal Science  
-- Velvet Revolutions: An Oral History of Czech Society  
-- 21 Lessons for the 21st Century  
-- Germany: Memories of a Nation  
-- Make It Stick: The Science of Successful Learning  
-- Man's Search for Meaning  
-- Hard-Boiled Wonderland and the End of the World  
-- When Breath Becomes Air  
-- The One Hour China Book: Two Peking University Professors Explain All of China Business in Six Short Stories  
+- What a Fish Knows: The Inner Lives of Our Underwater Cousins (Jonathan Balcombe)  
+- Homo Deus: A Brief History of Tomorrow (Yuval Noah Harari)  
+- The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century (Steven Pinker)  
+- Asia's Cauldron: The South China Sea and the End of a Stable Pacific (Robert D. Kaplan)  
+- All the Light We Cannot See (Anthony Doerr)  
+- The Tipping Point: How Little Things Can Make a Big Difference (Malcolm Gladwell)  
+- The Weight of Ink (Rachel Kadish) (!!!)  
+- The Invisible Bridge (Julie Orringer) (!!!)  
+- The Singapore Story: Memoirs of Lee Kuan Yew (Lee Kuan Yew) (!!!)  
+- Sapiens: A Brief History of Humankind (Yuval Noah Harari)  
+- The Immortal Life of Henrietta Lacks (Rebecca Skloot)  
+- On the Map: A Mind-Expanding Exploration of the Way the World Looks (Simon Garfield)  
+- The Man Who Mistook His Wife for a Hat and Other Clinical Tales (Oliver Sacks)  
+- Lives in Ruins: Archeologists and the Seductive Lure of Human Rubble (Marilyn Johnson)  
+- Raoul Wallenberg: The Biography (Ingrid Carlberg)  
+- Tribe: On Homecoming and Belonging (Sebastian Junger)  
+- My Brilliant Friend (Elena Ferrante)  
+- Talks With T. G. Masaryk (Karel Čapek, tr. Michael Henry Heim)  
+- Beyond Words: What Animals Think and Feel (Carl Safina)  
+- The Sixth Extinction: An Unnatural History (Elizabeth Kolbert)  
+- The Thing with Feathers: The Surprising Lives of Birds and What They Reveal About Being Human (Noah Strycker)  
+- Where Song Began: Australia's Birds and How They Changed the World (Tim Low)  
+- Here I Am (Jonathan Safran Foer)  
+- The Corfu Trilogy (Gerald Durrell)  
+- A Sting in the Tale: My Adventures with Bumblebees (Dave Goulson)  
+- Czechoslovakia, 1918-88: 70 Years from Independence (ed. H. Gordon Skilling)  
+- The Rosie Project (Graeme Simsion)  
+- To Kill a Mockingbird (Harper Lee)  
+- Jasper Jones (Craig Silvey)  
+- Kafka on the Shore (Haruki Murakami)  
+- Norwegian Wood (Haruki Murakami)  
+- The Wind-Up Bird Chronicle (Haruki Murakami)  
+- A Guide to Berlin (Gail Jones)  
+- Exit West (Mohsin Hamid)  
+- The Forensic Records Society (Magnus Mills)  
+- The New Wild: Why Invasive Species Will Be Nature's Salvation (Fred Pearce)  
+- Where The Light Falls (Gretchen Shirm)  
+- The Fate of Africa: A History of Fifty Years of Independence (Martin Meredith)  
+- Lamb: The Gospel According to Biff, Christ's Childhood Pal (Christopher Moore)  
+- The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos (Brian Greene)  
+- The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth (Michio Kaku)  
+- Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch (Terry Pratchett and Neil Gaiman)  
+- Beartown (Fredrik Backman)  
+- They're a Weird Mob (Nino Culotta)  
+- King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa (Adam Hochschild)  
+- From Third World to First: The Singapore Story: 1965-2000 (Lee Kuan Yew)  
+- The Search For Modern China (Jonathan D. Spence)  
+- The Happiest Refugee: A Memoir (Ahn Do)  
+- Révolution: C'est notre combat pour la France (Emmanuel Macron)  
+- Loneliness: Human Nature and the Need for Social Connection (John T. Cacioppo and William Patrick)  
+- Ache (Eliza Henry-Jones)  
+- Nothing to Envy: Ordinary Lives in North Korea (Barbara Demick)  
+- Hamilton: The Revolution (Lin-Manuel Miranda and Jeremy McCarter)  
+- Arguing about Slavery: The Great Battle in the United States Congress (William Lee Miller)  
+- Inhuman Bondage: The Rise and Fall of Slavery in the New World (David Brion Davis)  
+- The Emperor of All Maladies: A Biography of Cancer (Siddharta Mukherjee)  
+- I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban (Malala Yousafzai)  
+- Misbehaving: The Making of Behavioral Economics (Richard H. Thaler)  
+- Lucky Man (Michael J. Fox)  
+- Under a Cruel Star: A Life in Prague, 1941-1968 (Heda Margolius Kovály)   
+- Economics Rules: The Rights and Wrongs of the Dismal Science (Dani Rodrik)  
+- Velvet Revolutions: An Oral History of Czech Society (Miroslav Vanék and Pavel Mücke)  
+- 21 Lessons for the 21st Century (Yuval Noah Harari)  
+- Germany: Memories of a Nation (Neil MacGregor)  
+- Make It Stick: The Science of Successful Learning (Peter H. Brown et al)  
+- Man's Search for Meaning (Victor E. Frankl)  
+- Hard-Boiled Wonderland and the End of the World (Haruki Murakami)  
+- When Breath Becomes Air (Paul Kalanithi)  
+- The One Hour China Book: Two Peking University Professors Explain All of China Business in Six Short Stories (Jeffrey Towson and Jonathan Woetzel)  
 - Age of Ambition: Chasing Fortune, Truth, and Faith in the New China  
-- My Story  
-- Enlightenment Now: The Case for Reason, Science, Humanism, and Progress  
-- The Rosie Effect (Don Tillman, #2)  
-- The Cambridge History of Australia: Volume 2, The Commonwealth of Australia (The Cambridge History of Australia #2)  
-- Growing Up Aboriginal in Australia  
-- Australian Politics in the 21st Century: Old Institutions, New Challenges  
-- Convincing Ground: Learning to Fall in Love with Your Country  
-- The Consolations of Philosophy  
-- What Matters? Talking Value in Australian Culture  
-- Superforecasting: The Art and Science of Prediction  
-- Us Against You (Beartown, #2)  
-- The Classical World: An Epic History from Homer to Hadrian  
-- Alexander Hamilton  
-- Beginner's Guide to Winning the Nobel Prize  
-- Killing Commendatore  
-- Freakonomics  
-- Country of the Heart  
-- Optimism  
-- The Gifts of Imperfection  
-- Conservation in a Crowded World: Case studies from the Asia-Pacific  
-- Always Looking Up  
-- Think Like a Freak  
-- Time Travel in Einstein's Universe: The Physical Possibilities of Travel Through Time  
-- Do No Harm: Stories of Life, Death and Brain Surgery  
-- Quiet: The Power of Introverts in a World That Can’t Stop Talking  
-- The Cambridge Companion to Epicureanism (select chapters only)  
-- Meditations  
-- The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically  
-- The World Atlas of Coffee  
-- The Enchiridion of Epictetus  
-- Colorless Tsukuru Tazaki and His Years of Pilgrimage  
-- The Tao of Pooh and the Te of Piglet  
+- My Story (Julia Gillard)  
+- Enlightenment Now: The Case for Reason, Science, Humanism, and Progress (Steven Pinker)  
+- The Rosie Effect (Graeme Simsion)  
+- The Cambridge History of Australia: Volume 2, The Commonwealth of Australia (ed. Alison Bashford and Stuart Mcintyre)  
+- Growing Up Aboriginal in Australia (ed. Anita Heiss)  
+- Australian Politics in the 21st Century: Old Institutions, New Challenges (ed. Stewart Jackson et al)  
+- Convincing Ground: Learning to Fall in Love with Your Country (Bruce Pascoe)  
+- The Consolations of Philosophy (Alain de Botton)  
+- What Matters? Talking Value in Australian Culture (Julian Meyrick et al)  
+- Superforecasting: The Art and Science of Prediction (Philip E. Tetlock and Dan Gardner)  
+- Us Against You (Fredrik Backman)  
+- The Classical World: An Epic History from Homer to Hadrian (Robin Lane Fox)  
+- Alexander Hamilton (Ron Chernow)  
+- Beginner's Guide to Winning the Nobel Prize (Peter C. Doherty)  
+- Killing Commendatore (Haruki Murakami)  
+- Freakonomics (Steven D. Levitt and Stephen J. Dubner)  
+- Country of the Heart: An Indigenous Australia Homeland (Deborah Bird Rose et al)   
+- Optimism (Bob Brown)  
+- The Gifts of Imperfection (Brené Brown)  
+- Conservation in a Crowded World: Case studies from the Asia-Pacific (John Merson et al)  
+- Always Looking Up (Michael J. Fox)  
+- Think Like a Freak (Steven D. Levitt and Stephen J. Dubner)  
+- Time Travel in Einstein's Universe: The Physical Possibilities of Travel Through Time (J. Richard Gott III)  
+- Do No Harm: Stories of Life, Death and Brain Surgery (Henry Marsh)  
+- Quiet: The Power of Introverts in a World That Can’t Stop Talking (Susan Cain)  
+- The Cambridge Companion to Epicureanism (ed. James Warren) (select chapters only)  
+- Meditations (Marcus Aurelius)  
+- The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically (Peter Singer)  
+- The World Atlas of Coffee: From Beans to Brewing—Coffees Explored, Explained and Enjoyed (James Hoffmann)  
+- The Enchiridion of Epictetus (Epictetus)  
+- Colorless Tsukuru Tazaki and His Years of Pilgrimage (Haruki Murakami)  
+- The Tao of Pooh and the Te of Piglet (Benjamin Hoff)  
 - Tao Te Ching  
-- Men Without Women  
+- Men Without Women (Haruki Murakami)  
 - Seneca’s Letters  
-- Tall Order: The Goh Chok Tong Story  
-- Creativity, Inc  
-- Cockpit Confidental  
-- Team of Rivals  
-- Discourses and Selected Writings  
-- 1Q84 (!!!)  
-- Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions  
-- After Dark  
+- Tall Order: The Goh Chok Tong Story Volume 1 (Shing Huei Peh)  
+- Creativity, Inc (Ed Catmull and Amy Wallace)  
+- Cockpit Confidential: Everything You Need to Know About Air Travel: Questions, Answers, and Reflections (Patrick Smith)  
+- Team of Rivals (Dorins Kearns Goodwin)  
+- Discourses and Selected Writings (Epictetus)  
+- 1Q84 (Haruki Murakami) (!!!)  
+- Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions (Johann Hari)  
+- After Dark (Haruki Murakami)  
 - Spying on Whales  
-- The Book of Chuang Zhe  
+- The Book of Chuang Zhe (Chuang Tzu)  
 - A Woman of Science  
 - The Martian (!!!)  
 - Pacific: The Ocean of the Future  
@@ -1593,76 +1593,75 @@ Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)
 - Top of Her Game  
 - Away with the Penguins  
 - The Lean Startup  
-- A Long Way to a Small, Angry Planet (!!!)  
-- A Closed and Common Orbit  
-- Record of a Spaceborn Few  
-- The Galaxy, and the Ground Within  
-- To Be Taught, If Fortunate  
-- Both Can Be True  
-- Ana on the Edge  
-- The Glass Hotel  
-- Legends & Lattes  
-- Solo  
-- Too Bright to See (!!!)  
-- The Way of the Bodhisattva  
-- Sermon on the Mount  
-- Euphoria Kids (!!!)  
-- The Amish Way  
-- Some Girls Do  
-- The Sting of the Wild  
-- 'Tis the Off-Season  
-- Transcending (!!!)  
-- Becoming Bodhisattvas  
-- Before We Were Trans  
-- Nevada  
-- Path of Deceit  
-- The Power of Attachment  
-- Consider the Ravens  
-- Healing  
-- Old Path White Clouds  
-- How to Excavate a Heart  
-- Padawan  
-- First Buddhist Women  
-- Suffering-Focused Ethics: Defense and Implications  
-- The Eight Realizations of Great Beings  
-- The Deepest Peace: Contemplations from a Season of Stillness  
-- Learning True Love: Practicing Buddhism in a Time of War  
-- Fragrant Palm Leaves: Journals 1962-1966  
-- The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World  
-- The Darkness Outside Us (!!!)  
-- Kiss Her Once for Me  
-- From a Mountain In Tibet (!!!)  
-- Four Lost Cities: A Secret History of the Urban Age  
-- Elatsoe  
-- The Empress of Salt and Fortune  
-- Kindred: Neanderthal Life, Love, Death and Art  
-- The Platform Sutra  
-- Band of Angles: The Forgotten World of Early Christian Women  
-- Entering the Silence: The Journals of Thomas Merton Volume Two  
-- Julian of Norwich: A Very Brief History  
-- Jesus: Uncovering the Life, Teachings and Relevance of a Religious Revolutionary  
-- Millennial Nuns: Reflections on Living a Spiritual Life in a World of Social Media  
-- Why There Almost Certainly Is a God: Doubting Dawkins  
-- The Lean PhD  
-- Beyond a Binary God: A Theology for Trans Allies  
-- Lectio Divina – The Sacred Art  
-- Unlocking the Emotional Brain: Eliminating Symptoms at Their Roots Using Memory Reconsolidation (!!!)  
-- Thoughts in Solitude  
-- Road to Heaven: Encounters with Chinese Hermits  
+- A Long Way to a Small, Angry Planet (Becky Chambers) (!!!)  
+- A Closed and Common Orbit (Becky Chambers)  
+- Record of a Spaceborn Few (Becky Chambers)  
+- The Galaxy, and the Ground Within (Becky Chambers)  
+- To Be Taught, If Fortunate (Becky Chambers)  
+- Both Can Be True (Jules Machias)  
+- Ana on the Edge (A. J. Sass)  
+- The Glass Hotel (Emily St. John Mandel)  
+- Legends & Lattes (Travis Baldree)  
+- Solo: How to Work Alone (and Not Lose Your Mind) (Rebecca Seal)  
+- Too Bright to See (Kyle Lukoff) (!!!)  
+- The Way of the Bodhisattva (Shantideva, tr. Padmakara Translation Group)  
+- Sermon on the Mount: A Beginner's Guide to the Kingdom of Heaven (Amy-Jill Levine)  
+- Euphoria Kids (Alison Evans) (!!!)  
+- The Amish Way: Patient Faith in a Perilous World (Donald B. Kraybill et al)  
+- Some Girls Do (Jennifer Dugan)  
+- The Sting of the Wild: The Story of the Man Who Got Stung for Science (Justin O. Schmidt)  
+- 'Tis the Off-Season (Kate Christie)  
+- Transcending: Trans Buddhist Voices (ed. Elizabeth Marston and Kevin Manders) (!!!)  
+- Becoming Bodhisattvas: A Guidebook for Compassionate Action (Pema Chödrön)  
+- Before We Were Trans: A New History of Gender (Kit Heyam)  
+- Nevada (Imogen Binnie)  
+- Star Wars The High Republic: Path of Deceit (Tessa Gratton and Justina Ireland)  
+- The Power of Attachment: How to Create Deep and Lasting Intimate Relationships (Diane Poole Heller)  
+- Consider the Ravens: On Contemporary Hermit Life (Paul A. Fredette and Karen Karper Fredette)  
+- Healing: A Woman's Journey from Doctor to Nun (Sister Dang Nghiem)  
+- Old Path White Clouds (Thich Nhat Hanh)  
+- How to Excavate a Heart (Jake Maia Arlow)  
+- Star Wars: Padawan (Kiersten White)  
+- First Buddhist Women (Susan Murcott)  
+- Suffering-Focused Ethics: Defense and Implications (Magnus Vinding)  
+- The Eight Realizations of Great Beings (Phap Hai)  
+- The Deepest Peace: Contemplations from a Season of Stillness (Zenju Earthlyn Manuel)  
+- Learning True Love: Practicing Buddhism in a Time of War (Sister Chan Khong)  
+- Fragrant Palm Leaves: Journals 1962-1966 (Thich Nhat Hanh)  
+- The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World (David W. Anthony)  
+- The Darkness Outside Us (Eliot Schrefer) (!!!)  
+- Kiss Her Once for Me (Alison Cochrun)  
+- From a Mountain In Tibet (Yeshe Losal Rinpoche) (!!!)  
+- Four Lost Cities: A Secret History of the Urban Age (Annalee Newitz)  
+- Elatsoe (Darcie Little Badger)  
+- The Empress of Salt and Fortune (Nghi Vo)  
+- Kindred: Neanderthal Life, Love, Death and Art (Rebecca Wragg Sykes)  
+- The Platform Sutra (Hui-Neng)  
+- Band of Angels: The Forgotten World of Early Christian Women (Kate Cooper)  
+- Entering the Silence: The Journals of Thomas Merton Volume Two (Thomas Merton)  
+- Julian of Norwich: A Very Brief History (Janina Ramírez)  
+- Jesus: Uncovering the Life, Teachings and Relevance of a Religious Revolutionary (Margus J. Borg)  
+- Millennial Nuns: Reflections on Living a Spiritual Life in a World of Social Media (The Daughters of Saint Paul)  
+- Why There Almost Certainly Is a God: Doubting Dawkins (Keith Ward)  
+- The Lean PhD (Julian Kirchherr)  
+- Beyond a Binary God: A Theology for Trans Allies (Tara K. Soughers)  
+- Lectio Divina – The Sacred Art (Christine Valters Paintner)  
+- Unlocking the Emotional Brain: Eliminating Symptoms at Their Roots Using Memory Reconsolidation (Bruce Ecker et al) (!!!)  
+- Thoughts in Solitude (Thomas Merton)  
+- Road to Heaven: Encounters with Chinese Hermits (Bill Porter)   
 - Living with and Loving ADHD  
-- The Zen Teaching of Bodhidharma  
-- Shobogenzo  
+- The Zen Teaching of Bodhidharma (tr. Red Pine)  
+- Shobogenzo (Dōgen, tr. Kazuaki Tanahashi)  
 - The Lotus Sutra  
-- Revelations of Divine Love  
-- The Heart of the Buddha’s Teaching  
-- Religion in Human Evolution (!!!)  
-- Catacalysm  
-- Call of the Penguins  
-- Transcend: The New Science of Self-Actualization (!!!)  
+- Revelations of Divine Love (Julian of Norwich)  
+- The Heart of the Buddha’s Teaching (Thich Nhat Hanh)  
+- Religion in Human Evolution (Robert N. Bellah) (!!!)  
+- Star Wars The High Republic: Cataclysm (Lydia Kang)  
+- Call of the Penguins (Hazel Prior)  
+- Transcend: The New Science of Self-Actualization (Scott Barry Kaufman) (!!!)  
 - Illuminae (Amie Kaufman, Jay Kristoff)  
 - Gemina (Amie Kaufman, Jay Kristoff)  
 - Obsidio (Amie Kaufman, Jay Kristoff)  
 - The Secret Keeper (Kate Morton)  
-- The Clockmaker's Daughter (The Secret Keeper)  
+- The Clockmaker's Daughter (Kate Morton)  
 <br />
-note: for this list, I did not keep track of authors. I asked Gemini to assign each book to the most likely author, but its performance was quite poor (e.g. it attributed My Story to George W. Bush rather than Julia Gillard, and the Bible to "Jesus Christ"!). So the books remain authorless.  
