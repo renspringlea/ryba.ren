@@ -17,11 +17,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Scoring Goals in the Dark: The Extraordinary and Brave Story of International Footballer Clare Shine (Clare Shine, Gareth Maher)
 * Purposefully Accidental (G. Benson) [fiction]
 * Covered in Ink: Tattoos, Women, and the Politics of the Body (Beverley Yuen Thompson)
 * At the Water's Edge (Harper Bliss) [fiction]
 * A Book of Silence (Sara Maitland)
-* Constructing Canine Consent: Conceptualising and adopting a consent-focused relationship with dogs (Erin Jones)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*

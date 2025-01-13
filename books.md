@@ -10,6 +10,8 @@ navigate:
 - [2023-2024](#2023-2024)    
 - [2017-2023](#2017-2023)  
 
+*Note: The fact that I've read a book does not necessarily mean that I agree with or endorse its contents.*
+
 # Leaderboard  
 List of greatest novels ever written, according to Ren (no particular order):  
 - The Chromatic Fantasy (H.A., 2023)
@@ -48,6 +50,20 @@ List of greatest novels ever written, according to Ren (no particular order):
 </details>
 
 ## Memoirs and biography
+
+<details>
+<summary>Scoring Goals in the Dark: The Extraordinary and Brave Story of International Footballer Clare Shine (Clare Shine, Gareth Maher)</summary>
+
+> Life goes on, with or without football.<br />
+> very good and honest about the ugly details<br />
+> dont love the regular fatphobic allusions but its an attitude that makes a bit more sense in the context of professional soccer<br />
+> eating issues esp with anti D's (if i read correctly), dizziness<br />
+> after extreme weight loss "forget barbells" had to learn how to sit and stand again<br />
+> hates flying and travel<br />
+> "being smart" in managing one's body<br />
+<br />
+
+</details>
 
 ## Politics, history, and society
 
@@ -1431,168 +1447,168 @@ Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)
 - 1Q84 (Haruki Murakami) (!!!)  
 - Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions (Johann Hari)  
 - After Dark (Haruki Murakami)  
-- Spying on Whales  
-- The Book of Chuang Zhe (Chuang Tzu)  
-- A Woman of Science  
-- The Martian (!!!)  
-- Pacific: The Ocean of the Future  
-- Czechoslovakia: The Velvet Revolution and Beyond  
-- Perfect Rhythm  
-- Upside Down  
-- A Wild Sheep Chase  
-- Becoming (!!!)  
-- Tao: The Watercourse Way  
+- Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures (Nick Pyenson)   
+- The Book of Chuang Zhe (Zhuangzi)  
+- A Woman of Science: An Extraordinary Journey of Love, Discovery, and the Sex Life of Mushrooms (Cardy Raper)  
+- The Martian (Andy Weir) (!!!)  
+- Pacific: The Ocean of the Future (Simon Winchester)  
+- Czechoslovakia: The Velvet Revolution and Beyond (Robin H. E. Shepherd)  
+- Perfect Rhythm (Jae)  
+- Upside Down (N. R. Walker)  
+- A Wild Sheep Chase (Haruki Murakami)  
+- Becoming (Michelle Obama) (!!!)  
+- Tao: The Watercourse Way (Alan Watts)  
 - Lieh-tzu  
-- Charles Darwin’s On the Origin of Species: A Graphic Adaptation  
-- Sex, Drugs and the Electoral Roll  
-- The Wizard and the Prophet  
-- Sputnik Sweetheart  
-- The Alchemist  
-- Dark Emu  
-- Unbowed: A Memoir  
-- What I Talk About When I Talk About Running  
-- Matter and Consciousness  
-- The Life You Can Save  
-- Seven Taoist Masters  
+- Charles Darwin’s On the Origin of Species: A Graphic Adaptation (Michael Keller and Nicolle Rager Fuller)  
+- Sex, Drugs and the Electoral Roll (Fiona Patten)  
+- The Wizard and the Prophet (Charles C. Mann)  
+- Sputnik Sweetheart (Haruki Murakami)  
+- The Alchemist (Paulo Coelho)  
+- Dark Emu (Bruce Pascoe)  
+- Unbowed: A Memoir (Wangari Maathai)  
+- What I Talk About When I Talk About Running (Haruki Murakami)  
+- Matter and Consciousness (Paul M. Churchland)  
+- The Life You Can Save (Peter Singer)  
+- Seven Taoist Masters (Eva Wong)  
 - The Federalist (Britannica Great Books)  
-- The Tao of the West: Western Transformations of Taoist Thought  
-- Where the Forest Meets the Stars  
-- Where the Crawdads Sing (!!!)  
-- The Planet Factory  
-- What Alice Forgot  
-- In the Clearing  
-- Masters of the Planet: The Search for Our Human Origins  
-- Good Economics for Hard Times: Better Answers to Our Biggest Problems  
-- Station Eleven (!!!)  
-- The Way of the World [Anthology]  
-- Big Little Lies  
-- Being Mortal: Medicine and What Matters in the End  
-- What Makes Love Last?  
-- Thirty Thousand Bottles of Wine and a Pig Called Helga  
-- The Three-Body Problem (!!!)  
-- The Code of the Extraordinary Mind  
-- The Enchanted Life  
-- Demon in the Machine  
-- The Dark Forest  
-- Death’s End  
-- The Paper Menagerie  
-- Einstein (!!!)  
-- Heir to the Empire (Star Wars)  
-- The Architecture of Happiness  
-- City of Girls  
-- The Sound of a Wild Snail Eating  
-- The Overstory  
-- In An Instant  
-- Stay  
-- The Memorandum  
-- Writing Better Lyrics: The Essential Guide to Powerful Songwriting  
-- The Rap Rebirth Lyricist Guide: How to Write Amazing Hip-Hop Lyrics  
-- The Last Lecture  
-- The Art of Living  
-- The Forgotten Garden  
-- Field of Blood  
-- A Gentleman in Moscow  
-- Wildwood Dancing  
-- Fear: Essential Wisdom for Getting Through the Storm  
-- The Goose Girl  
-- Slow: Simple Living for a Fast-Paced World  
-- Destination Simple  
-- SPQR  
-- Switched  
-- The Great Conversation  
-- The Iliad  
-- The End of Everything (Astrophysically Speaking)  
-- Havel  
-- The Trial  
-- Refuse to Choose  
-- Screams from the Crypt  
-- The Unbearable Lightness of Being  
-- Collected Plays  
-- Time Smart  
+- The Tao of the West: Western Transformations of Taoist Thought (John James Clarke)  
+- Where the Forest Meets the Stars (Glendy Vanderah)  
+- Where the Crawdads Sing (Delia Owens) (!!!)  
+- The Planet Factory: Exoplanets and the Search for a Second Earth (Elizabeth Tasker)  
+- What Alice Forgot (Liane Moriarty)  
+- In the Clearing (J. P. Pomare)  
+- Masters of the Planet: The Search for Our Human Origins (Ian Tattersall)  
+- Good Economics for Hard Times: Better Answers to Our Biggest Problems (Abhijit V. Banerjee and Esther Duflo)  
+- Station Eleven (Emily St. John Mandel) (!!!)  
+- The Way of the World: Readings in Chinese Philosophy (ed. tr. Thomas Cleary)
+- Big Little Lies (Liane Moriarty)  
+- Being Mortal: Medicine and What Matters in the End (Atul Gawande)  
+- What Makes Love Last? (John M. Gottman and Nan Silver)  
+- Thirty Thousand Bottles of Wine and a Pig Called Helga: A Not-So-Perfect Tree Change (Todd Alexander)  
+- The Three-Body Problem (Liu Cixin) (!!!)  
+- The Code of the Extraordinary Mind: 10 Unconventional Laws to Redefine Your Life and Succeed On Your Own Terms (Vishen Lakhaini)  
+- The Enchanted Life: Unlocking the Magic of the Everyday (Sharon Blackie)  
+- Demon in the Machine (Paul C. W. Davies)  
+- The Dark Forest (Liu Cixin)  
+- Death’s End (Liu Cixin)  
+- The Paper Menagerie and Other Stories (Ken Liu)  
+- Einstein: His Life and Universe (Walter Isaacson) (!!!)  
+- Star Wars: Heir to the Empire (Timothy Zahn)  
+- The Architecture of Happiness (Alain de Botton)  
+- City of Girls (Elizabeth Gilbert)  
+- The Sound of a Wild Snail Eating (Elisabeth Tova Bailey)  
+- The Overstory (Richard Powers)  
+- In An Instant (Suzanne Redfearn)  
+- Stay (Catherine Ryan Hyde)  
+- The Memorandum (Václav Havel)  
+- Writing Better Lyrics: The Essential Guide to Powerful Songwriting (Pat Pattison)  
+- The Rap Rebirth Lyricist Guide: How to Write Amazing Hip-Hop Lyrics (Jesse D. Kramer)  
+- The Last Lecture (Randy Pausch)  
+- The Art of Living (Thich Nhat Hanh)  
+- The Forgotten Garden (Kate Morton)  
+- Field of Blood: Violence in Congress and the Road to Civil War (Joanne B. Freeman)  
+- A Gentleman in Moscow (Amor Towles)  
+- Wildwood Dancing (Juliet Marillier)  
+- Fear: Essential Wisdom for Getting Through the Storm (Thich Nhat Hanh)  
+- The Goose Girl (Shannon Hale)  
+- Slow: Simple Living for a Fast-Paced World (Brooke McAlary)  
+- Destination Simple: Rituals and Rhythms for a Simpler Daily Life (Brooke McAlary)  
+- SPQR (Mary Beard)  
+- Switched (Amanda Hocking)  
+- The Great Conversation (Robert Maynard Hutchins; Britannica Great Books)  
+- The Iliad (Homer)  
+- The End of Everything (Astrophysically Speaking) (Katie Mack)  
+- Havel (Michael Žantovský)  
+- The Trial (Franz Kafka)  
+- Refuse to Choose: Use All of Your Interests, Passions, and Hobbies to Create the Life and Career of Your Dreams (Barbara Sher)  
+- Screams from the Crypt (Darkwell Bled)  
+- The Unbearable Lightness of Being (Milan Kundera)  
+- Collected Plays (Václav Havel, probably!)  
+- Time Smart: How to Reclaim Your Time and Live a Happier Life (Ashley Whillans)  
 - Wen-tzu  
-- The Art of Communicating  
-- Girrin & Sabine: An Extraordinary Correspondence  
-- Some Kind of Happiness  
-- Taking Flight  
-- Colorblind  
-- Prague Winter  
+- The Art of Communicating (Thich Nhat Hanh)  
+- Girrin & Sabine: An Extraordinary Correspondence (Nick Bantock)  
+- Some Kind of Happiness (Claire Legrand)  
+- Taking Flight (Siera Maley)  
+- Colorblind (Siera Maley)  
+- Prague Winter (Madeleine K. Albright)  
 - Plato  
-- Tales of the Taoist Immortals  
-- Master of the Three Ways  
-- Zen Flesh, Zen Bones  
-- When We Believed in Mermaids  
-- Sustaining Spirit: Self-care for Social Justice  
-- Czechoslovak Fairy Tales  
-- Lolita  
-- The Pillars of the Earth  
-- The BFG  
-- Marriage, a History: From Obedience to Intimacy or How Love Conquered Marriage  
+- Tales of the Taoist Immortals (Eva Wong)  
+- Master of the Three Ways: Reflections of a Chinese Sage on Living a Satisfying Life (Hung Ying-ming's Caigentan, tr. William Scott Wilson)  
+- Zen Flesh, Zen Bones: A Collection of Zen and Pre-Zen Writings (ed. Paul Reps and Nyogen Senzaki)  
+- When We Believed in Mermaids (Barbara O'Neal)  
+- Sustaining Spirit: Self-care for Social Justice (Naomi Ortiz)  
+- Czechoslovak Fairy Tales (Parker Fillmore and Jan Matulka)  
+- Lolita (Vladimir Nabokov)  
+- The Pillars of the Earth (Ken Follett)  
+- The BFG (Roald Dahl)  
+- Marriage, a History: From Obedience to Intimacy or How Love Conquered Marriage (Stephanie Coontz)  
 - The Bible  
-- World Without End  
-- Status Anxiety  
-- Star Wars: Light of the Jedi  
-- Star Wars: Master and Apprentice  
-- Honeybee  
-- A Vanishing Kind  
-- Frankenstein  
-- Taking a Break from Saving the World: A Conservation Activist’s Journey from Burnout to Balance  
-- Column of Fire  
-- Project Hail Mary (!!!)  
-- Star Wars: Queen's Shadow  
-- Training Ground  
-- Endgame  
-- Red, White & Royal Blue (!!!)  
-- Standing Tall: The Goh Chok Tong Years, Volume 2  
-- Breaking Legacies  
-- Star Wars: The Rising Storm  
-- Dreadnought  
-- One Last Stop (!!!)  
-- The Noble of Sperath  
-- Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX  
-- Art, Inc.: The Essential Guide for Building Your Career as an Artist  
-- Star Wars: Lost Stars  
-- Star Wars: Into the Dark  
-- Ancient Wisdom, Modern World: Ethics for a New Millenium  
-- A Psalm for the Wild-Built  
-- Bolívar: American Liberator  
-- Awakening of the Heart: Essential Buddhist Sutras and Commentaries  
-- Game Time  
-- Star Wars: Queen's Peril  
-- Outside the Lines  
-- The Idealist's Survival Kit: 75 Simple Ways to Prevent Burnout  
-- The Road to Canada  
-- Girls of Summer  
-- Star Wars: Out of the Shadows  
-- Star Wars: Bloodline  
-- Star Wars: A Test of Courage  
-- Star Wars: Leia, Princess of Alderaan  
-- Antarctica: An Intimate Portrait of the World's Most Mysterious Continent  
-- Consciousness: A Very Short Introduction  
-- Under the Lights  
-- Digital Minimalism  
-- Star Wars: The Fallen Star  
-- Star Wars: Ahsoka  
-- Light from Uncommon Stars (!!!)  
-- The Song of Achilles  
-- Making Space: Creating a Home Meditation Practice  
-- We Were Made for These Times: Ten Lessons for Moving Through Change, Loss, and Disruption  
-- The Animal Rights Debate - Abolition or Regulation?  
-- What Now? Meditation for Your Twenties and Beyond  
-- Sea of Tranquility  
-- Star Wars: Dark Disciple  
-- I Kissed Shara Wheeler  
-- No Death, No Fear  
-- Star Wars: Queen's Hope  
-- Star Wars: Midnight Horizon  
-- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones  
-- She Gets the Girl  
-- The Priory of the Orange Tree  
-- A Lady for a Duke  
-- Edge of Glory  
-- A Prayer for the Crown-Shy  
-- Top of Her Game  
-- Away with the Penguins  
-- The Lean Startup  
+- World Without End (Ken Follett)  
+- Status Anxiety (Alain de Botton)  
+- Star Wars The High Republic: Light of the Jedi (Charles Soule)  
+- Star Wars: Master and Apprentice (Claudia Gray)  
+- Honeybee (Craig Silvey)  
+- A Vanishing Kind (John Wamsley, Stephen L. Davey)  
+- Frankenstein (Mary Shelley)  
+- Taking a Break from Saving the World: A Conservation Activist’s Journey from Burnout to Balance (Stephen Legault)  
+- Column of Fire (Ken Follett)  
+- Project Hail Mary (Andy Weir) (!!!)  
+- Star Wars: Queen's Shadow (E. K. Johnston)  
+- Training Ground (Kate Christie)
+- Endgame (Kate Christie)
+- Red, White & Royal Blue (Casey McQuiston) (!!!)  
+- Standing Tall: The Goh Chok Tong Years, Volume 2 (Shing Huei Pei)  
+- Breaking Legacies (Z. R. Reed)  
+- Star Wars The High Republic: The Rising Storm (Cavan Scott)  
+- Dreadnought (April Daniels)  
+- One Last Stop (Casey McQuiston) (!!!)  
+- The Noble of Sperath (Siera Maley)  
+- Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX (Eric Berger)  
+- Art, Inc.: The Essential Guide for Building Your Career as an Artist (Lisa Congdon, ed. Meg Mateo Ilasco)  
+- Star Wars: Lost Stars (Claudia Gray)  
+- Star Wars The High Republic: Into the Dark (Claudia Gray)  
+- Ancient Wisdom, Modern World: Ethics for a New Millenium (Dalai Lama XIV)  
+- A Psalm for the Wild-Built (Becky Chambers)  
+- Bolívar: American Liberator (Marie Arana)  
+- Awakening of the Heart: Essential Buddhist Sutras and Commentaries (Thich Nhat Hanh)  
+- Game Time (Kate Christie)  
+- Star Wars: Queen's Peril (E. K. Johnston)  
+- Outside the Lines (Kate Christie)  
+- The Idealist's Survival Kit: 75 Simple Ways to Prevent Burnout (Alessandra Pigni)  
+- The Road to Canada (Kate Christie)  
+- Girls of Summer (Kate Christie)  
+- Star Wars The High Republic: Out of the Shadows (Justina Ireland)  
+- Star Wars: Bloodline (Claudia Gray)  
+- Star Wars The High Republic: A Test of Courage (Justina Ireland)  
+- Star Wars: Leia, Princess of Alderaan (Claudia Gray)  
+- Antarctica: An Intimate Portrait of the World's Most Mysterious Continent (Gabrielle Walker)  
+- Consciousness: A Very Short Introduction (Susan Blackmore)  
+- Under the Lights (Kate Christie)  
+- Digital Minimalism: Choosing a Focused Life in a Noisy World (Cal Newport)  
+- Star Wars The High Republic: The Fallen Star (Claudia Gray)  
+- Star Wars: Ahsoka (E. K. Johnston)  
+- Light from Uncommon Stars (Ryka Aoki) (!!!)  
+- The Song of Achilles (Madeline Miller)  
+- Making Space: Creating a Home Meditation Practice (Thich Nhat Hanh)   
+- We Were Made for These Times: Ten Lessons for Moving Through Change, Loss, and Disruption (Kaira Jewel Lingo)  
+- The Animal Rights Debate - Abolition or Regulation? (Gary L. Francione and Robert Garner)  
+- What Now? Meditation for Your Twenties and Beyond (Yael Shy)  
+- Sea of Tranquility (Emily St. John Mandel)  
+- Star Wars: Dark Disciple (Christie Golden)  
+- I Kissed Shara Wheeler (Casey McQuiston)  
+- No Death, No Fear: Comforting Wisdom for Life (Thich Nhat Hanh)  
+- Star Wars: Queen's Hope (E. K. Johnston)  
+- Star Wars The High Republic: Midnight Horizon (Daniel José Older)  
+- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones (James Clear)  
+- She Gets the Girl (Rachael Lippincott and Alsyon Derrick)  
+- The Priory of the Orange Tree (Samantha Shannon)  
+- A Lady for a Duke (Alexis Hall)  
+- Edge of Glory (Rachel Spangler)  
+- A Prayer for the Crown-Shy (Becky Chambers)  
+- Top of Her Game (M. Ullrich)  
+- Away with the Penguins (Hazel Prior)  
+- The Lean Startup (Eric Ries)  
 - A Long Way to a Small, Angry Planet (Becky Chambers) (!!!)  
 - A Closed and Common Orbit (Becky Chambers)  
 - Record of a Spaceborn Few (Becky Chambers)  
