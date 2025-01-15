@@ -24,6 +24,18 @@ List of greatest novels ever written, according to Ren (no particular order):
 
 ## Classics
 
+<details>
+<summary>A Canticle for Leibowitz (Walter M. Miller Jr.)</summary>
+
+> was this novel written for me? post apocalyptic monastery where the monks copy old manuscripts!<br />
+> excellent sense of humour<br />
+> quite nuanced and subtle treatment of ethics and morality, especially around war and physical suffering. some challenging vaguely ableist content, though i dont think the author is endorsing this.<br />
+> "Martyrdom is all very well, but we have a job to do first."<br />
+> interesting how they use the desert rhetoric to talk about space travel<br />
+> graphic description of animal suffering and death in chapter 28<br />
+
+</details>
+
 ## Queer fiction
 
 <details>
@@ -50,6 +62,24 @@ List of greatest novels ever written, according to Ren (no particular order):
 </details>
 
 ## Memoirs and biography
+
+<details>
+<summary>They Don't Teach This: Lessons From the Game of Life (Eniola Aluko, Josie Le Blond)</summary>
+
+> what an amazing human being!<br />
+> "I see now that there’s no sense in putting on a mask to make others feel comfortable."<br />
+> hassled by the boys' parents for being better than them at soccer<br />
+> "Atticus Finch made me a lawyer." ! (though i think she says boo radley when she means tom robinson?)<br />
+> interesting to me that her background is both marginalised (Nigerian birth, not a British citizen until after her first callup, Black) and privileged (daughter of a Nigerian senator, granddaughter of a famous economist, then how she becomes a lawyer and uses that to speak up)<br />
+> final history exam at 9am, england team kickoff at 4pm, crazy!<br />
+> "He had lessons for me to learn... my life would unfold according to His timing, not mine."<br />
+> Her mentor who said "You have two options. Either you don't play because you're too scared you might lose, or you play, give it everything you've got, and afterwards accept the result. Whatever happens, God has already allowed it to happen. You have nothing to lose, so enjoy the game, play for god, an audience of one. put your faith in him. That's all you can do."<br />
+> "Never again would I question God's wisdom. I saw now that there was a time for defeats and a time for victories ... a place in his plan. Defeats were not only failures, they were a place to grow."<br />
+> "The ones who break the mold are isolated and succeed anyway... your light might shine too bright for some to cope with... their problem, not yours."<br />
+> doesn't want a pity party, wants solutions; our validation comes from God<br />
+> glad she stans Rapinoe's protests<br />
+
+</details>
 
 <details>
 <summary>Scoring Goals in the Dark: The Extraordinary and Brave Story of International Footballer Clare Shine (Clare Shine, Gareth Maher)</summary>
