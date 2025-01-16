@@ -25,6 +25,15 @@ List of greatest novels ever written, according to Ren (no particular order):
 ## Classics
 
 <details>
+<summary>Giovanni's Room (James Baldwin)</summary>
+
+> outstanding writing, what misery. its like nada except with gay people in paris.<br />
+> some very difficult content, e.g. the miscarriage, the misogyny, the way david treats giovanni, and the bit about the crossdresser is very very interesting in the way it is framed<br />
+> the bit where he kinda dissociates when having sex with sue is a bit real and familiar!<br />
+
+</details>
+
+<details>
 <summary>A Canticle for Leibowitz (Walter M. Miller Jr.)</summary>
 
 > was this novel written for me? post apocalyptic monastery where the monks copy old manuscripts!<br />
@@ -108,9 +117,27 @@ List of greatest novels ever written, according to Ren (no particular order):
 
 </details>
 
-## Science
-
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>Help, Thanks, Wow (Anne Lamott)</summary>
+
+> this book is really special. excellent writing, touching and compassionate with a sense of humor<br />
+> contains animal suffering and death<br />
+> keeping prayer simple<br />
+> "Please help me not to be such an asshole."<br />
+> "I am existentially sick to death of death."<br />
+> (to God) "What on Earth could you be thinking?"<br />
+> people are disappointing<br />
+> interesting she was raised in a non-religious family<br />
+> "Help for the sick and hungry, home for the homeless folk, peace in the world forever. This is my prayer, O Lord. Amen."<br />
+> "the wrinkly peaks of maturity"<br />
+> too much time in the old testament hahhaaha<br />
+> God's idea of a good time is picking up litter, serving food at the soup kitchen, or calling a relative who nobody else talks to<br />
+> sin is a hard heart, a lack of generosity<br />
+> dieting as time wasted<br />
+
+</details>
 
 ## Misc
 
