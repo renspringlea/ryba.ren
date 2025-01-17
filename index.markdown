@@ -17,11 +17,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Palestinian-Israeli Conflict: A Very Short Introduction (Martin Bunton)
 * Giovanni's Room (James Baldwin) [fiction]
 * Help, Thanks, Wow (Anne Lamott)
 * A Canticle for Leibowitz (Walter M. Miller Jr.) [fiction]
 * They Don't Teach This: Lessons From the Game of Life (Eniola Aluko, Josie Le Blond)
-* Scoring Goals in the Dark: The Extraordinary and Brave Story of International Footballer Clare Shine (Clare Shine, Gareth Maher)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
