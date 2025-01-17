@@ -444,3 +444,13 @@ Santa is a cheery Santa who is very proud of his stitching and outfit! He enjoys
 ## Scrumby  
 Scrumby is one of Ren's besties. They are a beautiful scruffly bird who came from Tumby Bay I think during our trip to Port Neill! They are very silly and love playing games with their friends, then when they're all tuckered out they love to grind their beak while they sit on your shoulder and drift off to sleep.  
 ![scrumby.jpg](/assets/images/scrumby.jpg){: width='400' }  
+## Abby  
+Abby is a very teeny bear with a big heart. She is quite shy to start with, while she's getting to know you. Probably because everyone is so much bigger than her! With slow, gentle, kind interactions, she will slowly open up and become a treasured friend.  
+![abby.jpg](/assets/images/abby.jpg){: width='400' }  
+  
+
+## Gabby  
+Gabby is the cheeky part of the Abby and Gabby duo! Gabby is the one that leads the way and eggs Abby on to join them. They are absolutely inseparable and love to be together.  
+![gabby.jpg](/assets/images/gabby.jpg){: width='400' }  
+  
+

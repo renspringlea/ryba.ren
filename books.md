@@ -107,6 +107,23 @@ List of greatest novels ever written, according to Ren (no particular order):
 ## Politics, history, and society
 
 <details>
+<summary>Palestinian-Israeli Conflict: A Very Short Introduction (Martin Bunton)</summary>
+
+> originated in late 19th century zionism in europe, itself a result of european antisemitism, so more about modern nationalism and colonialism than ancient religious beliefs of religious animosity. cared more about agricultural land than historically significant religious sites. religious stuff came in later.<br />
+> Palestinian national identity relatively recent too, they were under rule of the Ottoman Empire until British invasion. though definitely was a thing with a national identity from then until the fighting in the 60s when Palestine was "wiped from the map".<br />
+> and exacerbated by specific world geopolitical dynamics and, surprise surprise, some fumbling by the British<br />
+> then WWII brings the Holocaust and sympathy for Jewish refugees, the destitution of Britain, and the heightened influence of the US and UN<br />
+> since the formation of an independent state of Israel, longstanding policy of disproportionate retaliation, originally as a show of military force to secure israel's place in the region, but since then has contributed to a cycle of enmity<br />
+> have been atrocities throughout this whole process<br />
+> please stop killing civilians<br />
+> continued settlement by Jews in Palestinian areas making any partition practically very challenging<br />
+> popular support of Hamas, trounced the previous Palestinian leaders in elections. though many Palestinians view both sets of leaders as self-servingly perpetuating division.<br />
+> Obama: "This is just really hard. This is as intractable a problem as you get."<br />
+> a two-state solution a relatively recent phenomenon (1930s) and then Palestine recognised by the UN General Assembly in 2012, though prospects appear to be fading due to hardliners on both sides, continuing Israeli settlement means approaching Israeli majorities and strategically fragmenting Palestinian land, and Palestinian political fragmentation. So a two state solution is looking less likely. But then if it's a one state solution, either Palestinians get to vote etc (in which case it's a binational single state and therefore not necessarily a Jewish state) or they don't (in which case it's a non-democratic "Apartheid state")<br />
+
+</details>
+
+<details>
 <summary>Covered in Ink: Tattoos, Women, and the Politics of the Body (Beverley Yuen Thompson)</summary>
 
 > mainstream woman models weigh 23% less than the general public, even before photoshop<br />
