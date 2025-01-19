@@ -13,12 +13,13 @@ navigate:
 *Note: The fact that I've read a book does not necessarily mean that I agree with or endorse its contents.*
 
 # Leaderboard  
-List of greatest novels ever written, according to Ren (no particular order):  
-- The Chromatic Fantasy (H.A., 2023)
-- Go Tell It on the Mountain (James Baldwin, 1953)  
-- The Catcher in the Rye (J. D. Salinger, 1951)  
+List of greatest novels ever written, according to Ren (ordered by publication date):  
+- The Chromatic Fantasy (H.A., 2023)  
+- Sea of Tranquility (Emily St. John Mandel, 2022)  
 - To Kill a Mockingbird (Harper Lee, 1960)  
 - The Haunting of Hill House (Shirley Jackson, 1959)  
+- Go Tell It on the Mountain (James Baldwin, 1953)  
+- The Catcher in the Rye (J. D. Salinger, 1951)  
 
 # 2025
 
@@ -107,6 +108,23 @@ List of greatest novels ever written, according to Ren (no particular order):
 ## Politics, history, and society
 
 <details>
+<summary>History of the English Language (Seth Lerer)</summary>
+
+<br />
+> reading 6-9, 14, 20, 29, 31<br />
+> old english: 5th to 11th centuries, branch of lowlands germanic brought by germanic settlers to the british isles. largely but not entirely displaced celtic (from the celts) and latin (from the romans). we call the germanic settlers anglo-saxons.<br />
+> so celtics -> romans -> anglo saxons -> normans. obvs some mixing along the way. scandinavian settlers and raiders also introduced their own germanic forms.<br />
+> long period of syncretization<br />
+> 11th century norman conquest marks the transition from old to middle english (normans were actually germanic peoples from scandinavia who assimilated themselves into france; you can see specific sounds from northern french compared to central french still surviving in english), incl restoration of latin and introduction of french. so england as trilingual.<br />
+> great vowel shift ~= middle english into modern english<br />
+> thou is informal! but due to its use in bible translations and bc its unfamiliar, misinterpreted as formal<br />
+> MLK permanently influenced the style of american political rhetoric<br />
+> argues that even the concept of idiomatic speech is a legacy of African American speech<br />
+<br />
+
+</details>
+
+<details>
 <summary>Palestinian-Israeli Conflict: A Very Short Introduction (Martin Bunton)</summary>
 
 > originated in late 19th century zionism in europe, itself a result of european antisemitism, so more about modern nationalism and colonialism than ancient religious beliefs of religious animosity. cared more about agricultural land than historically significant religious sites. religious stuff came in later.<br />
@@ -135,6 +153,21 @@ List of greatest novels ever written, according to Ren (no particular order):
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>Lifting Heavy Things: Healing Trauma One Rep at a Time (Laura Khoudari)</summary>
+
+<br />
+> got like 40% in and felt that was enough<br />
+> this book is nice and comforting<br />
+> weights as a movement practice, like yoga<br />
+> "suddenly feel weird and unsafe in familiar environments or relationships"<br />
+> exercise good for all sorts of systems you cant see<br />
+> modelling self compassion and a healthy self relationship as a way to help others<br />
+> dissociation as a survival strategy<br />
+<br />
+
+</details>
 
 <details>
 <summary>Help, Thanks, Wow (Anne Lamott)</summary>
