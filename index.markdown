@@ -17,6 +17,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* History of the English Language (Seth Lerer)
 * Palestinian-Israeli Conflict: A Very Short Introduction (Martin Bunton)
 * Giovanni's Room (James Baldwin) [fiction]
 * Help, Thanks, Wow (Anne Lamott)
