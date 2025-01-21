@@ -14,12 +14,12 @@ navigate:
 
 # Leaderboard  
 List of greatest novels ever written, according to Ren (ordered by publication date):  
-- The Chromatic Fantasy (H.A., 2023)  
-- Sea of Tranquility (Emily St. John Mandel, 2022)  
-- To Kill a Mockingbird (Harper Lee, 1960)  
-- The Haunting of Hill House (Shirley Jackson, 1959)  
-- Go Tell It on the Mountain (James Baldwin, 1953)  
 - The Catcher in the Rye (J. D. Salinger, 1951)  
+- Go Tell It on the Mountain (James Baldwin, 1953)  
+- The Haunting of Hill House (Shirley Jackson, 1959)  
+- To Kill a Mockingbird (Harper Lee, 1960)  
+- Sea of Tranquility (Emily St. John Mandel, 2022)  
+- The Chromatic Fantasy (H.A., 2023)  
 
 # 2025
 
@@ -190,6 +190,19 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 </details>
 
 ## Misc
+
+<details>
+<summary>Sea of Tranquility (Emily St. John Mandel) (R)</summary>
+
+<br />
+> I dearly love this book<br />
+> "We were still thinking in terms of getting work done. The most shocking thing in retrospect was the degree to which we all completely missed the point."<br />
+> "I'm more interested in this than, well, anything I can remember."<br />
+> "There were certain friends he didn't miss. He was quietly applying for new jobs."<br />
+> "When have we ever believed that the world wasn't ending? [...] We long secretly for a world with less technology in it."<br />
+<br />
+
+</details>
 
 # 2024  
 april 2024 -> end of 2024  
