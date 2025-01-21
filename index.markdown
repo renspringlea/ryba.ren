@@ -15,6 +15,12 @@ layout: home
 * My additional hot takes @ [Effective Altruism Forum](https://forum.effectivealtruism.org/users/ren-ryba)
 * Data on the European fish farming industry @ [Finsight](https://finsight.fish)  
 
+## My book
+
+*Read and download [here](trashfish.html)*
+
+![Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws](assets/trashfish/cover_compressed.jpg){: width='300' }
+
 ## Recent books I've read
 *Full list [here](books.html)*  
 * Sea of Tranquility (Emily St. John Mandel) [fiction, re-read]
