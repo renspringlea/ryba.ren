@@ -17,12 +17,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
-* History of the English Language (Seth Lerer)
+* Sea of Tranquility (Emily St. John Mandel) [fiction, re-read]
 * Palestinian-Israeli Conflict: A Very Short Introduction (Martin Bunton)
 * Giovanni's Room (James Baldwin) [fiction]
 * Help, Thanks, Wow (Anne Lamott)
 * A Canticle for Leibowitz (Walter M. Miller Jr.) [fiction]
-* They Don't Teach This: Lessons From the Game of Life (Eniola Aluko, Josie Le Blond)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
