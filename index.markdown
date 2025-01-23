@@ -23,11 +23,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
-* Sea of Tranquility (Emily St. John Mandel) [fiction, re-read]
+* Euphoria Kids (Alison Evans) [fiction, re-read]
+* Sea of Tranquility (Emily St. John Mandel)
 * Palestinian-Israeli Conflict: A Very Short Introduction (Martin Bunton)
 * Giovanni's Room (James Baldwin) [fiction]
 * Help, Thanks, Wow (Anne Lamott)
-* A Canticle for Leibowitz (Walter M. Miller Jr.) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*

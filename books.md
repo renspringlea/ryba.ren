@@ -49,6 +49,20 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>Euphoria Kids (Alison Evans) (R)</summary>
+
+<br />
+> I love this book so much. It does something that I haven't seen in any other book.<br />
+> "I want to cover my body in art and stories, watch them move and flex as I go through the days. I want to cover my body in flowers and vines."<br />
+> "I want to ask her if she knows Iris is the most wonderful person in the world"<br />
+> "And then I asked if I could not be a girl too. They nodded."<br />
+> "Sometimes I still can't believe you can see me [...] I'm so scared you'll stop altogether one day and I’ll be alone again."<br />
+> "fiery mess of a girl"<br />
+<br />
+
+</details>
+
+<details>
 <summary>Purposefully Accidental (G. Benson)</summary>
 
 > B+. writing is good, characters are pretty compelling, the professional relationship is interesting. grief bits are powerful.<br />
