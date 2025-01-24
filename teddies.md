@@ -454,3 +454,53 @@ Gabby is the cheeky part of the Abby and Gabby duo! Gabby is the one that leads 
 ![gabby.jpg](/assets/images/gabby.jpg){: width='400' }  
   
 
+## Annie  
+Annie is a softy for marshmallows. Her favourite thing is to sit by the campfire toasting marshmallows on sticks with her bestie Rory. She likes to go on adventures and enjoys being carried around in a handbag. She's very very chatty and makes friends wherever she goes.  
+![annie.jpg](/assets/images/annie.jpg){: width='400' }  
+  
+
+## Beepooh  
+Bee Pooh (aka BeeBoo) is a bee like no other. Bee Pooh is able to sniff out honey miles away. As soon as he gets even the slightest whiff of honey, he will call up his bestie Car Pooh and vroom off they go in search of the honey!  
+![beepooh.jpg](/assets/images/beepooh.jpg){: width='400' }  
+  
+
+## Bilby  
+Bilby's favourite time of year is Easter. They are very inquisitive and their nose goes twitch when they are curious, learning something new or can sniff yummies! They really do like chocolate and often squirrel some away in their pouch for later.  
+![bilby.jpg](/assets/images/bilby.jpg){: width='400' }  
+  
+
+## Brainy  
+Brainy is a very wise owl. He gives great consideration to all questions great and small so that he can provide the most helpful of answers. He spends the rest of his time sitting in his rocking chair pondering life, the world and the universe. He also is a wonderful storyteller for the littlies, he gets really into the characters.  
+![brainy.jpg](/assets/images/brainy.jpg){: width='400' }  
+  
+
+## Brushtail  
+Brushtail is a quiet friend who mostly comes out at night. They love hiding under logs and listening for things with their big fluffy ears. When they feel comfortable enough to come out of their hiding spot, they can be a cheeky monster, and they have learned from Mr Penguin that it's funny to stick their snout in people's ears.  
+![brushtail.jpg](/assets/images/brushtail.jpg){: width='400' }  
+  
+
+## Carpooh  
+Beep Beep, Car Pooh is here to pick you up! Car Pooh loves to drive everyone around whilst having a gossip and giggle with them. They go Vroom Vroom around! Car Pooh and Bee Pooh are besties!  
+![carpooh.jpg](/assets/images/carpooh.jpg){: width='400' }  
+  
+
+## Everest  
+Everest is the goodest of dogs. She spends most of her time snoozing with her pawpals but once she's got her outfit on, she's coming to your rescue!! She's the bravest dog and has done some amazing rescuing in her years. If there's a soft friend who's falling down the back of the cupboard, Everest will get them out. If there's someone stuck up a tree, call Everest and she will safely get them down. You see a burglar, Everest will chase them away. She's amazing!  
+![everest.jpg](/assets/images/everest.jpg){: width='400' }  
+  
+
+## Gumby  
+Gumby is a cuddly and loving bear whom we met at Tumby Bay op shop and they decided they just had to come home with us. Gumby is sensitive and likes quiet afternoons filled with gentle cuddles and dozes. If you're in a sensitive mood or feeling down, there's nobody to make you feel comfortable like Gumby.  
+![gumby.jpg](/assets/images/gumby.jpg){: width='400' }  
+  
+
+## Maggie  
+Maggie is named after Margaret Malpass (my Grandma) who bought Maggie for me as a 21st birthday present. Maggie is quiet, calm and reassuring. She enjoys supporting others to try their best and follow their dreams. She is a small bear with much wisdom and the bear to go to if you would like some life wisdom. She's so loving to all around her.  
+![maggie.jpg](/assets/images/maggie.jpg){: width='400' }  
+  
+
+## Rory  
+Rory is Annie's best friend and a real cheeky monster. Sometimes she wanders around in her signature jeans and glasses, but sometimes she finds it more comfortable to be nakey! She is outgoing and loves adventures and playing, especially if Annie is around.  
+![rory.jpg](/assets/images/rory.jpg){: width='400' }  
+  
+
