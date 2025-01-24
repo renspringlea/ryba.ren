@@ -49,6 +49,16 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>No Strings (Lucy Bexley)</summary>
+
+<br />
+> A! So fun! The misanthropy is really well executed especially because of the context of professional puppetry, just really works. Excellent and funny writing. Also some really touching depression/fatigue and non-binary rep.<br />
+> "The lesbians on my soccer team are also my apocalypse team."<br />
+<br />
+
+</details>
+
+<details>
 <summary>Euphoria Kids (Alison Evans) (R)</summary>
 
 <br />
