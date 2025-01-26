@@ -21,6 +21,11 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 - Sea of Tranquility (Emily St. John Mandel, 2022)  
 - The Chromatic Fantasy (H.A., 2023)  
 
+# The Recluse List  
+I'm keeping track of fiction novels about recluses!  
+- Must Love Silence (Lucy Bexley) [queer ff]  
+- That Woman Next Door (Harper Bliss) [queer ff]  
+
 # 2025
 
 ## Classics
@@ -96,6 +101,30 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 </details>
 
 ## Memoirs and biography
+
+<details>
+<summary>Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness (Joshua Wolf Shenk)</summary>
+
+<br />
+> a very moving and comforting history book<br />
+> "Even when he began to do the work for which he's remembered, and took evident satisfaction in finding a great cause to which to apply his considerable talent, he continued to suffer."<br />
+> "I could not have slept tonight if I had not given those two birds to their mother."<br />
+> suicide as the desire for mindlessness<br />
+> chronic vs episodic depression<br />
+> everyone around him knew it and noticed his clearly gloomy moods (!!!)<br />
+> the poem he loved that deliberately echoed ecclesiastes<br />
+> author argues that the melancholy "bears fruit" when Lincoln begins fighting against the extension of slavery - not a cure, but like a meaningful purpose, a la Frankl; suffering doesnt go away but responds by looking for meaning<br />
+> "both his pain and his potential"<br />
+> disciplined and strategically silent about the existence of slavery in the southern states, as part of the discipline required to prevent its spread<br />
+> taking the long view (incl accepting a very long battle that will last beyond one's lifetime)<br />
+> Lincoln: "even schoolboys knew Wilberforce, but who could name one of his opponents"<br />
+> still a racist and white supremacist, like most whites of the day<br />
+> religion; instrument of a larger power<br />
+> Meditation on the Divine Will: "In great contests each party claims to act in accordance with the will of God. [...] God wills this contest, and wills that it shall not end yet. By his mere great power, on the minds of the now contestants, He could have either saved or destroyed the Union without a human contest. Yet the contest began."<br />
+> found comfort in Job!<br />
+<br />
+
+</details>
 
 <details>
 <summary>They Don't Teach This: Lessons From the Game of Life (Eniola Aluko, Josie Le Blond)</summary>
