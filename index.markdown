@@ -33,11 +33,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* The Poet's Dog (Patricia MacLachlan) [fiction]
+* That Woman Next Door (Harper Bliss) [fiction]
 * Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness (Joshua Wolf Shenk)
 * No Strings (Lucy Bexley) [fiction]
-* Euphoria Kids (Alison Evans) [fiction, re-read]
-* Sea of Tranquility (Emily St. John Mandel)
-* Palestinian-Israeli Conflict: A Very Short Introduction (Martin Bunton)
+* Sea of Tranquility (Emily St. John Mandel) [fiction, re-read]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*

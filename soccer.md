@@ -25,6 +25,7 @@ source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)
 ~~~~~~
 2024-11-01  begin a-league
 2025-01  begin unrivalled basketball (not soccer, sue me)
+2025-03-14  begin nwsl  
 ~~~~~~
 
 ## euros
