@@ -54,6 +54,19 @@ I'm keeping track of fiction novels about recluses!
 ## Queer fiction
 
 <details>
+<summary>That Woman Next Door (Harper Bliss)</summary>
+
+<br />
+> B+. was this book written for me? pretty amazing, cottage in the middle of nowhere, doctor facing grief and guilt and a translator cat lady living a very quiet life in a remote house, with a bit of chilling out in a new city<br />
+> a little 0 to 60 but i do understand the attachment issues<br />
+> the guilt and grief wasnt dealt with as much as id have liked<br />
+> "I never answer my phone. [...] I just hate talking on the phone."<br />
+> "I just want to be left alone in my quiet, perfectly pleasant life."<br />
+<br />
+
+</details>
+
+<details>
 <summary>No Strings (Lucy Bexley)</summary>
 
 <br />
@@ -243,6 +256,17 @@ I'm keeping track of fiction novels about recluses!
 </details>
 
 ## Misc
+
+<details>
+<summary>The Poet's Dog (Patricia MacLachlan)</summary>
+
+<br />
+> doggy<br />
+> getting sad when the storm ends is such a vibe<br />
+> this book actually kills me its so beautiful<br />
+<br />
+
+</details>
 
 <details>
 <summary>Sea of Tranquility (Emily St. John Mandel) (R)</summary>
