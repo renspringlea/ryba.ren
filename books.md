@@ -174,6 +174,55 @@ I'm keeping track of fiction novels about recluses!
 ## Politics, history, and society
 
 <details>
+<summary>Nation Branding and Sports Diplomacy: Country Image Games in Times of Change (Yoav Dubinsky)</summary>
+
+<br />
+> very interesting and quite uncomfortable how it begins on israel (the authors country), the occupation of palestine is mentioned but a bit sanitised<br />
+> (3) mens world cup<br />
+> most important event of the most popular sport in the world, which is why its a big opportunity for public image, only comparabale event is summer olympics<br />
+> mussolini bribing people and pressuring referees when italy hosted, then govt and the team using victory to promote fascism and nationalism<br />
+> different styles of play at points in history (at least before transfers became easier and the game was less globalised and commercial), e.g. brazilian focus on beauty and creativity, italian focus on doing what is necessary to win, german precision and discipline<br />
+> very costly to host, while fifa pays operating costs (not upfront costs) it also takes all the revenues, so criticised as host pays heaps for new stadiums etc to make money for europeans<br />
+> fifa's culture compared to mafia, jfc<br />
+> qatar accusations of sportwashing, human rights violations, etc vs reference to positive changes in the country because of the event<br />
+> saudi arabia investing billions for soft power<br />
+> (4) olympics and tokyo<br />
+> nazi germany hosting the olympics a very clear case in point<br />
+> munich massacre, 1972 terror attack against israelis<br />
+> semi-regular boycotts for political purposes<br />
+> local communities usually object to hosting<br />
+> disproportionate US influence esp due to enormous broadcasting revenue from the US, including putting events on US primetime, getting off more lightly after scandals<br />
+> individual athlete diplomacy and politics, eg cathy freeman celebrating with aboriginal flag, kneeling against racism, simone biles mental health, helped by social media<br />
+> growing influence of arabian peninsula and opinionated dictators<br />
+> most of the US's medals at Tokyo were from women<br />
+> silent boycotts<br />
+> (5) america and title ix<br />
+> title ix demonstrably caused a huge increase in female sport participation, and therefore business!<br />
+> title ix as a competitive advantage in americas branding and american sports<br />
+> but then obviously the sexual abuse scandals in gymnastics and soccer, 20-25% of college students (not just sports) experiencing rape or attempted rape<br />
+> so a way to hide hypocrisy<br />
+> interesting argument (unsure if i agree) that womens collegiate sports lose money and thus can only be sustained by taking advantage of mens american football, where a) black people are overrepresented, b) common brain damage, and c) athletes are not paid a salary despite the fact that american football players would in fact become millionaires by graduation<br />
+> (6) european super league, announced in 2021 but quickly collapsed under scrutiny<br />
+> many english clubs sponsored by UAE via Fly Emirates brand/campaign<br />
+> and many countries in Arabian Gulf either buying/investing in clubs (e.g. City group) and hosting major events, same as Russia (e.g. Chelsea) and China, in some cases using unsustainable spending backed by e.g. oil to achieve major sporting successes; many motivations, one of which is laundering the national image<br />
+> barcelona as championing catalonion values/identity<br />
+> in germany, all clubs are majority owned by club members, so cannot be dominated by foreign interests<br />
+> (7) sportswashing<br />
+> asks is it actually a thing, or is it a negative framing used to delegitimise non-western countries by people afraid of losing power, hmmmm!!<br />
+> has been done by fascist italy, nazi germany, francos spain, argentina, south africa, romania<br />
+> ping pong diplomacy in the 70s as a successful and, it seems to me, positive use<br />
+> so its not a new thing<br />
+> but recently shaped by china (esp 2022 winter olympics in beijing), russia, and the gulf countries incl qatar<br />
+> football stadiums used in some countries e.g. afghanistan for public executions<br />
+> discourse re international sport frequently islamophobic<br />
+> limits of sportswashing, media doesnt hesitate to roast the countries still<br />
+> countercriticism which is extremely fair; e.g. USA arent innocent when it comes to human rights; FA president is traditionally a british royal<br />
+> some see this as taking steps towards the west and normalising international relations<br />
+<br />
+
+</details>
+
+<details>
 <summary>History of the English Language (Seth Lerer)</summary>
 
 <br />

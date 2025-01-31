@@ -33,11 +33,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Nation Branding and Sports Diplomacy: Country Image Games in Times of Change (Yoav Dubinsky)
 * The Poet's Dog (Patricia MacLachlan) [fiction]
 * That Woman Next Door (Harper Bliss) [fiction]
 * Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness (Joshua Wolf Shenk)
 * No Strings (Lucy Bexley) [fiction]
-* Sea of Tranquility (Emily St. John Mandel) [fiction, re-read]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
