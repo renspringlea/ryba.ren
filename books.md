@@ -54,6 +54,19 @@ I'm keeping track of fiction novels about recluses!
 ## Queer fiction
 
 <details>
+<summary>The Falling in Love Montage (Ciara Smyth)</summary>
+
+<br />
+> A, a gem. Hilarious and also very very touching in several ways. the inner conflict is a little contrived, maybe the books only flaw<br />
+> one sad kid<br />
+> oliver is a class act and beth is too kind<br />
+> "Dogs are boys, cats are girls. Everybody knows that."<br />
+> Soccer is "Gaelic football for wimps" hahahahaha<br />
+<br />
+
+</details>
+
+<details>
 <summary>That Woman Next Door (Harper Bliss)</summary>
 
 <br />
