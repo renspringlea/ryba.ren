@@ -31,6 +31,16 @@ I'm keeping track of fiction novels about recluses!
 ## Classics
 
 <details>
+<summary>The Catcher in the Rye (J. D. Salinger)</summary>
+
+<br />
+> This is such a good book<br />
+> (re-read n+1)<br />
+<br />
+
+</details>
+
+<details>
 <summary>Giovanni's Room (James Baldwin)</summary>
 
 > outstanding writing, what misery. its like nada except with gay people in paris.<br />
