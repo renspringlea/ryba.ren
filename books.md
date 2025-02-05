@@ -64,6 +64,16 @@ I'm keeping track of fiction novels about recluses!
 ## Queer fiction
 
 <details>
+<summary>Grace Notes (Ruby Landers)</summary>
+
+<br />
+> B/B- in terms of writing<br />
+> did not finish; got 1/4 through then hit the bit with near drowning of a toddler, so i stopped. needs a content warning at the front of the book for that. its not a cute plot device for a romance novel.<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Falling in Love Montage (Ciara Smyth)</summary>
 
 <br />
