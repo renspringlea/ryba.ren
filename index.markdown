@@ -33,10 +33,10 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Apocraphyl Gospels: A Very Short Introduction (Paul Foster)
+* No Strings Attached (Harper Bliss) [fiction]
 * The Falling in Love Montage (Ciara Smyth) [fiction]
 * Nation Branding and Sports Diplomacy: Country Image Games in Times of Change (Yoav Dubinsky)
-* The Poet's Dog (Patricia MacLachlan) [fiction]
-* That Woman Next Door (Harper Bliss) [fiction]
 * Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness (Joshua Wolf Shenk)
 
 ## Blog  

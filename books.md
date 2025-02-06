@@ -64,6 +64,16 @@ I'm keeping track of fiction novels about recluses!
 ## Queer fiction
 
 <details>
+<summary>No Strings Attached (Harper Bliss; the Pink Bean series)</summary>
+
+<br />
+> B-/C+ish, pretty generic but in a way that I enjoy. Very little in the way of sensory descrptions, a real missed opportunity for a book set in a coffee shop. Annoying that the MC conflates sex and gender but might simply be the book showing its age. glad that its narrated in an american accent despite being set in sydney.<br />
+> "She sounded American, and acted like it." hahahaha<br />
+<br />
+
+</details>
+
+<details>
 <summary>Grace Notes (Ruby Landers)</summary>
 
 <br />
@@ -205,6 +215,24 @@ I'm keeping track of fiction novels about recluses!
 </details>
 
 ## Politics, history, and society
+
+
+<details>
+<summary>Apocraphyl Gospels: A Very Short Introduction (Paul Foster)</summary>
+
+<br />
+> really enjoyed this one, very well written<br />
+> interesting that the word gospel (euangelion) was frequently used to refer to a public proclamation of good news, especially a new emperor's accession - ties in with the "two lords" view<br />
+> they're not so much a source of original historical truth as a different thread of meaning or a competing interpretation in the early community, perhaps by a community marginalised by exclusive and mainstream early christianity<br />
+> the nag hammadi thomas manuscript dates to around the 4th century; nag hammadi gospel of philip ~3rd century; gospel of truth ~2nd century<br />
+> thomas promotes a solitary and self-contained life, not quite monastic rule but in that direction<br />
+> thomas saying 114 references gender transformation<br />
+> in the protoevangelion of james, elizabeth seeking refuge with infant john the baptist from herod in the mountain is very touching (and mary hiding jesus in a feeding trough)<br />
+> anti jewish flavour in many of these texts too (like the canonical gospels)<br />
+> "vagaries of history" is a nice way to express that concept<br />
+<br />
+
+</details>
 
 <details>
 <summary>Nation Branding and Sports Diplomacy: Country Image Games in Times of Change (Yoav Dubinsky)</summary>
