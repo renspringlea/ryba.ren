@@ -504,3 +504,19 @@ Rory is Annie's best friend and a real cheeky monster. Sometimes she wanders aro
 ![rory.jpg](/assets/images/rory.jpg){: width='400' }  
   
 
+## Dolphin  
+Dolphin is a very comforting friend to have around. She likes to nuzzle in around your neck to support you. She decided to come home with me from the Show as I knew she desperately needed to join our family rather than me buying a showbag!! She's a very very good friend.  
+![dolphin.jpg](/assets/images/dolphin.jpg){: width='400' }  
+  
+
+## Dolphindoorstop  
+Dolphin doorstop is the rock in our family. She's always reliable and solid in her support for each and everyone of us. She enjoys sitting back and watching everyone go about their day.
+  
+![dolphindoorstop.jpg](/assets/images/dolphindoorstop.jpg){: width='400' }  
+  
+
+## Floppydolphin  
+Dolphin (aka Floppy Dolphin) is very silly and cheeky. They like to change shapes and play pretend being other soft friends or items! One second they are a dolphin and the next second they are a pillow and then they are a fish with big glub glub lips etc etc! They also really like sitting on your shoulder (like a parrot would!)  
+![floppydolphin.jpg](/assets/images/floppydolphin.jpg){: width='400' }  
+  
+
