@@ -33,11 +33,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Uncompromising: How an Unwavering Commitment to Your Why Leads to an Impactful Life and a Lasting Legacy (Steven White)
 * Apocraphyl Gospels: A Very Short Introduction (Paul Foster)
 * No Strings Attached (Harper Bliss) [fiction]
 * The Falling in Love Montage (Ciara Smyth) [fiction]
 * Nation Branding and Sports Diplomacy: Country Image Games in Times of Change (Yoav Dubinsky)
-* Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness (Joshua Wolf Shenk)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
