@@ -331,6 +331,21 @@ I'm keeping track of fiction novels about recluses!
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>Uncompromising: How an Unwavering Commitment to Your Why Leads to an Impactful Life and a Lasting Legacy (Steven White)</summary>
+
+<br />
+> cool having a Black, poor/working class, and Christian perspective on this topic, feels more real and hard-won (even if corporate stuff is not always relevant). worth listening purely for the narrator. more memoir-y than the description leads you to believe, but in a good way. some cringe bits.<br />
+> "an unwavering commitment to your why" really sums it up<br />
+> vernon jordan who was (paraphrasing) executing a life plan, not educating others when they make mistakes<br />
+> not allowing distraction to interfere, "sideshows" or "prizes of lesser value" that keep you from reaching your potential. what are the *real* prizes?<br />
+> a victim mentality can be a sideshow<br />
+> "I could have done more. I could have spoken up more."
+> doubting yourself is a fear of failure; when others doubt you, it's their fear of your success<br />
+<br />
+
+</details>
+
+<details>
 <summary>Lifting Heavy Things: Healing Trauma One Rep at a Time (Laura Khoudari)</summary>
 
 <br />
