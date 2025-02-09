@@ -159,6 +159,23 @@ I'm keeping track of fiction novels about recluses!
 ## Memoirs and biography
 
 <details>
+<summary>Solitude: Seeking Wisdom in Extreme Times—A Year Alone in the Patagonia Wilderness (Robert Kull)</summary>
+
+<br />
+> ok so I actually stopped this after ~10% because the overt animal abuse became too much, especially in a book that promises wisdom<br />
+> this is the vibe<br />
+> does have cat abuse which is hard to read and fish death. also why is he allowed to hunt fish if his cat isn't allowed to hunt birds<br />
+> while this is a valuable and almost unique record of solitude, some of the author's politics and especially content on environmentalism is much less interesting / a bit cardboard (and empirically false in places).<br />
+> peak spiritual experiences are transient<br />
+> locals in Chile using cats as "guinea pigs" to test whether shellfish is poisoned by red tide<br />
+> the year is 2001 so will be interesting to see if he notices 9/11<br />
+> how he gets sick of physical work and craves intellectual work hahahha<br />
+
+<br />
+
+</details>
+
+<details>
 <summary>Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness (Joshua Wolf Shenk)</summary>
 
 <br />
