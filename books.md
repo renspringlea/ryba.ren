@@ -64,6 +64,15 @@ I'm keeping track of fiction novels about recluses!
 ## Queer fiction
 
 <details>
+<summary>Dragonfall (L. R. Lam)</summary>
+
+<br />
+> A-, fun and original! I think its really enjoyable and well written, goodreads is wrong<br />
+<br />
+
+</details>
+
+<details>
 <summary>No Strings Attached (Harper Bliss; the Pink Bean series)</summary>
 
 <br />
