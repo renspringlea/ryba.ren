@@ -168,6 +168,33 @@ I'm keeping track of fiction novels about recluses!
 ## Memoirs and biography
 
 <details>
+<summary>Thomas Merton and the Noonday Demon: The Camaldoli Correspondence (Donald Grayson)</summary>
+
+<br />
+> It's interesting to me that, like Abe Lincoln, once he found his calling and began the great work of his life, he continued to suffer, in Merton's case from restlessness rather than melancholy per se.<br />
+> into books on self actualisation hahahaha<br />
+> after meeting Thay wrote an article called "Thich Nhat Hanh is my brother"<br />
+> accidia is a great example of a long storied history of monastics wishing they were elsewhere and pursuing a different vocation instead; "frantic escapism"! hmmm!!<br />
+> he argues that accidia is not depression and that merton was not depressed; i dont think his argument re the latter is very good, i think he has a reductionist (mental) view of depression and references to mertons behaviour (lack of specific symptoms) are unconvincing, so i think  a more correct conclusion re whether merton was depressed is "insufficient evidence to say". though i do wonder if a study of his diaries could illuminate this.<br />
+> turning from a focus on the monastery to the world as seen from the monastery; so solitude is distinct from "false" isolation, and the former involves returning to the world and turning towards compassion for others (obvious links with that internal renunciation idea; and the bodhisattva ideal)<br />
+> unrealistic expectations of the monastic life and grass is greener attitude re other monasteries<br />
+> fathered a child he never met before his religious life?!<br />
+> "a hermit in my heart and a coenobite in my body"<br />
+> love the politics; nigel is right that people are people wherever you go!<br />
+> Merton's frustration with Gethsemane but also the feeling that if it's God's will for him to be there, then it's *because* he doesn't fit in and his ideas aren't accepted<br />
+> "Your vocation is to have no solution, and then keep on going." !!!!!<br />
+> when the author mentions the aspect of accidia that, especially for the intellectual elite, involves an awareness of a hollow and meaningless world - isnt that straight up depression? or at least an existential crisis<br />
+> and when he was finally offered a hermitage, he baulked and didnt want it anymore!<br />
+> article "Placemaking as contemplative practice" (Burton-Christie 2008)<br />
+> lmfao the author references Robert Kull's memoir on solitude hahahahaha (see below!!)<br />
+> Merton's religious feeling only awakened in his mid 20s!<br />
+> solitude as a life of love without consolation<br />
+<br />
+
+</details>
+
+
+<details>
 <summary>Solitude: Seeking Wisdom in Extreme Times—A Year Alone in the Patagonia Wilderness (Robert Kull)</summary>
 
 <br />
