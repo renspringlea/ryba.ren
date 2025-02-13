@@ -64,6 +64,15 @@ I'm keeping track of fiction novels about recluses!
 ## Queer fiction
 
 <details>
+<summary>The Road to You (Harper Bliss)</summary>
+
+<br />
+> B, bread and butter, fast paced and fun if not terribly profound. some of the discourse re the dodgy professor is a bit yikes. also casual fatphobia and ageism is a bit annoying. also fuck susan for dismissing the cats' concerns.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Dragonfall (L. R. Lam)</summary>
 
 <br />
