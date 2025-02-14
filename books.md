@@ -177,6 +177,21 @@ I'm keeping track of fiction novels about recluses!
 ## Memoirs and biography
 
 <details>
+<summary>My Greatest Save: The Brave, Barrier-Breaking Journey of a World Champion Goalkeeper (Briana Scurry, Wayne Coffey)</summary>
+
+<br />
+> career ended due to traumatic brain injury<br />
+> suicidal ideation<br />
+> prays each game for like safety and competence, not for victory<br />
+> the most important skill a goalie can have: a short memory<br />
+> so interesting that she calls opponents' fouls "dirty play" but her coming off her line early in penalties is "within the spirit of the rules"<br />
+> the bit about her weight and eating after the world cup is a bit difficult to read and probably she could've written it in a more sympathetic way<br />
+> the fact that she says she disgraced the US Soccer crest due to gaining weight when she then got her brain injury and was financially stricken with no health insurancd and $55 to her name after selling her car and 100 cap Rolex, then pawning her 1996 olympic gold medal - I think the real disgrace to US Soccer is that they let this happen to one of their players<br />
+<br />
+
+</details>
+
+<details>
 <summary>Thomas Merton and the Noonday Demon: The Camaldoli Correspondence (Donald Grayson)</summary>
 
 <br />

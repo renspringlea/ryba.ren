@@ -33,9 +33,9 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* My Greatest Save: The Brave, Barrier-Breaking Journey of a World Champion Goalkeeper (Briana Scurry, Wayne Coffey)
 * Thomas Merton and the Noonday Demon: The Camaldoli Correspondence (Donald Grayson)
 * Dragonfall (L. R. Lam) [fiction]
-* Uncompromising: How an Unwavering Commitment to Your Why Leads to an Impactful Life and a Lasting Legacy (Steven White)
 * Apocraphyl Gospels: A Very Short Introduction (Paul Foster)
 * No Strings Attached (Harper Bliss) [fiction]
 
