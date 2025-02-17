@@ -177,6 +177,17 @@ I'm keeping track of fiction novels about recluses!
 ## Memoirs and biography
 
 <details>
+<summary>In Praise of the Useless Life: A Monk's Memoir (Paul Quenon)</summary>
+
+<br />
+> enjoyed this! especially interesting having the perspective of one of Merton's novices<br />
+> narcissism; just live the life, its an easy life<br />
+> "I have never seen a decade when there is no war. But, you keep on breathing, and praying." at the monastery during the cuban missile, all living under the threat of imminent death and nuclear warfare. wow! i hadnt connected that.<br />
+<br />
+
+</details>
+
+<details>
 <summary>My Greatest Save: The Brave, Barrier-Breaking Journey of a World Champion Goalkeeper (Briana Scurry, Wayne Coffey)</summary>
 
 <br />
@@ -458,6 +469,17 @@ I'm keeping track of fiction novels about recluses!
 </details>
 
 ## Misc
+
+<details>
+<summary>Last Night in Montreal (Emily St. John Mandel)</summary>
+
+<br />
+> beautiful, such a deep insight into every day life<br />
+> ancient and endangered language vibes, really poetic. also chilling in a random city vibes<br />
+> "I don't mind not being the hero of the story. I don't mind being the shepherd, watching you fly out over the sea with your child."<br />
+<br />
+
+</details>
 
 <details>
 <summary>The Poet's Dog (Patricia MacLachlan)</summary>
