@@ -33,11 +33,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* In Praise of the Useless Life: A Monk's Memoir (Paul Quenon)
+* Last Night in Montreal (Emily St. John Mandel)  [fiction]
 * My Greatest Save: The Brave, Barrier-Breaking Journey of a World Champion Goalkeeper (Briana Scurry, Wayne Coffey)
 * Thomas Merton and the Noonday Demon: The Camaldoli Correspondence (Donald Grayson)
 * Dragonfall (L. R. Lam) [fiction]
-* Apocraphyl Gospels: A Very Short Introduction (Paul Foster)
-* No Strings Attached (Harper Bliss) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
