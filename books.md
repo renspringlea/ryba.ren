@@ -64,6 +64,17 @@ I'm keeping track of fiction novels about recluses!
 ## Queer fiction
 
 <details>
+<summary>Always the Almost (Edward Underhill)</summary>
+
+<br />
+> Verdict: A, so good! Great vibes, honest but wholesome trans experience, and the Great Lakes in the winter. Biggest stan for Stefania.<br />
+> "Add that to the list of things that make a lot more sense in hindsight." hahahahaha<br />
+> "You get nervous because you care. But your kryptonite can also be your superpower."<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Road to You (Harper Bliss)</summary>
 
 <br />
@@ -304,6 +315,26 @@ I'm keeping track of fiction novels about recluses!
 
 ## Politics, history, and society
 
+<details>
+<summary>Euphorias in Gender, Sex and Sexuality Variations: Positive Experiences (Tiffany Jones)</summary>
+
+<br />
+> very valuable book! makes me feel really valiated. also appreciate the chapter on intersex people.<br />
+> caution against letting happiness stop further political activism and progress; euphoria rather than stagnation, happily queer rather than a happy queer<br />
+> intersex chapter: "My fears about being excluded and being a freak simply haven't played out."
+> (reading ch1-4,7)<br />
+<br />
+
+</details>
+
+<details>
+<summary>Lost Cities of the Ancient World (Philip Matyszak)</summary>
+
+<br />
+> enjoyed this. not sure i agree with every historical statement made, but good fun.<br />
+<br />
+
+</details>
 
 <details>
 <summary>Apocraphyl Gospels: A Very Short Introduction (Paul Foster)</summary>
