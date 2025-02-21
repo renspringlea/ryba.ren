@@ -33,11 +33,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Always the Almost (Edward Underhill) [fiction]
+* Lost Cities of the Ancient World (Philip Matyszak)
+* Euphorias in Gender, Sex and Sexuality Variations: Positive Experiences (Tiffany Jones)
 * In Praise of the Useless Life: A Monk's Memoir (Paul Quenon)
 * Last Night in Montreal (Emily St. John Mandel)  [fiction]
-* My Greatest Save: The Brave, Barrier-Breaking Journey of a World Champion Goalkeeper (Briana Scurry, Wayne Coffey)
-* Thomas Merton and the Noonday Demon: The Camaldoli Correspondence (Donald Grayson)
-* Dragonfall (L. R. Lam) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
