@@ -450,6 +450,17 @@ I'm keeping track of fiction novels about recluses!
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>The Existentialist's Survival Guide (Gordon Marino)</summary>
+
+<br />
+> it's fine, more of a personal meditation on some topics with frequent reference to the existentialists (reading chapters 1,2,4)<br />
+> kierkegaard: anxiety as a friend and teacher, helps point towards becoming an authentic person<br />
+> kierkegaard's journal: was at a party where he was the centre of attention, then left and wanted to shoot himself (!)<br />
+<br />
+
+</details>
+
+<details>
 <summary>Uncompromising: How an Unwavering Commitment to Your Why Leads to an Impactful Life and a Lasting Legacy (Steven White)</summary>
 
 <br />
@@ -500,6 +511,16 @@ I'm keeping track of fiction novels about recluses!
 </details>
 
 ## Misc
+
+<details>
+<summary>The Lola Quartet (Emily St. John Mandel)</summary>
+
+<br />
+> if the catcher in the rye were set during the gfc. this author always produces such beautiul writing. really unique and heartbreaking look at failed/broken dreams and, specifically, poverty, unemployment, drug problems. all the foreclosure content makes me very sad so i got like 2/3 through<br />
+> "You know what your problem is? You don't want to work at a newspaper, per se. You want to work in 1925."<br />
+<br />
+
+</details>
 
 <details>
 <summary>Last Night in Montreal (Emily St. John Mandel)</summary>
