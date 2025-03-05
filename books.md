@@ -10,7 +10,10 @@ navigate:
 - [2023-2024](#2023-2024)    
 - [2017-2023](#2017-2023)  
 
-*Note: The fact that I've read a book does not necessarily mean that I agree with or endorse its contents.*
+notes:  
+- R = re-read
+- JRM Reading Challenge = recommendation from José!
+- The fact that I've read a book does not necessarily mean that I agree with or endorse its contents.
 
 # Leaderboard  
 List of greatest novels ever written, according to Ren (ordered by publication date):  
@@ -21,14 +24,21 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 - Sea of Tranquility (Emily St. John Mandel, 2022)  
 - The Chromatic Fantasy (H.A., 2023)  
 
-# The Recluse List  
-I'm keeping track of fiction novels about recluses!  
-- Must Love Silence (Lucy Bexley) [queer ff]  
-- That Woman Next Door (Harper Bliss) [queer ff]  
-
 # 2025
 
 ## Classics
+
+<details>
+<summary>Hunger (Knut Hamsun, 1890; JRM Reading Challenge)</summary>
+
+<br />
+> Very powerful, but a difficult and uncomfortable read (I know that that is the point!). Got about 20% in.<br />
+> please somebody give this man a job.<br />
+<br />
+> I like how you can interpret this in several ways, all of which are quite powerful: a first-person description of the indignity of unemployment and famine; the descent into insanity or delusion; the pretence of normalcy during extreme times; protesting against God (in the style of the book of Job); lateral violence; and even an allegory for addiction.
+<br />
+
+</details>
 
 <details>
 <summary>The Catcher in the Rye (J. D. Salinger)</summary>
