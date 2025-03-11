@@ -33,11 +33,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Winesburg, Ohio (Sherwood Anderson, 1919; JRM Reading Challenge) [fiction]
+* The In-Between Bookstore (Edward Underhill) [fiction]
+* The Daughter of Danray (Natalia Hernandez, Flowers of Prophecy #3) [fiction]
 * Always the Almost (Edward Underhill) [fiction]
 * Lost Cities of the Ancient World (Philip Matyszak)
-* Euphorias in Gender, Sex and Sexuality Variations: Positive Experiences (Tiffany Jones)
-* In Praise of the Useless Life: A Monk's Memoir (Paul Quenon)
-* Last Night in Montreal (Emily St. John Mandel)  [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
