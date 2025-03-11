@@ -29,6 +29,17 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Classics
 
 <details>
+<summary>Winesburg, Ohio (Sherwood Anderson, 1919; JRM Reading Challenge)</summary>
+
+<br />
+> kinda fun, interesting insight into human psychology, and one that really hits home in terms of how weird everyday people's lives and inner worlds are. the misogyny is hard to read though obviously realistic.<br />
+> i think my favourite story is the one about alice and her loneliness<br />
+> also wrote a story called The Man Who Became a Woman (!)<br />
+<br />
+
+</details>
+
+<details>
 <summary>Hunger (Knut Hamsun, 1890; JRM Reading Challenge)</summary>
 
 <br />
@@ -72,6 +83,25 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 </details>
 
 ## Queer fiction
+
+<details>
+<summary>The In-Between Bookstore (Edward Underhill)</summary>
+
+<br />
+> clear A, really beautiful, such a good author<br />
+<br />
+
+</details>
+
+<details>
+<summary>The Daughter of Danray (Natalia Hernandez, Flowers of Prophecy #3)</summary>
+
+<br />
+> banger<br />
+> The Goddess: "You have been given a difficult task, mija, made even more difficult by the forces that now work against you."<br />
+<br />
+
+</details>
 
 <details>
 <summary>Always the Almost (Edward Underhill)</summary>
@@ -458,6 +488,18 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>Revelations: Visions, Prophecy, and Politics in the Book of Revelation (Elaine Pagels)</summary>
+
+<br />
+> as wartime literature, protesting against the degradation of the weak by the empire, and in particular imagery that brags about the degradation<br />
+> john advocating for total opposition rather than other christians who accommodated rome, hmm<br />
+> william blake: "Both read the Bible day and night, But thou read'st black where I read white."<br />
+> zostrianos!<br />
+<br />
+
+</details>
 
 <details>
 <summary>The Existentialist's Survival Guide (Gordon Marino)</summary>
