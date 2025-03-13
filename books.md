@@ -85,6 +85,17 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>Bruised (Tanya Boteju)</summary>
+
+<br />
+> A+ for vibe, A- ish for execution. This book makes me feel very seen. Young queer woman chasing the good pain via sport - wow. Haven't seen this vibe expressed in any other fiction. and the tender scenes are extremely well written, really beautiful. love getting into afters in game 1 (i feel like it wasnt really her fault though).<br />
+> "You know what you're doing out there. So if you can tune out all the trash talk - both yours, and the other team's - you're gonna blow up the track."<br />
+> less actual game time that id have liked. weird gripe: the sort of tough guy / street talk vibe gets a little bit old, its fine but hard to sustain for a whole book. like the dialogue feels more scripted and the setting/characters sometimes designed for the benefit of the protagonist, maybe more at home in a middle-grade book or even shonen anime, rather than realistic or genuine. also cat's a bit of a bully which is unfortunate, would have been nice if she were the supportive captain type<br />
+<br />
+
+</details>
+
+<details>
 <summary>The In-Between Bookstore (Edward Underhill)</summary>
 
 <br />
@@ -354,6 +365,30 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>A History of Chile 1808-2018 (William F. Slater and Simon Collier, 3rd ed)</summary>
+
+<br />
+> skipped about 25% (mostly mid to late 20th century) due to time constraints<br />
+> very loosely speaking, can think of this as 1800s = independence as authoritarian republic; 1900s = loads of coups, violence, dictators, and civil wars; and 2000s = democracy with some (less intense) instability and unrest still<br />
+> early 1800s: home rule as a direct result of napoleon's attacks etc on spain, colony (like other spanish american colonies) took this opportunity to take over management as an authoritarian republic (dictator and/or powerful president with little democratic concession), the war of independence having many victories and losses and atrocities but eventually ending with spanish recognition in 1844<br />
+> around 1900: transition to a classical liberal democracy in the sense of e.g. early United States, dominance by landowners etc, so a period of ~60 years (1830s to 1890s) of far more stability (if repression) than elsewhere in spanish america<br />
+> 1920s to 1970s: loads of coups etc and instability, hit especially hard by great depression including serious malnourishment, rise of a genuine left wing, expansion of the franchise<br />
+> 1970s and 80s: pinochet dictatorship, violence<br />
+> 1990s: democratisation<br />
+> last few years: social unrest, various votes on various constitutions, though still quite democratic<br />
+> many border shifts, especially ceding patagonia to argentina and expanding northward at the expense of bolivia and peru<br />
+> cultural and trade links with aus throughout history, interesting, of course USA and others too<br />
+> "the venerable tradition of vote-buying" hahahaha<br />
+> interesting (brief) framing of wwii as a holy struggle, a la harari<br />
+> eco politics growing in importance from the 90s, esp around dams, entwined with indigenous communities' rights; and indigenous rights has involved some social unrest (incl bona fide anticapitalist struggle and sabotage), use of pinochet antiterrorism laws led to reversal of some convictions by the ICJ<br />
+> the minister who resigned and 5 years later became a buddhist nun!<br />
+> "el penguinos", strong organised student protests and demands<br />
+> china highly significant as a market for both salmon and pork<br />
+<br />
+
+</details>
 
 <details>
 <summary>Euphorias in Gender, Sex and Sexuality Variations: Positive Experiences (Tiffany Jones)</summary>
