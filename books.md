@@ -85,6 +85,16 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>The View from the Top (Rachel Lacey)</summary>
+
+<br />
+> clear A. well written, great fun, plus cottages in the woods + operations professional + anxiety/panic disorder rep + (minor) trans rep. jack the bird loves blueberries!<br />
+> "Women in general are too modest, especially in business."<br />
+<br />
+
+</details>
+
+<details>
 <summary>Bruised (Tanya Boteju)</summary>
 
 <br />

@@ -520,3 +520,38 @@ Dolphin (aka Floppy Dolphin) is very silly and cheeky. They like to change shape
 ![floppydolphin.jpg](/assets/images/floppydolphin.jpg){: width='400' }  
   
 
+## Berry  
+Berry is a bubbly frog who loves to play. She loves tickles on the belly and toes. She enjoys spending time with her bestie Beans and looking after their chiddlers Little Frog and Froggy.  
+![berry.jpg](/assets/images/berry.jpg){: width='400' }  
+  
+
+## Dolphinmediumgrey  
+Dolphin (medium grey) is so happy that she has found her pod! She's thrilled to be part of the family and loves socialising with all her dolphin friends. You'll often catch her swimming and spinning and jumping around, playing with everyone.  
+![dolphinmediumgrey.jpg](/assets/images/dolphinmediumgrey.jpg){: width='400' }  
+  
+
+## Dolphinsmallgreycoinpurse  
+Dolphin (small grey coin purse) is a very loyal friend. She's always by your side and will look after your small valuable items for you. She loves to help and be involved.  
+![dolphinsmallgreycoinpurse.jpg](/assets/images/dolphinsmallgreycoinpurse.jpg){: width='400' }  
+  
+
+## Mrpenguin  
+Mr Penguin is a distinguished gentleman who is always there to provide "wise" advice. He is oh so supportive and gives the most magical cuddles, you'll instantly feel better. If that doesn't cheer you straight up then he's always willing to stick his beak in your ear and get the worries out.  
+![mrpenguin.jpg](/assets/images/mrpenguin.jpg){: width='400' }  
+  
+
+## Narwhal  
+Narwhal, don't let size misguide you! They are one pocket rocket for sure. It's hard to catch a glimpse of them as they flit in and out everywhere!  
+![narwhal.jpg](/assets/images/narwhal.jpg){: width='400' }  
+  
+
+## Oceana  
+Although Oceana is timid at first, when you get to know them you'll find that they are actually a chatterbox! They quite enjoy sitting back and people/soft friend watching.  
+![oceana.jpg](/assets/images/oceana.jpg){: width='400' }  
+  
+
+## Teagan  
+Teagan is a bubble tea fanatic! She always has a bubble tea with her, even when she's sleeping! Ask her anything related to bubble tea and she'll be able to tell you. She loves to talk about favourite drinks with anyone who will listen.  
+![teagan.jpg](/assets/images/teagan.jpg){: width='400' }  
+  
+
