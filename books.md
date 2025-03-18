@@ -85,6 +85,17 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>The Clinch (Nicole Disney)</summary>
+
+<br />
+> clear A, very very good. what energy! i like the politics and attitude of the mc. not a fan of the hidden relationship trope, but otherwise good fun. the bit with matteo is wholesome, though the ending falls into my pet peeve of "the problem is solved because somebody has lots of money to spare".<br />
+> to have a heart of gold and be a walking weapon<br />
+> weird having joe rogan in a queer novel?<br />
+<br />
+
+</details>
+
+<details>
 <summary>The View from the Top (Rachel Lacey)</summary>
 
 <br />
@@ -533,6 +544,46 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>Self-Care for Autistic People (Megan Anna Neff)</summary>
+
+<br />
+> this books a banger, like "how to live in a body 101"<br />
+> shutdown (analogous to meltdown)<br />
+> "professional self-care"<br />
+> "having a body is just so much work" mooood<br />
+> nervous system more easily switches from rest/relaxed to fight flight freeze or fawn<br />
+> organised sports as "sensory nightmares" hahahaha mood<br />
+> sensory visualisation, all the senses associated with a particular safe or sacred space<br />
+> sleep issues common<br />
+> struggles with emotions common<br />
+> prioritising rest - averting burnout (major cause of depression and suicidality)<br />
+> inclination towards perfectionism and all-or-nothing thinking patterns => taking on more demands than we should. so dropping demands.<br />
+> revisiting familiar movies or books as a way to find predictability<br />
+> self advocacy to help unmask and address sensory needs: disclosure + request = self-advocacy (and disclosure can be partial, or not at all)<br />
+> hyperempathy (!!!!!), so finding ways to release the weight of the world's pain<br />
+> feel compelled to apologise for your mere existence and be overaccommodating to justify your existence (!!!!!)<br />
+> TENS units (for intense sensory input)<br />
+<br />
+
+</details>
+
+<details>
+<summary>The Compulsive Reassurance Seeking Workbook (Amanda Petrik-Gardner)</summary>
+
+<br />
+> asking reassurance questions, apologising to loved ones, mental reviewing, checking things, self reassurance, staring at surroundings (!!!), making to-do lists, health related, crime rates<br />
+> only a compulsion if it's repetitive, a sense of urgency, to feel better, etc; same behaviour can be healthy and a value-driven choice<br />
+> two theories: random thoughts that are misinterpreted as having more power or meaning than it actually does; relying on imagined scenarios rather than concrete information/actual possibilities from here and now ("what if...")<br />
+> online reassurance seeking as a readily available and secret form of reassurance seeking<br />
+> choose your battles! one at a time<br />
+> exposure<br />
+> written plan for what youll do instead: noticing and labelling; delay and notice the anxiety; restricting the ability to do the compulsion; doing some other valuable activity instead<br />
+> an alternative story, describe the same phenomenon but using as much details from here and now as you can. and the story ends with choosing to take a different action. walking away from the ocd bubble!<br />
+<br />
+
+</details>
 
 <details>
 <summary>Revelations: Visions, Prophecy, and Politics in the Book of Revelation (Elaine Pagels)</summary>
