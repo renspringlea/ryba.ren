@@ -33,11 +33,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Self-Care for Autistic People (Megan Anna Neff)
+* The Clinch (Nicole Disney) [fiction]
+* The Compulsive Reassurance Seeking Workbook (Amanda Petrik-Gardner)
 * The View from the Top (Rachel Lacey) [fiction]
 * Bruised (Tanya Boteju) [fiction]
-* A History of Chile 1808-2018 (William F. Slater and Simon Collier, 3rd ed)
-* Winesburg, Ohio (Sherwood Anderson, 1919; JRM Reading Challenge) [fiction]
-* The In-Between Bookstore (Edward Underhill) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
