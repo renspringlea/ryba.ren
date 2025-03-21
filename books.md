@@ -85,6 +85,26 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>The Disasters (M. K. England)</summary>
+
+<br />
+> A, great fun! This author hit it out of the park once again. sympathetic look at trauma too.<br />
+> love the soccer banter hahahaha<br />
+> LOVE the trans rep<br />
+<br />
+
+</details>
+
+<details>
+<summary>This Spells Disaster (Tori Anne Martin)</summary>
+
+<br />
+> Verdict: B- ish. Good fun. Got like 50% through but stopped, wasnt super engaged and the mc had lots of anxiety and self doubt so hard being in her head.<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Clinch (Nicole Disney)</summary>
 
 <br />

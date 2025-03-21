@@ -33,10 +33,10 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* The Disasters (M. K. England) [fiction]
 * Self-Care for Autistic People (Megan Anna Neff)
 * The Clinch (Nicole Disney) [fiction]
 * The Compulsive Reassurance Seeking Workbook (Amanda Petrik-Gardner)
-* The View from the Top (Rachel Lacey) [fiction]
 * Bruised (Tanya Boteju) [fiction]
 
 ## Blog  
