@@ -24,3 +24,29 @@ It seems to me that the next few iterations of this Deep Research functionality 
 So there are still a few bottlenecks and shortcomings. But I'm not aware of any specific reason why those bottlenecks and shortcomings won't be addressed - beyond the next iterations of GPT itself and then overcoming the technical/legal hurdles, it seems more likely to me than not that LLMs will outpace human researchers within like 3 years.
 
 Which raises the question of what the future of research will look like. Even a hyperintelligent GPT wouldn't be something we could simply defer to in all decisions at my organisation (Animal Ask), for instance. We'd need at least a single human decision maker. But maybe the model of a typical organisation is more like "1 nerd + GPT" rather than "4 nerds".
+
+*Update 2025-03-21*
+
+A colleague asked me a couple of further questions, which are relevant here.  
+
+> I noticed that many of the sources in the Deep Research response [...] were not from peer-reviewed papers. How much of a limitation do you think that poses for producing high-quality research?
+
+Yes, I think this is *currently* a major limitation. However, I think that it is very easily solvable in principle - it seems like there might be some very minor technical and legal barriers preventing this, but I think it'll be solved quite soon (next few years). e.g. technologically it could be as simple as scraping all academic databases and then setting up some pipeline such that Deep Research picks the best sources from those academic databases, reads the full texts (from sci-hub or whatever), then bases its answers primarily on that information.  
+
+There are small technical and legal hurdles in scraping all academic databases and obtaining/parsing full-text documents that are currently not solved, but could easily be solved by either a) an AI company signing a deal with academic publishers to scrape data (as AI companies have already done with news publishers) or b) a clever nerd who doesn't care about the law publishing an open-source plug-in to give some LLM access to all this database and full-text information (there are already such plug-ins for Zotero, for example, so it'd only be a matter of time before a nerd on the internet makes a similar plug-in for LLMs).  
+
+So I think this is more something that will be solved in the next year or two, basically whenever people get around to it - there is no conceptual advance required in order to do this.  
+
+> In what ways do you expect research to be different in the coming years? As in, what will a human's job look like? Asking because I'm also exploring which skills are likely to become more relevant as AI improves.
+
+The million-dollar question! hahaha  
+
+These are just my guesses. Not sure if you should weight my views on this very highly.  
+
+My suspicion is that:  
+- Secondary research will involve fewer researchers, using a mix of existing research skills and prompt engineering/AI tools, having a higher per capita research output. The mix of existing skills vs AI skills depends on how autonomous and "good at making conceptual leaps" AI becomes. Two years ago, it was a 95/5 mix in favour of classic research skills. Right now, with the current iteration of Deep Research, it's more like a 70/30 mix. With the next iteration of Deep Research (e.g. what I've described above), we might see 50/50.  
+- Primary research is similar, but I expect will maintain a consistently higher share of "classic research skills" than secondary research. e.g. we need somebody to pipette liquid into test tubes, physically go to supermarkets to survey consumers, design experiments, think of hypotheses, and be absolutely fastidious about working through logic from the hypothesis to the experimental design. I think most of these skills can also be automated, but I think there'll be a lag compared to secondary research.  
+
+An important thing here is that research will become more efficient - i.e. we get more units of research per unit of human labour. This might mean society hires fewer researchers (as we can achieve the same with fewer people) or it might mean that society hires more researchers (as there are greater financial and social returns to a given unit of investment in research).  
+
+I'm thinking about the next five years or so, and not much further. Beyond that, it gets hard to predict. e.g. we could end up with a fully automated pipeline where all elements of the scientific process are performed by AI ("P.A.S.T.A." as 80,000 Hours has called it). Or, AI advances could plateau before then, and we'd end up with primary and secondary researchers automating large components of the scientific process but remaining present for some aspects. Part of this is technological (what the actual limits on AI possibilities are, which nobody knows) but part is also social (how much society is comfortable handing over aspects of the scientific process and/or policy-making to machines, which nobody knows).
