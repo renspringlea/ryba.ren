@@ -33,11 +33,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Ancient Christianities: The First Five Hundred Years (Paula Fredriksen)
+* Behind the Scenes (Karelia Stetz-Waters) [fiction]
 * The Disasters (M. K. England) [fiction]
 * Self-Care for Autistic People (Megan Anna Neff)
 * The Clinch (Nicole Disney) [fiction]
-* The Compulsive Reassurance Seeking Workbook (Amanda Petrik-Gardner)
-* Bruised (Tanya Boteju) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
