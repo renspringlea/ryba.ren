@@ -85,6 +85,16 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>Behind the Scenes (Karelia Stetz-Waters)</summary>
+
+<br />
+> Verdict: A. This is one skilled author - definitely much more than the typical sapphic romance. Beautiful PTSD rep. Flirting while collaboratively editing a sex scene hahahah<br />
+> "IT'S CALLED THE VULVA" hahahahaha<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Disasters (M. K. England)</summary>
 
 <br />
@@ -564,6 +574,20 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>Ancient Christianities: The First Five Hundred Years (Paula Fredriksen)</summary>
+
+<br />
+> great history, great writing. more sober about what we dont know - there wasnt one monolithic christianity that triumphed rapidly in rome, but rather diverse and nuanced groupings for which we just dont have any reliable numbers<br />
+> really gets across how debate, conflict, disagreement, schisms, new sects, fierce theological debates, reinterpretation, new revelation, etc etc have been a ubiquitous feature since essentially day zero, and routinely influenced by politics, government, the philosophies of the day, etc. and literary criticism of scriptures almost as soon as theyve come out, when many christians are uncomfortable with that even today.<br />
+> Manichaeism, a 3rd century sect or religion, sort of an ascetic reading of Christianity, influenced by Zoroastrianism and Buddhism, even had new revelation scriptures. Cool!<br />
+> the one ascetic guy who denied differences between male and female (esp as the women ascetics would cut off their hair etc etc) - though women cutting their hair as an act of asceticism was subequently policed and banned as being against divine law!<br />
+> "Orthodoxy's true enemy is time. What is right belief in one period becomes wrong belief in a later one. [...] Orthodoxy has a shelf life."<br />
+> "As you are a monk, go and sit in your cell and let the matter rest."<br />
+<br />
+
+</details>
 
 <details>
 <summary>Self-Care for Autistic People (Megan Anna Neff)</summary>
