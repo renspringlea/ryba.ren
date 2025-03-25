@@ -85,6 +85,17 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>Gold (E. J. Noyes)</summary>
+
+<br />
+> Verdict: B/B-, bread and butter, but i appreciate the main character's experience of sport fear/anxiety. a body full of serious sporting injuries - chronic pain rep. Warhammer! hahahah<br />
+> "[...] the thing I love sometimes made me feel like I was choking [...]"<br />
+> "I realized that my life wasn't about the skiing. It was about all the things that came about because of the skiing."<br />
+<br />
+
+</details>
+
+<details>
 <summary>Behind the Scenes (Karelia Stetz-Waters)</summary>
 
 <br />
