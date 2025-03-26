@@ -429,6 +429,25 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Politics, history, and society
 
 <details>
+<summary>Fat Sex: New Directions in Theory and Activism (ed. Helen Hester and Caroline Waters)</summary>
+
+<br />
+> this book is great<br />
+> traditions of self-publishing, eg 1990s zine culture
+> it is possible to find greater self acceptance and empowerment, and there are many positive life experiences etc that can help facilitate this<br />
+> the study participants who found the bdsm/kink community to be more accepting of their bodies<br />
+> participants finding that as they get older, they find more self acceptance<br />
+> "excruciatingly narrow beauty standards", i resonate with that wording<br />
+> foucault's biopolitics, bodies as not purely natural but influenced by power dynamics<br />
+> queer porn as valuing people as intersectional<br />
+> amy lowell<br />
+> the atwood protagonist who, upon losing weight, had to consciously learn the behaviours to stay safe as a woman, interesting parallel with trans femme experience<br />
+> in the final chapter, a juxtaposition between processed food and sport - author mentions toxic food companies like mcdonalds sponsoring sports to maintain a link with health<br />
+<br />
+
+</details>
+
+<details>
 <summary>A History of Chile 1808-2018 (William F. Slater and Simon Collier, 3rd ed)</summary>
 
 <br />
