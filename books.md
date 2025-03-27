@@ -29,6 +29,15 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Classics
 
 <details>
+<summary>Carmilla (Joseph Sheridan Le Fanu)</summary>
+
+<br />
+> love it! love a remote castle surrounded by forests and near only to an abandoned village. actually a lot going on here: can be read as sapphic literature, chronic fatigue, pandemic literature.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Winesburg, Ohio (Sherwood Anderson, 1919; JRM Reading Challenge)</summary>
 
 <br />
@@ -83,6 +92,19 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 </details>
 
 ## Queer fiction
+
+<details>
+<summary>Starling Days (Rowan Hisayo Buchanan)</summary>
+
+<br />
+Starling Days (Rowan Hisayo Buchanan)
+> (content warning for suicide)<br />
+> verdict: A-/A ish. wow, excellent writing. obviously very dark and occasionally difficult to read, such a real look at depression. feeling so alienated from the people around you.<br />
+> "On their first date, she told him that she was bisexual, vegetarian, and on meds. [...] He'd never guessed she might try to kill herself."<br />
+> the way that the protagonist's view on everyday scenes, items, and events is described in such a way that ive never seen. e.g. the police car seat fabric, the dust in oscar's lungs, the morse code pullups. amazing. It feels like a quite autistic way of looking at the world, and before this book I'd only ever seen it in myself.<br />
+<br />
+
+</details>
 
 <details>
 <summary>Gold (E. J. Noyes)</summary>
@@ -604,6 +626,20 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>Domestic Monastery: Creating Spiritual Life at Home (Ronald Rolheiser)</summary>
+
+<br />
+> this is really beautiful and empowering<br />
+> John of the Cross, two elements: withdrawal from the world, and bringing the "mild in line with the mild"<br />
+> So argues that a mother with small children is in fact monastic in this essential way, and the rest of us without small children are at a disadvantage! Hence, we need to pray for an hour a day instead.<br />
+> A monastery is not a place set apart for monks and nuns, but just a place set apart. It's about the reflection and maturity. The domestic can be the monastic.<br />
+> The monastic cell is a metaphor for duty, vocation, and commitment. Your family is a monastery and your work is a seminary. They will teach you what you need to know.<br />
+> Rituals, routines, and rhythms - not feelings - can sustain love and prayer. Not every meal is a banquet.<br />
+<br />
+
+</details>
 
 <details>
 <summary>Ancient Christianities: The First Five Hundred Years (Paula Fredriksen)</summary>

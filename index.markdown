@@ -33,11 +33,11 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Starling Days (Rowan Hisayo Buchanan) [fiction]
+* Carmilla (Joseph Sheridan Le Fanu) [fiction]
+* Domestic Monastery: Creating Spiritual Life at Home (Ronald Rolheiser)
 * Fat Sex: New Directions in Theory and Activism (ed. Helen Hester and Caroline Waters)
 * Gold (E. J. Noyes) [fiction]
-* Ancient Christianities: The First Five Hundred Years (Paula Fredriksen)
-* Behind the Scenes (Karelia Stetz-Waters) [fiction]
-* The Disasters (M. K. England) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
