@@ -31,18 +31,16 @@ layout: home
 <i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />
 A book of autobiographical essays, free to read and download <a href="/trashfish.html">[here]</a>
 
-<img src="/assets/trashfish/cover_compressed.jp" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" />
+<img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" />
 
 </span>
 
-
 <span style="float: left" width="300">
 
-*Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy*  
+<i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy<i><br />
 An academic book with Shannon M Davis, Yip Fai Tse, and Peter Singer; forthcoming from CRC Press
 
-![Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks](assets/images/shrimpbookcover.jpg){: width='300' }  
-
+<img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" />
 
 </span>
 
