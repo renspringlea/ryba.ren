@@ -20,16 +20,29 @@ layout: home
 * Years lived: {{lifePercRound}} %
 
 ## My work
-* My animal advocacy research @ [Animal Ask website](https://www.animalask.org/research)
-* My academic publications @ [Google Scholar](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
-* My additional hot takes @ [Effective Altruism Forum](https://forum.effectivealtruism.org/users/ren-ryba)
+* Academic publications @ [Google Scholar](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
+* Animal advocacy research @ [Animal Ask website](https://www.animalask.org/research)
+* Additional hot takes @ [Effective Altruism Forum](https://forum.effectivealtruism.org/users/ren-ryba)
 * Data on the European fish farming industry @ [Finsight](https://finsight.fish)  
 
-## My book
+## My books
+<span style="float: right" width="300">
 
-*Read and download [here](trashfish.html)*
+*Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World*  
+*A book of autobiographical essays, free to read and download [here](trashfish.html)*
 
 ![Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws](assets/trashfish/cover_compressed.jpg){: width='300' }
+
+</span>
+
+<span style="float: left" width="300">
+
+*Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy*  
+*An academic book with Shannon M Davis, Yip Fai Tse, and Peter Singer; forthcoming from CRC Press*
+
+![Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks](assets/images/shrimpbookcover.jpg){: width='300' }
+
+</span>
 
 ## Recent books I've read
 *Full list [here](books.html)*  
