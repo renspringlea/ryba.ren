@@ -26,9 +26,9 @@ layout: home
 * Data on the European fish farming industry @ [Finsight](https://finsight.fish)  
 
 ## My books
-<span style="float: right" width="300"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">[here]</a><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></span>
+<span style="float: right" width="300"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></span>
 
-<span style="float: left" width="300"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy<i><br />An academic book with Shannon M Davis, Yip Fai Tse, and Peter Singer; forthcoming from CRC Press<img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></span>
+<span style="float: left" width="300"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Yip Fai Tse, and Peter Singer; forthcoming from CRC Press<img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></span><br />
 
 
 
