@@ -21,7 +21,7 @@
 title: Ren Ryba
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ren ryba
+  Ren Ryba
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryba.ren" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
