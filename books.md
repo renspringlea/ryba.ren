@@ -451,6 +451,17 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Wild History: Journeys into Lost Scotland (James Crawford)</summary>
+
+<br />
+> this is a wonderful book - amazing history, beautiful writing, and excellent vibes. archaeology from the stone age through to the modern era, and plenty of old documents, very enjoyable.<br />
+> the cliffs of the holy women, 7th century christian building?!<br />
+> queens park - the archaeology of football! and the one-off spruce tree pitch from 2012, holy moly.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Fat Sex: New Directions in Theory and Activism (ed. Helen Hester and Caroline Waters)</summary>
 
 <br />
@@ -626,6 +637,27 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>I Love Jesus, But I Want to Die: Finding Hope in the Darkness of Depression (Sarah J. Robinson)</summary>
+
+<br />
+> really beautiful book, you can tell this is coming from someone who has been there<br />
+> I can do everything through Christ, who gives me strength<br />
+> people cant heal me, but i need them anyway<br />
+> accepting god's unconditional love and forgiveness (via contemplative practice) - depression is easier when you dont hate yourself<br />
+> dont look for answers, look for emmanuel. psalm "near to the broken hearted"<br />
+> the voice of god is always kinder and wiser than our own<br />
+> learning to "live with your limp"<br />
+> one study found 75% of people with major depression had experienced childhood trauma<br />
+> relationships benefit when you have the courage to say what you need<br />
+> suicidal thoughts cannot see the future, and they have no way to know that things wont get better<br />
+> what would you say to a niece or nephew who you saw beating themselves up?<br />
+> using the good days to invest in the bad days<br />
+> "Thank you, but I have a previous commitment" - a commitment to caring for yourself! Hahahaha<br />
+<br />
+
+</details>
 
 <details>
 <summary>Domestic Monastery: Creating Spiritual Life at Home (Ronald Rolheiser)</summary>

@@ -30,13 +30,16 @@ layout: home
 
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Yip Fai Tse, and Peter Singer; forthcoming from CRC Press</span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
 
+<br />
+
 ## Recent books I've read
 *Full list [here](books.html)*  
+* I Love Jesus, But I Want to Die: Finding Hope in the Darkness of Depression (Sarah J. Robinson)
+* Wild History: Journeys into Lost Scotland (James Crawford)
 * Starling Days (Rowan Hisayo Buchanan) [fiction]
 * Carmilla (Joseph Sheridan Le Fanu) [fiction]
 * Domestic Monastery: Creating Spiritual Life at Home (Ronald Rolheiser)
 * Fat Sex: New Directions in Theory and Activism (ed. Helen Hester and Caroline Waters)
-* Gold (E. J. Noyes) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
