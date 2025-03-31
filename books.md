@@ -639,6 +639,17 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>Hearing Spiritual Voices: Medieval Mystics, Meaning and Psychiatry (Christopher C. H. Cook)</summary>
+
+<br />
+> great and powerful book, reviews margery of kempe, joan of arc, and julian of norwich, all of whom heard voices. distinguishes between cause and meaning (like Existentialist's Survival Guide as I read recently), critiques reductionism and dichotomies which are called "epistemic injustice" or used to discredit the experiences of the individual concerned - a prior assumption that the person and the voice are not to be taken seriously, as opposed to an "affirming" perspective, hmm!! i see some deep parallels with trans care.<br />
+> Joan of Arc heard voices and wore men's clothing, and this author attributes her imprisonment and execution more to the latter!<br />
+> retroactive diagnoses of these figures throughout history clearly follow the fashions of the day (and absent direct access to the necessary evidence anyway), including "peculiarly twenty first century way of looking at things" e.g. in the 20th century they would explain margery of kempe as suffering from hysteria!<br />
+<br />
+
+</details>
+
+<details>
 <summary>I Love Jesus, But I Want to Die: Finding Hope in the Darkness of Depression (Sarah J. Robinson)</summary>
 
 <br />
