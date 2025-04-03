@@ -47,6 +47,21 @@ layout: home
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
 
+<script type="text/javascript">
+  function filterUsingTag(selectedTag) {
+    var id = 0;
+    {% for post in site.posts %}
+      var ts = {{ post.tags | jsonify }}
+
+      var postDiv = document.getElementById(++id);
+      postDiv.style.display =
+        (selectedTag == 'All' || cats.includes(selectedTag))
+          ? 'unset'
+          : 'none';
+    {% endfor %}
+  }
+</script>
+
 <button id="All" onclick="filterUsingTag('All')">
   *Show All Posts*
 </button>
