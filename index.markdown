@@ -26,9 +26,9 @@ layout: home
 * Data on the European fish farming industry @ [Finsight](https://finsight.fish)  
 
 ## My books
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Yip Fai Tse, and Peter Singer; forthcoming from CRC Press</span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Yip Fai Tse, and Peter Singer; preorder from CRC Press <a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459">here</a></span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
 
 <br />
 
@@ -45,4 +45,15 @@ layout: home
 * Fat Sex: New Directions in Theory and Activism (ed. Helen Hester and Caroline Waters)
 
 ## Blog  
-*These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic.*
+*These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
+
+<button id="All" onclick="filterUsingCategory('All')">
+  *Show All Posts*
+</button>
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+  {% assign cat = category | first %}
+  <button id="{{ cat }}" onclick="filterUsingCategory(this.id)">
+    {{ cat }}
+  </button>
+{% endfor %}
