@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: "Notes on artificial light perception in dogs"
+tags: animals research
 ---
 # Photoperiod and general light exposure
 

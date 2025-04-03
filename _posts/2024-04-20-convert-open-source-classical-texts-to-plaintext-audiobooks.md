@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Convert open-source classical texts to plaintext audiobooks"
-tags: plaintext religion life-ops
+tags: plaintext religion life-ops code
 ---
 This may be the nerdiest thing I've ever done (and that is saying something).
 1. Find and download an open source, plaintext translation of a spiritual or philosophical text (downloads for the Christian Bible and Buddhist Sutras below).
@@ -31,14 +31,14 @@ asv <- asv[,c("Book.Number","Book.Name","Chapter","Text")]
 for (i in unique(asv$Book.Number)){
   #Get the book name
   book_name_tmp <- asv[which(asv$Book.Number==i),]$Book.Name[1]
-  
+
   #Make a data frame that contains only verses from this book
   #(with chapters and text)
   asv_tmp <- asv[which(asv$Book.Number==i),c("Chapter","Text")]
-  
+
   #Create a blank vector to store this book
   asv_tmp_forwrite <- c()
-  
+
   #I want to slot chapter numbers in as additional text, for easy
   #navigation etc
   for (j in unique(asv_tmp$Chapter)){
@@ -46,7 +46,7 @@ for (i in unique(asv$Book.Number)){
                           paste0("Chapter ",j),
                           asv_tmp[which(asv_tmp$Chapter==j),]$Text)
   }
-  
+
   #Write this book to a text file
   write(asv_tmp_forwrite, file=paste0("asv/asv_",i,"_",book_name_tmp,".md"))
 }

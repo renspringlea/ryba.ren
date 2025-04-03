@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Animals and unconditional acceptance"
+tags: animals self-improvement mental-health autism queer
 ---
 
 I've noticed something that I'm sure must be a common phenomenon: society and its many demands and unspoken (and spoken!) rules, as well as the violence inherent in these demands and rules, makes me feel very tired.
@@ -8,7 +9,7 @@ I've noticed something that I'm sure must be a common phenomenon: society and it
 But my dear dogs don't give a damn about these arbitrary standards and demands. They don't care what my income/h-index/BMI/whatever are; they just want to be around me so they can receive cuddles and peanut butter. Perhaps this is why I find their company so liberating, compared to the company of most (but certainly not all!) humans.
 
 Some passages from the literature along these lines:
-  
+
 "Dogs were the most commonly owned companion animals, and 92% of dog and cat guardians regarded their companion animals as family members. Over 80% of the dog and cat guardians specified companionship and unconditional love as benefits offered by their animals." - Faver and Cavazos 2008 ([link](https://www.tandfonline.com/doi/abs/10.1080/10522150802292350))
 
 "Elsewhere, studies have reported the reciprocal unconditional love offered by pets..." - MacDonald and Barrett 2016 ([link](https://hull-repository.worktribe.com/preview/382171/2016-11-01%2012145%20Barrett.pdf))

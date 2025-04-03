@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Words that don't mean anything"
+tags: academic-life self-improvement
 ---
 
 At the risk of being an old they/them yelling at clouds...!

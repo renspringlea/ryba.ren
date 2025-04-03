@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resources: Psychology of self-actualisation"
-tags: microblog reading-lists self-improvement philosophy
+tags: reading-lists self-improvement philosophy
 ---
 1. Kaufman, Scott B 2020, *Transcending: The New Science of Self-Actualization*
 2. Ecker, Bruce, Ticic, Robin & Hulley, Laurel 2012, *Unlocking the Emotional Brain: Eliminating Symptoms at their Roots Using Memory Reconsolidation*

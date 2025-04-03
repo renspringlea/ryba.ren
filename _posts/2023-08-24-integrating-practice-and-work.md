@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Integrating practice and work"
-tags: microblog religion philosophy self-improvement
+tags: religion philosophy self-improvement
 ---
 1. A few years ago, when I was first beginning to practice, I felt myself pulled in two directions: I wanted to devote all of my time to practice and enjoying peace and tranquility, but I also wanted to work hard to help those in need.
 2. Transcenders often see the being-realm and deficiency-realm not as a dichotomy, but as two parts of a whole (Kaufman, Scott B 2020, *Transcending: The New Science of Self-Actualization*).

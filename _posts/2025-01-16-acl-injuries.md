@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on ACL injuries in women"
+tags: soccer social-challenges
 ---
 
 Note: ACL injury = anterior cruciate ligament injury = a tear in a ligament in the knee

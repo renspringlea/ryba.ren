@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Animal grief falls through the cracks"
+tags: animals social-challenges mental-health
 ---
 *Content warning: Animal death*
 

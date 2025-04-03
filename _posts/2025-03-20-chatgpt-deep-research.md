@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I think ChatGPT's Deep Research will transform the process of doing secondary research"
+tags: ai academic-life social-challenges
 ---
 
 At work, we tested ChatGPT Deep Research to produce a research report. For the prompt, we used the same prompt that I recently followed to produce my own research report. The prompt involved a detailed review of many specific questions relating to European aquaculture and fish markets. My own report is still unpublished, so ChatGPT does not have access to it. I didn't refine the prompt at all after seeing ChatGPT's report.  

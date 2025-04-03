@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The relationship between internal comfort levels and external signs of stress (or, masking to survive)"
+tags: mental-health social-challenges self-improvement autism
 ---
 
 I've noticed this interesting phenomenon in myself. My external appearance of comfort (how comfortable and happy I appear to others in a situation) does not show a linear relationship with my actual stress levels.

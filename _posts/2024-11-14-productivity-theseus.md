@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Flexible productivity systems and the Ship of Theseus"
+tags: self-improvement life-ops
 ---
 
 Cal Newport [writes](https://calnewport.com/plantxt-the-most-effective-productivity-tool-that-youve-never-heard-of/):

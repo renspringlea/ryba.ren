@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The best and worst things people have said about me"
-tags: microblog self-improvement
+tags: self-improvement
 ---
 * Best: "You are extremely talented and also a delight to work with, which is a rare combination."
 * Worst: "This is clearly an attempt to continue promulgating pseudoscience in the literature by publishing it in meritorious scientific journals."

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Comfort in the inner lives of historical figures"
+tags: mental-health self-improvement reading-lists research
 ---
 
 One of my favourite passages from any novel is the conversation at the climax of *The Catcher in the Rye*, in which a slightly sloshed Mr Antolini (an English teacher) offers encouragement and wisdom to the restless and alienated protagonist. In part:

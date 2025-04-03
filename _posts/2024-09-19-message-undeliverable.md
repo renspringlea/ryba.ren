@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "Message undeliverable (or, in defence of recluses!)"  
-tags: microblog philosophy self-improvement life-ops
+tags: philosophy self-improvement life-ops
 ---  
 1. Picture a paramedic on call. When there is an emergency, their attention *must* be diverted to that emergency. If the paramedic fails to be contacted, there will be unnecessary suffering.  
 2. Picture a knowledge worker focusing on some long-term goal (e.g. reducing poverty or advocating for human rights or whatever). Their attention *must not* be diverted *away* from that goal. If the knowledge worker becomes distracted, there will be unnecessary suffering.  
@@ -10,5 +10,5 @@ tags: microblog philosophy self-improvement life-ops
 5. If you are serving a community (e.g. people living in poverty; farmed animals), then tuning out external information to a degree that might seem excessive to the average person is really just giving the community that you are serving what they deserve: your sole focus.  
 6. (The exception, of course, is when somebody is trying to communicate genuinely essential information to you. I think that people systematically overestimate how frequently this happens, and this is the role of well-designed email filters and the like.)  
 7. Thus, every bounced text message/phone call/email is evidence that you are prioritising correctly.  
-  
+
 You can tell I'm a riot at parties.

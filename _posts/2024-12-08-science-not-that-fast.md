@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Science is getting faster, but not that much faster"
+tags: social-challenges research academic-life
 ---
 
 In previous blog posts, I've described my view that the pace of science is becoming much faster over time. Here's some data to suggest a different story.

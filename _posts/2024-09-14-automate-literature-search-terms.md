@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making systematic literature searches slightly more automated"
-tags: plaintext research life-ops self-improvement
+tags: research life-ops self-improvement code
 ---
 # 1. Automatic keyword generation  
 Install the package here: https://elizagrames.github.io/litsearchr/  

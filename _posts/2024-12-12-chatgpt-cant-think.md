@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Right now, there is no AI that can outperform humans at performing meaningful research and analysis"
+tags: ai research academic-life
 ---
 
 # What is research?

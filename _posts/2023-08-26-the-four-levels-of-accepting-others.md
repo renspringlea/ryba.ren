@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The four levels of accepting others"
-tags: microblog philosophy self-improvement
+tags: philosophy self-improvement
 ---
 1. Tolerance. Negative.
 2. Acceptance. Neutral.

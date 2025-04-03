@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Relationship between my book ratings and Goodreads book ratings"
+tags: research queer
 ---
 
 *Bonus: Unrelated to this post, but if you're into gay Goodreads stuff, you might enjoy this draft paper I just wrote for fun: [Books are overwhelmingly supportive of transgender identities: Analysing queer literature using a Goodreads web scrape](https://doi.org/10.31235/osf.io/exyj7).*

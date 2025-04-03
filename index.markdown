@@ -56,19 +56,19 @@ layout: home
       var postDiv = document.getElementById(++id);
       postDiv.style.display =
         (selectedTag == 'All' || ts.includes(selectedTag))
-          ? 'unset'
+          ? 'list-item'
           : 'none';
     {% endfor %}
   }
 </script>
 
-<button id="All" onclick="filterUsingTag('All')">
-  *Show All Posts*
-</button>
+<a id="All" onclick="filterUsingTag('All')">
+  all
+</a>
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
   {% assign t = tag | first %}
-  <button id="{{ t }}" onclick="filterUsingTag(this.id)">
+  <a id="{{ t }}" onclick="filterUsingTag(this.id)">
     {{ t }}
-  </button>
+  </a>
 {% endfor %}

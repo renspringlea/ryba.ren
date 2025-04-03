@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Nuke the whales"
+tags: satire animals research
+---
+
 **Nuke the whales**
 
 *Epistemic status: Messianic.*

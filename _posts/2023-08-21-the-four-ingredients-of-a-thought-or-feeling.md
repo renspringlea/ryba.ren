@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The four ingredients of a thought or feeling"
-tags: microblog philosophy self-improvement
+tags: philosophy self-improvement
 ---
 1. An external, physical event.
 2. An ancestor (past events, our genetic heritage, our social conditions, our environment, and so on).

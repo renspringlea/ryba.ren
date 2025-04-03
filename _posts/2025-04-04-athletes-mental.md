@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Athletes and mental health challenges"
+tags: soccer mental-health research reading-lists
 ---
 
 *Content warning: eating disorders, suicidal ideation, OCD*

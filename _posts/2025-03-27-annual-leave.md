@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Laws regulating annual paid leave are suboptimal and irrational"
+tags: research social-challenges mental-health effective-altruism
 ---
 
 # Leave entitlements are usually consistent across industries

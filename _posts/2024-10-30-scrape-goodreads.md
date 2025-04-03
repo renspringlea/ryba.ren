@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Some notes on scraping Goodreads"
+tags: code life-ops
 ---
 Please use this for personal use only. Recent court cases have affirmed that web scraping (at least of publicly available webpages) is not necessarily illegal in the United States. However, you may be entering into murky waters depending on how you scrape and what you use the data for.  
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What percentage of books can you read?"
+tags: research self-improvement life-ops
 ---
 
 UNESCO estimates that 2.2 million books are published each year ([source](https://isbndb.com/blog/how-many-books-are-in-the-world/)).

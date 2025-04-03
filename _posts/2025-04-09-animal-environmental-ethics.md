@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Brief thoughts on the tension between animal ethics and environmental ethics"
+tags: social-challenges animals research effective-altruism politics
 ---  
 
 There is a tension in wild animal welfare that arises when individualist (i.e. animal welfare/rights) and communitarian (i.e. environmentalist) philosophies lead to different policy prescriptions (e.g. hunting possums).

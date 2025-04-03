@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meditation means simply living your life"
+tags: philosophy religion self-improvement
 ---
 1.
 At daybreak, change the water

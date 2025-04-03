@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "In-and-out searches vs exhaustive searches"
+tags: academic-life self-improvement life-ops
 ---
 When searching for information, there are two different approaches.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Allowing ideas to expand to fill the space"
+tags: academic-life effective-altruism
 ---
 Something I've found really useful—a mindset I inherited from my dear PhD supervisor, Prof Connell!—is, when I am considering or working on an idea or a project, to ask "What is the upper limit of this idea?"
 

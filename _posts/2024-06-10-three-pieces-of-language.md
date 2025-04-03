@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three pieces of language I wish I had growing up"
-tags: microblog philosophy self-improvement
+tags: philosophy self-improvement
 ---
 
 # 1. Rejection sensitive dysphoria

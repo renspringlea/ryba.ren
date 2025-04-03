@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: "Top-down work days vs bottom-up work days"  
+tags: self-improvement life-ops
 ---  
 
 I've noticed that, broadly speaking, I have two different types of work days:  

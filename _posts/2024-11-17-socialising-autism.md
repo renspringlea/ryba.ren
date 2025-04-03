@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "You can socialise without having to socialise"
+tags: self-improvement life-ops mental-health autism
 ---
 
 Most people have the human need to socialise at some level. In the book *Loneliness: Human Nature and the Need for Social Connection* (John T. Cacioppo and William Patrick), the authors draw a comparison with food/hunger: under this conceptualisation, loneliness is nothing more complicated than your body telling you that you need to get more of this particular resource (social connection).

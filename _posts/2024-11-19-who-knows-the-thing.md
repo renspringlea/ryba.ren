@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Who knows the thing that you need to know?"
+tags: academic-life self-improvement
 ---
 An important part of my work involes identifying pieces of evidence that are crucial for a particular decision (crucial considerations or cruxes), then figuring out how to get that evidence.
 

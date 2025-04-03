@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "U.S. egg prices and indirect benefits for animal welfare"
+tags: social-challenges politics research animals effective-altruism
 ---
 
 *Note: This is a crude analysis. I'm writing this article in my personal time, not my work time - hence, rather than the high level of detail that I usually bring to my economic analyses, this is more of a back-of-the-envelope calculation. However, everything I say here is based on previous detailed research that I have done on the U.S. egg industry. The only reason I'm not going into more detail in the economics and citing sources for every statement I make is that I'm writing this in my personal time!*

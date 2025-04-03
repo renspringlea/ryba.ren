@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: "Noise-sensitive dogs and quiet computer keyboards"  
+tags: animals research life-ops
 ---  
 
 This is Max. Max is on the right (our other rescue dog, Shiloh, is on the left). Max loves belly rubs and peanut butter.  

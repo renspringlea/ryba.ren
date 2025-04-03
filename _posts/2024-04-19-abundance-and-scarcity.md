@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abundance and scarcity"
-tags: microblog self-improvement philosophy
+tags: self-improvement philosophy
 ---
 For most of human history, the main things that were scarce were:
 - Food

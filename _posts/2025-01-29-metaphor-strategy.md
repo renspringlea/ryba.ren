@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Do not mistake a metaphor for a strategy"
+tags: animals effective-altruism academic-life self-improvement politics
 ---
 
 There are two conceptual tools that often get used in animal advocacy and political advocacy more broadly:

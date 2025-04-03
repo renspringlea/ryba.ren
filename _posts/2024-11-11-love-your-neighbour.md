@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: "All roads lead to 'Love your neighbour as yourself'"  
+tags: religion philosophy self-improvement
 ---  
 Now here I'm making some generalisations about an entire world religion and an entire academic discipline! I'm essentially only considering these in terms of their implications for my own actions (plan of life), so I hope you can forgive me for generalising about these deeply complex topics and for almost certainly treading the same ground that others have already visited. And when I say "actions" and "plan of life" here, I basically use those terms interchangeably.  
 

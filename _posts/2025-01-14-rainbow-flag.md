@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on the rainbow flag, neocolonialism, and capitalism"
+tags: queer research social-challenges
 ---
 
 # Klapeer and Laskar 2018, Transnational ways of belonging and queer ways of being. Exploring transnationalism through the trajectories of the rainbow flag

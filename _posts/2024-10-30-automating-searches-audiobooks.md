@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Automating searches for audiobooks"
+tags: code life-ops
 ---
 I listen to audiobooks on multiple platforms: Libby (connected to my local library), Kobo, Audible (Australian market) and Audible (US market).  
 
