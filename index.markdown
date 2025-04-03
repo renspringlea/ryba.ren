@@ -62,13 +62,9 @@ layout: home
   }
 </script>
 
-<a href="#disable" id="All" onclick="filterUsingTag('All')">
-  all
-</a>
+<a href="#disable" id="All" onclick="filterUsingTag('All')">all</a>&nbsp;
 {%- assign tags = site.tags | sort -%}
 {%- for tag in tags -%}
   {%- assign t = tag | first -%}
-  <a href="#disable" id="{{ t }}" onclick="filterUsingTag(this.id)">
-    {{ t }}
-  </a>
+<a href="#disable" id="{{ t }}" onclick="filterUsingTag(this.id)">{{ t }}</a>&nbsp;
 {%- endfor -%}
