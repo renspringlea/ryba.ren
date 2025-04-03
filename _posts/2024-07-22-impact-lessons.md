@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thirteen essential ingredients for doing good"
-tags: effective-altruism philosophy research social-challenges microblog
+tags: effective-altruism philosophy research social-challenges
 ---
 1. Read everything. If you want to do research, read every single paper on the topic (it helps to learn how to conduct a systematic literature review - but keep in mind that generalisations that can be made from any one study are usually very limited). If you want to influence policy, understand all legislation and regulation in immense detail and understand where the political power is. In either case, get as much data as you can on the problem you're trying to solve.  
 2. Speak to everyone who is doing similar work. There are usually projects and documents you wouldn't otherwise be aware of. Many people are happy to offer advice or help, especially via email. Defer to experts unless you have a good grasp on a topic yourself.  

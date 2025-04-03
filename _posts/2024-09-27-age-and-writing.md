@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Age and quality writing"
+tags: academic-life philosophy self-improvement
 ---
 ### On one hand  
 

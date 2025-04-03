@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: "A better way to give and receive feedback on written documents"  
+tags: academic-life life-ops
 ---  
 
 (or, proof that I'm a riot at parties)  

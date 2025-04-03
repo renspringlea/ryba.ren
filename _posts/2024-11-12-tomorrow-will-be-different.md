@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "'Tomorrow Will Be Different' wallpaper"
+tags: queer social-challenges politics
 ---
 
 In the recent US election, the US Congress got its first openly transgender rep—Sarah McBride, a Democrat from Delaware.

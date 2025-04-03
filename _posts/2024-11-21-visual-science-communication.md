@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: "Tips for excellent visual science communication"  
+tags: academic-life self-improvement
 ---  
 
 1. Scientific posters: Try the Better Poster ([video 1](https://www.youtube.com/watch?v=1RwJbhkCA58), [video 2](https://www.youtube.com/watch?v=SYk29tnxASs)). Many of the lessons in these videos can be applied in designing graphs too.  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes on deep uncertainty and cluelessness"
-tags: effective-altruism philosophy research social-challenges microblog
+tags: effective-altruism philosophy research social-challenges
 ---
 These are some notes I took in early June 2024 on the top of deep uncertainty and complex cluelessness.  
 

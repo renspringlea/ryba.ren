@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Better ways to search for movies and TV series"
+tags: code life-ops
 ---
 
 1. A dataset of the names etc of 152,971 TV series, including a measure of quality/popularity, [here](https://www.kaggle.com/datasets/bourdier/all-tv-series-details-dataset).

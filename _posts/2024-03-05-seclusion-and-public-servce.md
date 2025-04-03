@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seclusion and public servce"
-tags: microblog philosophy religion
+tags: philosophy religion
 ---
 From Bill Porter, *Road to Heaven: Encounters with Chinese Hermits*, chapter 3:
 

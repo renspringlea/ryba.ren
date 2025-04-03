@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to ruin any horror movie"
+tags: animals social-challenges effective-altruism research philosophy politics
 ---
 
 I often get into (good-natured!) fights with my partner because horror movies frighten her but not me. I find economic policies and biosecurity disasters to be much more frightening.

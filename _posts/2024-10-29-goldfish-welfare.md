@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Notes on welfare of the goldfish (Carassius auratus)"
+tags: animals research
 ---
 Brown, C., Wolfenden, D., & Sneddon, L. (2018). Goldfish (Carassius auratus). In Companion Animal Care and Welfare (pp. 467–478). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781119333708.ch23  
-  
+
 - Goldfish are generalist omnivores and eat a range of food varieties, from insects to plants. A balanced diet can be provided with some standard commercial flake and pellet foods, with other food types added. As a rule of thumb, goldfish should be fed only as much as they can eat in a few minutes, so that the breakdown of additional food does not cause nitrates, nitrites, and ammonia to build up in the water, which can cause irreversible gill and other damage.
 - Goldfish are motivated to forage amongst substrates and aquatic vegetation. They appear to forage more in sandy substrates than gravel, pebbles, or cobbles,
 - All goldfish need adequate space for shoaling, keeping adequate distances between individuals, maintaining adequate water quality, and allowing all goldfish to reach their full size potential. This requires ponds and aquaria to be many times the expected adult sizes, depending on the number of fish kept together.

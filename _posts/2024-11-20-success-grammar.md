@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Success grammar"
+tags: academic-life self-improvement
 ---
 
 There are several ways that written language can sway a reader beyond the literal meaning of the words. Two examples are:

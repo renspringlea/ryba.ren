@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Relative vs absolute measures of scale (or, why moving a low-scale ask to China doesn't rescue it)"
-tags: effective-altruism philosophy research social-challenges microblog
+tags: effective-altruism philosophy research social-challenges
 ---
 I once had a lecture on the relevance of freshwater ecology for human water supply. The lecturer brought up chlorination byproducts. Basically, freshwater is treated using chlorine (and a bunch of other processes) to disinfect the water prior to human consumption. This is a big reason why I (and probably you) have not contracted typhoid or cholera from drinking water. While making the water undeniably safer, chlorination produces small quantities of unintended chemicals, called chlorination byproducts.  
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Unique soccer matches from history"
+tags: soccer research
 ---
 
 There are many examples of unique and special soccer matches from history. Some of these are "first-of" matches, noteworthy for their historical importance either for football as a sport or for the inclusion of particular communities in football. Other matches include exhibition matches, such as those played to promote [transgender inclusion](https://trukunitedfc.com/) or to [unite medical practitioners](https://wmfc2024.com/) from around the world.  

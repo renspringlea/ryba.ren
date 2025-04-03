@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: "'Healthy fear' mindset"  
+tags: philosophy soccer self-improvement effective-altruism
 ---  
 
 At my soccer club, our usual goalkeeper is unavailable for this season, so I have begun playing as a goalkeeper. This is a unique position in soccer - in all other positions, whether playing as a forward, a midfielder, or a defender, your role is both offensive and defensive. Even defenders need to know how to support attacks, and full backs (a category of defenders) frequently score goals or provide assists. For sure, the best goalkeepers can also open up offensive opportunities. But goalkeepers are unique in that their primary role is to do anything and everything necessary to stop the opponent from scoring a goal.  

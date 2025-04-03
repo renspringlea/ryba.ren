@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why pigeons are the greatest"
-tags: microblog animals
+tags: animals
 ---
 1. Pigeons are doves. The English words "pigeon" and "dove" refer to the same type of bird - any species of bird in the family Columbidae. But for some reason, people tend to like doves but dislike pigeons.
 2. Great pets. I can confirm from my own experience that pigeons are gentle, curious, cheeky, low-maintenance, and (mostly) tidy. They are [objectively beautiful](https://upload.wikimedia.org/wikipedia/commons/2/2b/Rock_dove_-_natures_pics.jpg) and enjoyable to watch, which might be part of the reason why they have been used widely as a symbol in world religions.

@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: "Overcoming the violence inherent in competitive games"  
+tags: soccer self-improvement philosophy
 ---  
 
 I've played competitive trading card games pretty much continuously since I was a kid.  

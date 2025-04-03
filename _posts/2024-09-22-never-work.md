@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Never do any work"
+tags: academic-life self-improvement
 ---
 
 Now, my employers can rest assured: I don't mean that title literally!

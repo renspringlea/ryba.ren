@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three ingredients for sustaining an impactful career"
-tags: microblog life-ops self-improvement effective-altruism academic-life
+tags: life-ops self-improvement effective-altruism academic-life
 ---
 1. Patience: "Planting that seed and letting the tree grow so that, one day, the world can enjoy the fruits of your labor, requires the attitude not of a superhero but of a farmer. [...] Think through the big decisions carefully, but get things done. Speed the process up where you can, but accept that it'll take many years to achieve the skills, understanding, and position you need to make a big impact. Pivot when necessary, but keep going." - [*Trade Heroism for Grit*](https://forum.effectivealtruism.org/posts/vmyP88FKkvtbRedaj/trade-heroism-for-grit), EA Forum
 2. Humility: What matters is doing the most good while living a meaningful, happy, and healthy life. Doing the most good doesn't mean having a strong reputation, or having particular titles or qualifications or jobs, or spending a lot of time engaging with the EA community or other communities, or debating philosophy, or even having other people think you're doing good - though each of those things can sometimes be instrumentally useful, and some might even be intrinsically valuable for life's meaning for some people, none of those are actually *doing the most good*. Whether or not this upcoming AI transformation materialises, I know that my stay here is brief, and soon there will be nothing left of our society other than a few dusty cemeteries and some long-decomposed trash heaps, and I'd like to live a meaningful life for myself while doing as much good as I can for others, whether our society will last for another 7 years or 7,000.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Joy of missing out"
+tags: self-improvement philosophy mental-health
 ---
 
 In the book *Four Thousand Weeks*, Oliver Burkeman mentions the concept of "the joy of missing out"—as opposed to the fear of missing out! The joy of missing out is the thrilling recognition that you wouldn't want to do everything, because the very fact that you have to choose between two (often equally) good options bestows value upon your choice. Giving up something means you're choosing something else on which to spend a portion of time that you never had any right to expect.  

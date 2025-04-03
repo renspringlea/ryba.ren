@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "If you invite somebody to a video call, give them an out"
+tags: life-ops effective-altruism academic-life
 ---
 
 In EA circles, since we mostly work remotely, there's a culture of asking a colleague to "hop on a video call" to sort out a particular question or problem.

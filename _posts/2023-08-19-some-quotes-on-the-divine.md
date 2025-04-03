@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some quotes on the mystical nature of the Divine"
-tags: microblog religion philosophy self-improvement
+tags: religion philosophy self-improvement
 ---
 1. “God is not somewhere else, but right here, all around us, the encompassing Spirit in whom everything that is, is.” - Borg, Marcus J 2011, *Jesus: Uncovering the life, teachings and relevance of a religious revolutionary*, ch5.
 2. “Julian [of Norwich]’s understanding of love is not that it moves in one direction but is reciprocal.” - Ramirez, Janina 2016, *Julian of Norwich: A Very Brief History*.

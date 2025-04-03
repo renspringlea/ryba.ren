@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When ethics gives way to self-indugence"
+tags: philosophy effective-altruism social-challenges
 ---
 
 Sometimes, if a person has only a rudimentary understanding of an ethical system or of the consequences of their actions, it is possible for "ethics" to be used as a justification for self-indulgent behaviour.

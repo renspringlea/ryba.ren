@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Contemplative Prayer by Thomas Merton"
-tags: microblog religion philosophy
+tags: religion philosophy
 ---
 1. The Desert Fathers did not imagine themselves, in the first place, to be mystics, though in fact they often were. They were careful not to go looking for extraordinary experiences, and contended themselves with the struggle for "purity of heart" and for control of their thoughts, to keep their minds and hearts empty of care and concern, so that they might altogether forget themselves and apply themselves entirely to the love and service of God. (21)
 2. ... this kind of monastic spirit is charismatic rather than institutional. It has much less need of rigid structures and is totally abandoned to one need alone: that of obedience to the word and spirit of God, tested by fruits of humility and compassionate love. Thus the Zossima type of monasticism can flourish in offbeat situations, even in the midst of the world. Perhaps such "monks" may have no overt monastic connections whatsoever. (31)

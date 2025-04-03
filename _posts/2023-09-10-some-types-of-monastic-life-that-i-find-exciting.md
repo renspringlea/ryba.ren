@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some types of monastic life that I find exciting"
-tags: microblog religion philosophy
+tags: religion philosophy
 ---
 1. The mixed life, which integrates monastic practices without being formally recognised as monastic (though this is a distinction rejected by Thomas Merton). Example: Jesus himself.
 2. Family monasticism, in which a monastic community also contains married people and families. Example: the Cistercian abbey of Loccum after its adoption of Protestantism in 1593.

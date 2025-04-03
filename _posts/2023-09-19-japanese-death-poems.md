@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Japanese death poems"
-tags: microblog religion philosophy
+tags: religion philosophy
 ---
 1.\
 Death poems\

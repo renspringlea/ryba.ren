@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some thoughts on AI"
-tags: social-challenges research self-improvement
+tags: social-challenges research self-improvement ai
 ---
 ## 1. Timelines
 - **Q: Do we expect AI to cause human society to collapse so soon that we need to change our policy recommendations (or just sit on a large pile of food inside a remote bunker while we wait for the nukes to fly)?**
@@ -51,7 +51,7 @@ See also the [Faunalytics policy on AI use](https://faunalytics.org/faunalytics-
 - "Based on the reputational risks posed by AI image generation, Faunalytics will avoid the use of image-generation tools for photorealistic images in our public-facing work. We likewise caution individual advocates and groups about using image generation tools, as they have the potential to seriously erode public trust in our individual organizations, and our movement more broadly."
 
 ## Afterword
-I think a really useful thing to keep in mind is this photo of Beverton and Holt, who established the quantitative science of fisheries management, working on a fisheries model in 1949: 
+I think a really useful thing to keep in mind is this photo of Beverton and Holt, who established the quantitative science of fisheries management, working on a fisheries model in 1949:
 
 ![Photo of Beverton and Holt](https://i.ibb.co/6XGdmpz/Screenshot-from-2024-02-26-12-46-26.png)
 
@@ -61,5 +61,3 @@ I think a really useful thing to keep in mind is this photo of Beverton and Holt
 - Ekwueme, Francis Okechukwu, Anthony C. Areji, and Anayochukwu Ugwu. 2023. “Beyond the Fear of Artificial Intelligence and Loss of Job: A Case for Productivity and Efficiency.” Qeios. https://doi.org/10.32388/3bwnxg.
 - Eloundou, Tyna, Sam Manning, Pamela Mishkin, and Daniel Rock. 2023. “GPTs Are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models.” arXiv [econ.GN]. arXiv. http://arxiv.org/abs/2303.10130.
 - Korinek, Anton. 2023. “Language Models and Cognitive Automation for Economic Research.” Working Paper Series. National Bureau of Economic Research. https://doi.org/10.3386/w30957.
-
-

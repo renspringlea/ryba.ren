@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Avoiding the physical world means faster feedback loops!"
+tags: academic-life self-improvement life-ops
 ---  
 
 Or, in defence of Digimon! :P

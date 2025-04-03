@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resources: Slow productivity"
-tags: academic-life life-ops microblog reading-lists self-improvement plaintext
+tags: academic-life life-ops reading-lists self-improvement plaintext
 ---
 1. Mountz, Alison et al 2015, "For Slow Scholarship: A Feminist Politics of Resistance through Collective Action in the Neoliberal University", *ACME: An International Journal for Critical Geographies*, 14(4), 1235–1259, [available online](https://acme-journal.org/index.php/acme/article/view/1058).
 2. *Slow productivity with Dr. Kate Litterer* on The Slow Home Podcast, [available online](https://www.slowyourhome.com/blog/katelitterer)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Voice pitch training using R and the command line"
-tags: life-ops self-improvement plaintext
+tags: life-ops self-improvement plaintext queer code
 ---
 Step 1. Assemble some samples of voices that you like. You can do this using youtube-dl to download clips from Youtube and then chop them up using ffmpeg. If needed, you can also use ffmpeg to convert to mp3. Command line code:  
 

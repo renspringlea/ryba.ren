@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: "In defence of moral licensing"  
+tags: philosophy politics self-improvement effective-altruism
 ---  
 
 I've been thinking about old Winston Churchill.  

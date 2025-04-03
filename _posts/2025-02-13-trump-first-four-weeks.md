@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Trump's first four weeks"
+tags: social-challenges politics research
 ---
 
 It has been 4 weeks since Trump took office for the second time.

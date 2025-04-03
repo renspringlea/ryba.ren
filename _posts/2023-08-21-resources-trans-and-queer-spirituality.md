@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resources: Trans and queer spirituality"
-tags: microblog religion philosophy reading-lists queer social-challenges
+tags: religion philosophy reading-lists queer social-challenges
 ---
 Buddhism:
 1. Manders, Kevin & Marston, Elizabeth 2019, *Transcending: Trans Buddhist Voices* (Note: 100% certified banger)

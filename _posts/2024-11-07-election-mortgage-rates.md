@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Trump's second term and variable mortgage rates in Australia"
+tags: politics life-ops research
 ---
 TL;DR: My suspicion is that we won't see a major increase in inflation in the next couple of years, at least in Australia. There are many logical assumptions that need to be met for "Trump says during an election campaign that he wants to increase tariffs" to cause "Australian mortgages cost more", and I'm not convinced that all (or even many) of these logical assumptions hold. There are also more mundane reasons suggesting that Australian mortgages will decrease in the next few years (and I happen to find these reasons more convincing). But basically I'm not sufficiently convinced by reasoning about Trump's policies to act in any way other than how I'm already acting, at least when it comes to my mortgage.  
 

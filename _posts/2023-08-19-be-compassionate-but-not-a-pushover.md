@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Be compassionate, but not a pushover"
-tags: microblog religion philosophy self-improvement
+tags: religion philosophy self-improvement
 ---
 1. "[...] I say to you, Do not resist an evildoer. But if anyone strikes you on the right cheek, turn the other also; and if anyone wants to sue you and take your coat, give your cloak as well; and if anyone forces you to go one mile, go also the second mile. Give to everyone who begs from you, and do not refuse anyone who wants to borrow from you." Matthew 5:38-42 NRSV
 2. "Bhikkhus, even if bandits were to sever you savagely limb by limb with a two-handled saw, he who gave rise to a mind of hate towards them would not be carrying out my teaching. Herein, Bhikkus, you should train thus: 'Our minds will remain unaffected, and we will utter no evil words; we shall abide compassionate for their welfare, with a mind of loving-kindness, without inner hate. [...]'" *Kakacūpama Sutta* (*Majjhima Nikaya 21*), tr. Ñāṇamoli and Bodhi.

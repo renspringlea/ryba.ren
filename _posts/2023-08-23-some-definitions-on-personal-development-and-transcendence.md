@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some definitions on personal development and transcendence"
-tags: microblog philosophy self-improvement
+tags: philosophy self-improvement
 ---
 1. Deficiency realm (D-realm): "motivated by a lack of satisfaction, whether it’s the lack of food, safety, affection, belonging, or self-esteem." - Kaufman, Scott B 2021, *Transcend: The New Science of Self-Actualization*
 2. Being realm (B-realm): "like replacing a clouded lens with a clear one [...] one is more accepting and loving of oneself and others [...] more about 'What choices will lead me to greater integration and wholeness?'" - Kaufman

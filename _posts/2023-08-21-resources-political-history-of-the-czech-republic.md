@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resources: Political history of the Czech Republic"
-tags: microblog reading-lists social-challenges
+tags: reading-lists social-challenges
 ---
 1. Čapek, Karel 1929, *Talks with TG Masaryk*, tr. Heim, Michael Henry
 2. Albright, Madeleine 2012, *Prague Winter: A Personal Story of Remembrance and War, 1937–1948*

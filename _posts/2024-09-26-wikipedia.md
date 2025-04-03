@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The great leveller: a counterargument to the dizzying pace of science"
+tags: academic-life philosophy
 ---
 
 Consider my previous three blog posts:    

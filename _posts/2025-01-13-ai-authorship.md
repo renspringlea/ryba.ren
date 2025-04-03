@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on AI and authorship"
+tags: academic-life ai research
 ---
 
 See also:

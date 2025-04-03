@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on incest"
+tags: social-challenges research philosophy
 ---
 
 Note: I don't necessarily condone any view here. Like many of my previous posts, I'm literally just reporting some useful passages from published academic texts on a particular ethical and legal question.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Resources: Connecting with your inner child as therapy and practice"
+tags: reading-lists mental-health queer religion autism
 ---
 
 A practice that I find helpful in both meditation and therapy is connecting with my inner child. Like any practice in meditation in therapy, I've developed my own approach to this based on an eclectic mix of sources. However, a friend recently asked me where they would start if they wanted to explore this idea themself.

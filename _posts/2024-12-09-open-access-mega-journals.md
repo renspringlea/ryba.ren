@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on open-access mega journals (Frontiers, MDPI, etc)"
+tags: research academic-life
 ---
 
 Sadly I couldn't find much on the perception of non-academics of open-access mega journals, which is an important consideration for e.g. graduate students who do not want to pursue a career in academia.
@@ -8,7 +9,7 @@ Sadly I couldn't find much on the perception of non-academics of open-access meg
 The TL;DR of these notes is something like:
 - It's hard to generalise about publishers or about publishing models
 - There's good reason to steer clear of MDPI, but other open-access publishers seem fine
-  
+
 Holmberg et al 2019, Do articles in open access journals have more frequent altmetric activity than articles in subscription‑based journals? An investigation of the research output of Finnish universities
 - "The results show signifcant disciplinary and platform specifc diferences in the OA advantage, with articles in OA journals within for instance veterinary sciences, social and economic geography and psychology receiving more citations and attention on social media platforms, while the opposite was found for articles in OA journals within medicine and health sciences. The results strongly support feld- and platform-specifc considerations when assessing the infuence of journal OA status on altmetrics."
 

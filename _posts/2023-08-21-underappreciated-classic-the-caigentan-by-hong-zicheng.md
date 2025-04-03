@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Underappreciated classic: The Caigentan by Hong Zicheng (1590)"
-tags: microblog religion philosophy
+tags: religion philosophy
 ---
 1. "Rich wine, fatty meats, spicy and sweet foods don't have true flavor. True flavor is quite bland. The sage is not an exotic superhuman. The true sage is actually quite ordinary." (1:7)
 2. "If you love activity you are like lightning among the clouds or a lantern in the wind. If you are fond of quiet you are like dead ashes or a withered tree. Only with the spirit of a hawk soaring among tranquil clouds or a fish leaping from calm water can you personalize the Dao." (1:22)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on the (surprisingly poor) empirical evidence for health effects of body weight and body fat"
+tags: research self-improvement social-challenges
 ---
 
 TL;DR:

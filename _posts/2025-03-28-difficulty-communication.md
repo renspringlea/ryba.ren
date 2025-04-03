@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Increasing Difficulty of Communication"
+tags: mental-health self-improvement social-challenges autism
 ---
 
 The title of this blog post is a reference to the 1960s play *The Increased Difficulty of Concentration* by Václav Havel.
@@ -51,7 +52,7 @@ In contrast, a conversation between two neurotypicals is more likely to go somet
 > Person 1: (Shouting back) Environmental science! Like, climate stuff, you know?
 
 > Person 2: Oh, right, yeah. That's… important, I guess. (Smiles awkwardly) Look, I'm gonna try and find that bathroom before I spontaneously combust. It was good talking to you!
-  
+
 > Person 1: Yeah, you too! Good luck with the fish thing!
 
 Here's the kicker - if I were a participant in *that* conversation, as soon as somebody mentions linguistics, or freelancing, or postgraduate study, or website design, or environmental science, or *the psychological effects of the position of bathrooms in buildings*, my brain would automatically generate a long essay going into immense detail about each of those topics too.

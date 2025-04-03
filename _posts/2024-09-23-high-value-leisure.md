@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: "Making your high-value leisure time easier"  
+tags: self-improvement code life-ops
 ---  
 
 Many authors argue, and I agree, that high-value leisure time is a critical component of sustaining your impactful work over the long term.  

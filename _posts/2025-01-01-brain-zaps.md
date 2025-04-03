@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: "Notes on brain zaps"  
+tags: self-improvement research mental-health
 ---  
 
 Papp and Onton 2018, Brain Zaps: An Underappreciated Symptom of Antidepressant Discontinuation [link](https://www.psychiatrist.com/pcc/brain-zaps/)  

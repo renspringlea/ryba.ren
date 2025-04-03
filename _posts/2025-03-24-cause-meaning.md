@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cause and meaning can be different"
+tags: mental-health religion philosophy self-improvement
 ---
 In the book *The Existentialist's Survival Guide*, philosopher Gordon Marino makes the following point: even if we understand the cause of mental illnesses like depression and anxiety, these conditions can still be rich in meaning. The cause and the meaning need not be related.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Do not confuse deliberation with persuasion"
+tags: effective-altruism academic-life self-improvement politics
 ---
 
 I am a researcher working in a larger movement that has a moral and political goal.

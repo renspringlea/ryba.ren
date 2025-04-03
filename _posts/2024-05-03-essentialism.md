@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some bangers from Essentialism"
-tags: microblog life-ops self-improvement effective-altruism
+tags: life-ops self-improvement effective-altruism
 ---
 - "We live in a world where almost everything is worthless and a very few things are exceptionally valuable."
 - "Essentialism is about pausing constantly to ask, 'Am I investing in the right activities?' [...] Before saying yes to anything, ask yourself, 'Will this activity or effort make the highest possible contribution towards my goal?' [...] If it isn’t a clear yes, then it’s a clear no."

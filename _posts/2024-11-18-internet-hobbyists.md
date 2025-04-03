@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The amazing, high-quality work by internet hobbyists"
+tags: research reading-lists
 ---
 
 There are many examples of extremely rigorous and high-quality work, occasionally having significant influence on later academic discourse or other areas of society, conducted by people on the internet who are doing this work as a hobby.

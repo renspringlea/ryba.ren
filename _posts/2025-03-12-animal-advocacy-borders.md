@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Animal advocacy across borders"
+tags: animals effective-altruism research
 ---
 
 We live in a world where some countries are leaders in animal welfare, and other countries lag behind. Global relationships provide some useful tactics that can help animal advocacy organisations do more for animals - here, we outline three.

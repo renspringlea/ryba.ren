@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Billboards and forests are governed by similar processes"
+tags: research philosophy social-challenges
 ---
 
 Imagine these two scenes.

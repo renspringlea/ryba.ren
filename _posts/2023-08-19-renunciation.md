@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Passages on renunciation"
-tags: microblog religion philosophy self-improvement
+tags: religion philosophy self-improvement
 ---
 1. “Follow me, and let the dead bury their own dead.” Matthew 8:22, NRSV
 2. “Shun tried to abdicate in favour of Shan Chuan, but Shan Chuan said, ‘Here I am in the midst of space and time. During the winter I wear skins and furs, in summer I wear vine leaves and linen. In the spring I plough and plant and my body is exercised by this. In the autumn I harvest and pile up and then I rest and eat. When the sun rises I wake up and work, while at sunset I rest. I journey were I will between Heaven and Earth to my heart’s desire. So why would I want to rule the country? Alas, Sire, you do not understand!’ So he said no and went away, deep into the mountains, and no one knew where he went.” *Chuang-tzu* 28 (*Abdication*), tr. Palmer.

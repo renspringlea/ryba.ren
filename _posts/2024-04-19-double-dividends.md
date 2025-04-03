@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Double dividends"
-tags: microblog life-ops self-improvement
+tags: life-ops self-improvement
 ---
 In the field of environmental economics, there is a concept called "double dividends". Imagine that the government, to protect the environment, is looking to reduce some polluting activity (e.g. carbon emissions or whatever) through a tax. The point of the tax is to reduce the polluting activity, but the secondary effect of the tax is that the government now has an extra pile of money - they could choose to spend that money on further environmental benefits. If the government does so, this generates "double dividends" - 1) the first benefit is the reduction in the polluting activity due to the tax, and 2) the second benefit is the additional environmental improvements by whatever environmental programme the government chooses to spend the money on.
 

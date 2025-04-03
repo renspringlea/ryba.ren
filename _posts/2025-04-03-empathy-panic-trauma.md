@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Empathy, panic, and witnessing everyday trauma (plus, resources on overcoming compassion fatigue)"
+tags: self-improvement mental-health social-challenges reading-lists animals effective-altruism autism
 ---  
 
 *(Content warning: Violence against animals and humans, including descriptions of specific examples)*

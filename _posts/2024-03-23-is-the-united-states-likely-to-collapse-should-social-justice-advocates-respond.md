@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is the United States likely to collapse? Should social justice advocates respond?"
-tags: effective-altruism research social-challenges
+tags: effective-altruism research social-challenges politics
 ---
 ## Key points
 

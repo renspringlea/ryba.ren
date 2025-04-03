@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You know what you need to do!"
-tags: microblog philosophy self-improvement
+tags: philosophy self-improvement
 ---
 Some quotes:
 1. Would that my request were granted, That God gave me what I wished for; Would that God consented to crush me, Loosed His hand and cut me off. Then this would be my consolation, As I writhed in unsparing pains: That I did not suppress my words against the Holy One. (Job 6:8-10, JPS 1985)

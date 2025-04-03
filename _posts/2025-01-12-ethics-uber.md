@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on the ethics of Uber"
+tags: research life-ops philosophy
 ---
 
 # Healy and Pekarek 2022, Consumers in the gig economy: Resisting or reinforcing precarious work?

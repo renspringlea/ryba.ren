@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on eating disorders, body composition, and soccer"
+tags: mental-health soccer research self-improvement
 ---
 
 I experience problems with disordered eating, and these problems are exacerbated by the fact that I watch so much professional soccer! It helps to keep in mind that professional soccer players are selected for having a very specific body type, trained to develop specific characteristics and skills usually from childhood, and then paid to work out basically full-time!

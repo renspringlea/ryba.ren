@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resources: Trans and queer soccer"
-tags: microblog queer reading-lists
+tags: queer reading-lists
 ---
 1. The *Girls of Summer* novel series by Kate Christie ([Goodreads](https://www.goodreads.com/series/184054-girls-of-summer))
 2. Lewis, Samantha 2022, "'A bunch of ratbag, lesbian feminists': The coming-out story of the Adelaide Armpits, Australia's first LGBTQIA+ football club", [ABC News](https://www.abc.net.au/news/2022-06-19/adelaide-armpits-australias-first-lgbtqia-football-team/101126586)

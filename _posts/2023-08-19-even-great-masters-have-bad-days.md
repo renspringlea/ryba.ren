@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Even great masters have bad days"
-tags: microblog religion philosophy self-improvement
+tags: religion philosophy self-improvement
 ---
 1. “Leaving that place, Jesus withdrew to the region of Tyre and Sidon. A Canaanite woman from that vicinity came to him, crying out, ‘Lord, Son of David, have mercy on me! My daughter is demon-possessed and suffering terribly.’ Jesus did not answer a word. So his disciples came to him and urged him, ‘Send her away, for she keeps crying out after us.’ He answered, ‘I was sent only to the lost sheep of Israel.’ The woman came and knelt before him. ‘Lord, help me!’ she said. He replied, ‘It is not right to take the children’s bread and toss it to the dogs.’ ‘Yes it is, Lord,’ she said. ‘Even the dogs eat the crumbs that fall from their master’s table.’” - Matthew 15:21-27 NRSVUE
 2. Shakyamuni Buddha said: “It’s impossible for a woman to be a perfected one, a fully awakened Buddha. But it is possible for a man to be a perfected one, a fully awakened Buddha.” - Bahudhātukasutta (MN 115), tr. Sujato

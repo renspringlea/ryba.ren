@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Happy gay wallpapers"
+tags: queer social-challenges politics
 ---
 
 ![trans.png](/assets/images/trans.png){: width='650' }

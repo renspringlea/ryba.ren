@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How many people actually work 9 to 5?"
+tags: research social-challenges mental-health
 ---
 I often feel a sense of guilt when I work fewer than 8 hours on a particular workday, or when I have a day off. I know I'm far from alone in this!
 

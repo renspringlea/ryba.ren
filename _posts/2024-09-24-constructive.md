@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Constructive vs productive"
+tags: philosophy self-improvement academic-life
 ---
 The word "productive" has been critiqued—justly, in my view—for emphasising a person's measurable output as a determinant of their personal worth.
 

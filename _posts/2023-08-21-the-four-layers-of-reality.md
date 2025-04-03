@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The four layers of reality"
-tags: microblog philosophy self-improvement
+tags: philosophy self-improvement
 ---
 1. Concrete objects. Book, tree, human.
 2. The characteristics of objects. Educational, green, intelligent.
