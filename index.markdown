@@ -55,7 +55,7 @@ layout: home
 
       var postDiv = document.getElementById(++id);
       postDiv.style.display =
-        (selectedTag == 'All' || cats.includes(selectedTag))
+        (selectedTag == 'All' || ts.includes(selectedTag))
           ? 'unset'
           : 'none';
     {% endfor %}
