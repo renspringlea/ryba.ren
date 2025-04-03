@@ -26,8 +26,8 @@ layout: base
       {% assign id = 0 %}
       {%- for post in posts -%}
       {% assign id = id | plus:1 %}
-      <li>
-        <span class="post-meta" id="{{id}}">{{ post.date | date: date_format }}</span>
+      <li id="{{id}}">
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <span>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
