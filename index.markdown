@@ -47,13 +47,13 @@ layout: home
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
 
-<button id="All" onclick="filterUsingCategory('All')">
+<button id="All" onclick="filterUsingTag('All')">
   *Show All Posts*
 </button>
-{% assign categories = site.categories | sort %}
-{% for category in categories %}
-  {% assign cat = category | first %}
-  <button id="{{ cat }}" onclick="filterUsingCategory(this.id)">
-    {{ cat }}
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+  {% assign t = tag | first %}
+  <button id="{{ t }}" onclick="filterUsingTag(this.id)">
+    {{ t }}
   </button>
 {% endfor %}
