@@ -3,6 +3,8 @@ layout: post
 title: "Empathy, panic, and witnessing everyday trauma (plus, resources on overcoming compassion fatigue)"
 ---  
 
+*(Content warning: Violence against animals and humans, including descriptions of specific examples)*
+
 # Empathy
 
 I have very strong empathy. This is perhaps the single characteristic that has the most influence over my life, whether in terms of my future life goals, my past formative experiences, and my present day-to-day activities, thoughts, and feelings.
@@ -22,16 +24,16 @@ For me, empathy can be both voluntary and involuntary. That is, I can consciousl
 
 # Witnessing suffering
 
-In my job and my life, I frequently witness scenes of intense suffering. I've taken many steps to be very careful about the media I consume to minimise this. However, many instances are unavoidable. For example:
+In my job and my life, I frequently witness scenes of intense suffering. For example, the second chapter of my [book *Trash Fish*]({{ site.baseurl }}{% link trashfish.md %}) contains a vivid description of the intense and unbearable suffering of a fish in everyday fish farming oeprations. I've taken many steps to be very careful about the media I consume to minimise this. However, many instances are unavoidable:
 - Reading studies comparing different methods of fish slaughter as part of my work on fish welfare
 - Reviewing images and footage of animal abuse on farms as part of my work on animal welfare
 - Hearing stories of violence and murder from my friends in the trans and queer community
+- Seeing a dead animal on the side of the road
+- Seeing somebody cook a meal that contains chicken
 
-For example, the second chapter of my [book *Trash Fish*]({{ site.baseurl }}{% link trashfish.md %}) contains a vivid description of the intense and unbearable suffering of a fish in everyday fish farming oeprations.
+Whenever I am presented with a situation like this - even indirectly, such as *reading about* suffering rather than witnessing the actual scene of suffering directly - I feel the suffering myself. As such, witnessing suffering causes me to incur an emotional burden over time. You can understand why I feel a physical and emotional panic response when I see somebody cook a meal that has chicken in it - I can't simply ignore a single instance of suffering. This builds up over time, and it is now difficult to bear.  
 
-Whenever I am presented with a situation like this - even indirectly, such as *reading about* suffering rather than witnessing the actual scene of suffering directly - I feel the suffering myself.
-
-As such, witnessing suffering causes me to incur an emotional burden over time. The cumulative effects of witnessing suffering over time can cause mental health issues, which have begun to receive attention over the past few years. Definitions vary, but some important terms are:
+The cumulative effects of witnessing suffering over time can cause mental health issues, which have begun to receive attention over the past few years. Definitions vary, but some important terms are:
 - Secondary traumatic stress
 - Compassion fatigue
 - Burnout
