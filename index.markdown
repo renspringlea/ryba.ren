@@ -34,6 +34,8 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Gender Euphoria: Stories of Joy from Trans, Non-Binary, and Intersex Writers (ed. Laura Kate Dale)
+* How (Not) to Be Strong (Alex Scott)
 * Hearing Spiritual Voices: Medieval Mystics, Meaning and Psychiatry (Christopher C. H. Cook)
 * I Love Jesus, But I Want to Die: Finding Hope in the Darkness of Depression (Sarah J. Robinson)
 * Wild History: Journeys into Lost Scotland (James Crawford)

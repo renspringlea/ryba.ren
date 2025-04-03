@@ -1344,6 +1344,36 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <br /></details>
 
 ## Memoirs and biography
+
+<details>
+<summary>Gender Euphoria: Stories of Joy from Trans, Non-Binary, and Intersex Writers (ed. Laura Kate Dale)</summary>
+
+<br />
+> this is an extremely valuable and encouraging book. the roller derby essay is such a vibe! i really like the one about faith too. and adrenaline fix resonates a lot too.<br />
+> "I'm an action queer; a service enby."<br />
+> having both feminine and masculine characteristics as a "world of possibilities" for how you can present yourself every day<br />
+> the one set in nigeria where the author references milan kundera, cool!<br />
+> the "trans sex" one is a banger. not some demure woman available to men's whims. <br />
+<br />
+
+</details>
+
+<details>
+<summary>How (Not) to Be Strong (Alex Scott)</summary>
+
+<br />
+> what a legend. especially love the bits amount her mental health and seeking help - "functional depressive".<br />
+> the abusive father + extreme online abuse etc is extremely hard to read, had to skip much of it. thank god for the teachers, social workers, teammates, and grandmothers of the world.<br />
+> has body image issues!! insecure about her butt and quads, especially when working alongside models - isnt that interesting.<br />
+> kelly smith (?) getting red then flipping off the ref hahahahaha<br />
+> FIFA holding the u20s (?) wwc in papua new guinea and campaigning against domestic violence (alex scott was part of the campaign + attended PNG's first u20s women's match, similarly participated in the opening of a football cage in iraq)<br />
+> mark sampson being incompetent again<br />
+> her grandma sipping champagne at the ritz is the most wholesome thing ever<br />
+> on Strictly Come Dancing: "What had been seen and appreciated was the attitude of carrying on and getting through."<br />
+<br />
+
+</details>
+
 <details>
 <summary>Late Bloomer: How an Autism Diagnosis Changed My Life (Clem Bastow)</summary>
 
