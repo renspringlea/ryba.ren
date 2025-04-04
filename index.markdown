@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Old Testament: A Very Short Introduction (Michael D. Coogan)
 * Gender Euphoria: Stories of Joy from Trans, Non-Binary, and Intersex Writers (ed. Laura Kate Dale)
 * How (Not) to Be Strong (Alex Scott)
 * Hearing Spiritual Voices: Medieval Mystics, Meaning and Psychiatry (Christopher C. H. Cook)
@@ -62,7 +63,7 @@ layout: home
   }
 </script>
 
-<a href="#disable" id="All" onclick="filterUsingTag('All')">all</a>&nbsp;
+filter by tag: <a href="#disable" id="All" onclick="filterUsingTag('All')">all</a>&nbsp;
 {%- assign tags = site.tags | sort -%}
 {%- for tag in tags -%}
   {%- assign t = tag | first -%}
