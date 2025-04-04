@@ -639,6 +639,24 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>Old Testament: A Very Short Introduction (Michael D. Coogan)</summary>
+
+<br />
+> almost all books in the bible are composites<br />
+> "risky to generalise about almost anything"<br />
+> the documentary hypothesis for the torah (first 5 books) posits 4 sources, notably J (God called YHWH) and E (God called Elohim, much less direct engagement with humans) though no longer used as a complete hypothesis<br />
+> many biblical stories, myths, and poems use themes or language from the broader cultural context and existing myths, e.g. language of a primeval sea defeated by a storm god, the flood, etc<br />
+> the earlier writings assumed polytheism which gave way to later monotheism, which caused the problems of understanding the earlier monotheism and the problems of evil and suffering<br />
+> we dont know the historical truth of the exodus, whether it was one or several, etc; this author suggests it probably happened though could have been even a small group of slaves escaping across a lake or wetland<br />
+> three main "codes" (collections) of laws in the torah, likely indicating actual legal practice in ancient israel, the earliest (the covenant code) possibly 2nd millenium bce, though changing over space and time (including different versions of the decalogue). covenant or contract is a legal analogue for the relationship between god and israel, and this language isnt used for a deity anywhere outside the bible (iirc).<br />
+> the decalogue has two parts: relationship to god, and relationship to others. is this why jesus distilled everything into love god and love your neighbour as yourself?
+> afterlife: some idea of life after death, but not heaps of detail given. sheol as a dark and empty place. more elaborate beliefs (i.e. heaven and hell) were developed later, apparently to offer divine justice.<br />
+> the accuser, the satan, as a "son of god" (part of god's retinue of servants and advisors), more like a forensic prosecutor, who only later becomes the devil<br />
+<br />
+
+</details>
+
+<details>
 <summary>Hearing Spiritual Voices: Medieval Mystics, Meaning and Psychiatry (Christopher C. H. Cook)</summary>
 
 <br />

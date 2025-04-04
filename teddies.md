@@ -555,3 +555,33 @@ Teagan is a bubble tea fanatic! She always has a bubble tea with her, even when 
 ![teagan.jpg](/assets/images/teagan.jpg){: width='400' }  
   
 
+## Clover  
+Clover is a curious and inquisitive sheep. She likes to know what is going on and likes to be involved. She's quiet and shy and very polite.  
+![clover.jpg](/assets/images/clover.jpg){: width='400' }  
+  
+
+## Harmonybear  
+Harmony Bear exemplifies unity and togetherness between people of all kinds. She loves to spread the joy of music and sound. She often uses her songs and melodious voice to bridge gaps that language cannot.  
+![harmonybear.jpg](/assets/images/harmonybear.jpg){: width='400' }  
+  
+
+## Lillibelle  
+Lillibelle is a sweet and curious sheep. She is always checking in others to make sure they are okay. She likes to peek and shuffle in to see what is happening around her.  
+![lillibelle.jpg](/assets/images/lillibelle.jpg){: width='400' }  
+  
+
+## Littlefrog  
+Little Frog is small but packed with cheekiness. They love to explore. When they were young they confused Grandma by croaking when walking near a river. They giggled for ages as Grandma was looking for frogs!  
+![littlefrog.jpg](/assets/images/littlefrog.jpg){: width='400' }  
+  
+
+## Lovealotbear  
+Love-a-Lot Bear is a kind bear that loves everything, and everyone. She has the propensity to use the word "love" itself in most of her speech.  
+![lovealotbear.jpg](/assets/images/lovealotbear.jpg){: width='400' }  
+  
+
+## Snugglebun  
+Snugglebun is a cuddly floppy bestie who basically melts to a liquid when they relax. She is most cosy when she is laying on her bestie. Her bestie is whomever will give her cuddles, she's not picky!  
+![snugglebun.jpg](/assets/images/snugglebun.jpg){: width='400' }  
+  
+
