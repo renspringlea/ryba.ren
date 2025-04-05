@@ -639,7 +639,20 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
-<summary>Old Testament: A Very Short Introduction (Michael D. Coogan)</summary>
+<summary>The Koran: A Very Short Introduction (Michael Cook)</summary>
+
+<br />
+> the unbelief and "soft belief" in religion is the cutting edge of Western culture, but in Islamic culture the cutting edge is fundamentalism (a reaction to modernity), and irreligion has not been nearly so influential. The most likely exception in the near future is Iran.<br />
+> unbelievers are forbidden from touching the Koran (particularly the original Arabic); the book itself is sacred in a way that the Jewish and Christian Bibles are not<br />
+> calligraphy was highly prestigious in ancient islamic culture, as it was in ancient china<br />
+> some divergent traditions / alternate readings (and even malleability) of the Koran existed before the establishment of a single authoritative text, and we have suprisingly little information about the history of these alternative traditions<br />
+> many obscure but salient features of the Koran, including words whose definition is unclear and concatenation of apparently mysterious letters at the starts of some verses, whose meaning we do not know<br />
+<br />
+
+</details>
+
+<details>
+<summary>The Old Testament: A Very Short Introduction (Michael D. Coogan)</summary>
 
 <br />
 > almost all books in the bible are composites<br />
