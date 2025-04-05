@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* What Is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)
 * The Koran: A Very Short Introduction (Michael Cook)
 * The Old Testament: A Very Short Introduction (Michael D. Coogan)
 * Gender Euphoria: Stories of Joy from Trans, Non-Binary, and Intersex Writers (ed. Laura Kate Dale)
@@ -43,7 +44,6 @@ layout: home
 * Wild History: Journeys into Lost Scotland (James Crawford)
 * Starling Days (Rowan Hisayo Buchanan) [fiction]
 * Carmilla (Joseph Sheridan Le Fanu) [fiction]
-* Domestic Monastery: Creating Spiritual Life at Home (Ronald Rolheiser)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
