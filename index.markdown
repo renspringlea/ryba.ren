@@ -34,7 +34,8 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
-* Old Testament: A Very Short Introduction (Michael D. Coogan)
+* The Koran: A Very Short Introduction (Michael Cook)
+* The Old Testament: A Very Short Introduction (Michael D. Coogan)
 * Gender Euphoria: Stories of Joy from Trans, Non-Binary, and Intersex Writers (ed. Laura Kate Dale)
 * How (Not) to Be Strong (Alex Scott)
 * Hearing Spiritual Voices: Medieval Mystics, Meaning and Psychiatry (Christopher C. H. Cook)
@@ -43,7 +44,6 @@ layout: home
 * Starling Days (Rowan Hisayo Buchanan) [fiction]
 * Carmilla (Joseph Sheridan Le Fanu) [fiction]
 * Domestic Monastery: Creating Spiritual Life at Home (Ronald Rolheiser)
-* Fat Sex: New Directions in Theory and Activism (ed. Helen Hester and Caroline Waters)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
@@ -63,9 +63,9 @@ layout: home
   }
 </script>
 
-filter by tag: <a href="#disable" id="All" onclick="filterUsingTag('All')">all</a>&nbsp;
+<p style="text-align: justify;">filter by tag <a href="#disable" id="All" onclick="filterUsingTag('All')">all</a>&nbsp;
 {%- assign tags = site.tags | sort -%}
 {%- for tag in tags -%}
   {%- assign t = tag | first -%}
-<a href="#disable" id="{{ t }}" onclick="filterUsingTag(this.id)">{{ t }}</a>&nbsp;
+<a href="#disable" id="{{ t }}" onclick="filterUsingTag(this.id)">{{ t }}</a>&nbsp;</p>
 {%- endfor -%}
