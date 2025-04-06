@@ -451,6 +451,18 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>The Ornament of the World: How Muslims, Jews, and Christians Created a Culture of Tolerance in Medieval Spain (Maria Rosa Menocal)</summary>
+
+<br />
+> This is a wonderful and fascinating piece of history. Al-Andalus is the general area, from around 700 to around 1500.<br />
+> significant conversion to Islam by the locals (incl Christians and Jews), though overlap between religious conversion and adoption of Arabic language and culture due to prestige<br />
+> a bona fide centre of culture and learning, especially via the highly significant libraries and other technological innovations, incl influencing subsequent latin, european and english literature (Petrus Alphonsi), maths (numerals, algebra, algorithms), logical theology<br />
+> history as "one damned thing after another" hahahaha<br />
+<br />
+
+</details>
+
+<details>
 <summary>What Is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)</summary>
 
 <br />
