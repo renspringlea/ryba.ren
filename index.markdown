@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* The Ornament of the World: How Muslims, Jews, and Christians Created a Culture of Tolerance in Medieval Spain (Maria Rosa Menocal)
 * What Is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)
 * The Koran: A Very Short Introduction (Michael Cook)
 * The Old Testament: A Very Short Introduction (Michael D. Coogan)
@@ -43,7 +44,6 @@ layout: home
 * I Love Jesus, But I Want to Die: Finding Hope in the Darkness of Depression (Sarah J. Robinson)
 * Wild History: Journeys into Lost Scotland (James Crawford)
 * Starling Days (Rowan Hisayo Buchanan) [fiction]
-* Carmilla (Joseph Sheridan Le Fanu) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
