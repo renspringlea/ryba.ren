@@ -13,4 +13,4 @@ The difference between the low-stress situation and the very high-stress situati
 
 But the inner experience of a low-stress situation and a very high-stress situation is very different! A very high-stress situation would require me to rest for hours, days, or sometimes weeks to recover.
 
-![Graph showing a u-shaped relationship between stress and how comfortable I look](/assets/images/u-curve-stress.png){: width='400' }
+![Graph showing a u-shaped relationship between stress and how comfortable I look](/assets/images/u-curve-stress.png){: width='600' }
