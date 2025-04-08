@@ -36,7 +36,7 @@ The only way that an offside rule can be constructed is to draw an imaginary and
 
 The offside rule has not always been defined in the way that it currently is. In fact, the line separating onside from offside has gradually crept forward over the past century or so. This illustration from Wikipedia depicts the changes over time ([source](https://en.wikipedia.org/wiki/File:Offside_position_(historical_development).png)):
 
-![diagram showing the historical evolution of the offside rule](/assets/images/offside.png){: width='400' }
+![diagram showing the historical evolution of the offside rule](/assets/images/offside.png){: width='600' }
 
 In the 1800s, a player was offside if they were *in line with the third-last* defender! Over the generations, the line was gradually moved forward, until we end up with the modern offside rule where a player cannot have any part of their body beyond the *final* defender. Many soccer players and fans today are unaware of this history.
 
