@@ -94,6 +94,16 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>Wild Things (Laura Kay)</summary>
+
+<br />
+> clear A, good wholesome escapist fun, amazing amazing amazing characters. I really appreciate the pro-animal politics and rescue chooks!<br />
+> "Wearing Crocs is all about your state of mind. If you believe in the Crocs, then other people will believe in the Crocs."<br />
+<br />
+
+</details>
+
+<details>
 <summary>Starling Days (Rowan Hisayo Buchanan)</summary>
 
 <br />
@@ -478,6 +488,26 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>The Suffering Body in Sport: Shifting Thresholds of Pain, Risk and Injury (ed. Kevin Young)</summary>
+
+<br />
+> risk can cause personal harm but is also calculated and "existentially rewarding"; can be what is redeeming about sport and sought out through sport<br />
+> includes death in training etc which is worth keeping in mind + needs respect. similar point with suffering imposed via oppressions like racism, homophobia, sexual violence<br />
+> in neoliberal ideology, risk is seen as a personal responsibility<br />
+> the paralympic chapter is extremely interesting. roots of paralympics in military veteran hospitals + these links (which have been criticised) still exist today. for paralympians, it is often pain that leads to sport rather than the reverse. highly medicalised process of classification.<br />
+> the chapter on eating disorders in the autobiographies of two women swimmers<br />
+> distinguishing between pain vs suffering<br />
+> nice that they acknowledge transgender athletes<br />
+> sex testing, just crazy<br />
+> disabled athletes excluded from sports for being "too good", interesting<br />
+> skipping the sections on animals :'(<br />
+> in the west, a tendency to see the body as a project that is in the process of becoming something<br />
+> contrast between performance measures and delighting in the pleasures of physical sensations<br />
+<br />
+
+</details>
 
 <details>
 <summary>The Ornament of the World: How Muslims, Jews, and Christians Created a Culture of Tolerance in Medieval Spain (Maria Rosa Menocal)</summary>

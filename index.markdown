@@ -34,6 +34,8 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Wild Things (Laura Kay) [fiction]
+* The Suffering Body in Sport: Shifting Thresholds of Pain, Risk and Injury (ed. Kevin Young)
 * The Ornament of the World: How Muslims, Jews, and Christians Created a Culture of Tolerance in Medieval Spain (Maria Rosa Menocal)
 * What Is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)
 * The Koran: A Very Short Introduction (Michael Cook)
@@ -42,8 +44,6 @@ layout: home
 * How (Not) to Be Strong (Alex Scott)
 * Hearing Spiritual Voices: Medieval Mystics, Meaning and Psychiatry (Christopher C. H. Cook)
 * I Love Jesus, But I Want to Die: Finding Hope in the Darkness of Depression (Sarah J. Robinson)
-* Wild History: Journeys into Lost Scotland (James Crawford)
-* Starling Days (Rowan Hisayo Buchanan) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
