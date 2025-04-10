@@ -94,6 +94,17 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>Tapping into Love (Monica Mccallan)</summary>
+
+<br />
+> Verdict: B/B-ish, a bit 0 to 60 due to the short length but love the setting.<br />
+> "The best revenge is a life well lived."<br />
+> "I'm not dumb. I know Oompa Loompas only live at the Wonka factory. That's their home."<br />
+<br />
+
+</details>
+
+<details>
 <summary>Wild Things (Laura Kay)</summary>
 
 <br />
@@ -488,6 +499,18 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>The Dead Sea Scrolls: A Very Short Introduction (Timothy Lim)</summary>
+
+<br />
+> palaeography = the study of ancient handwriting<br />
+> 600-800ish fragments dated to 2,000 years old or so, from both radiocarbon dating and palaeographic dating, so the oldest extant manuscripts of almost all Hebrew Bible books<br />
+> every book of the Hebrew Bible is present (as at least a fragment) except for Esther, but at a point before the Bible was standardised<br />
+> generally believed to have been owned by a community of ancient Jewish ascetics of ~4,000 people called Essenes (though this has been challenged)<br />
+<br />
+
+</details>
 
 <details>
 <summary>The Suffering Body in Sport: Shifting Thresholds of Pain, Risk and Injury (ed. Kevin Young)</summary>
