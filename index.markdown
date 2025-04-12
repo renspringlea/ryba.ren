@@ -21,7 +21,7 @@ layout: home
 
 ## My work
 * Academic publications @ [Google Scholar](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
-* Animal advocacy research @ [Animal Ask website](https://www.animalask.org/research)
+* Animal advocacy research @ [Animal Ask](https://www.animalask.org/research)
 * Additional hot takes @ [Effective Altruism Forum](https://forum.effectivealtruism.org/users/ren-ryba)
 * Data on the European fish farming industry @ [Finsight](https://finsight.fish)  
 
@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Schuss (E. J. Noyes) [fiction]
 * The Dead Sea Scrolls: A Very Short Introduction (Timothy Lim)
 * Tapping into Love (Monica Mccallan) [fiction]
 * Wild Things (Laura Kay) [fiction]
@@ -43,7 +44,6 @@ layout: home
 * The Koran: A Very Short Introduction (Michael Cook)
 * The Old Testament: A Very Short Introduction (Michael D. Coogan)
 * Gender Euphoria: Stories of Joy from Trans, Non-Binary, and Intersex Writers (ed. Laura Kate Dale)
-* How (Not) to Be Strong (Alex Scott)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
@@ -64,10 +64,11 @@ layout: home
 </script>
 
 <p style="text-align: justify;">
-filter by tag <a href="#disable" id="All" onclick="filterUsingTag('All')">all</a>&nbsp;
+filter&nbsp;
 {%- assign tags = site.tags | sort -%}
 {%- for tag in tags -%}
   {%- assign t = tag | first -%}
 <a href="#disable" id="{{ t }}" onclick="filterUsingTag(this.id)">{{ t }}</a>&nbsp;
 {%- endfor -%}
+| <a href="#disable" id="All" onclick="filterUsingTag('All')">show all</a>
 </p>
