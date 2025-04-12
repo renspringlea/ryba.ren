@@ -94,6 +94,15 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>Schuss (E. J. Noyes)</summary>
+
+<br />
+> B/B-, feels a bit on rails and slow, but a nice comfy slice-of-life story<br />
+<br />
+
+</details>
+
+<details>
 <summary>Tapping into Love (Monica Mccallan)</summary>
 
 <br />
