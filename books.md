@@ -94,6 +94,27 @@ List of greatest novels ever written, according to Ren (ordered by publication d
 ## Queer fiction
 
 <details>
+<summary>Dead Collections (Isaac Fellman)</summary>
+
+<br />
+> Clear A+. Holy moly. Wow. So good. Dark and angsty and broody, love it.<br />
+<br />
+
+</details>
+
+<details>
+<summary>Thrust (Rachel Spangler)</summary>
+
+<br />
+> Clear A. Wow! Great fun, what energy!<br />
+> "You're too smart for your own sanity." "I'm too smart for my weak-ass reflexes."<br />
+> "There's no way to predict against crazy."<br />
+> "You have a knack for surrounding yourself with good people."<br />
+<br />
+
+</details>
+
+<details>
 <summary>Schuss (E. J. Noyes)</summary>
 
 <br />

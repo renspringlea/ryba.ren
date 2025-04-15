@@ -34,6 +34,8 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Dead Collections (Isaac Fellman) [fiction]
+* Thrust (Rachel Spangler) [fiction]
 * Schuss (E. J. Noyes) [fiction]
 * The Dead Sea Scrolls: A Very Short Introduction (Timothy Lim)
 * Tapping into Love (Monica Mccallan) [fiction]
@@ -42,8 +44,6 @@ layout: home
 * The Ornament of the World: How Muslims, Jews, and Christians Created a Culture of Tolerance in Medieval Spain (Maria Rosa Menocal)
 * What Is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)
 * The Koran: A Very Short Introduction (Michael Cook)
-* The Old Testament: A Very Short Introduction (Michael D. Coogan)
-* Gender Euphoria: Stories of Joy from Trans, Non-Binary, and Intersex Writers (ed. Laura Kate Dale)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
