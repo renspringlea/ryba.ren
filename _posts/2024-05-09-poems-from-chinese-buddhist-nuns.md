@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some poems by Buddhist nuns of Late Imperial China"
-tags: religion philosophy
+tags: religion philosophy history
 ---
 *An Anthology of Poetry by Buddhist Nuns of Late Imperial China*, 2023, compiled and translated by Beata Grant, available from [Oxford University Press](https://global.oup.com/academic/product/an-anthology-of-poetry-by-buddhist-nuns-of-late-imperial-china-9780197586310?q=An%20Anthology%20of%20Poetry%20by%20Buddhist%20Nuns%20of%20Late%20Imperial%20China&lang=en&cc=us)  
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some excerpts from poems by Buddhist masters"
-tags: religion philosophy
+tags: religion philosophy history
 ---
 1.\
 I'll let it all go and head home to the West,\

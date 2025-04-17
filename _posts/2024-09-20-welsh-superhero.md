@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The uncelebrated Welsh woman who might have saved your life"
-tags: social-challenges
+tags: social-challenges history
 ---
 
 This is an object that, at least if you live in the Western world, you have almost certainly cherished and cuddled and held close to you at some point in your life. You have probably slept with one of these in your bed!

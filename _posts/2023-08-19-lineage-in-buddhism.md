@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some thoughts on lineage in Buddhism"
-tags: religion philosophy
+tags: religion philosophy history
 ---
 1. Shakyamuni Buddha encouraged practitioners to have only the teaching as a refuge, as recorded in scripture: “[…] for the Realised One there is nothing, Ānanda, of a closed teacher’s fist in regard to the Teaching. To whoever, Ānanda, this thought occurs: ‘I will lead the Community of monks’ or ‘I am the instructor of the Community of monks’ let him speak, Ānanda, regarding the Community of monks. But to the Realised One, Ānanda, this thought does not occur […] Therefore, Ānanda, live with yourself as an island, yourself as a refuge, with no other refuge, with the Teaching as an island, the Teaching as a refuge, with no other refuge.” - *Mahāparinibbāṇa Sutta* (*Digha Nikaya* 16), tr. Ānandajoti.
 2. Lineage and Dharma transmission are a later invention: “We have no evidence that those interested in lineage in China ever consulted the earliest Pāli canon statements on authority and succession [...], which were translated into Chinese in the fourth century. Instead, it is the Aśokāvadāna, translated into Chinese around 300, that marks the first known appearance in Chinese of a notion of succession of leaders within Buddhism. It is also the earliest text among the many works from which later writers of lineage texts culled names and stories. [...] Curiously enough, all these early attempts at establishing a reliable and legitimate connection to the wellspring of true Buddhism result in rather creative narratives. [...] [L]ineage, projected into the past, served easily as the material for invention.” - Morrison, Elizabeth A 2010, *The Power of Patriarchs*: *Qisong and Lineage in Chinese Buddhism*, p. 24.

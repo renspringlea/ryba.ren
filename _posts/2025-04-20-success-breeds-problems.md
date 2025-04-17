@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When success breeds problems"
-tags: philosophy self-improvement social-challenges effective-altruism
+tags: philosophy self-improvement social-challenges effective-altruism history
 ---
 
 In [a previous post]({% post_url 2025-04-17-casual-sport-win-rate %}), I argued that there are some contexts where a 100% rate of success is actually suboptimal. I illustrated the example of casual team sports.
