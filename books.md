@@ -531,6 +531,25 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Tattoo Histories: Transcultural Perspectives on the Narratives, Practices, and Representations of Tattooing (ed Sinah Theres Kloß)</summary>
+
+<br />
+> tattoo (im)permanence is socially constructed<br />
+> there is no one historical root of tattoos; there are many practices from numerous times and places<br />
+> bodies as processes and projects<br />
+> lower-class symbols appropriated by the middle class<br />
+> I love the Miami Ink and Italian lesbian chapters. Tattooing is presented as an inclusive and open-minded environment but paradoxically perpetuates gendered norms and conservative family values in many ways, including to secure acceptance by modern-class sensibilities<br />
+> the chapter that discusses forced tattooing in the classical world makes me sad<br />
+> the chapter on the ongoing history of indigenous tattooing in America is outstanding. White people removing tattoos from Indigenous people's skins but also erasing the history of Indigenous tattooing as a component of this. continuity and revitalization movements.<br />
+> tattooing as an assertion of control over one's body<br />
+> Chinese goverment bans the appearance of tattoos on television, so e.g. athletes must cover them up<br />
+> "The power of the tattoo lies in its ability to generate countless stories and multiple truths."<br />
+> skinscapes<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Dead Sea Scrolls: A Very Short Introduction (Timothy Lim)</summary>
 
 <br />

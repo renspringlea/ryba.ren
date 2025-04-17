@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some quotes on Jesus from some contemporary New Testament scholars"
-tags: religion philosophy queer
+tags: religion philosophy queer history
 ---
 1. “It is clear that the historical Jesus saw his mission to be primarily to Jewish peasants living within the tradition of Judaism. Jesus did not intend to start a new religion, but to do something within Judaism. This does not mean that Christianity as a religion open to Gentiles is a mistake. But it does mean that a mission to Gentiles is post-Easter [i.e. invented after the death of Jesus], as the New Testament itself makes clear.” - Borg, Marcus J 2011, *Jesus: Uncovering the life, teachings and relevance of a religious revolutionary*, ch6.
 2. “[…] [T]here is also a second kind of wisdom, one that challenges the taken-for-granted cultural consensus of conventional wisdom. A counterwisdom, a subversive or alternative wisdom, it is what we find in Job and Ecclesiastes as well as in the teachings of the Buddha and Lao Tzu. All taught in a way that undermined conventional wisdom as the ultimate truth about reality and how to live. Jesus was this kind of wisdom teacher. […] Most mainline scholars (including me) do not think that Jesus spoke about his second coming. […] God’s kingdom was *for the earth* […] it is not about heaven. […] ‘kingdom of God’ was a *political* as well as a *religious* term.” - Borg, ch7.

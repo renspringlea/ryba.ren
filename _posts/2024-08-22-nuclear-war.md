@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes on nuclear war and Australian defence"
-tags: research social-challenges
+tags: research social-challenges history
 ---
 # Nuclear Strategy in the Modern Era: Regional Powers and International Conflict (Vipin Narang)  
 - I think this author speaks a lot of sense.  

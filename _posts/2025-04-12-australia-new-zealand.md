@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The history of Aotearoa New Zealand in Australian federation"
-tags: research politics
+tags: research politics history
 ---
 
 (Note: Aotearoa is the Māori name for the country more commonly known as New Zealand. Both terms are increasingly used interchangeably.)

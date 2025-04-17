@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Practicing when your world is torn apart"
-tags: philosophy social-challenges
+tags: philosophy social-challenges history
 ---
 1. In a journal entry dated 20 March 1964 (i.e. in the middle of the Vietnam War), Thich Nhat Hanh wrote: "In the current political climate, no independent newspaper lasts long, regardless of how many readers it has. From time to time, Ly [an activist who ran an independent newspaper] asks if I need money. I tell him that even without money, I am not poor. I paraphrase a haiku by Basho and tell him that even though the electricity has been shut off, the moon still shines in my window." - *Fragrant Palm Leaves: Journals 1962-1996*, tr. Warren, Mobi
 2. Focusing on that final line, there is beauty in reading it literally: if we keep our needs minimal and attachments few, we can meet challenging times - including a war of incomprehensible devastation - with strength and resilience.

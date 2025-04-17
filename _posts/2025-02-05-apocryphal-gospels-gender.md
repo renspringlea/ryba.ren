@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gender transformation in the early Christian community"
-tags: religion research queer
+tags: religion research queer history
 ---
 
 Part of the reason why the non-canonical (apocryphal) Gospels are so interesting to me is that, under one reading, these texts may have originated from a strand of the early Christian community that was marginalised relative to a more exclusive and orthodox strand. There's an obvious parallel here to modern trans and queer Christians.

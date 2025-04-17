@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "Current trends in space do not point towards successful colonisation"  
-tags: research social-challenges politics
+tags: research social-challenges politics history
 ---  
 
 There has been heaps of activity in space lately—all sorts of countries and insane rich people are putting all sorts of stuff into Earth orbit. I think there's a temptation to look at this trend and think "hey, humans will probably settle other planets soon."  

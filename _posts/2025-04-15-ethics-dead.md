@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes on the ethics of interacting with the dead"
-tags: social-challenges research philosophy religion
+tags: social-challenges research philosophy religion history
 ---
 
 I find these ethics unsatisfying! The idea of disturbing the bodies of the dead (including the long dead, i.e. prehistoric people with no specific connection to present cultures or communities) doesn't sit well with me. But I can't quite articulate the reason why.

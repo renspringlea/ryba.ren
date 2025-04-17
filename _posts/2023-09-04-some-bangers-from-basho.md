@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some bangers from Bashō"
-tags: religion philosophy
+tags: religion philosophy history
 ---
 1.\
 where's the moon?\

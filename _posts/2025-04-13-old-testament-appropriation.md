@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Old Testament, the Hebrew Bible, and cultural appropriation"
-tags: religion social-challenges philosophy
+tags: religion social-challenges philosophy history
 ---
 
 Cultural appropriation is defined as "the appropriation of something of cultural value, usually a symbol or a practice, to others". Cultural appropriation tends to lead to oppression when there is a) an absence of constent and/or b) a power imbalance ([Lenard and Balint 2019](https://journals.sagepub.com/doi/abs/10.1177/1468796819866498)). A large, powerful social group unilaterally taking and benefiting from a symbol or practice of cultural value from a smaller, disenfranchised social group is what I mean by "cultural appropriation". The morality of cultural appropriation is debated in the literature, and at least these more intense forms of cultural appropriation do indeed seem to cause harm.  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Religion as counterculture"
-tags: religion philosophy
+tags: religion philosophy history
 ---
 1. “I reject the yardstick others use to measure me. I have a yardstick of my own, one I’ve discovered myself, even if I find myself in opposition to public opinion. I must be who I am.” - Thich Nhat Hanh 23 December 1962, *Fragrant Palm Leaves: Journals 1962-1996*, tr. Warren, Mobi.
 2. “The New Testament church was countercultural, as evidenced throughout the biblical record (e.g., Rom. 12:2). Unfortunately, this countercultural posture has not always been maintained over the past two millenia. […] the Christian church must remain a countercultural institution.” - Peters, Greg 2015, *The Story of Monasticism: Retrieving an Ancient Tradition for Contemporary Spirituality*, 2.

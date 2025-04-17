@@ -4,7 +4,7 @@ title: "The dizzying rate of science and its existential implications"
 tags: research social-challenges religion philosophy
 ---
 (*Disclaimer: If you're reading this, it's probably wrong.*)  
-  
+
 1. We often feel existential dread when we think of death or the dizzying scale of the universe or the sheer number of people going about their daily lives. But I think the rate of development of scientific knowledge is just  as disorientating.  
 2. The number of scientific publications is growing at a surprisingly fast rate. It's not uncommon to read a bibliometric review from a particular discipline and to find that a majority of papers in that discipline have been published in the past 3 or 5 years.  
 3. This is *so weird*! If you take the number of scientific publications to be a rough proxy of "stuff we know about a topic" (which I think is usually true to some extent, though not perfectly), then this means that *most knowledge about a topic has only been known to experts for a couple of years*.  

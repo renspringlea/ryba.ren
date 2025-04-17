@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Soccer, the offside rule, and generational amnesia"
-tags: soccer research social-challenges
+tags: soccer research social-challenges history
 ---
 
 # Generational amnesia
