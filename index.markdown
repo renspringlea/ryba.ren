@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Stigma: Marking Skin in the Early Modern World (Katherine Dauge-Roth and Craig Koslofsky)
 * Tattoo Histories: Transcultural Perspectives on the Narratives, Practices, and Representations of Tattooing (ed Sinah Theres Kloß)
 * Dead Collections (Isaac Fellman) [fiction]
 * Thrust (Rachel Spangler) [fiction]
@@ -43,7 +44,6 @@ layout: home
 * Wild Things (Laura Kay) [fiction]
 * The Suffering Body in Sport: Shifting Thresholds of Pain, Risk and Injury (ed. Kevin Young)
 * The Ornament of the World: How Muslims, Jews, and Christians Created a Culture of Tolerance in Medieval Spain (Maria Rosa Menocal)
-* What Is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
