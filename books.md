@@ -17,7 +17,7 @@ notes:
 - "R" indicates a re-read of a book I had read previously.  
 - "JRM Reading Challenge" denotes that a book is a recommendation from my colleague José!  
 - The fact that I've read a book does not necessarily mean that I agree with or endorse its contents.  
-  
+
 My current leaderboard (list of what I think are the greatest novels ever!) is, by publication date:  
 - The Catcher in the Rye (J. D. Salinger, 1951)  
 - Go Tell It on the Mountain (James Baldwin, 1953)  
@@ -531,6 +531,20 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>Stigma: Marking Skin in the Early Modern World (Katherine Dauge-Roth and Craig Koslofsky)</summary>
+
+<br />
+> this is a cool perspective, broader than tattoos, more "dermal marking" or "dermal practices" - cutting, scarring, circumcision, branding, religious marks and wounds, marks made by nature or supernatural forces<br />
+> obviously the bits about the slave trade, prisoners, etc is very hard to read<br />
+> pilgrimage tattoos<br />
+> marianus piccard (?), a 1640ish mystic who had religious visions and had associated marks on her body, similar to a "girl from cologne"; guillon (?) another woman mystic<br />
+> healing marks, even quite common in early modern Europe, including inserting pieces of relics into the skin, hardcore<br />
+> branding convicts fell out of practice in part because it threatened the labour market (even for people who were born with marks that simply look similar) and in part as the state found other ways to identify individuals, e.g. fingerprints and bureaucracy<br />
+<br />
+
+</details>
 
 <details>
 <summary>Tattoo Histories: Transcultural Perspectives on the Narratives, Practices, and Representations of Tattooing (ed Sinah Theres Kloß)</summary>
