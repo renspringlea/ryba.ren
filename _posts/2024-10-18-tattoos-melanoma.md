@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "Notes on tattoos and melanoma"  
-tags: research self-improvement
+tags: research self-improvement tattoos
 ---  
 [Kluger and Thomas 2008, The Dragon With Atypical Mole Syndrome](https://jamanetwork.com/journals/jamadermatology/fullarticle/419808)  
 - "(1) avoid getting the tattoo at too young an age when all the nevi have not appeared yet; (2) choose a small design; (3) choose an area devoid of nevi, if possible; and (4) choose light colors rather than dark ones"  

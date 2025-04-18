@@ -11,12 +11,14 @@ navigate:
 - [2017-2023](#2017-2023)  
 
 notes:  
-- R = re-read
-- JRM Reading Challenge = recommendation from José!
-- The fact that I've read a book does not necessarily mean that I agree with or endorse its contents.
-
-# Leaderboard  
-List of greatest novels ever written, according to Ren (ordered by publication date):  
+- I've been recording which books I've read since late 2017. This page is where I keep this record.  
+- Below, a triangle symbol (▶) next to a book title indicates that you can click the book title and see my notes on the book. These notes are usually unpolished and give either my general take on the book and/or particular insights I find interesting or useful. Notes are available for books I've read since 2024 (which is when I began systematically recording my thoughts on books).  
+- Three exclamation marks (!!!) denotes books that I particularly enjoyed (other than classics). This only applies to books I read before 2024.  
+- "R" indicates a re-read of a book I had read previously.  
+- "JRM Reading Challenge" denotes that a book is a recommendation from my colleague José!  
+- The fact that I've read a book does not necessarily mean that I agree with or endorse its contents.  
+  
+My current leaderboard (list of what I think are the greatest novels ever!) is, by publication date:  
 - The Catcher in the Rye (J. D. Salinger, 1951)  
 - Go Tell It on the Mountain (James Baldwin, 1953)  
 - The Haunting of Hill House (Shirley Jackson, 1959)  
@@ -543,8 +545,12 @@ Starling Days (Rowan Hisayo Buchanan)
 > the chapter on the ongoing history of indigenous tattooing in America is outstanding. White people removing tattoos from Indigenous people's skins but also erasing the history of Indigenous tattooing as a component of this. continuity and revitalization movements.<br />
 > tattooing as an assertion of control over one's body<br />
 > Chinese goverment bans the appearance of tattoos on television, so e.g. athletes must cover them up<br />
-> "The power of the tattoo lies in its ability to generate countless stories and multiple truths."<br />
 > skinscapes<br />
+> the greek word "stigma" literally meant "tattoo"<br />
+> "The power of the tattoo lies in its ability to generate countless stories and multiple truths."<br />
+> "she becomes 'more me' with her tattoos, a closer and more authentic representation of her inner self. The participants grow into their bodies through their chosen body decoration and look closer to how they want to appear.""<br />
+> "Tattooing can be regarded as an expression of an individual path into self-consciousness, of a commitment to one’s own 'rebirth'"<br />
+> on the other hand: "Nikki Sullivan considers the tattooed body as a discursive or inscriptive site of dominant social fictions, cautioning that tattooing should not be understood as external expressions of inner essences, understandings that would reproduce a distinction between interiority/exteriority, mind/body, and reality/representation" - this doesn't feel quite right to me, or at least doesn't align with my experience<br />
 <br />
 
 </details>
@@ -2243,7 +2249,6 @@ Got about 1/3 of the way through. I gather that the gist of his argument is that
 # 2023-2024  
 august 2023 -> april 2024  
 <br />
-Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)  
 
 - An Anthology of Poems by Buddhist Nuns of Late Imperial China (Beata Grant)  
 - Meeting Millie (Clare Ashton)  
@@ -2308,7 +2313,6 @@ Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)
 # 2017-2023  
 late 2017 -> august 2023  
 <br />
-Bangers (except for the classics and Thich Nhat Hanh books) denoted by (!!!)  
 
 - What a Fish Knows: The Inner Lives of Our Underwater Cousins (Jonathan Balcombe)  
 - Homo Deus: A Brief History of Tomorrow (Yuval Noah Harari)  
