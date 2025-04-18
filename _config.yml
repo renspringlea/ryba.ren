@@ -27,6 +27,7 @@ url: "https://ryba.ren" # the base hostname & protocol for your site, e.g. http:
 #twitter_username: jekyllrb
 #github_username:  jekyll
 repository: renspringlea/ryba.ren
+timezone: Australia/Adelaide
 
 # Build settings
 # theme: minima
