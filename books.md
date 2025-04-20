@@ -34,7 +34,7 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 <summary>Carmilla (Joseph Sheridan Le Fanu)</summary>
 
 <br />
-> love it! love a remote castle surrounded by forests and near only to an abandoned village. actually a lot going on here: can be read as sapphic literature, chronic fatigue, pandemic literature.<br />
+- love it! love a remote castle surrounded by forests and near only to an abandoned village. actually a lot going on here: can be read as sapphic literature, chronic fatigue, pandemic literature.<br />
 <br />
 
 </details>
@@ -43,9 +43,9 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 <summary>Winesburg, Ohio (Sherwood Anderson, 1919; JRM Reading Challenge)</summary>
 
 <br />
-> kinda fun, interesting insight into human psychology, and one that really hits home in terms of how weird everyday people's lives and inner worlds are. the misogyny is hard to read though obviously realistic.<br />
-> i think my favourite story is the one about alice and her loneliness<br />
-> also wrote a story called The Man Who Became a Woman (!)<br />
+- kinda fun, interesting insight into human psychology, and one that really hits home in terms of how weird everyday people's lives and inner worlds are. the misogyny is hard to read though obviously realistic.<br />
+- i think my favourite story is the one about alice and her loneliness<br />
+- also wrote a story called The Man Who Became a Woman (!)<br />
 <br />
 
 </details>
@@ -54,10 +54,10 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 <summary>Hunger (Knut Hamsun, 1890; JRM Reading Challenge)</summary>
 
 <br />
-> Very powerful, but a difficult and uncomfortable read (I know that that is the point!). Got about 20% in.<br />
-> please somebody give this man a job.<br />
+- Very powerful, but a difficult and uncomfortable read (I know that that is the point!). Got about 20% in.<br />
+- please somebody give this man a job.<br />
 <br />
-> I like how you can interpret this in several ways, all of which are quite powerful: a first-person description of the indignity of unemployment and famine; the descent into insanity or delusion; the pretence of normalcy during extreme times; protesting against God (in the style of the book of Job); lateral violence; and even an allegory for addiction.
+- I like how you can interpret this in several ways, all of which are quite powerful: a first-person description of the indignity of unemployment and famine; the descent into insanity or delusion; the pretence of normalcy during extreme times; protesting against God (in the style of the book of Job); lateral violence; and even an allegory for addiction.
 <br />
 
 </details>
@@ -66,8 +66,8 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 <summary>The Catcher in the Rye (J. D. Salinger)</summary>
 
 <br />
-> This is such a good book<br />
-> (re-read n+1)<br />
+- This is such a good book<br />
+- (re-read n+1)<br />
 <br />
 
 </details>
@@ -75,21 +75,21 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 <details>
 <summary>Giovanni's Room (James Baldwin)</summary>
 
-> outstanding writing, what misery. its like nada except with gay people in paris.<br />
-> some very difficult content, e.g. the miscarriage, the misogyny, the way david treats giovanni, and the bit about the crossdresser is very very interesting in the way it is framed<br />
-> the bit where he kinda dissociates when having sex with sue is a bit real and familiar!<br />
+- outstanding writing, what misery. its like nada except with gay people in paris.<br />
+- some very difficult content, e.g. the miscarriage, the misogyny, the way david treats giovanni, and the bit about the crossdresser is very very interesting in the way it is framed<br />
+- the bit where he kinda dissociates when having sex with sue is a bit real and familiar!<br />
 
 </details>
 
 <details>
 <summary>A Canticle for Leibowitz (Walter M. Miller Jr.)</summary>
 
-> was this novel written for me? post apocalyptic monastery where the monks copy old manuscripts!<br />
-> excellent sense of humour<br />
-> quite nuanced and subtle treatment of ethics and morality, especially around war and physical suffering. some challenging vaguely ableist content, though i dont think the author is endorsing this.<br />
-> "Martyrdom is all very well, but we have a job to do first."<br />
-> interesting how they use the desert rhetoric to talk about space travel<br />
-> graphic description of animal suffering and death in chapter 28<br />
+- was this novel written for me? post apocalyptic monastery where the monks copy old manuscripts!<br />
+- excellent sense of humour<br />
+- quite nuanced and subtle treatment of ethics and morality, especially around war and physical suffering. some challenging vaguely ableist content, though i dont think the author is endorsing this.<br />
+- "Martyrdom is all very well, but we have a job to do first."<br />
+- interesting how they use the desert rhetoric to talk about space travel<br />
+- graphic description of animal suffering and death in chapter 28<br />
 
 </details>
 
@@ -99,7 +99,7 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 <summary>Dead Collections (Isaac Fellman)</summary>
 
 <br />
-> Clear A+. Holy moly. Wow. So good. Dark and angsty and broody, love it.<br />
+- Clear A+. Holy moly. Wow. So good. Dark and angsty and broody, love it.<br />
 <br />
 
 </details>
@@ -108,10 +108,10 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 <summary>Thrust (Rachel Spangler)</summary>
 
 <br />
-> Clear A. Wow! Great fun, what energy!<br />
-> "You're too smart for your own sanity." "I'm too smart for my weak-ass reflexes."<br />
-> "There's no way to predict against crazy."<br />
-> "You have a knack for surrounding yourself with good people."<br />
+- Clear A. Wow! Great fun, what energy!<br />
+- "You're too smart for your own sanity." "I'm too smart for my weak-ass reflexes."<br />
+- "There's no way to predict against crazy."<br />
+- "You have a knack for surrounding yourself with good people."<br />
 <br />
 
 </details>
@@ -120,7 +120,7 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 <summary>Schuss (E. J. Noyes)</summary>
 
 <br />
-> B/B-, feels a bit on rails and slow, but a nice comfy slice-of-life story<br />
+- B/B-, feels a bit on rails and slow, but a nice comfy slice-of-life story<br />
 <br />
 
 </details>
@@ -129,9 +129,9 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 <summary>Tapping into Love (Monica Mccallan)</summary>
 
 <br />
-> Verdict: B/B-ish, a bit 0 to 60 due to the short length but love the setting.<br />
-> "The best revenge is a life well lived."<br />
-> "I'm not dumb. I know Oompa Loompas only live at the Wonka factory. That's their home."<br />
+- Verdict: B/B-ish, a bit 0 to 60 due to the short length but love the setting.<br />
+- "The best revenge is a life well lived."<br />
+- "I'm not dumb. I know Oompa Loompas only live at the Wonka factory. That's their home."<br />
 <br />
 
 </details>
@@ -140,8 +140,8 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 <summary>Wild Things (Laura Kay)</summary>
 
 <br />
-> clear A, good wholesome escapist fun, amazing amazing amazing characters. I really appreciate the pro-animal politics and rescue chooks!<br />
-> "Wearing Crocs is all about your state of mind. If you believe in the Crocs, then other people will believe in the Crocs."<br />
+- clear A, good wholesome escapist fun, amazing amazing amazing characters. I really appreciate the pro-animal politics and rescue chooks!<br />
+- "Wearing Crocs is all about your state of mind. If you believe in the Crocs, then other people will believe in the Crocs."<br />
 <br />
 
 </details>
@@ -151,10 +151,10 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 
 <br />
 Starling Days (Rowan Hisayo Buchanan)
-> (content warning for suicide)<br />
-> verdict: A-/A ish. wow, excellent writing. obviously very dark and occasionally difficult to read, such a real look at depression. feeling so alienated from the people around you.<br />
-> "On their first date, she told him that she was bisexual, vegetarian, and on meds. [...] He'd never guessed she might try to kill herself."<br />
-> the way that the protagonist's view on everyday scenes, items, and events is described in such a way that ive never seen. e.g. the police car seat fabric, the dust in oscar's lungs, the morse code pullups. amazing. It feels like a quite autistic way of looking at the world, and before this book I'd only ever seen it in myself.<br />
+- (content warning for suicide)<br />
+- verdict: A-/A ish. wow, excellent writing. obviously very dark and occasionally difficult to read, such a real look at depression. feeling so alienated from the people around you.<br />
+- "On their first date, she told him that she was bisexual, vegetarian, and on meds. [...] He'd never guessed she might try to kill herself."<br />
+- the way that the protagonist's view on everyday scenes, items, and events is described in such a way that ive never seen. e.g. the police car seat fabric, the dust in oscar's lungs, the morse code pullups. amazing. It feels like a quite autistic way of looking at the world, and before this book I'd only ever seen it in myself.<br />
 <br />
 
 </details>
@@ -163,9 +163,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Gold (E. J. Noyes)</summary>
 
 <br />
-> Verdict: B/B-, bread and butter, but i appreciate the main character's experience of sport fear/anxiety. a body full of serious sporting injuries - chronic pain rep. Warhammer! hahahah<br />
-> "[...] the thing I love sometimes made me feel like I was choking [...]"<br />
-> "I realized that my life wasn't about the skiing. It was about all the things that came about because of the skiing."<br />
+- Verdict: B/B-, bread and butter, but i appreciate the main character's experience of sport fear/anxiety. a body full of serious sporting injuries - chronic pain rep. Warhammer! hahahah<br />
+- "[...] the thing I love sometimes made me feel like I was choking [...]"<br />
+- "I realized that my life wasn't about the skiing. It was about all the things that came about because of the skiing."<br />
 <br />
 
 </details>
@@ -174,8 +174,8 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Behind the Scenes (Karelia Stetz-Waters)</summary>
 
 <br />
-> Verdict: A. This is one skilled author - definitely much more than the typical sapphic romance. Beautiful PTSD rep. Flirting while collaboratively editing a sex scene hahahah<br />
-> "IT'S CALLED THE VULVA" hahahahaha<br />
+- Verdict: A. This is one skilled author - definitely much more than the typical sapphic romance. Beautiful PTSD rep. Flirting while collaboratively editing a sex scene hahahah<br />
+- "IT'S CALLED THE VULVA" hahahahaha<br />
 <br />
 
 </details>
@@ -184,9 +184,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Disasters (M. K. England)</summary>
 
 <br />
-> A, great fun! This author hit it out of the park once again. sympathetic look at trauma too.<br />
-> love the soccer banter hahahaha<br />
-> LOVE the trans rep<br />
+- A, great fun! This author hit it out of the park once again. sympathetic look at trauma too.<br />
+- love the soccer banter hahahaha<br />
+- LOVE the trans rep<br />
 <br />
 
 </details>
@@ -195,7 +195,7 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>This Spells Disaster (Tori Anne Martin)</summary>
 
 <br />
-> Verdict: B- ish. Good fun. Got like 50% through but stopped, wasnt super engaged and the mc had lots of anxiety and self doubt so hard being in her head.<br />
+- Verdict: B- ish. Good fun. Got like 50% through but stopped, wasnt super engaged and the mc had lots of anxiety and self doubt so hard being in her head.<br />
 <br />
 
 </details>
@@ -204,9 +204,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Clinch (Nicole Disney)</summary>
 
 <br />
-> clear A, very very good. what energy! i like the politics and attitude of the mc. not a fan of the hidden relationship trope, but otherwise good fun. the bit with matteo is wholesome, though the ending falls into my pet peeve of "the problem is solved because somebody has lots of money to spare".<br />
-> to have a heart of gold and be a walking weapon<br />
-> weird having joe rogan in a queer novel?<br />
+- clear A, very very good. what energy! i like the politics and attitude of the mc. not a fan of the hidden relationship trope, but otherwise good fun. the bit with matteo is wholesome, though the ending falls into my pet peeve of "the problem is solved because somebody has lots of money to spare".<br />
+- to have a heart of gold and be a walking weapon<br />
+- weird having joe rogan in a queer novel?<br />
 <br />
 
 </details>
@@ -215,8 +215,8 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The View from the Top (Rachel Lacey)</summary>
 
 <br />
-> clear A. well written, great fun, plus cottages in the woods + operations professional + anxiety/panic disorder rep + (minor) trans rep. jack the bird loves blueberries!<br />
-> "Women in general are too modest, especially in business."<br />
+- clear A. well written, great fun, plus cottages in the woods + operations professional + anxiety/panic disorder rep + (minor) trans rep. jack the bird loves blueberries!<br />
+- "Women in general are too modest, especially in business."<br />
 <br />
 
 </details>
@@ -225,9 +225,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Bruised (Tanya Boteju)</summary>
 
 <br />
-> A+ for vibe, A- ish for execution. This book makes me feel very seen. Young queer woman chasing the good pain via sport - wow. Haven't seen this vibe expressed in any other fiction. and the tender scenes are extremely well written, really beautiful. love getting into afters in game 1 (i feel like it wasnt really her fault though).<br />
-> "You know what you're doing out there. So if you can tune out all the trash talk - both yours, and the other team's - you're gonna blow up the track."<br />
-> less actual game time that id have liked. weird gripe: the sort of tough guy / street talk vibe gets a little bit old, its fine but hard to sustain for a whole book. like the dialogue feels more scripted and the setting/characters sometimes designed for the benefit of the protagonist, maybe more at home in a middle-grade book or even shonen anime, rather than realistic or genuine. also cat's a bit of a bully which is unfortunate, would have been nice if she were the supportive captain type<br />
+- A+ for vibe, A- ish for execution. This book makes me feel very seen. Young queer woman chasing the good pain via sport - wow. Haven't seen this vibe expressed in any other fiction. and the tender scenes are extremely well written, really beautiful. love getting into afters in game 1 (i feel like it wasnt really her fault though).<br />
+- "You know what you're doing out there. So if you can tune out all the trash talk - both yours, and the other team's - you're gonna blow up the track."<br />
+- less actual game time that id have liked. weird gripe: the sort of tough guy / street talk vibe gets a little bit old, its fine but hard to sustain for a whole book. like the dialogue feels more scripted and the setting/characters sometimes designed for the benefit of the protagonist, maybe more at home in a middle-grade book or even shonen anime, rather than realistic or genuine. also cat's a bit of a bully which is unfortunate, would have been nice if she were the supportive captain type<br />
 <br />
 
 </details>
@@ -236,7 +236,7 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The In-Between Bookstore (Edward Underhill)</summary>
 
 <br />
-> clear A, really beautiful, such a good author<br />
+- clear A, really beautiful, such a good author<br />
 <br />
 
 </details>
@@ -245,8 +245,8 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Daughter of Danray (Natalia Hernandez, Flowers of Prophecy #3)</summary>
 
 <br />
-> banger<br />
-> The Goddess: "You have been given a difficult task, mija, made even more difficult by the forces that now work against you."<br />
+- banger<br />
+- The Goddess: "You have been given a difficult task, mija, made even more difficult by the forces that now work against you."<br />
 <br />
 
 </details>
@@ -255,9 +255,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Always the Almost (Edward Underhill)</summary>
 
 <br />
-> Verdict: A, so good! Great vibes, honest but wholesome trans experience, and the Great Lakes in the winter. Biggest stan for Stefania.<br />
-> "Add that to the list of things that make a lot more sense in hindsight." hahahahaha<br />
-> "You get nervous because you care. But your kryptonite can also be your superpower."<br />
+- Verdict: A, so good! Great vibes, honest but wholesome trans experience, and the Great Lakes in the winter. Biggest stan for Stefania.<br />
+- "Add that to the list of things that make a lot more sense in hindsight." hahahahaha<br />
+- "You get nervous because you care. But your kryptonite can also be your superpower."<br />
 <br />
 
 </details>
@@ -266,7 +266,7 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Road to You (Harper Bliss)</summary>
 
 <br />
-> B, bread and butter, fast paced and fun if not terribly profound. some of the discourse re the dodgy professor is a bit yikes. also casual fatphobia and ageism is a bit annoying. also fuck susan for dismissing the cats' concerns.<br />
+- B, bread and butter, fast paced and fun if not terribly profound. some of the discourse re the dodgy professor is a bit yikes. also casual fatphobia and ageism is a bit annoying. also fuck susan for dismissing the cats' concerns.<br />
 <br />
 
 </details>
@@ -275,7 +275,7 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Dragonfall (L. R. Lam)</summary>
 
 <br />
-> A-, fun and original! I think its really enjoyable and well written, goodreads is wrong<br />
+- A-, fun and original! I think its really enjoyable and well written, goodreads is wrong<br />
 <br />
 
 </details>
@@ -284,8 +284,8 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>No Strings Attached (Harper Bliss; the Pink Bean series)</summary>
 
 <br />
-> B-/C+ish, pretty generic but in a way that I enjoy. Very little in the way of sensory descrptions, a real missed opportunity for a book set in a coffee shop. Annoying that the MC conflates sex and gender but might simply be the book showing its age. glad that its narrated in an american accent despite being set in sydney.<br />
-> "She sounded American, and acted like it." hahahaha<br />
+- B-/C+ish, pretty generic but in a way that I enjoy. Very little in the way of sensory descrptions, a real missed opportunity for a book set in a coffee shop. Annoying that the MC conflates sex and gender but might simply be the book showing its age. glad that its narrated in an american accent despite being set in sydney.<br />
+- "She sounded American, and acted like it." hahahaha<br />
 <br />
 
 </details>
@@ -294,8 +294,8 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Grace Notes (Ruby Landers)</summary>
 
 <br />
-> B/B- in terms of writing<br />
-> did not finish; got 1/4 through then hit the bit with near drowning of a toddler, so i stopped. needs a content warning at the front of the book for that. its not a cute plot device for a romance novel.<br />
+- B/B- in terms of writing<br />
+- did not finish; got 1/4 through then hit the bit with near drowning of a toddler, so i stopped. needs a content warning at the front of the book for that. its not a cute plot device for a romance novel.<br />
 <br />
 
 </details>
@@ -304,11 +304,11 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Falling in Love Montage (Ciara Smyth)</summary>
 
 <br />
-> A, a gem. Hilarious and also very very touching in several ways. the inner conflict is a little contrived, maybe the books only flaw<br />
-> one sad kid<br />
-> oliver is a class act and beth is too kind<br />
-> "Dogs are boys, cats are girls. Everybody knows that."<br />
-> Soccer is "Gaelic football for wimps" hahahahaha<br />
+- A, a gem. Hilarious and also very very touching in several ways. the inner conflict is a little contrived, maybe the books only flaw<br />
+- one sad kid<br />
+- oliver is a class act and beth is too kind<br />
+- "Dogs are boys, cats are girls. Everybody knows that."<br />
+- Soccer is "Gaelic football for wimps" hahahahaha<br />
 <br />
 
 </details>
@@ -317,11 +317,11 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>That Woman Next Door (Harper Bliss)</summary>
 
 <br />
-> B+. was this book written for me? pretty amazing, cottage in the middle of nowhere, doctor facing grief and guilt and a translator cat lady living a very quiet life in a remote house, with a bit of chilling out in a new city<br />
-> a little 0 to 60 but i do understand the attachment issues<br />
-> the guilt and grief wasnt dealt with as much as id have liked<br />
-> "I never answer my phone. [...] I just hate talking on the phone."<br />
-> "I just want to be left alone in my quiet, perfectly pleasant life."<br />
+- B+. was this book written for me? pretty amazing, cottage in the middle of nowhere, doctor facing grief and guilt and a translator cat lady living a very quiet life in a remote house, with a bit of chilling out in a new city<br />
+- a little 0 to 60 but i do understand the attachment issues<br />
+- the guilt and grief wasnt dealt with as much as id have liked<br />
+- "I never answer my phone. [...] I just hate talking on the phone."<br />
+- "I just want to be left alone in my quiet, perfectly pleasant life."<br />
 <br />
 
 </details>
@@ -330,8 +330,8 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>No Strings (Lucy Bexley)</summary>
 
 <br />
-> A! So fun! The misanthropy is really well executed especially because of the context of professional puppetry, just really works. Excellent and funny writing. Also some really touching depression/fatigue and non-binary rep.<br />
-> "The lesbians on my soccer team are also my apocalypse team."<br />
+- A! So fun! The misanthropy is really well executed especially because of the context of professional puppetry, just really works. Excellent and funny writing. Also some really touching depression/fatigue and non-binary rep.<br />
+- "The lesbians on my soccer team are also my apocalypse team."<br />
 <br />
 
 </details>
@@ -340,12 +340,12 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Euphoria Kids (Alison Evans) (R)</summary>
 
 <br />
-> I love this book so much. It does something that I haven't seen in any other book.<br />
-> "I want to cover my body in art and stories, watch them move and flex as I go through the days. I want to cover my body in flowers and vines."<br />
-> "I want to ask her if she knows Iris is the most wonderful person in the world"<br />
-> "And then I asked if I could not be a girl too. They nodded."<br />
-> "Sometimes I still can't believe you can see me [...] I'm so scared you'll stop altogether one day and I’ll be alone again."<br />
-> "fiery mess of a girl"<br />
+- I love this book so much. It does something that I haven't seen in any other book.<br />
+- "I want to cover my body in art and stories, watch them move and flex as I go through the days. I want to cover my body in flowers and vines."<br />
+- "I want to ask her if she knows Iris is the most wonderful person in the world"<br />
+- "And then I asked if I could not be a girl too. They nodded."<br />
+- "Sometimes I still can't believe you can see me [...] I'm so scared you'll stop altogether one day and I’ll be alone again."<br />
+- "fiery mess of a girl"<br />
 <br />
 
 </details>
@@ -353,9 +353,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <details>
 <summary>Purposefully Accidental (G. Benson)</summary>
 
-> B+. writing is good, characters are pretty compelling, the professional relationship is interesting. grief bits are powerful.<br />
-> doesnt strike me as realistic that the characters care so much about the events of age 9 from 25 years ago. like i've had similar experiences at age 15 that we just forget about by 3 years later.<br />
-> weird that wren didnt just wear a face mask to avoid being recognised in the hospital, book was published in 2022<br />
+- B+. writing is good, characters are pretty compelling, the professional relationship is interesting. grief bits are powerful.<br />
+- doesnt strike me as realistic that the characters care so much about the events of age 9 from 25 years ago. like i've had similar experiences at age 15 that we just forget about by 3 years later.<br />
+- weird that wren didnt just wear a face mask to avoid being recognised in the hospital, book was published in 2022<br />
 <br />
 
 </details>
@@ -363,12 +363,12 @@ Starling Days (Rowan Hisayo Buchanan)
 <details>
 <summary>At the Water's Edge (Harper Bliss)</summary>
 
-> B-. nice broody story of ecologist taking a break and living with burnout and depression. some parts really annoyed me but finished bc the good bits were really good.<br />
-> suicide attempt. just a huge vibe.<br />
-> "the world will survive without you constantly being sorry for everything"<br />
-> "nut brown skin" bit of a yuck phrase<br />
-> mc is a bit of a tool to the love interest, surprised the latter gave her so much patience. parents insufferable too.<br />
-> flirting over dead chickens is not cute<br />
+- B-. nice broody story of ecologist taking a break and living with burnout and depression. some parts really annoyed me but finished bc the good bits were really good.<br />
+- suicide attempt. just a huge vibe.<br />
+- "the world will survive without you constantly being sorry for everything"<br />
+- "nut brown skin" bit of a yuck phrase<br />
+- mc is a bit of a tool to the love interest, surprised the latter gave her so much patience. parents insufferable too.<br />
+- flirting over dead chickens is not cute<br />
 <br />
 
 </details>
@@ -379,11 +379,11 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Gender Euphoria: Stories of Joy from Trans, Non-Binary, and Intersex Writers (ed. Laura Kate Dale)</summary>
 
 <br />
-> this is an extremely valuable and encouraging book. the roller derby essay is such a vibe! i really like the one about faith too. and adrenaline fix resonates a lot too.<br />
-> "I'm an action queer; a service enby."<br />
-> having both feminine and masculine characteristics as a "world of possibilities" for how you can present yourself every day<br />
-> the one set in nigeria where the author references milan kundera, cool!<br />
-> the "trans sex" one is a banger. not some demure woman available to men's whims. <br />
+- this is an extremely valuable and encouraging book. the roller derby essay is such a vibe! i really like the one about faith too. and adrenaline fix resonates a lot too.<br />
+- "I'm an action queer; a service enby."<br />
+- having both feminine and masculine characteristics as a "world of possibilities" for how you can present yourself every day<br />
+- the one set in nigeria where the author references milan kundera, cool!<br />
+- the "trans sex" one is a banger. not some demure woman available to men's whims. <br />
 <br />
 
 </details>
@@ -392,14 +392,14 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>How (Not) to Be Strong (Alex Scott)</summary>
 
 <br />
-> what a legend. especially love the bits amount her mental health and seeking help - "functional depressive".<br />
-> the abusive father + extreme online abuse etc is extremely hard to read, had to skip much of it. thank god for the teachers, social workers, teammates, and grandmothers of the world.<br />
-> has body image issues!! insecure about her butt and quads, especially when working alongside models - isnt that interesting.<br />
-> kelly smith (?) getting red then flipping off the ref hahahahaha<br />
-> FIFA holding the u20s (?) wwc in papua new guinea and campaigning against domestic violence (alex scott was part of the campaign + attended PNG's first u20s women's match, similarly participated in the opening of a football cage in iraq)<br />
-> mark sampson being incompetent again<br />
-> her grandma sipping champagne at the ritz is the most wholesome thing ever<br />
-> on Strictly Come Dancing: "What had been seen and appreciated was the attitude of carrying on and getting through."<br />
+- what a legend. especially love the bits amount her mental health and seeking help - "functional depressive".<br />
+- the abusive father + extreme online abuse etc is extremely hard to read, had to skip much of it. thank god for the teachers, social workers, teammates, and grandmothers of the world.<br />
+- has body image issues!! insecure about her butt and quads, especially when working alongside models - isnt that interesting.<br />
+- kelly smith (?) getting red then flipping off the ref hahahahaha<br />
+- FIFA holding the u20s (?) wwc in papua new guinea and campaigning against domestic violence (alex scott was part of the campaign + attended PNG's first u20s women's match, similarly participated in the opening of a football cage in iraq)<br />
+- mark sampson being incompetent again<br />
+- her grandma sipping champagne at the ritz is the most wholesome thing ever<br />
+- on Strictly Come Dancing: "What had been seen and appreciated was the attitude of carrying on and getting through."<br />
 <br />
 
 </details>
@@ -408,9 +408,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>In Praise of the Useless Life: A Monk's Memoir (Paul Quenon)</summary>
 
 <br />
-> enjoyed this! especially interesting having the perspective of one of Merton's novices<br />
-> narcissism; just live the life, its an easy life<br />
-> "I have never seen a decade when there is no war. But, you keep on breathing, and praying." at the monastery during the cuban missile, all living under the threat of imminent death and nuclear warfare. wow! i hadnt connected that.<br />
+- enjoyed this! especially interesting having the perspective of one of Merton's novices<br />
+- narcissism; just live the life, its an easy life<br />
+- "I have never seen a decade when there is no war. But, you keep on breathing, and praying." at the monastery during the cuban missile, all living under the threat of imminent death and nuclear warfare. wow! i hadnt connected that.<br />
 <br />
 
 </details>
@@ -419,13 +419,13 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>My Greatest Save: The Brave, Barrier-Breaking Journey of a World Champion Goalkeeper (Briana Scurry, Wayne Coffey)</summary>
 
 <br />
-> career ended due to traumatic brain injury<br />
-> suicidal ideation<br />
-> prays each game for like safety and competence, not for victory<br />
-> the most important skill a goalie can have: a short memory<br />
-> so interesting that she calls opponents' fouls "dirty play" but her coming off her line early in penalties is "within the spirit of the rules"<br />
-> the bit about her weight and eating after the world cup is a bit difficult to read and probably she could've written it in a more sympathetic way<br />
-> the fact that she says she disgraced the US Soccer crest due to gaining weight when she then got her brain injury and was financially stricken with no health insurancd and $55 to her name after selling her car and 100 cap Rolex, then pawning her 1996 olympic gold medal - I think the real disgrace to US Soccer is that they let this happen to one of their players<br />
+- career ended due to traumatic brain injury<br />
+- suicidal ideation<br />
+- prays each game for like safety and competence, not for victory<br />
+- the most important skill a goalie can have: a short memory<br />
+- so interesting that she calls opponents' fouls "dirty play" but her coming off her line early in penalties is "within the spirit of the rules"<br />
+- the bit about her weight and eating after the world cup is a bit difficult to read and probably she could've written it in a more sympathetic way<br />
+- the fact that she says she disgraced the US Soccer crest due to gaining weight when she then got her brain injury and was financially stricken with no health insurancd and $55 to her name after selling her car and 100 cap Rolex, then pawning her 1996 olympic gold medal - I think the real disgrace to US Soccer is that they let this happen to one of their players<br />
 <br />
 
 </details>
@@ -434,24 +434,24 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Thomas Merton and the Noonday Demon: The Camaldoli Correspondence (Donald Grayson)</summary>
 
 <br />
-> It's interesting to me that, like Abe Lincoln, once he found his calling and began the great work of his life, he continued to suffer, in Merton's case from restlessness rather than melancholy per se.<br />
-> into books on self actualisation hahahaha<br />
-> after meeting Thay wrote an article called "Thich Nhat Hanh is my brother"<br />
-> accidia is a great example of a long storied history of monastics wishing they were elsewhere and pursuing a different vocation instead; "frantic escapism"! hmmm!!<br />
-> he argues that accidia is not depression and that merton was not depressed; i dont think his argument re the latter is very good, i think he has a reductionist (mental) view of depression and references to mertons behaviour (lack of specific symptoms) are unconvincing, so i think  a more correct conclusion re whether merton was depressed is "insufficient evidence to say". though i do wonder if a study of his diaries could illuminate this.<br />
-> turning from a focus on the monastery to the world as seen from the monastery; so solitude is distinct from "false" isolation, and the former involves returning to the world and turning towards compassion for others (obvious links with that internal renunciation idea; and the bodhisattva ideal)<br />
-> unrealistic expectations of the monastic life and grass is greener attitude re other monasteries<br />
-> fathered a child he never met before his religious life?!<br />
-> "a hermit in my heart and a coenobite in my body"<br />
-> love the politics; nigel is right that people are people wherever you go!<br />
-> Merton's frustration with Gethsemane but also the feeling that if it's God's will for him to be there, then it's *because* he doesn't fit in and his ideas aren't accepted<br />
-> "Your vocation is to have no solution, and then keep on going." !!!!!<br />
-> when the author mentions the aspect of accidia that, especially for the intellectual elite, involves an awareness of a hollow and meaningless world - isnt that straight up depression? or at least an existential crisis<br />
-> and when he was finally offered a hermitage, he baulked and didnt want it anymore!<br />
-> article "Placemaking as contemplative practice" (Burton-Christie 2008)<br />
-> lmfao the author references Robert Kull's memoir on solitude hahahahaha (see below!!)<br />
-> Merton's religious feeling only awakened in his mid 20s!<br />
-> solitude as a life of love without consolation<br />
+- It's interesting to me that, like Abe Lincoln, once he found his calling and began the great work of his life, he continued to suffer, in Merton's case from restlessness rather than melancholy per se.<br />
+- into books on self actualisation hahahaha<br />
+- after meeting Thay wrote an article called "Thich Nhat Hanh is my brother"<br />
+- accidia is a great example of a long storied history of monastics wishing they were elsewhere and pursuing a different vocation instead; "frantic escapism"! hmmm!!<br />
+- he argues that accidia is not depression and that merton was not depressed; i dont think his argument re the latter is very good, i think he has a reductionist (mental) view of depression and references to mertons behaviour (lack of specific symptoms) are unconvincing, so i think  a more correct conclusion re whether merton was depressed is "insufficient evidence to say". though i do wonder if a study of his diaries could illuminate this.<br />
+- turning from a focus on the monastery to the world as seen from the monastery; so solitude is distinct from "false" isolation, and the former involves returning to the world and turning towards compassion for others (obvious links with that internal renunciation idea; and the bodhisattva ideal)<br />
+- unrealistic expectations of the monastic life and grass is greener attitude re other monasteries<br />
+- fathered a child he never met before his religious life?!<br />
+- "a hermit in my heart and a coenobite in my body"<br />
+- love the politics; nigel is right that people are people wherever you go!<br />
+- Merton's frustration with Gethsemane but also the feeling that if it's God's will for him to be there, then it's *because* he doesn't fit in and his ideas aren't accepted<br />
+- "Your vocation is to have no solution, and then keep on going." !!!!!<br />
+- when the author mentions the aspect of accidia that, especially for the intellectual elite, involves an awareness of a hollow and meaningless world - isnt that straight up depression? or at least an existential crisis<br />
+- and when he was finally offered a hermitage, he baulked and didnt want it anymore!<br />
+- article "Placemaking as contemplative practice" (Burton-Christie 2008)<br />
+- lmfao the author references Robert Kull's memoir on solitude hahahahaha (see below!!)<br />
+- Merton's religious feeling only awakened in his mid 20s!<br />
+- solitude as a life of love without consolation<br />
 <br />
 
 </details>
@@ -461,14 +461,14 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Solitude: Seeking Wisdom in Extreme Times—A Year Alone in the Patagonia Wilderness (Robert Kull)</summary>
 
 <br />
-> ok so I actually stopped this after ~10% because the overt animal abuse became too much, especially in a book that promises wisdom<br />
-> this is the vibe<br />
-> does have cat abuse which is hard to read and fish death. also why is he allowed to hunt fish if his cat isn't allowed to hunt birds<br />
-> while this is a valuable and almost unique record of solitude, some of the author's politics and especially content on environmentalism is much less interesting / a bit cardboard (and empirically false in places).<br />
-> peak spiritual experiences are transient<br />
-> locals in Chile using cats as "guinea pigs" to test whether shellfish is poisoned by red tide<br />
-> the year is 2001 so will be interesting to see if he notices 9/11<br />
-> how he gets sick of physical work and craves intellectual work hahahha<br />
+- ok so I actually stopped this after ~10% because the overt animal abuse became too much, especially in a book that promises wisdom<br />
+- this is the vibe<br />
+- does have cat abuse which is hard to read and fish death. also why is he allowed to hunt fish if his cat isn't allowed to hunt birds<br />
+- while this is a valuable and almost unique record of solitude, some of the author's politics and especially content on environmentalism is much less interesting / a bit cardboard (and empirically false in places).<br />
+- peak spiritual experiences are transient<br />
+- locals in Chile using cats as "guinea pigs" to test whether shellfish is poisoned by red tide<br />
+- the year is 2001 so will be interesting to see if he notices 9/11<br />
+- how he gets sick of physical work and craves intellectual work hahahha<br />
 
 <br />
 
@@ -478,22 +478,22 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness (Joshua Wolf Shenk)</summary>
 
 <br />
-> a very moving and comforting history book<br />
-> "Even when he began to do the work for which he's remembered, and took evident satisfaction in finding a great cause to which to apply his considerable talent, he continued to suffer."<br />
-> "I could not have slept tonight if I had not given those two birds to their mother."<br />
-> suicide as the desire for mindlessness<br />
-> chronic vs episodic depression<br />
-> everyone around him knew it and noticed his clearly gloomy moods (!!!)<br />
-> the poem he loved that deliberately echoed ecclesiastes<br />
-> author argues that the melancholy "bears fruit" when Lincoln begins fighting against the extension of slavery - not a cure, but like a meaningful purpose, a la Frankl; suffering doesnt go away but responds by looking for meaning<br />
-> "both his pain and his potential"<br />
-> disciplined and strategically silent about the existence of slavery in the southern states, as part of the discipline required to prevent its spread<br />
-> taking the long view (incl accepting a very long battle that will last beyond one's lifetime)<br />
-> Lincoln: "even schoolboys knew Wilberforce, but who could name one of his opponents"<br />
-> still a racist and white supremacist, like most whites of the day<br />
-> religion; instrument of a larger power<br />
-> Meditation on the Divine Will: "In great contests each party claims to act in accordance with the will of God. [...] God wills this contest, and wills that it shall not end yet. By his mere great power, on the minds of the now contestants, He could have either saved or destroyed the Union without a human contest. Yet the contest began."<br />
-> found comfort in Job!<br />
+- a very moving and comforting history book<br />
+- "Even when he began to do the work for which he's remembered, and took evident satisfaction in finding a great cause to which to apply his considerable talent, he continued to suffer."<br />
+- "I could not have slept tonight if I had not given those two birds to their mother."<br />
+- suicide as the desire for mindlessness<br />
+- chronic vs episodic depression<br />
+- everyone around him knew it and noticed his clearly gloomy moods (!!!)<br />
+- the poem he loved that deliberately echoed ecclesiastes<br />
+- author argues that the melancholy "bears fruit" when Lincoln begins fighting against the extension of slavery - not a cure, but like a meaningful purpose, a la Frankl; suffering doesnt go away but responds by looking for meaning<br />
+- "both his pain and his potential"<br />
+- disciplined and strategically silent about the existence of slavery in the southern states, as part of the discipline required to prevent its spread<br />
+- taking the long view (incl accepting a very long battle that will last beyond one's lifetime)<br />
+- Lincoln: "even schoolboys knew Wilberforce, but who could name one of his opponents"<br />
+- still a racist and white supremacist, like most whites of the day<br />
+- religion; instrument of a larger power<br />
+- Meditation on the Divine Will: "In great contests each party claims to act in accordance with the will of God. [...] God wills this contest, and wills that it shall not end yet. By his mere great power, on the minds of the now contestants, He could have either saved or destroyed the Union without a human contest. Yet the contest began."<br />
+- found comfort in Job!<br />
 <br />
 
 </details>
@@ -501,31 +501,31 @@ Starling Days (Rowan Hisayo Buchanan)
 <details>
 <summary>They Don't Teach This: Lessons From the Game of Life (Eniola Aluko, Josie Le Blond)</summary>
 
-> what an amazing human being!<br />
-> "I see now that there’s no sense in putting on a mask to make others feel comfortable."<br />
-> hassled by the boys' parents for being better than them at soccer<br />
-> "Atticus Finch made me a lawyer." ! (though i think she says boo radley when she means tom robinson?)<br />
-> interesting to me that her background is both marginalised (Nigerian birth, not a British citizen until after her first callup, Black) and privileged (daughter of a Nigerian senator, granddaughter of a famous economist, then how she becomes a lawyer and uses that to speak up)<br />
-> final history exam at 9am, england team kickoff at 4pm, crazy!<br />
-> "He had lessons for me to learn... my life would unfold according to His timing, not mine."<br />
-> Her mentor who said "You have two options. Either you don't play because you're too scared you might lose, or you play, give it everything you've got, and afterwards accept the result. Whatever happens, God has already allowed it to happen. You have nothing to lose, so enjoy the game, play for god, an audience of one. put your faith in him. That's all you can do."<br />
-> "Never again would I question God's wisdom. I saw now that there was a time for defeats and a time for victories ... a place in his plan. Defeats were not only failures, they were a place to grow."<br />
-> "The ones who break the mold are isolated and succeed anyway... your light might shine too bright for some to cope with... their problem, not yours."<br />
-> doesn't want a pity party, wants solutions; our validation comes from God<br />
-> glad she stans Rapinoe's protests<br />
+- what an amazing human being!<br />
+- "I see now that there’s no sense in putting on a mask to make others feel comfortable."<br />
+- hassled by the boys' parents for being better than them at soccer<br />
+- "Atticus Finch made me a lawyer." ! (though i think she says boo radley when she means tom robinson?)<br />
+- interesting to me that her background is both marginalised (Nigerian birth, not a British citizen until after her first callup, Black) and privileged (daughter of a Nigerian senator, granddaughter of a famous economist, then how she becomes a lawyer and uses that to speak up)<br />
+- final history exam at 9am, england team kickoff at 4pm, crazy!<br />
+- "He had lessons for me to learn... my life would unfold according to His timing, not mine."<br />
+- Her mentor who said "You have two options. Either you don't play because you're too scared you might lose, or you play, give it everything you've got, and afterwards accept the result. Whatever happens, God has already allowed it to happen. You have nothing to lose, so enjoy the game, play for god, an audience of one. put your faith in him. That's all you can do."<br />
+- "Never again would I question God's wisdom. I saw now that there was a time for defeats and a time for victories ... a place in his plan. Defeats were not only failures, they were a place to grow."<br />
+- "The ones who break the mold are isolated and succeed anyway... your light might shine too bright for some to cope with... their problem, not yours."<br />
+- doesn't want a pity party, wants solutions; our validation comes from God<br />
+- glad she stans Rapinoe's protests<br />
 
 </details>
 
 <details>
 <summary>Scoring Goals in the Dark: The Extraordinary and Brave Story of International Footballer Clare Shine (Clare Shine, Gareth Maher)</summary>
 
-> Life goes on, with or without football.<br />
-> very good and honest about the ugly details<br />
-> dont love the regular fatphobic allusions but its an attitude that makes a bit more sense in the context of professional soccer<br />
-> eating issues esp with anti D's (if i read correctly), dizziness<br />
-> after extreme weight loss "forget barbells" had to learn how to sit and stand again<br />
-> hates flying and travel<br />
-> "being smart" in managing one's body<br />
+- Life goes on, with or without football.<br />
+- very good and honest about the ugly details<br />
+- dont love the regular fatphobic allusions but its an attitude that makes a bit more sense in the context of professional soccer<br />
+- eating issues esp with anti D's (if i read correctly), dizziness<br />
+- after extreme weight loss "forget barbells" had to learn how to sit and stand again<br />
+- hates flying and travel<br />
+- "being smart" in managing one's body<br />
 <br />
 
 </details>
@@ -533,15 +533,28 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Ancient Ink: The Archaeology of Tattooing (ed. Lars Krutak and Aaron Deter-Wolf)</summary>
+
+<br />
+- kinda crazy how many documented examples of tattoos there are, whether prehistorical, historical, and modern, either documented or illustrated or preserved skin or tattoo implements<br />
+- in Bosnia and Herzegovina and Croatia, cross tattoos especially on hands and chest as an expression of Catholic faith (though actually is a bit older than Christianity in the region), repressed/discouraged by communists<br />
+- also interesting how different cultures have different tattoo gender roles, e.g. Fiji (?), the Bosnia/Croatia tradition, tattoos are traditionally on women and done by women<br />
+- suggests there could have been a tattoo tradition in the Balkans/near-East, and this spread to Western Europe (e.g. ötzi), Germany, Britain etc via cultural exchange<br />
+- love the archaeologist tattooing himself with bone needles to experimentally study the wear patterns<br />
+<br />
+
+</details>
+
+<details>
 <summary>Stigma: Marking Skin in the Early Modern World (Katherine Dauge-Roth and Craig Koslofsky)</summary>
 
 <br />
-> this is a cool perspective, broader than tattoos, more "dermal marking" or "dermal practices" - cutting, scarring, circumcision, branding, religious marks and wounds, marks made by nature or supernatural forces<br />
-> obviously the bits about the slave trade, prisoners, etc is very hard to read<br />
-> pilgrimage tattoos<br />
-> marianus piccard (?), a 1640ish mystic who had religious visions and had associated marks on her body, similar to a "girl from cologne"; guillon (?) another woman mystic<br />
-> healing marks, even quite common in early modern Europe, including inserting pieces of relics into the skin, hardcore<br />
-> branding convicts fell out of practice in part because it threatened the labour market (even for people who were born with marks that simply look similar) and in part as the state found other ways to identify individuals, e.g. fingerprints and bureaucracy<br />
+- this is a cool perspective, broader than tattoos, more "dermal marking" or "dermal practices" - cutting, scarring, circumcision, branding, religious marks and wounds, marks made by nature or supernatural forces<br />
+- obviously the bits about the slave trade, prisoners, etc is very hard to read<br />
+- pilgrimage tattoos<br />
+- marianus piccard (?), a 1640ish mystic who had religious visions and had associated marks on her body, similar to a "girl from cologne"; guillon (?) another woman mystic<br />
+- healing marks, even quite common in early modern Europe, including inserting pieces of relics into the skin, hardcore<br />
+- branding convicts fell out of practice in part because it threatened the labour market (even for people who were born with marks that simply look similar) and in part as the state found other ways to identify individuals, e.g. fingerprints and bureaucracy<br />
 <br />
 
 </details>
@@ -550,21 +563,21 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Tattoo Histories: Transcultural Perspectives on the Narratives, Practices, and Representations of Tattooing (ed Sinah Theres Kloß)</summary>
 
 <br />
-> tattoo (im)permanence is socially constructed<br />
-> there is no one historical root of tattoos; there are many practices from numerous times and places<br />
-> bodies as processes and projects<br />
-> lower-class symbols appropriated by the middle class<br />
-> I love the Miami Ink and Italian lesbian chapters. Tattooing is presented as an inclusive and open-minded environment but paradoxically perpetuates gendered norms and conservative family values in many ways, including to secure acceptance by modern-class sensibilities<br />
-> the chapter that discusses forced tattooing in the classical world makes me sad<br />
-> the chapter on the ongoing history of indigenous tattooing in America is outstanding. White people removing tattoos from Indigenous people's skins but also erasing the history of Indigenous tattooing as a component of this. continuity and revitalization movements.<br />
-> tattooing as an assertion of control over one's body<br />
-> Chinese goverment bans the appearance of tattoos on television, so e.g. athletes must cover them up<br />
-> skinscapes<br />
-> the greek word "stigma" literally meant "tattoo"<br />
-> "The power of the tattoo lies in its ability to generate countless stories and multiple truths."<br />
-> "she becomes 'more me' with her tattoos, a closer and more authentic representation of her inner self. The participants grow into their bodies through their chosen body decoration and look closer to how they want to appear.""<br />
-> "Tattooing can be regarded as an expression of an individual path into self-consciousness, of a commitment to one’s own 'rebirth'"<br />
-> on the other hand: "Nikki Sullivan considers the tattooed body as a discursive or inscriptive site of dominant social fictions, cautioning that tattooing should not be understood as external expressions of inner essences, understandings that would reproduce a distinction between interiority/exteriority, mind/body, and reality/representation" - this doesn't feel quite right to me, or at least doesn't align with my experience<br />
+- tattoo (im)permanence is socially constructed<br />
+- there is no one historical root of tattoos; there are many practices from numerous times and places<br />
+- bodies as processes and projects<br />
+- lower-class symbols appropriated by the middle class<br />
+- I love the Miami Ink and Italian lesbian chapters. Tattooing is presented as an inclusive and open-minded environment but paradoxically perpetuates gendered norms and conservative family values in many ways, including to secure acceptance by modern-class sensibilities<br />
+- the chapter that discusses forced tattooing in the classical world makes me sad<br />
+- the chapter on the ongoing history of indigenous tattooing in America is outstanding. White people removing tattoos from Indigenous people's skins but also erasing the history of Indigenous tattooing as a component of this. continuity and revitalization movements.<br />
+- tattooing as an assertion of control over one's body<br />
+- Chinese goverment bans the appearance of tattoos on television, so e.g. athletes must cover them up<br />
+- skinscapes<br />
+- the greek word "stigma" literally meant "tattoo"<br />
+- "The power of the tattoo lies in its ability to generate countless stories and multiple truths."<br />
+- "she becomes 'more me' with her tattoos, a closer and more authentic representation of her inner self. The participants grow into their bodies through their chosen body decoration and look closer to how they want to appear.""<br />
+- "Tattooing can be regarded as an expression of an individual path into self-consciousness, of a commitment to one’s own 'rebirth'"<br />
+- on the other hand: "Nikki Sullivan considers the tattooed body as a discursive or inscriptive site of dominant social fictions, cautioning that tattooing should not be understood as external expressions of inner essences, understandings that would reproduce a distinction between interiority/exteriority, mind/body, and reality/representation" - this doesn't feel quite right to me, or at least doesn't align with my experience<br />
 <br />
 
 </details>
@@ -573,10 +586,10 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Dead Sea Scrolls: A Very Short Introduction (Timothy Lim)</summary>
 
 <br />
-> palaeography = the study of ancient handwriting<br />
-> 600-800ish fragments dated to 2,000 years old or so, from both radiocarbon dating and palaeographic dating, so the oldest extant manuscripts of almost all Hebrew Bible books<br />
-> every book of the Hebrew Bible is present (as at least a fragment) except for Esther, but at a point before the Bible was standardised<br />
-> generally believed to have been owned by a community of ancient Jewish ascetics of ~4,000 people called Essenes (though this has been challenged)<br />
+- palaeography = the study of ancient handwriting<br />
+- 600-800ish fragments dated to 2,000 years old or so, from both radiocarbon dating and palaeographic dating, so the oldest extant manuscripts of almost all Hebrew Bible books<br />
+- every book of the Hebrew Bible is present (as at least a fragment) except for Esther, but at a point before the Bible was standardised<br />
+- generally believed to have been owned by a community of ancient Jewish ascetics of ~4,000 people called Essenes (though this has been challenged)<br />
 <br />
 
 </details>
@@ -585,18 +598,18 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Suffering Body in Sport: Shifting Thresholds of Pain, Risk and Injury (ed. Kevin Young)</summary>
 
 <br />
-> risk can cause personal harm but is also calculated and "existentially rewarding"; can be what is redeeming about sport and sought out through sport<br />
-> includes death in training etc which is worth keeping in mind + needs respect. similar point with suffering imposed via oppressions like racism, homophobia, sexual violence<br />
-> in neoliberal ideology, risk is seen as a personal responsibility<br />
-> the paralympic chapter is extremely interesting. roots of paralympics in military veteran hospitals + these links (which have been criticised) still exist today. for paralympians, it is often pain that leads to sport rather than the reverse. highly medicalised process of classification.<br />
-> the chapter on eating disorders in the autobiographies of two women swimmers<br />
-> distinguishing between pain vs suffering<br />
-> nice that they acknowledge transgender athletes<br />
-> sex testing, just crazy<br />
-> disabled athletes excluded from sports for being "too good", interesting<br />
-> skipping the sections on animals :'(<br />
-> in the west, a tendency to see the body as a project that is in the process of becoming something<br />
-> contrast between performance measures and delighting in the pleasures of physical sensations<br />
+- risk can cause personal harm but is also calculated and "existentially rewarding"; can be what is redeeming about sport and sought out through sport<br />
+- includes death in training etc which is worth keeping in mind + needs respect. similar point with suffering imposed via oppressions like racism, homophobia, sexual violence<br />
+- in neoliberal ideology, risk is seen as a personal responsibility<br />
+- the paralympic chapter is extremely interesting. roots of paralympics in military veteran hospitals + these links (which have been criticised) still exist today. for paralympians, it is often pain that leads to sport rather than the reverse. highly medicalised process of classification.<br />
+- the chapter on eating disorders in the autobiographies of two women swimmers<br />
+- distinguishing between pain vs suffering<br />
+- nice that they acknowledge transgender athletes<br />
+- sex testing, just crazy<br />
+- disabled athletes excluded from sports for being "too good", interesting<br />
+- skipping the sections on animals :'(<br />
+- in the west, a tendency to see the body as a project that is in the process of becoming something<br />
+- contrast between performance measures and delighting in the pleasures of physical sensations<br />
 <br />
 
 </details>
@@ -605,10 +618,10 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Ornament of the World: How Muslims, Jews, and Christians Created a Culture of Tolerance in Medieval Spain (Maria Rosa Menocal)</summary>
 
 <br />
-> This is a wonderful and fascinating piece of history. Al-Andalus is the general area, from around 700 to around 1500.<br />
-> significant conversion to Islam by the locals (incl Christians and Jews), though overlap between religious conversion and adoption of Arabic language and culture due to prestige<br />
-> a bona fide centre of culture and learning, especially via the highly significant libraries and other technological innovations, incl influencing subsequent latin, european and english literature (Petrus Alphonsi), maths (numerals, algebra, algorithms), logical theology<br />
-> history as "one damned thing after another" hahahaha<br />
+- This is a wonderful and fascinating piece of history. Al-Andalus is the general area, from around 700 to around 1500.<br />
+- significant conversion to Islam by the locals (incl Christians and Jews), though overlap between religious conversion and adoption of Arabic language and culture due to prestige<br />
+- a bona fide centre of culture and learning, especially via the highly significant libraries and other technological innovations, incl influencing subsequent latin, european and english literature (Petrus Alphonsi), maths (numerals, algebra, algorithms), logical theology<br />
+- history as "one damned thing after another" hahahaha<br />
 <br />
 
 </details>
@@ -617,25 +630,25 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>What Is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)</summary>
 
 <br />
-> excellent science communiction, funny but profound, and great insight into the extremely messy world of humans doing science (politics, personal relationships, accidents of history, the academic job market)<br />
-> Einstein: "This epistemology-soaked orgy ought to come to an end." hahahaha<br />
-> Einstein made working alone a lifelong habit and referred to himself as a "one-horse cart". Also boycotted any event in Italy as long as Mussolini was in power.<br />
-> Pauli: "It's not even wrong." Hahahahahaha my favourite quip ever<br />
-> Einstein: an instantaneous wave function collapse for a single particle would be tantamount to a signal instantaneously being sent from one location to another (violating locality), which violates special relativity's speed limit, so quantum mechanics cannot be complete; contrary to positivism (copenhagen), particles must have definite positions in addition to wave functions<br />
-> interesting, the author writes that Hitler's firing of all Jewish civil servants (including scientists) via the Civil Service Act and their resulting emigration mostly to the US and the UK is what shifted the centre of physics from the German-speaking world to the English-speaking (with obvious implications for the development of the nuclear bomb). Though Harvard also had "Jewish quotas" and the Americans subsequently harassed physicists with suspected communist links like Bohm, so maybe it's not that simple?<br />
-> post-war american investment in physics significantly altered how physics was done, much less cozy, much more money, much more government and military involvement<br />
-> the author suggests that heisenberg essentially invented the idea of a unified and consensus copenhagen interpretation<br />
-> Bohm's interpretation: particles with definite positions following pilot waves, and measurement devices and other macro objects also follow quantum laws. Still suffers from action at a distance.<br />
-> Everett: many worlds interpretation, a single universal wave function where an observer also gets entangled so the observer splits in two, elegantly circumventing the measurement problem. "Can you feel the motion of the Earth?" hahaha burnnnn!!!<br />
-> Bell's theorem, an inequality and experimental setup (then results) that has demonstrated that quantum theory is incompatible with local hidden-variable theories (theories that involve hidden variables that cannot be observed, such as particles following pilot waves) as long as you assume there is a single outcome (so locality is still permissible under the many worlds interpretation). Experimental tests showed Bell's inequality was violated, so either locality is false or something like the many worlds interpretation is correct.<br />
-> The Structure of Scientific Revolution helped critique positivism and promote realism<br />
-> Consciousness causes collapse as an idea sometimes floating around<br />
-> Interpretations based on information theory (foundations of cs)<br />
-> Popper's tenet of falsifiability is no longer taken seriously by most philosophers as no theory is falsifiable in isolation, and sometimes it is a separate assumption that is incorrect. There are also many characteristics of theories aside from their specific predictions (e.g. the other ideas they generate and the way they picture the world) that are still important and can distinguish between mathematically identical but competing interpretations.<br />
-> Copenhagen still has the strongest support among physicists in stated surveys, but at the same time the interpretation is poorly defined and unclear, so many physicists just don't have a single consistent interpretation. Most physicists conceptually agree that quantum physics underlies classical physics, but the actual practice of physics tacitly operates under the opposite assumption (i.e. Copenhagen).<br />
-> So this is an unsolved problem in science<br />
-> physicists are commonly (not always) dismissive of philosophy while not knowing much about it, perhaps due to the analytic/continental divide in philosophy<br />
-> all current alternatives to Copenhagen are weird in some way, but at least that's better than Copenhagen's "gibberish"<br />
+- excellent science communiction, funny but profound, and great insight into the extremely messy world of humans doing science (politics, personal relationships, accidents of history, the academic job market)<br />
+- Einstein: "This epistemology-soaked orgy ought to come to an end." hahahaha<br />
+- Einstein made working alone a lifelong habit and referred to himself as a "one-horse cart". Also boycotted any event in Italy as long as Mussolini was in power.<br />
+- Pauli: "It's not even wrong." Hahahahahaha my favourite quip ever<br />
+- Einstein: an instantaneous wave function collapse for a single particle would be tantamount to a signal instantaneously being sent from one location to another (violating locality), which violates special relativity's speed limit, so quantum mechanics cannot be complete; contrary to positivism (copenhagen), particles must have definite positions in addition to wave functions<br />
+- interesting, the author writes that Hitler's firing of all Jewish civil servants (including scientists) via the Civil Service Act and their resulting emigration mostly to the US and the UK is what shifted the centre of physics from the German-speaking world to the English-speaking (with obvious implications for the development of the nuclear bomb). Though Harvard also had "Jewish quotas" and the Americans subsequently harassed physicists with suspected communist links like Bohm, so maybe it's not that simple?<br />
+- post-war american investment in physics significantly altered how physics was done, much less cozy, much more money, much more government and military involvement<br />
+- the author suggests that heisenberg essentially invented the idea of a unified and consensus copenhagen interpretation<br />
+- Bohm's interpretation: particles with definite positions following pilot waves, and measurement devices and other macro objects also follow quantum laws. Still suffers from action at a distance.<br />
+- Everett: many worlds interpretation, a single universal wave function where an observer also gets entangled so the observer splits in two, elegantly circumventing the measurement problem. "Can you feel the motion of the Earth?" hahaha burnnnn!!!<br />
+- Bell's theorem, an inequality and experimental setup (then results) that has demonstrated that quantum theory is incompatible with local hidden-variable theories (theories that involve hidden variables that cannot be observed, such as particles following pilot waves) as long as you assume there is a single outcome (so locality is still permissible under the many worlds interpretation). Experimental tests showed Bell's inequality was violated, so either locality is false or something like the many worlds interpretation is correct.<br />
+- The Structure of Scientific Revolution helped critique positivism and promote realism<br />
+- Consciousness causes collapse as an idea sometimes floating around<br />
+- Interpretations based on information theory (foundations of cs)<br />
+- Popper's tenet of falsifiability is no longer taken seriously by most philosophers as no theory is falsifiable in isolation, and sometimes it is a separate assumption that is incorrect. There are also many characteristics of theories aside from their specific predictions (e.g. the other ideas they generate and the way they picture the world) that are still important and can distinguish between mathematically identical but competing interpretations.<br />
+- Copenhagen still has the strongest support among physicists in stated surveys, but at the same time the interpretation is poorly defined and unclear, so many physicists just don't have a single consistent interpretation. Most physicists conceptually agree that quantum physics underlies classical physics, but the actual practice of physics tacitly operates under the opposite assumption (i.e. Copenhagen).<br />
+- So this is an unsolved problem in science<br />
+- physicists are commonly (not always) dismissive of philosophy while not knowing much about it, perhaps due to the analytic/continental divide in philosophy<br />
+- all current alternatives to Copenhagen are weird in some way, but at least that's better than Copenhagen's "gibberish"<br />
 <br />
 
 </details>
@@ -644,9 +657,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Wild History: Journeys into Lost Scotland (James Crawford)</summary>
 
 <br />
-> this is a wonderful book - amazing history, beautiful writing, and excellent vibes. archaeology from the stone age through to the modern era, and plenty of old documents, very enjoyable.<br />
-> the cliffs of the holy women, 7th century christian building?!<br />
-> queens park - the archaeology of football! and the one-off spruce tree pitch from 2012, holy moly.<br />
+- this is a wonderful book - amazing history, beautiful writing, and excellent vibes. archaeology from the stone age through to the modern era, and plenty of old documents, very enjoyable.<br />
+- the cliffs of the holy women, 7th century christian building?!<br />
+- queens park - the archaeology of football! and the one-off spruce tree pitch from 2012, holy moly.<br />
 <br />
 
 </details>
@@ -655,17 +668,17 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Fat Sex: New Directions in Theory and Activism (ed. Helen Hester and Caroline Waters)</summary>
 
 <br />
-> this book is great<br />
-> traditions of self-publishing, eg 1990s zine culture
-> it is possible to find greater self acceptance and empowerment, and there are many positive life experiences etc that can help facilitate this<br />
-> the study participants who found the bdsm/kink community to be more accepting of their bodies<br />
-> participants finding that as they get older, they find more self acceptance<br />
-> "excruciatingly narrow beauty standards", i resonate with that wording<br />
-> foucault's biopolitics, bodies as not purely natural but influenced by power dynamics<br />
-> queer porn as valuing people as intersectional<br />
-> amy lowell<br />
-> the atwood protagonist who, upon losing weight, had to consciously learn the behaviours to stay safe as a woman, interesting parallel with trans femme experience<br />
-> in the final chapter, a juxtaposition between processed food and sport - author mentions toxic food companies like mcdonalds sponsoring sports to maintain a link with health<br />
+- this book is great<br />
+- traditions of self-publishing, eg 1990s zine culture
+- it is possible to find greater self acceptance and empowerment, and there are many positive life experiences etc that can help facilitate this<br />
+- the study participants who found the bdsm/kink community to be more accepting of their bodies<br />
+- participants finding that as they get older, they find more self acceptance<br />
+- "excruciatingly narrow beauty standards", i resonate with that wording<br />
+- foucault's biopolitics, bodies as not purely natural but influenced by power dynamics<br />
+- queer porn as valuing people as intersectional<br />
+- amy lowell<br />
+- the atwood protagonist who, upon losing weight, had to consciously learn the behaviours to stay safe as a woman, interesting parallel with trans femme experience<br />
+- in the final chapter, a juxtaposition between processed food and sport - author mentions toxic food companies like mcdonalds sponsoring sports to maintain a link with health<br />
 <br />
 
 </details>
@@ -674,22 +687,22 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>A History of Chile 1808-2018 (William F. Slater and Simon Collier, 3rd ed)</summary>
 
 <br />
-> skipped about 25% (mostly mid to late 20th century) due to time constraints<br />
-> very loosely speaking, can think of this as 1800s = independence as authoritarian republic; 1900s = loads of coups, violence, dictators, and civil wars; and 2000s = democracy with some (less intense) instability and unrest still<br />
-> early 1800s: home rule as a direct result of napoleon's attacks etc on spain, colony (like other spanish american colonies) took this opportunity to take over management as an authoritarian republic (dictator and/or powerful president with little democratic concession), the war of independence having many victories and losses and atrocities but eventually ending with spanish recognition in 1844<br />
-> around 1900: transition to a classical liberal democracy in the sense of e.g. early United States, dominance by landowners etc, so a period of ~60 years (1830s to 1890s) of far more stability (if repression) than elsewhere in spanish america<br />
-> 1920s to 1970s: loads of coups etc and instability, hit especially hard by great depression including serious malnourishment, rise of a genuine left wing, expansion of the franchise<br />
-> 1970s and 80s: pinochet dictatorship, violence<br />
-> 1990s: democratisation<br />
-> last few years: social unrest, various votes on various constitutions, though still quite democratic<br />
-> many border shifts, especially ceding patagonia to argentina and expanding northward at the expense of bolivia and peru<br />
-> cultural and trade links with aus throughout history, interesting, of course USA and others too<br />
-> "the venerable tradition of vote-buying" hahahaha<br />
-> interesting (brief) framing of wwii as a holy struggle, a la harari<br />
-> eco politics growing in importance from the 90s, esp around dams, entwined with indigenous communities' rights; and indigenous rights has involved some social unrest (incl bona fide anticapitalist struggle and sabotage), use of pinochet antiterrorism laws led to reversal of some convictions by the ICJ<br />
-> the minister who resigned and 5 years later became a buddhist nun!<br />
-> "el penguinos", strong organised student protests and demands<br />
-> china highly significant as a market for both salmon and pork<br />
+- skipped about 25% (mostly mid to late 20th century) due to time constraints<br />
+- very loosely speaking, can think of this as 1800s = independence as authoritarian republic; 1900s = loads of coups, violence, dictators, and civil wars; and 2000s = democracy with some (less intense) instability and unrest still<br />
+- early 1800s: home rule as a direct result of napoleon's attacks etc on spain, colony (like other spanish american colonies) took this opportunity to take over management as an authoritarian republic (dictator and/or powerful president with little democratic concession), the war of independence having many victories and losses and atrocities but eventually ending with spanish recognition in 1844<br />
+- around 1900: transition to a classical liberal democracy in the sense of e.g. early United States, dominance by landowners etc, so a period of ~60 years (1830s to 1890s) of far more stability (if repression) than elsewhere in spanish america<br />
+- 1920s to 1970s: loads of coups etc and instability, hit especially hard by great depression including serious malnourishment, rise of a genuine left wing, expansion of the franchise<br />
+- 1970s and 80s: pinochet dictatorship, violence<br />
+- 1990s: democratisation<br />
+- last few years: social unrest, various votes on various constitutions, though still quite democratic<br />
+- many border shifts, especially ceding patagonia to argentina and expanding northward at the expense of bolivia and peru<br />
+- cultural and trade links with aus throughout history, interesting, of course USA and others too<br />
+- "the venerable tradition of vote-buying" hahahaha<br />
+- interesting (brief) framing of wwii as a holy struggle, a la harari<br />
+- eco politics growing in importance from the 90s, esp around dams, entwined with indigenous communities' rights; and indigenous rights has involved some social unrest (incl bona fide anticapitalist struggle and sabotage), use of pinochet antiterrorism laws led to reversal of some convictions by the ICJ<br />
+- the minister who resigned and 5 years later became a buddhist nun!<br />
+- "el penguinos", strong organised student protests and demands<br />
+- china highly significant as a market for both salmon and pork<br />
 <br />
 
 </details>
@@ -698,10 +711,10 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Euphorias in Gender, Sex and Sexuality Variations: Positive Experiences (Tiffany Jones)</summary>
 
 <br />
-> very valuable book! makes me feel really valiated. also appreciate the chapter on intersex people.<br />
-> caution against letting happiness stop further political activism and progress; euphoria rather than stagnation, happily queer rather than a happy queer<br />
-> intersex chapter: "My fears about being excluded and being a freak simply haven't played out."
-> (reading ch1-4,7)<br />
+- very valuable book! makes me feel really valiated. also appreciate the chapter on intersex people.<br />
+- caution against letting happiness stop further political activism and progress; euphoria rather than stagnation, happily queer rather than a happy queer<br />
+- intersex chapter: "My fears about being excluded and being a freak simply haven't played out."
+- (reading ch1-4,7)<br />
 <br />
 
 </details>
@@ -710,7 +723,7 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Lost Cities of the Ancient World (Philip Matyszak)</summary>
 
 <br />
-> enjoyed this. not sure i agree with every historical statement made, but good fun.<br />
+- enjoyed this. not sure i agree with every historical statement made, but good fun.<br />
 <br />
 
 </details>
@@ -719,15 +732,15 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Apocraphyl Gospels: A Very Short Introduction (Paul Foster)</summary>
 
 <br />
-> really enjoyed this one, very well written<br />
-> interesting that the word gospel (euangelion) was frequently used to refer to a public proclamation of good news, especially a new emperor's accession - ties in with the "two lords" view<br />
-> they're not so much a source of original historical truth as a different thread of meaning or a competing interpretation in the early community, perhaps by a community marginalised by exclusive and mainstream early christianity<br />
-> the nag hammadi thomas manuscript dates to around the 4th century; nag hammadi gospel of philip ~3rd century; gospel of truth ~2nd century<br />
-> thomas promotes a solitary and self-contained life, not quite monastic rule but in that direction<br />
-> thomas saying 114 references gender transformation<br />
-> in the protoevangelion of james, elizabeth seeking refuge with infant john the baptist from herod in the mountain is very touching (and mary hiding jesus in a feeding trough)<br />
-> anti jewish flavour in many of these texts too (like the canonical gospels)<br />
-> "vagaries of history" is a nice way to express that concept<br />
+- really enjoyed this one, very well written<br />
+- interesting that the word gospel (euangelion) was frequently used to refer to a public proclamation of good news, especially a new emperor's accession - ties in with the "two lords" view<br />
+- they're not so much a source of original historical truth as a different thread of meaning or a competing interpretation in the early community, perhaps by a community marginalised by exclusive and mainstream early christianity<br />
+- the nag hammadi thomas manuscript dates to around the 4th century; nag hammadi gospel of philip ~3rd century; gospel of truth ~2nd century<br />
+- thomas promotes a solitary and self-contained life, not quite monastic rule but in that direction<br />
+- thomas saying 114 references gender transformation<br />
+- in the protoevangelion of james, elizabeth seeking refuge with infant john the baptist from herod in the mountain is very touching (and mary hiding jesus in a feeding trough)<br />
+- anti jewish flavour in many of these texts too (like the canonical gospels)<br />
+- "vagaries of history" is a nice way to express that concept<br />
 <br />
 
 </details>
@@ -736,47 +749,47 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Nation Branding and Sports Diplomacy: Country Image Games in Times of Change (Yoav Dubinsky)</summary>
 
 <br />
-> very interesting and quite uncomfortable how it begins on israel (the authors country), the occupation of palestine is mentioned but a bit sanitised<br />
-> (3) mens world cup<br />
-> most important event of the most popular sport in the world, which is why its a big opportunity for public image, only comparabale event is summer olympics<br />
-> mussolini bribing people and pressuring referees when italy hosted, then govt and the team using victory to promote fascism and nationalism<br />
-> different styles of play at points in history (at least before transfers became easier and the game was less globalised and commercial), e.g. brazilian focus on beauty and creativity, italian focus on doing what is necessary to win, german precision and discipline<br />
-> very costly to host, while fifa pays operating costs (not upfront costs) it also takes all the revenues, so criticised as host pays heaps for new stadiums etc to make money for europeans<br />
-> fifa's culture compared to mafia, jfc<br />
-> qatar accusations of sportwashing, human rights violations, etc vs reference to positive changes in the country because of the event<br />
-> saudi arabia investing billions for soft power<br />
-> (4) olympics and tokyo<br />
-> nazi germany hosting the olympics a very clear case in point<br />
-> munich massacre, 1972 terror attack against israelis<br />
-> semi-regular boycotts for political purposes<br />
-> local communities usually object to hosting<br />
-> disproportionate US influence esp due to enormous broadcasting revenue from the US, including putting events on US primetime, getting off more lightly after scandals<br />
-> individual athlete diplomacy and politics, eg cathy freeman celebrating with aboriginal flag, kneeling against racism, simone biles mental health, helped by social media<br />
-> growing influence of arabian peninsula and opinionated dictators<br />
-> most of the US's medals at Tokyo were from women<br />
-> silent boycotts<br />
-> (5) america and title ix<br />
-> title ix demonstrably caused a huge increase in female sport participation, and therefore business!<br />
-> title ix as a competitive advantage in americas branding and american sports<br />
-> but then obviously the sexual abuse scandals in gymnastics and soccer, 20-25% of college students (not just sports) experiencing rape or attempted rape<br />
-> so a way to hide hypocrisy<br />
-> interesting argument (unsure if i agree) that womens collegiate sports lose money and thus can only be sustained by taking advantage of mens american football, where a) black people are overrepresented, b) common brain damage, and c) athletes are not paid a salary despite the fact that american football players would in fact become millionaires by graduation<br />
-> (6) european super league, announced in 2021 but quickly collapsed under scrutiny<br />
-> many english clubs sponsored by UAE via Fly Emirates brand/campaign<br />
-> and many countries in Arabian Gulf either buying/investing in clubs (e.g. City group) and hosting major events, same as Russia (e.g. Chelsea) and China, in some cases using unsustainable spending backed by e.g. oil to achieve major sporting successes; many motivations, one of which is laundering the national image<br />
-> barcelona as championing catalonion values/identity<br />
-> in germany, all clubs are majority owned by club members, so cannot be dominated by foreign interests<br />
-> (7) sportswashing<br />
-> asks is it actually a thing, or is it a negative framing used to delegitimise non-western countries by people afraid of losing power, hmmmm!!<br />
-> has been done by fascist italy, nazi germany, francos spain, argentina, south africa, romania<br />
-> ping pong diplomacy in the 70s as a successful and, it seems to me, positive use<br />
-> so its not a new thing<br />
-> but recently shaped by china (esp 2022 winter olympics in beijing), russia, and the gulf countries incl qatar<br />
-> football stadiums used in some countries e.g. afghanistan for public executions<br />
-> discourse re international sport frequently islamophobic<br />
-> limits of sportswashing, media doesnt hesitate to roast the countries still<br />
-> countercriticism which is extremely fair; e.g. USA arent innocent when it comes to human rights; FA president is traditionally a british royal<br />
-> some see this as taking steps towards the west and normalising international relations<br />
+- very interesting and quite uncomfortable how it begins on israel (the authors country), the occupation of palestine is mentioned but a bit sanitised<br />
+- (3) mens world cup<br />
+- most important event of the most popular sport in the world, which is why its a big opportunity for public image, only comparabale event is summer olympics<br />
+- mussolini bribing people and pressuring referees when italy hosted, then govt and the team using victory to promote fascism and nationalism<br />
+- different styles of play at points in history (at least before transfers became easier and the game was less globalised and commercial), e.g. brazilian focus on beauty and creativity, italian focus on doing what is necessary to win, german precision and discipline<br />
+- very costly to host, while fifa pays operating costs (not upfront costs) it also takes all the revenues, so criticised as host pays heaps for new stadiums etc to make money for europeans<br />
+- fifa's culture compared to mafia, jfc<br />
+- qatar accusations of sportwashing, human rights violations, etc vs reference to positive changes in the country because of the event<br />
+- saudi arabia investing billions for soft power<br />
+- (4) olympics and tokyo<br />
+- nazi germany hosting the olympics a very clear case in point<br />
+- munich massacre, 1972 terror attack against israelis<br />
+- semi-regular boycotts for political purposes<br />
+- local communities usually object to hosting<br />
+- disproportionate US influence esp due to enormous broadcasting revenue from the US, including putting events on US primetime, getting off more lightly after scandals<br />
+- individual athlete diplomacy and politics, eg cathy freeman celebrating with aboriginal flag, kneeling against racism, simone biles mental health, helped by social media<br />
+- growing influence of arabian peninsula and opinionated dictators<br />
+- most of the US's medals at Tokyo were from women<br />
+- silent boycotts<br />
+- (5) america and title ix<br />
+- title ix demonstrably caused a huge increase in female sport participation, and therefore business!<br />
+- title ix as a competitive advantage in americas branding and american sports<br />
+- but then obviously the sexual abuse scandals in gymnastics and soccer, 20-25% of college students (not just sports) experiencing rape or attempted rape<br />
+- so a way to hide hypocrisy<br />
+- interesting argument (unsure if i agree) that womens collegiate sports lose money and thus can only be sustained by taking advantage of mens american football, where a) black people are overrepresented, b) common brain damage, and c) athletes are not paid a salary despite the fact that american football players would in fact become millionaires by graduation<br />
+- (6) european super league, announced in 2021 but quickly collapsed under scrutiny<br />
+- many english clubs sponsored by UAE via Fly Emirates brand/campaign<br />
+- and many countries in Arabian Gulf either buying/investing in clubs (e.g. City group) and hosting major events, same as Russia (e.g. Chelsea) and China, in some cases using unsustainable spending backed by e.g. oil to achieve major sporting successes; many motivations, one of which is laundering the national image<br />
+- barcelona as championing catalonion values/identity<br />
+- in germany, all clubs are majority owned by club members, so cannot be dominated by foreign interests<br />
+- (7) sportswashing<br />
+- asks is it actually a thing, or is it a negative framing used to delegitimise non-western countries by people afraid of losing power, hmmmm!!<br />
+- has been done by fascist italy, nazi germany, francos spain, argentina, south africa, romania<br />
+- ping pong diplomacy in the 70s as a successful and, it seems to me, positive use<br />
+- so its not a new thing<br />
+- but recently shaped by china (esp 2022 winter olympics in beijing), russia, and the gulf countries incl qatar<br />
+- football stadiums used in some countries e.g. afghanistan for public executions<br />
+- discourse re international sport frequently islamophobic<br />
+- limits of sportswashing, media doesnt hesitate to roast the countries still<br />
+- countercriticism which is extremely fair; e.g. USA arent innocent when it comes to human rights; FA president is traditionally a british royal<br />
+- some see this as taking steps towards the west and normalising international relations<br />
 <br />
 
 </details>
@@ -785,15 +798,15 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>History of the English Language (Seth Lerer)</summary>
 
 <br />
-> reading 6-9, 14, 20, 29, 31<br />
-> old english: 5th to 11th centuries, branch of lowlands germanic brought by germanic settlers to the british isles. largely but not entirely displaced celtic (from the celts) and latin (from the romans). we call the germanic settlers anglo-saxons.<br />
-> so celtics -> romans -> anglo saxons -> normans. obvs some mixing along the way. scandinavian settlers and raiders also introduced their own germanic forms.<br />
-> long period of syncretization<br />
-> 11th century norman conquest marks the transition from old to middle english (normans were actually germanic peoples from scandinavia who assimilated themselves into france; you can see specific sounds from northern french compared to central french still surviving in english), incl restoration of latin and introduction of french. so england as trilingual.<br />
-> great vowel shift ~= middle english into modern english<br />
-> thou is informal! but due to its use in bible translations and bc its unfamiliar, misinterpreted as formal<br />
-> MLK permanently influenced the style of american political rhetoric<br />
-> argues that even the concept of idiomatic speech is a legacy of African American speech<br />
+- reading 6-9, 14, 20, 29, 31<br />
+- old english: 5th to 11th centuries, branch of lowlands germanic brought by germanic settlers to the british isles. largely but not entirely displaced celtic (from the celts) and latin (from the romans). we call the germanic settlers anglo-saxons.<br />
+- so celtics -> romans -> anglo saxons -> normans. obvs some mixing along the way. scandinavian settlers and raiders also introduced their own germanic forms.<br />
+- long period of syncretization<br />
+- 11th century norman conquest marks the transition from old to middle english (normans were actually germanic peoples from scandinavia who assimilated themselves into france; you can see specific sounds from northern french compared to central french still surviving in english), incl restoration of latin and introduction of french. so england as trilingual.<br />
+- great vowel shift ~= middle english into modern english<br />
+- thou is informal! but due to its use in bible translations and bc its unfamiliar, misinterpreted as formal<br />
+- MLK permanently influenced the style of american political rhetoric<br />
+- argues that even the concept of idiomatic speech is a legacy of African American speech<br />
 <br />
 
 </details>
@@ -801,27 +814,27 @@ Starling Days (Rowan Hisayo Buchanan)
 <details>
 <summary>Palestinian-Israeli Conflict: A Very Short Introduction (Martin Bunton)</summary>
 
-> originated in late 19th century zionism in europe, itself a result of european antisemitism, so more about modern nationalism and colonialism than ancient religious beliefs of religious animosity. cared more about agricultural land than historically significant religious sites. religious stuff came in later.<br />
-> Palestinian national identity relatively recent too, they were under rule of the Ottoman Empire until British invasion. though definitely was a thing with a national identity from then until the fighting in the 60s when Palestine was "wiped from the map".<br />
-> and exacerbated by specific world geopolitical dynamics and, surprise surprise, some fumbling by the British<br />
-> then WWII brings the Holocaust and sympathy for Jewish refugees, the destitution of Britain, and the heightened influence of the US and UN<br />
-> since the formation of an independent state of Israel, longstanding policy of disproportionate retaliation, originally as a show of military force to secure israel's place in the region, but since then has contributed to a cycle of enmity<br />
-> have been atrocities throughout this whole process<br />
-> please stop killing civilians<br />
-> continued settlement by Jews in Palestinian areas making any partition practically very challenging<br />
-> popular support of Hamas, trounced the previous Palestinian leaders in elections. though many Palestinians view both sets of leaders as self-servingly perpetuating division.<br />
-> Obama: "This is just really hard. This is as intractable a problem as you get."<br />
-> a two-state solution a relatively recent phenomenon (1930s) and then Palestine recognised by the UN General Assembly in 2012, though prospects appear to be fading due to hardliners on both sides, continuing Israeli settlement means approaching Israeli majorities and strategically fragmenting Palestinian land, and Palestinian political fragmentation. So a two state solution is looking less likely. But then if it's a one state solution, either Palestinians get to vote etc (in which case it's a binational single state and therefore not necessarily a Jewish state) or they don't (in which case it's a non-democratic "Apartheid state")<br />
+- originated in late 19th century zionism in europe, itself a result of european antisemitism, so more about modern nationalism and colonialism than ancient religious beliefs of religious animosity. cared more about agricultural land than historically significant religious sites. religious stuff came in later.<br />
+- Palestinian national identity relatively recent too, they were under rule of the Ottoman Empire until British invasion. though definitely was a thing with a national identity from then until the fighting in the 60s when Palestine was "wiped from the map".<br />
+- and exacerbated by specific world geopolitical dynamics and, surprise surprise, some fumbling by the British<br />
+- then WWII brings the Holocaust and sympathy for Jewish refugees, the destitution of Britain, and the heightened influence of the US and UN<br />
+- since the formation of an independent state of Israel, longstanding policy of disproportionate retaliation, originally as a show of military force to secure israel's place in the region, but since then has contributed to a cycle of enmity<br />
+- have been atrocities throughout this whole process<br />
+- please stop killing civilians<br />
+- continued settlement by Jews in Palestinian areas making any partition practically very challenging<br />
+- popular support of Hamas, trounced the previous Palestinian leaders in elections. though many Palestinians view both sets of leaders as self-servingly perpetuating division.<br />
+- Obama: "This is just really hard. This is as intractable a problem as you get."<br />
+- a two-state solution a relatively recent phenomenon (1930s) and then Palestine recognised by the UN General Assembly in 2012, though prospects appear to be fading due to hardliners on both sides, continuing Israeli settlement means approaching Israeli majorities and strategically fragmenting Palestinian land, and Palestinian political fragmentation. So a two state solution is looking less likely. But then if it's a one state solution, either Palestinians get to vote etc (in which case it's a binational single state and therefore not necessarily a Jewish state) or they don't (in which case it's a non-democratic "Apartheid state")<br />
 
 </details>
 
 <details>
 <summary>Covered in Ink: Tattoos, Women, and the Politics of the Body (Beverley Yuen Thompson)</summary>
 
-> mainstream woman models weigh 23% less than the general public, even before photoshop<br />
-> tattoos as motivation to care for oneself<br />
-> something for oneself, not socially mandated caring roles<br />
-> "what about when youre old" as a gendered attack on women<br />
+- mainstream woman models weigh 23% less than the general public, even before photoshop<br />
+- tattoos as motivation to care for oneself<br />
+- something for oneself, not socially mandated caring roles<br />
+- "what about when youre old" as a gendered attack on women<br />
 <br />
 
 </details>
@@ -832,11 +845,11 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Koran: A Very Short Introduction (Michael Cook)</summary>
 
 <br />
-> the unbelief and "soft belief" in religion is the cutting edge of Western culture, but in Islamic culture the cutting edge is fundamentalism (a reaction to modernity), and irreligion has not been nearly so influential. The most likely exception in the near future is Iran.<br />
-> unbelievers are forbidden from touching the Koran (particularly the original Arabic); the book itself is sacred in a way that the Jewish and Christian Bibles are not<br />
-> calligraphy was highly prestigious in ancient islamic culture, as it was in ancient china<br />
-> some divergent traditions / alternate readings (and even malleability) of the Koran existed before the establishment of a single authoritative text, and we have suprisingly little information about the history of these alternative traditions<br />
-> many obscure but salient features of the Koran, including words whose definition is unclear and concatenation of apparently mysterious letters at the starts of some verses, whose meaning we do not know<br />
+- the unbelief and "soft belief" in religion is the cutting edge of Western culture, but in Islamic culture the cutting edge is fundamentalism (a reaction to modernity), and irreligion has not been nearly so influential. The most likely exception in the near future is Iran.<br />
+- unbelievers are forbidden from touching the Koran (particularly the original Arabic); the book itself is sacred in a way that the Jewish and Christian Bibles are not<br />
+- calligraphy was highly prestigious in ancient islamic culture, as it was in ancient china<br />
+- some divergent traditions / alternate readings (and even malleability) of the Koran existed before the establishment of a single authoritative text, and we have suprisingly little information about the history of these alternative traditions<br />
+- many obscure but salient features of the Koran, including words whose definition is unclear and concatenation of apparently mysterious letters at the starts of some verses, whose meaning we do not know<br />
 <br />
 
 </details>
@@ -845,16 +858,16 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Old Testament: A Very Short Introduction (Michael D. Coogan)</summary>
 
 <br />
-> almost all books in the bible are composites<br />
-> "risky to generalise about almost anything"<br />
-> the documentary hypothesis for the torah (first 5 books) posits 4 sources, notably J (God called YHWH) and E (God called Elohim, much less direct engagement with humans) though no longer used as a complete hypothesis<br />
-> many biblical stories, myths, and poems use themes or language from the broader cultural context and existing myths, e.g. language of a primeval sea defeated by a storm god, the flood, etc<br />
-> the earlier writings assumed polytheism which gave way to later monotheism, which caused the problems of understanding the earlier monotheism and the problems of evil and suffering<br />
-> we dont know the historical truth of the exodus, whether it was one or several, etc; this author suggests it probably happened though could have been even a small group of slaves escaping across a lake or wetland<br />
-> three main "codes" (collections) of laws in the torah, likely indicating actual legal practice in ancient israel, the earliest (the covenant code) possibly 2nd millenium bce, though changing over space and time (including different versions of the decalogue). covenant or contract is a legal analogue for the relationship between god and israel, and this language isnt used for a deity anywhere outside the bible (iirc).<br />
-> the decalogue has two parts: relationship to god, and relationship to others. is this why jesus distilled everything into love god and love your neighbour as yourself?
-> afterlife: some idea of life after death, but not heaps of detail given. sheol as a dark and empty place. more elaborate beliefs (i.e. heaven and hell) were developed later, apparently to offer divine justice.<br />
-> the accuser, the satan, as a "son of god" (part of god's retinue of servants and advisors), more like a forensic prosecutor, who only later becomes the devil<br />
+- almost all books in the bible are composites<br />
+- "risky to generalise about almost anything"<br />
+- the documentary hypothesis for the torah (first 5 books) posits 4 sources, notably J (God called YHWH) and E (God called Elohim, much less direct engagement with humans) though no longer used as a complete hypothesis<br />
+- many biblical stories, myths, and poems use themes or language from the broader cultural context and existing myths, e.g. language of a primeval sea defeated by a storm god, the flood, etc<br />
+- the earlier writings assumed polytheism which gave way to later monotheism, which caused the problems of understanding the earlier monotheism and the problems of evil and suffering<br />
+- we dont know the historical truth of the exodus, whether it was one or several, etc; this author suggests it probably happened though could have been even a small group of slaves escaping across a lake or wetland<br />
+- three main "codes" (collections) of laws in the torah, likely indicating actual legal practice in ancient israel, the earliest (the covenant code) possibly 2nd millenium bce, though changing over space and time (including different versions of the decalogue). covenant or contract is a legal analogue for the relationship between god and israel, and this language isnt used for a deity anywhere outside the bible (iirc).<br />
+- the decalogue has two parts: relationship to god, and relationship to others. is this why jesus distilled everything into love god and love your neighbour as yourself?
+- afterlife: some idea of life after death, but not heaps of detail given. sheol as a dark and empty place. more elaborate beliefs (i.e. heaven and hell) were developed later, apparently to offer divine justice.<br />
+- the accuser, the satan, as a "son of god" (part of god's retinue of servants and advisors), more like a forensic prosecutor, who only later becomes the devil<br />
 <br />
 
 </details>
@@ -863,9 +876,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Hearing Spiritual Voices: Medieval Mystics, Meaning and Psychiatry (Christopher C. H. Cook)</summary>
 
 <br />
-> great and powerful book, reviews margery of kempe, joan of arc, and julian of norwich, all of whom heard voices. distinguishes between cause and meaning (like Existentialist's Survival Guide as I read recently), critiques reductionism and dichotomies which are called "epistemic injustice" or used to discredit the experiences of the individual concerned - a prior assumption that the person and the voice are not to be taken seriously, as opposed to an "affirming" perspective, hmm!! i see some deep parallels with trans care.<br />
-> Joan of Arc heard voices and wore men's clothing, and this author attributes her imprisonment and execution more to the latter!<br />
-> retroactive diagnoses of these figures throughout history clearly follow the fashions of the day (and absent direct access to the necessary evidence anyway), including "peculiarly twenty first century way of looking at things" e.g. in the 20th century they would explain margery of kempe as suffering from hysteria!<br />
+- great and powerful book, reviews margery of kempe, joan of arc, and julian of norwich, all of whom heard voices. distinguishes between cause and meaning (like Existentialist's Survival Guide as I read recently), critiques reductionism and dichotomies which are called "epistemic injustice" or used to discredit the experiences of the individual concerned - a prior assumption that the person and the voice are not to be taken seriously, as opposed to an "affirming" perspective, hmm!! i see some deep parallels with trans care.<br />
+- Joan of Arc heard voices and wore men's clothing, and this author attributes her imprisonment and execution more to the latter!<br />
+- retroactive diagnoses of these figures throughout history clearly follow the fashions of the day (and absent direct access to the necessary evidence anyway), including "peculiarly twenty first century way of looking at things" e.g. in the 20th century they would explain margery of kempe as suffering from hysteria!<br />
 <br />
 
 </details>
@@ -874,19 +887,19 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>I Love Jesus, But I Want to Die: Finding Hope in the Darkness of Depression (Sarah J. Robinson)</summary>
 
 <br />
-> really beautiful book, you can tell this is coming from someone who has been there<br />
-> I can do everything through Christ, who gives me strength<br />
-> people cant heal me, but i need them anyway<br />
-> accepting god's unconditional love and forgiveness (via contemplative practice) - depression is easier when you dont hate yourself<br />
-> dont look for answers, look for emmanuel. psalm "near to the broken hearted"<br />
-> the voice of god is always kinder and wiser than our own<br />
-> learning to "live with your limp"<br />
-> one study found 75% of people with major depression had experienced childhood trauma<br />
-> relationships benefit when you have the courage to say what you need<br />
-> suicidal thoughts cannot see the future, and they have no way to know that things wont get better<br />
-> what would you say to a niece or nephew who you saw beating themselves up?<br />
-> using the good days to invest in the bad days<br />
-> "Thank you, but I have a previous commitment" - a commitment to caring for yourself! Hahahaha<br />
+- really beautiful book, you can tell this is coming from someone who has been there<br />
+- I can do everything through Christ, who gives me strength<br />
+- people cant heal me, but i need them anyway<br />
+- accepting god's unconditional love and forgiveness (via contemplative practice) - depression is easier when you dont hate yourself<br />
+- dont look for answers, look for emmanuel. psalm "near to the broken hearted"<br />
+- the voice of god is always kinder and wiser than our own<br />
+- learning to "live with your limp"<br />
+- one study found 75% of people with major depression had experienced childhood trauma<br />
+- relationships benefit when you have the courage to say what you need<br />
+- suicidal thoughts cannot see the future, and they have no way to know that things wont get better<br />
+- what would you say to a niece or nephew who you saw beating themselves up?<br />
+- using the good days to invest in the bad days<br />
+- "Thank you, but I have a previous commitment" - a commitment to caring for yourself! Hahahaha<br />
 <br />
 
 </details>
@@ -895,12 +908,12 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Domestic Monastery: Creating Spiritual Life at Home (Ronald Rolheiser)</summary>
 
 <br />
-> this is really beautiful and empowering<br />
-> John of the Cross, two elements: withdrawal from the world, and bringing the "mild in line with the mild"<br />
-> So argues that a mother with small children is in fact monastic in this essential way, and the rest of us without small children are at a disadvantage! Hence, we need to pray for an hour a day instead.<br />
-> A monastery is not a place set apart for monks and nuns, but just a place set apart. It's about the reflection and maturity. The domestic can be the monastic.<br />
-> The monastic cell is a metaphor for duty, vocation, and commitment. Your family is a monastery and your work is a seminary. They will teach you what you need to know.<br />
-> Rituals, routines, and rhythms - not feelings - can sustain love and prayer. Not every meal is a banquet.<br />
+- this is really beautiful and empowering<br />
+- John of the Cross, two elements: withdrawal from the world, and bringing the "mild in line with the mild"<br />
+- So argues that a mother with small children is in fact monastic in this essential way, and the rest of us without small children are at a disadvantage! Hence, we need to pray for an hour a day instead.<br />
+- A monastery is not a place set apart for monks and nuns, but just a place set apart. It's about the reflection and maturity. The domestic can be the monastic.<br />
+- The monastic cell is a metaphor for duty, vocation, and commitment. Your family is a monastery and your work is a seminary. They will teach you what you need to know.<br />
+- Rituals, routines, and rhythms - not feelings - can sustain love and prayer. Not every meal is a banquet.<br />
 <br />
 
 </details>
@@ -909,12 +922,12 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Ancient Christianities: The First Five Hundred Years (Paula Fredriksen)</summary>
 
 <br />
-> great history, great writing. more sober about what we dont know - there wasnt one monolithic christianity that triumphed rapidly in rome, but rather diverse and nuanced groupings for which we just dont have any reliable numbers<br />
-> really gets across how debate, conflict, disagreement, schisms, new sects, fierce theological debates, reinterpretation, new revelation, etc etc have been a ubiquitous feature since essentially day zero, and routinely influenced by politics, government, the philosophies of the day, etc. and literary criticism of scriptures almost as soon as theyve come out, when many christians are uncomfortable with that even today.<br />
-> Manichaeism, a 3rd century sect or religion, sort of an ascetic reading of Christianity, influenced by Zoroastrianism and Buddhism, even had new revelation scriptures. Cool!<br />
-> the one ascetic guy who denied differences between male and female (esp as the women ascetics would cut off their hair etc etc) - though women cutting their hair as an act of asceticism was subequently policed and banned as being against divine law!<br />
-> "Orthodoxy's true enemy is time. What is right belief in one period becomes wrong belief in a later one. [...] Orthodoxy has a shelf life."<br />
-> "As you are a monk, go and sit in your cell and let the matter rest."<br />
+- great history, great writing. more sober about what we dont know - there wasnt one monolithic christianity that triumphed rapidly in rome, but rather diverse and nuanced groupings for which we just dont have any reliable numbers<br />
+- really gets across how debate, conflict, disagreement, schisms, new sects, fierce theological debates, reinterpretation, new revelation, etc etc have been a ubiquitous feature since essentially day zero, and routinely influenced by politics, government, the philosophies of the day, etc. and literary criticism of scriptures almost as soon as theyve come out, when many christians are uncomfortable with that even today.<br />
+- Manichaeism, a 3rd century sect or religion, sort of an ascetic reading of Christianity, influenced by Zoroastrianism and Buddhism, even had new revelation scriptures. Cool!<br />
+- the one ascetic guy who denied differences between male and female (esp as the women ascetics would cut off their hair etc etc) - though women cutting their hair as an act of asceticism was subequently policed and banned as being against divine law!<br />
+- "Orthodoxy's true enemy is time. What is right belief in one period becomes wrong belief in a later one. [...] Orthodoxy has a shelf life."<br />
+- "As you are a monk, go and sit in your cell and let the matter rest."<br />
 <br />
 
 </details>
@@ -923,22 +936,22 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Self-Care for Autistic People (Megan Anna Neff)</summary>
 
 <br />
-> this books a banger, like "how to live in a body 101"<br />
-> shutdown (analogous to meltdown)<br />
-> "professional self-care"<br />
-> "having a body is just so much work" mooood<br />
-> nervous system more easily switches from rest/relaxed to fight flight freeze or fawn<br />
-> organised sports as "sensory nightmares" hahahaha mood<br />
-> sensory visualisation, all the senses associated with a particular safe or sacred space<br />
-> sleep issues common<br />
-> struggles with emotions common<br />
-> prioritising rest - averting burnout (major cause of depression and suicidality)<br />
-> inclination towards perfectionism and all-or-nothing thinking patterns => taking on more demands than we should. so dropping demands.<br />
-> revisiting familiar movies or books as a way to find predictability<br />
-> self advocacy to help unmask and address sensory needs: disclosure + request = self-advocacy (and disclosure can be partial, or not at all)<br />
-> hyperempathy (!!!!!), so finding ways to release the weight of the world's pain<br />
-> feel compelled to apologise for your mere existence and be overaccommodating to justify your existence (!!!!!)<br />
-> TENS units (for intense sensory input)<br />
+- this books a banger, like "how to live in a body 101"<br />
+- shutdown (analogous to meltdown)<br />
+- "professional self-care"<br />
+- "having a body is just so much work" mooood<br />
+- nervous system more easily switches from rest/relaxed to fight flight freeze or fawn<br />
+- organised sports as "sensory nightmares" hahahaha mood<br />
+- sensory visualisation, all the senses associated with a particular safe or sacred space<br />
+- sleep issues common<br />
+- struggles with emotions common<br />
+- prioritising rest - averting burnout (major cause of depression and suicidality)<br />
+- inclination towards perfectionism and all-or-nothing thinking patterns => taking on more demands than we should. so dropping demands.<br />
+- revisiting familiar movies or books as a way to find predictability<br />
+- self advocacy to help unmask and address sensory needs: disclosure + request = self-advocacy (and disclosure can be partial, or not at all)<br />
+- hyperempathy (!!!!!), so finding ways to release the weight of the world's pain<br />
+- feel compelled to apologise for your mere existence and be overaccommodating to justify your existence (!!!!!)<br />
+- TENS units (for intense sensory input)<br />
 <br />
 
 </details>
@@ -947,14 +960,14 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Compulsive Reassurance Seeking Workbook (Amanda Petrik-Gardner)</summary>
 
 <br />
-> asking reassurance questions, apologising to loved ones, mental reviewing, checking things, self reassurance, staring at surroundings (!!!), making to-do lists, health related, crime rates<br />
-> only a compulsion if it's repetitive, a sense of urgency, to feel better, etc; same behaviour can be healthy and a value-driven choice<br />
-> two theories: random thoughts that are misinterpreted as having more power or meaning than it actually does; relying on imagined scenarios rather than concrete information/actual possibilities from here and now ("what if...")<br />
-> online reassurance seeking as a readily available and secret form of reassurance seeking<br />
-> choose your battles! one at a time<br />
-> exposure<br />
-> written plan for what youll do instead: noticing and labelling; delay and notice the anxiety; restricting the ability to do the compulsion; doing some other valuable activity instead<br />
-> an alternative story, describe the same phenomenon but using as much details from here and now as you can. and the story ends with choosing to take a different action. walking away from the ocd bubble!<br />
+- asking reassurance questions, apologising to loved ones, mental reviewing, checking things, self reassurance, staring at surroundings (!!!), making to-do lists, health related, crime rates<br />
+- only a compulsion if it's repetitive, a sense of urgency, to feel better, etc; same behaviour can be healthy and a value-driven choice<br />
+- two theories: random thoughts that are misinterpreted as having more power or meaning than it actually does; relying on imagined scenarios rather than concrete information/actual possibilities from here and now ("what if...")<br />
+- online reassurance seeking as a readily available and secret form of reassurance seeking<br />
+- choose your battles! one at a time<br />
+- exposure<br />
+- written plan for what youll do instead: noticing and labelling; delay and notice the anxiety; restricting the ability to do the compulsion; doing some other valuable activity instead<br />
+- an alternative story, describe the same phenomenon but using as much details from here and now as you can. and the story ends with choosing to take a different action. walking away from the ocd bubble!<br />
 <br />
 
 </details>
@@ -963,10 +976,10 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Revelations: Visions, Prophecy, and Politics in the Book of Revelation (Elaine Pagels)</summary>
 
 <br />
-> as wartime literature, protesting against the degradation of the weak by the empire, and in particular imagery that brags about the degradation<br />
-> john advocating for total opposition rather than other christians who accommodated rome, hmm<br />
-> william blake: "Both read the Bible day and night, But thou read'st black where I read white."<br />
-> zostrianos!<br />
+- as wartime literature, protesting against the degradation of the weak by the empire, and in particular imagery that brags about the degradation<br />
+- john advocating for total opposition rather than other christians who accommodated rome, hmm<br />
+- william blake: "Both read the Bible day and night, But thou read'st black where I read white."<br />
+- zostrianos!<br />
 <br />
 
 </details>
@@ -975,9 +988,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Existentialist's Survival Guide (Gordon Marino)</summary>
 
 <br />
-> it's fine, more of a personal meditation on some topics with frequent reference to the existentialists (reading chapters 1,2,4)<br />
-> kierkegaard: anxiety as a friend and teacher, helps point towards becoming an authentic person<br />
-> kierkegaard's journal: was at a party where he was the centre of attention, then left and wanted to shoot himself (!)<br />
+- it's fine, more of a personal meditation on some topics with frequent reference to the existentialists (reading chapters 1,2,4)<br />
+- kierkegaard: anxiety as a friend and teacher, helps point towards becoming an authentic person<br />
+- kierkegaard's journal: was at a party where he was the centre of attention, then left and wanted to shoot himself (!)<br />
 <br />
 
 </details>
@@ -986,13 +999,13 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Uncompromising: How an Unwavering Commitment to Your Why Leads to an Impactful Life and a Lasting Legacy (Steven White)</summary>
 
 <br />
-> cool having a Black, poor/working class, and Christian perspective on this topic, feels more real and hard-won (even if corporate stuff is not always relevant). worth listening purely for the narrator. more memoir-y than the description leads you to believe, but in a good way. some cringe bits.<br />
-> "an unwavering commitment to your why" really sums it up<br />
-> vernon jordan who was (paraphrasing) executing a life plan, not educating others when they make mistakes<br />
-> not allowing distraction to interfere, "sideshows" or "prizes of lesser value" that keep you from reaching your potential. what are the *real* prizes?<br />
-> a victim mentality can be a sideshow<br />
-> "I could have done more. I could have spoken up more."
-> doubting yourself is a fear of failure; when others doubt you, it's their fear of your success<br />
+- cool having a Black, poor/working class, and Christian perspective on this topic, feels more real and hard-won (even if corporate stuff is not always relevant). worth listening purely for the narrator. more memoir-y than the description leads you to believe, but in a good way. some cringe bits.<br />
+- "an unwavering commitment to your why" really sums it up<br />
+- vernon jordan who was (paraphrasing) executing a life plan, not educating others when they make mistakes<br />
+- not allowing distraction to interfere, "sideshows" or "prizes of lesser value" that keep you from reaching your potential. what are the *real* prizes?<br />
+- a victim mentality can be a sideshow<br />
+- "I could have done more. I could have spoken up more."
+- doubting yourself is a fear of failure; when others doubt you, it's their fear of your success<br />
 <br />
 
 </details>
@@ -1001,13 +1014,13 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Lifting Heavy Things: Healing Trauma One Rep at a Time (Laura Khoudari)</summary>
 
 <br />
-> got like 40% in and felt that was enough<br />
-> this book is nice and comforting<br />
-> weights as a movement practice, like yoga<br />
-> "suddenly feel weird and unsafe in familiar environments or relationships"<br />
-> exercise good for all sorts of systems you cant see<br />
-> modelling self compassion and a healthy self relationship as a way to help others<br />
-> dissociation as a survival strategy<br />
+- got like 40% in and felt that was enough<br />
+- this book is nice and comforting<br />
+- weights as a movement practice, like yoga<br />
+- "suddenly feel weird and unsafe in familiar environments or relationships"<br />
+- exercise good for all sorts of systems you cant see<br />
+- modelling self compassion and a healthy self relationship as a way to help others<br />
+- dissociation as a survival strategy<br />
 <br />
 
 </details>
@@ -1015,20 +1028,20 @@ Starling Days (Rowan Hisayo Buchanan)
 <details>
 <summary>Help, Thanks, Wow (Anne Lamott)</summary>
 
-> this book is really special. excellent writing, touching and compassionate with a sense of humor<br />
-> contains animal suffering and death<br />
-> keeping prayer simple<br />
-> "Please help me not to be such an asshole."<br />
-> "I am existentially sick to death of death."<br />
-> (to God) "What on Earth could you be thinking?"<br />
-> people are disappointing<br />
-> interesting she was raised in a non-religious family<br />
-> "Help for the sick and hungry, home for the homeless folk, peace in the world forever. This is my prayer, O Lord. Amen."<br />
-> "the wrinkly peaks of maturity"<br />
-> too much time in the old testament hahhaaha<br />
-> God's idea of a good time is picking up litter, serving food at the soup kitchen, or calling a relative who nobody else talks to<br />
-> sin is a hard heart, a lack of generosity<br />
-> dieting as time wasted<br />
+- this book is really special. excellent writing, touching and compassionate with a sense of humor<br />
+- contains animal suffering and death<br />
+- keeping prayer simple<br />
+- "Please help me not to be such an asshole."<br />
+- "I am existentially sick to death of death."<br />
+- (to God) "What on Earth could you be thinking?"<br />
+- people are disappointing<br />
+- interesting she was raised in a non-religious family<br />
+- "Help for the sick and hungry, home for the homeless folk, peace in the world forever. This is my prayer, O Lord. Amen."<br />
+- "the wrinkly peaks of maturity"<br />
+- too much time in the old testament hahhaaha<br />
+- God's idea of a good time is picking up litter, serving food at the soup kitchen, or calling a relative who nobody else talks to<br />
+- sin is a hard heart, a lack of generosity<br />
+- dieting as time wasted<br />
 
 </details>
 
@@ -1038,8 +1051,8 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Lola Quartet (Emily St. John Mandel)</summary>
 
 <br />
-> if the catcher in the rye were set during the gfc. this author always produces such beautiul writing. really unique and heartbreaking look at failed/broken dreams and, specifically, poverty, unemployment, drug problems. all the foreclosure content makes me very sad so i got like 2/3 through<br />
-> "You know what your problem is? You don't want to work at a newspaper, per se. You want to work in 1925."<br />
+- if the catcher in the rye were set during the gfc. this author always produces such beautiul writing. really unique and heartbreaking look at failed/broken dreams and, specifically, poverty, unemployment, drug problems. all the foreclosure content makes me very sad so i got like 2/3 through<br />
+- "You know what your problem is? You don't want to work at a newspaper, per se. You want to work in 1925."<br />
 <br />
 
 </details>
@@ -1048,9 +1061,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Last Night in Montreal (Emily St. John Mandel)</summary>
 
 <br />
-> beautiful, such a deep insight into every day life<br />
-> ancient and endangered language vibes, really poetic. also chilling in a random city vibes<br />
-> "I don't mind not being the hero of the story. I don't mind being the shepherd, watching you fly out over the sea with your child."<br />
+- beautiful, such a deep insight into every day life<br />
+- ancient and endangered language vibes, really poetic. also chilling in a random city vibes<br />
+- "I don't mind not being the hero of the story. I don't mind being the shepherd, watching you fly out over the sea with your child."<br />
 <br />
 
 </details>
@@ -1059,9 +1072,9 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>The Poet's Dog (Patricia MacLachlan)</summary>
 
 <br />
-> doggy<br />
-> getting sad when the storm ends is such a vibe<br />
-> this book actually kills me its so beautiful<br />
+- doggy<br />
+- getting sad when the storm ends is such a vibe<br />
+- this book actually kills me its so beautiful<br />
 <br />
 
 </details>
@@ -1070,11 +1083,11 @@ Starling Days (Rowan Hisayo Buchanan)
 <summary>Sea of Tranquility (Emily St. John Mandel) (R)</summary>
 
 <br />
-> I dearly love this book<br />
-> "We were still thinking in terms of getting work done. The most shocking thing in retrospect was the degree to which we all completely missed the point."<br />
-> "I'm more interested in this than, well, anything I can remember."<br />
-> "There were certain friends he didn't miss. He was quietly applying for new jobs."<br />
-> "When have we ever believed that the world wasn't ending? [...] We long secretly for a world with less technology in it."<br />
+- I dearly love this book<br />
+- "We were still thinking in terms of getting work done. The most shocking thing in retrospect was the degree to which we all completely missed the point."<br />
+- "I'm more interested in this than, well, anything I can remember."<br />
+- "There were certain friends he didn't miss. He was quietly applying for new jobs."<br />
+- "When have we ever believed that the world wasn't ending? [...] We long secretly for a world with less technology in it."<br />
 <br />
 
 </details>
@@ -1258,15 +1271,15 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <details>
 <summary>The Chromatic Fantasy (H.A.)</summary>
 
-> absolute perfection. funniest and most touching thing ive read in a long time.<br />
-> unironically think its a best-ever book<br />
-> just outstanding originality and honesty and also just hysterical<br />
-> esoteric trans guy camp bullshit<br />
-> I wrote this because I was really sad<br />
-> Julius Caesar never could have even met Mary Magdalene!! And he hated sucking dick!!<br />
-> Julius Caesar, you have sucked your last dick! Now, I will be giving **your** head... to the people of Rome!<br />
-> We'll die no matter what. There's no need to rush it.<br />
-> Holy shit, I'm obsessed with your single chair no table setup! I lived in a house like this when I first experienced psychosis.<br />
+- absolute perfection. funniest and most touching thing ive read in a long time.<br />
+- unironically think its a best-ever book<br />
+- just outstanding originality and honesty and also just hysterical<br />
+- esoteric trans guy camp bullshit<br />
+- I wrote this because I was really sad<br />
+- Julius Caesar never could have even met Mary Magdalene!! And he hated sucking dick!!<br />
+- Julius Caesar, you have sucked your last dick! Now, I will be giving **your** head... to the people of Rome!<br />
+- We'll die no matter what. There's no need to rush it.<br />
+- Holy shit, I'm obsessed with your single chair no table setup! I lived in a house like this when I first experienced psychosis.<br />
 <br />
 
 </details>
@@ -1274,8 +1287,8 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <details>
 <summary>Paper Love (Jae)</summary>
 
-> Verdict: A. What a comfort book! Germany! Rain! And a business consultant reforming a stationery store, no less. Fun and cozy.<br />
-> "There's no place for sentimentality in business" is that a Monty Python reference hahahaha<br />
+- Verdict: A. What a comfort book! Germany! Rain! And a business consultant reforming a stationery store, no less. Fun and cozy.<br />
+- "There's no place for sentimentality in business" is that a Monty Python reference hahahaha<br />
 <br />
 
 </details>
@@ -1283,8 +1296,8 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <details>
 <summary>Must Love Silence (Lucy Bexley) (R)</summary>
 
-> biggest vibe. checks out.<br />
-> (re-read)<br />
+- biggest vibe. checks out.<br />
+- (re-read)<br />
 <br />
 
 </details>
@@ -1292,14 +1305,14 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <details>
 <summary>Late Bloomer (Mazey Eddings)</summary>
 
-> Verdict: A-. It's funny! It's mostly well-written and very wholesome (occasionally on the nose - but hey, it's a rom com about a flower farm). relatable and endearing mess of a main character<br />
-> autism rep! I really, really feel for Pepper's dread and discomfort at the start. and migraines rep.<br />
-> vague criticism that a couple of the subplots are solved simply because relatives have wealth<br />
-> "Don't call the flowers sluts."<br />
-> "I've discovered the cure to indecent thoughts about one's roommate. Spreadsheets."<br />
-> "All my clothes are the perfect sensory texture. I'm nowhere near stable enough to introduce new fabrics!"<br />
-> "I'm a 5'2" human disaster with green hair. What part of me is scary?"<br />
-> "Me telling you it's time to get up is not a hate crime."<br />
+- Verdict: A-. It's funny! It's mostly well-written and very wholesome (occasionally on the nose - but hey, it's a rom com about a flower farm). relatable and endearing mess of a main character<br />
+- autism rep! I really, really feel for Pepper's dread and discomfort at the start. and migraines rep.<br />
+- vague criticism that a couple of the subplots are solved simply because relatives have wealth<br />
+- "Don't call the flowers sluts."<br />
+- "I've discovered the cure to indecent thoughts about one's roommate. Spreadsheets."<br />
+- "All my clothes are the perfect sensory texture. I'm nowhere near stable enough to introduce new fabrics!"<br />
+- "I'm a 5'2" human disaster with green hair. What part of me is scary?"<br />
+- "Me telling you it's time to get up is not a hate crime."<br />
 <br />
 
 </details>
@@ -1307,10 +1320,10 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <details>
 <summary>Improbable Magic for Cynical Witches (Kate Scelsa)</summary>
 
-> verdict: strong A. its lovely and touching, coming of age with depression and alienation and reclaiming a messed up history and living with trauma. also beautiful social anxiety, loneliness, and lyme disease rep. feel very seen. some of the specifics are a bit on the nose but the protagonist is so, so relatable and endearing that it sorta works.<br />
-> how lucky to have a friend like susan!<br />
-> "this is what ive been reduced to; needing my mother's password to try to make a few friends"<br />
-> "what if you were enough, all on your own?"<br />
+- verdict: strong A. its lovely and touching, coming of age with depression and alienation and reclaiming a messed up history and living with trauma. also beautiful social anxiety, loneliness, and lyme disease rep. feel very seen. some of the specifics are a bit on the nose but the protagonist is so, so relatable and endearing that it sorta works.<br />
+- how lucky to have a friend like susan!<br />
+- "this is what ive been reduced to; needing my mother's password to try to make a few friends"<br />
+- "what if you were enough, all on your own?"<br />
 <br />
 
 </details>
@@ -1318,12 +1331,12 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <details>
 <summary>Something's Different (Quinn Ivins)</summary>
 
-> B+, it's good fun, academic office politics and a slow burn romance. flirting over linear models and antidepressants hahahah<br />
-> "thank god for my zoloft"<br />
-> "the formatting was hideous! nice slide, jackass"<br />
-> caitlin's anxiety/ocd/catastrophising resonates very strongly, and overachieving as a defense mechanism<br />
-> her family is a bit harsh given what she did for them!<br />
-> (contains cockroach death :()<br />
+- B+, it's good fun, academic office politics and a slow burn romance. flirting over linear models and antidepressants hahahah<br />
+- "thank god for my zoloft"<br />
+- "the formatting was hideous! nice slide, jackass"<br />
+- caitlin's anxiety/ocd/catastrophising resonates very strongly, and overachieving as a defense mechanism<br />
+- her family is a bit harsh given what she did for them!<br />
+- (contains cockroach death :()<br />
 <br />
 
 </details>
@@ -1331,10 +1344,10 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <details>
 <summary>The Coldest Touch (Isabel Sterling)</summary>
 
-> got to about 75%, stopped because became pretty violent. this book is real. pretty intense look at grief and secondary trauma and depression. this is one traumatised kid.<br />
-> plot feels slightly undercooked<br />
-> i feel like these vampires are bad at project management. like paying for clares vampire therapist would have to have like a 10x ROI for the vampires. i could go on.<br />
-> (contains a frog dissection)<br />
+- got to about 75%, stopped because became pretty violent. this book is real. pretty intense look at grief and secondary trauma and depression. this is one traumatised kid.<br />
+- plot feels slightly undercooked<br />
+- i feel like these vampires are bad at project management. like paying for clares vampire therapist would have to have like a 10x ROI for the vampires. i could go on.<br />
+- (contains a frog dissection)<br />
 <br />
 
 </details>
@@ -1342,39 +1355,39 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <details>
 <summary>Make the Season Bright (Ashley Herring Blake)</summary>
 
-> its good, clear A. really well-written. a gay, vaguely antisocial classical musician who hates december.<br />
+- its good, clear A. really well-written. a gay, vaguely antisocial classical musician who hates december.<br />
 
 </details>
 
 <details>
 <summary>The Brightness Between Us (Eliot Schrefer)</summary>
 
-> Extremely good, a worthy follow up to the first book (no easy task). Very well put together (a challenging task given the many moving pieces in the story).<br />
-> great science. love all the little details of the planet<br />
-> i vibe with early-book yarrow<br />
-> delicious cameo of the indonesia radio signal from the previous book<br />
-> the bit with kodiak the sheep is really beautiful<br />
-> (death of infants; violent death of animals; and the bit with the earth animals makes me sad)<br />
+- Extremely good, a worthy follow up to the first book (no easy task). Very well put together (a challenging task given the many moving pieces in the story).<br />
+- great science. love all the little details of the planet<br />
+- i vibe with early-book yarrow<br />
+- delicious cameo of the indonesia radio signal from the previous book<br />
+- the bit with kodiak the sheep is really beautiful<br />
+- (death of infants; violent death of animals; and the bit with the earth animals makes me sad)<br />
 
 </details>
 
 <details>
 <summary>How You Get the Girl (Anita Kelly)</summary>
 
-> Verdict: A-/B+. quite heartwarming and wholesome; enjoyable and refreshingly strong implementation of the genre. Nice mental health content. BUCKY THE PIG!<br />
-> minor gripes: some of the details of the romance plot feel vaguely juvenile; the coach babysitting one of the players feels a bit off; weird that the characters, given their politics, aren't critical of thanksgiving<br />
-> I love the first name "London"<br />
+- Verdict: A-/B+. quite heartwarming and wholesome; enjoyable and refreshingly strong implementation of the genre. Nice mental health content. BUCKY THE PIG!<br />
+- minor gripes: some of the details of the romance plot feel vaguely juvenile; the coach babysitting one of the players feels a bit off; weird that the characters, given their politics, aren't critical of thanksgiving<br />
+- I love the first name "London"<br />
 
 </details>
 
 <details>
 <summary>All Our Hidden Gifts (Caroline O'Donoghue)</summary>
 
-> Verdict: A. Really sweet and touching, high school drama about loneliness and guilt featuring a cursed Tarot deck and genderqueer rep! Very original<br />
-> also strong subplot about queer backlash :( hate crimes in ch32 and 36 :(<br />
-> It has some similarities with Sarah Jane Adventures (the Doctor Who spinoff) in that there are children making wild crackpot theories based on nothing and those theories turn out to be exactly right, probably the book's only weakness<br />
-> "Er, Ro doesn't *get* metaphors because he's a Protestant" hahahahahaha<br />
-> "Oh, you're all pro-woman and genderqueer until I start talking about my period" hahaha<br />
+- Verdict: A. Really sweet and touching, high school drama about loneliness and guilt featuring a cursed Tarot deck and genderqueer rep! Very original<br />
+- also strong subplot about queer backlash :( hate crimes in ch32 and 36 :(<br />
+- It has some similarities with Sarah Jane Adventures (the Doctor Who spinoff) in that there are children making wild crackpot theories based on nothing and those theories turn out to be exactly right, probably the book's only weakness<br />
+- "Er, Ro doesn't *get* metaphors because he's a Protestant" hahahahahaha<br />
+- "Oh, you're all pro-woman and genderqueer until I start talking about my period" hahaha<br />
 <br />
 
 </details>
@@ -1382,7 +1395,7 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <details>
 <summary>It Started with a Kiss (Clare Lydon)</summary>
 <br />
-> B/B-. Bread and butter. I like the running-a-business/ops vibes.
+- B/B-. Bread and butter. I like the running-a-business/ops vibes.
 
 <br />
 </details>
@@ -1390,12 +1403,12 @@ Did not finish. Struggled to get into this one. I picked this due to the narrato
 <details>
 <summary>The History of Living Forever (Jake Wolff)</summary>
 <br />
-> Verdict: A. This book is a gem. Beautiful and heartbreaking. Extremely well-written. The loneliness of super smart people. The narrator/protagonist is quite funny. It's like a dark academia version of Lolita set in a contemporary high school. A bit of discomfort (drugs, travel, etc) but it works well. Ending was satisfying too.<br />
-> It's got a similar sense of deep moral discomfort and an adult's betrayal of a child as Lolita (in a weird way it feels refreshing to read about a really unhealthy queer relationship; I know many would disagree but I feel like I'm at that point). This man is truly unhinged.<br />
-> contains animal experimentation and death; also multiple explicit autopsies<br />
-> "I should clarify, for the record, that Sammy's relationship with me was against the law."<br />
-> "'I'll call the police!' It was the first time I'd seen one of those devices [an emergency falls alarm] used for the purpose of intimidation." hahahahaha!<br />
-> "Radkin, for all his menace, had a nine-to-five."
+- Verdict: A. This book is a gem. Beautiful and heartbreaking. Extremely well-written. The loneliness of super smart people. The narrator/protagonist is quite funny. It's like a dark academia version of Lolita set in a contemporary high school. A bit of discomfort (drugs, travel, etc) but it works well. Ending was satisfying too.<br />
+- It's got a similar sense of deep moral discomfort and an adult's betrayal of a child as Lolita (in a weird way it feels refreshing to read about a really unhealthy queer relationship; I know many would disagree but I feel like I'm at that point). This man is truly unhinged.<br />
+- contains animal experimentation and death; also multiple explicit autopsies<br />
+- "I should clarify, for the record, that Sammy's relationship with me was against the law."<br />
+- "'I'll call the police!' It was the first time I'd seen one of those devices [an emergency falls alarm] used for the purpose of intimidation." hahahahaha!<br />
+- "Radkin, for all his menace, had a nine-to-five."
 
 <br /></details>
 
@@ -1569,33 +1582,33 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <details>
 <summary>Late Bloomer: How an Autism Diagnosis Changed My Life (Clem Bastow)</summary>
 
-> dont love the diagnosis language but respect that they feel differently; this book makes me feel extremely seen<br />
-> selectively forgetting not interesting stuff<br />
-> crushing homesickness<br />
-> goddamn i hate nazism<br />
-> and police violence :(<br />
-> reading the wikipedia citations hahaha<br />
-> "the lost generation", people who, had they been born in the 21st century, wouldve been recognised as autistic at age 6 or 8<br />
-> clothing tags<br />
-> fear of skin picking!<br />
-> worst case scenario and catastrophising, easier to imagine (clem bastow)<br />
-> repeating phrases from long forgotten media hahahahaha<br />
-> eating disorders and trouble eating; nothing wrong with autistic kids finding comfort in certain foods; eating the same thing every day<br />
-> comfort in formulaic and predictable plots, looking up spoilers in advance<br />
-> school uniform textures (!)<br />
-> fucking hate child abuse<br />
-> musicals as stimming!<br />
-> "vivid inner world"<br />
-> school refusal<br />
-> "if we suffer from anything, it's too much empathy"<br />
-> "an inhuman ability to produce reams of content" !!!!!!!<br />
-> autistic burnout<br />
-> freelance and remote work (irl a "social and sensory nightmare")<br />
-> abusive boyfriends make me sad<br />
-> feminist media and "the demand to perform trauma"<br />
-> becoming more comfortable living as obviously autistic with age<br />
-> difficulty following conversations in loud environment<br />
-> "pathological need for justice"<br />
+- dont love the diagnosis language but respect that they feel differently; this book makes me feel extremely seen<br />
+- selectively forgetting not interesting stuff<br />
+- crushing homesickness<br />
+- goddamn i hate nazism<br />
+- and police violence :(<br />
+- reading the wikipedia citations hahaha<br />
+- "the lost generation", people who, had they been born in the 21st century, wouldve been recognised as autistic at age 6 or 8<br />
+- clothing tags<br />
+- fear of skin picking!<br />
+- worst case scenario and catastrophising, easier to imagine (clem bastow)<br />
+- repeating phrases from long forgotten media hahahahaha<br />
+- eating disorders and trouble eating; nothing wrong with autistic kids finding comfort in certain foods; eating the same thing every day<br />
+- comfort in formulaic and predictable plots, looking up spoilers in advance<br />
+- school uniform textures (!)<br />
+- fucking hate child abuse<br />
+- musicals as stimming!<br />
+- "vivid inner world"<br />
+- school refusal<br />
+- "if we suffer from anything, it's too much empathy"<br />
+- "an inhuman ability to produce reams of content" !!!!!!!<br />
+- autistic burnout<br />
+- freelance and remote work (irl a "social and sensory nightmare")<br />
+- abusive boyfriends make me sad<br />
+- feminist media and "the demand to perform trauma"<br />
+- becoming more comfortable living as obviously autistic with age<br />
+- difficulty following conversations in loud environment<br />
+- "pathological need for justice"<br />
 <br />
 
 </details>
@@ -1603,18 +1616,18 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <details>
 <summary>Tomorrow Will Be Different: Love, Loss, and the Fight for Trans Equality (Sarah McBride)</summary>
 
-> simply one of the best books ever. very possibly the best non-fiction book ive ever read (which is saying something!)<br />
-> she is a very thoughtful woman! both politically and strategically. with some serious intestinal fortitude.<br />
-> the impression that one's dreams and one's identity are mutually exclusive<br />
-> coming out as helping someone else process their emotional journey hahahahha<br />
-> dysphoria as analogous to a feeling of homesickness<br />
-> having no references for successful trans people<br />
-> imagine having the governor of delaware to help you come out to your parents hahahaha<br />
-> book feels a bit like its aiming to educate cis people, but only partially<br />
-> having to learn how to not smile at strangers<br />
-> "Welcome to the White House, Ms McBride." beautiful<br />
-> during the toxic senate debate on the trans equal protection bill and she just gets fed up and sends herself in hahaha what a legend<br />
-> had to skip a lot of the content around Andy's death, which I found too difficult to read<br />
+- simply one of the best books ever. very possibly the best non-fiction book ive ever read (which is saying something!)<br />
+- she is a very thoughtful woman! both politically and strategically. with some serious intestinal fortitude.<br />
+- the impression that one's dreams and one's identity are mutually exclusive<br />
+- coming out as helping someone else process their emotional journey hahahahha<br />
+- dysphoria as analogous to a feeling of homesickness<br />
+- having no references for successful trans people<br />
+- imagine having the governor of delaware to help you come out to your parents hahahaha<br />
+- book feels a bit like its aiming to educate cis people, but only partially<br />
+- having to learn how to not smile at strangers<br />
+- "Welcome to the White House, Ms McBride." beautiful<br />
+- during the toxic senate debate on the trans equal protection bill and she just gets fed up and sends herself in hahaha what a legend<br />
+- had to skip a lot of the content around Andy's death, which I found too difficult to read<br />
 <br />
 
 </details>
@@ -1622,11 +1635,11 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <details>
 <summary>Shortest Way Home: One Mayor's Challenge and a Model to America's Future (Pete Buttigieg)</summary>
 
-> got like 50% through. beautifully written, strikes me as a pretty sensible and compassionate, if very conventional, guy; just made me tired to read about all this hand-shaking.<br />
-> mentions romero! partially stimulated his interest in human rights<br />
-> "For others, work can only be meaningful if its fundamental purpose is in things that would matter even if no-one would pay you to care about them."<br />
-> "There is something jarring about the idea that anyone thinks himself truly fit to perform the tremendously difficult and sensitive tasks of public office."<br />
-> the extremely local and retail politics gives me the heeby-jeebies. all those *people*!<br />
+- got like 50% through. beautifully written, strikes me as a pretty sensible and compassionate, if very conventional, guy; just made me tired to read about all this hand-shaking.<br />
+- mentions romero! partially stimulated his interest in human rights<br />
+- "For others, work can only be meaningful if its fundamental purpose is in things that would matter even if no-one would pay you to care about them."<br />
+- "There is something jarring about the idea that anyone thinks himself truly fit to perform the tremendously difficult and sensitive tasks of public office."<br />
+- the extremely local and retail politics gives me the heeby-jeebies. all those *people*!<br />
 <br />
 
 </details>
@@ -1634,11 +1647,11 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <details>
 <summary>The Autobiography of Malcolm X</summary>
 
-> how much suffering<br />
-> only got 50% through and even then had to pace myself with this one, both due to the subject matter and it's just challenging to spend too much time in this guy's head. one of the simultaneous crackpot and visionary types.<br />
-> "that they will even violate and mutilate their God-created bodies to try to look pretty by white standards"<br />
-> "Any person who claims to have deep feelings for other human beings should think a long, long time before he votes to have other men kept behind bars, caged. I'm not saying there shouldn't be prisons. But there shouldn't be bars."<br />
-> (depictions of animal slaughter, as well as a great deal of violence against humans)<br />
+- how much suffering<br />
+- only got 50% through and even then had to pace myself with this one, both due to the subject matter and it's just challenging to spend too much time in this guy's head. one of the simultaneous crackpot and visionary types.<br />
+- "that they will even violate and mutilate their God-created bodies to try to look pretty by white standards"<br />
+- "Any person who claims to have deep feelings for other human beings should think a long, long time before he votes to have other men kept behind bars, caged. I'm not saying there shouldn't be prisons. But there shouldn't be bars."<br />
+- (depictions of animal slaughter, as well as a great deal of violence against humans)<br />
 <br />
 
 </details>
@@ -1647,24 +1660,24 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <summary>Thomas Jefferson: The Art of Power (John Meacham)</summary>
 
 
-> Once again an excellent biography on an excellent subject from this biographer. It's a challenge to make this subject feel new but this writer does so, and without shying away from the (many) ugly bits.<br />
-> the underappreciated dynasty (jefferson, madison, monroe, van buren)<br />
-> hated arguing, avoided face to face conflict, actually not a great orator so didn't speak in front of crowds much and cultivated writing and conversation instead<br />
-> born into extreme privilege, obviously, enjoyed the high life<br />
-> owned over 600 slaves aye aye aye<br />
-> bit of a wannabe womanizer<br />
-> didnt know he was *comparatively* progressive on slavery, though on one occasion basically advocated for the genocide of Native Americans<br />
-> complained when his documents were critiqued and edited by the congress hahahahahah same<br />
-> "Rebellion to tyrants is obedience to God."<br />
-> Virginia's legislature almost voted to establish a dictatorship! actually makes sense given all that talk about importing a monarch<br />
-> the grief over his wife's death is very touching<br />
-> "We are therefore never safe til our magazines are filled with arms."<br />
-> the whole thing with Sally Hemmings, while certainly nauseating and heartbreaking, is told here in a level-headed balanced way that I think works well. Hemmings is a very crafty and strong operator.<br />
-> intense animosity and occasional gridlock within the congress even at this early stage<br />
-> the alien and sedition acts were more messed up than i thought!<br />
-> hamilton straight up tried to illegally overturn jefferson's election win, and jefferson's supporters spoke of marching on the capitol!<br />
-> pet mockingbirds as president!<br />
-> concerns about blind party loyalty; heaps of impeachment happening at this early stage; federalists stacking the judiciary<br />
+- Once again an excellent biography on an excellent subject from this biographer. It's a challenge to make this subject feel new but this writer does so, and without shying away from the (many) ugly bits.<br />
+- the underappreciated dynasty (jefferson, madison, monroe, van buren)<br />
+- hated arguing, avoided face to face conflict, actually not a great orator so didn't speak in front of crowds much and cultivated writing and conversation instead<br />
+- born into extreme privilege, obviously, enjoyed the high life<br />
+- owned over 600 slaves aye aye aye<br />
+- bit of a wannabe womanizer<br />
+- didnt know he was *comparatively* progressive on slavery, though on one occasion basically advocated for the genocide of Native Americans<br />
+- complained when his documents were critiqued and edited by the congress hahahahahah same<br />
+- "Rebellion to tyrants is obedience to God."<br />
+- Virginia's legislature almost voted to establish a dictatorship! actually makes sense given all that talk about importing a monarch<br />
+- the grief over his wife's death is very touching<br />
+- "We are therefore never safe til our magazines are filled with arms."<br />
+- the whole thing with Sally Hemmings, while certainly nauseating and heartbreaking, is told here in a level-headed balanced way that I think works well. Hemmings is a very crafty and strong operator.<br />
+- intense animosity and occasional gridlock within the congress even at this early stage<br />
+- the alien and sedition acts were more messed up than i thought!<br />
+- hamilton straight up tried to illegally overturn jefferson's election win, and jefferson's supporters spoke of marching on the capitol!<br />
+- pet mockingbirds as president!<br />
+- concerns about blind party loyalty; heaps of impeachment happening at this early stage; federalists stacking the judiciary<br />
 <br />
 
 </details>
@@ -1672,29 +1685,29 @@ Verdict: B, maybe B+. Good fun. Excellent writing. The relationship dynamic is a
 <details>
 <summary>William Wilberforce: A Hero for Humanity (Kevin Belmonte)</summary>
 <br />
-> Perfection. An excellent biography of a truly great man. The biography is all the more readable for being thematic rather than chronological, though it occasionally leans slightly into hagiography.<br />
-> I wish I could be friends with Wilberforce! I think he would get along with the EAA crowd, especially given his significant animal welfare advocacy.<br />
-> It always strikes me that many of the greatest reformers in history (Paul, Wilberforce, Nightingale, King) come from comparatively privileged upbringings.<br />
-> Didn't realise he was around for the height of the American revolutionary war and on at least one occasion hung out with Franklin and Lafayette, plus friends with John Jay and John Quincy Adams (!). And he was besties with *that* Pitt. And friends with Bentham maybe? And as an abolitionist, collaborator with William Smith, grandfather of Florence Nightinggale! Influenced Victoria (*that* Victoria) directly and indirectly. Sponsored the education of the Brontes.<br />
-> even after his Great Change, very conscientious and considerate about what specific religious doctrines he assented to<br />
-> the brief consideration about leaving public life which we are *very* fortunate he didn't act on; similar to my "against kindness" blog post and Thay's "Buddhas are found in places of suffering" in that it's about doing as much good as we can, not chasing purity (the "Eusabian temptation" as the author puts it); as Wilberforce puts it "to consider our pecular situation and then to do all the good we can"<br />
-> answering the question "Who is my neighbour" (in  the context of Jesus's two commandments) by looking at the story of the Good Samaritan - yep that's an elegant and powerful way of looking at things<br />
-> a huge bookworm and big on self-improvement<br />
-> chronic illness<br />
-> basically took the GWWC pledge hahahaha<br />
-> of course faced huge amounts of "venom and vitriol" from his opponents
+- Perfection. An excellent biography of a truly great man. The biography is all the more readable for being thematic rather than chronological, though it occasionally leans slightly into hagiography.<br />
+- I wish I could be friends with Wilberforce! I think he would get along with the EAA crowd, especially given his significant animal welfare advocacy.<br />
+- It always strikes me that many of the greatest reformers in history (Paul, Wilberforce, Nightingale, King) come from comparatively privileged upbringings.<br />
+- Didn't realise he was around for the height of the American revolutionary war and on at least one occasion hung out with Franklin and Lafayette, plus friends with John Jay and John Quincy Adams (!). And he was besties with *that* Pitt. And friends with Bentham maybe? And as an abolitionist, collaborator with William Smith, grandfather of Florence Nightinggale! Influenced Victoria (*that* Victoria) directly and indirectly. Sponsored the education of the Brontes.<br />
+- even after his Great Change, very conscientious and considerate about what specific religious doctrines he assented to<br />
+- the brief consideration about leaving public life which we are *very* fortunate he didn't act on; similar to my "against kindness" blog post and Thay's "Buddhas are found in places of suffering" in that it's about doing as much good as we can, not chasing purity (the "Eusabian temptation" as the author puts it); as Wilberforce puts it "to consider our pecular situation and then to do all the good we can"<br />
+- answering the question "Who is my neighbour" (in  the context of Jesus's two commandments) by looking at the story of the Good Samaritan - yep that's an elegant and powerful way of looking at things<br />
+- a huge bookworm and big on self-improvement<br />
+- chronic illness<br />
+- basically took the GWWC pledge hahahaha<br />
+- of course faced huge amounts of "venom and vitriol" from his opponents
 
 <br /></details>
 
 <details>
 <summary>Franklin and Winston: An Intimate Portrait of an Epic Friendship (Jon Meacham)</summary>
 <br />
-> Really excellent. Outstanding writing.<br />
-> Vaguely irritated by the uncritical "Churchill good, Axis bad" characterisation of the war. Though I certainly agree that Churchill fellow was one hell of a leader.<br />
-> "It is fun to be in the same decade as you."<br />
-> FDR as a "frustrated clergyman at heart"<br />
-> Roosevelt "had about a hundred ideas a day, four of which were good" hahahaha<br />
-> This outstanding bit about rest: "... Roosevelt slept well. At the pinnacle of their power and responsibilities during the war, both men did. They knew there would be another fight another day, probably the very next day, and that energy spent fretting about what could not be undone was wasted."
+- Really excellent. Outstanding writing.<br />
+- Vaguely irritated by the uncritical "Churchill good, Axis bad" characterisation of the war. Though I certainly agree that Churchill fellow was one hell of a leader.<br />
+- "It is fun to be in the same decade as you."<br />
+- FDR as a "frustrated clergyman at heart"<br />
+- Roosevelt "had about a hundred ideas a day, four of which were good" hahahaha<br />
+- This outstanding bit about rest: "... Roosevelt slept well. At the pinnacle of their power and responsibilities during the war, both men did. They knew there would be another fight another day, probably the very next day, and that energy spent fretting about what could not be undone was wasted."
 
 <br /></details>
 
@@ -1713,28 +1726,28 @@ advocated for more M&E of government's laws; a fan of Marcus Aurelius's Meditati
 <details>
 <summary>Tackling Stereotype: Corporeal Reflexivity and Politics of Play in Women’s Rugby (Charlotte Branchu)</summary>
 
-> Just outstanding!<br />
-> (cw: final paragraphs talk about a ban on trans women)<br />
-> rugby as a space and an activity<br />
-> "it is dangerous both physically and morally" on women's rugby<br />
-> physical risk to women in large part caused by the fact that they arent encouraged to become strong and train from a young age<br />
-> questioning the sex of women who do not conform to specific gender roles<br />
-> "Politics are undeniably acted through and within sport."<br />
-> re unequal treatment of women in sport "Women athletes are never just athletes. They are sexualised, reduced to mothers, potential heterosexual partners, or denied their womanhood altogether."<br />
-> sex tests<br />
-> women cannot perform well or succeed without raising questions (!!!!!!!!!!!!! all those transphobic articles)<br />
-> "the good pain", the physical sensation of feeling one's body and one's strength<br />
-> lesbians as sexual predators who invade sports and especially changing room<br />
-> makes deviance a way of life<br />
-> position as identity<br />
-> external standards of fear and violence<br />
-> when one cannot play, feeling like one is "slipping away from the team"<br />
-> learning to care for your own body; not always feel cared for and appreciated by medical professionals ("normative expectations of white male dominance")<br />
-> "My body is doing what I want it to do and it's working for me and it's more than something to look at."<br />
-> confidence that comes from knowing one's strength and overcoming challenges in rugby can translate to other spheres; biology is far from fixed and the bar can be raised<br />
-> "it is something to take very seriously and it is just a game"<br />
-> "came for the sport, stayed for the girls"<br />
-> fluidity and mundanity of same sex relationships and sexual activity, frequently within the team, though rarely using the word "lesbian"; more like "gay" or "girls who like girls" or triggering an identity/sexuality crisis. liberating to be away from men and the male gaze.<br />
+- Just outstanding!<br />
+- (cw: final paragraphs talk about a ban on trans women)<br />
+- rugby as a space and an activity<br />
+- "it is dangerous both physically and morally" on women's rugby<br />
+- physical risk to women in large part caused by the fact that they arent encouraged to become strong and train from a young age<br />
+- questioning the sex of women who do not conform to specific gender roles<br />
+- "Politics are undeniably acted through and within sport."<br />
+- re unequal treatment of women in sport "Women athletes are never just athletes. They are sexualised, reduced to mothers, potential heterosexual partners, or denied their womanhood altogether."<br />
+- sex tests<br />
+- women cannot perform well or succeed without raising questions (!!!!!!!!!!!!! all those transphobic articles)<br />
+- "the good pain", the physical sensation of feeling one's body and one's strength<br />
+- lesbians as sexual predators who invade sports and especially changing room<br />
+- makes deviance a way of life<br />
+- position as identity<br />
+- external standards of fear and violence<br />
+- when one cannot play, feeling like one is "slipping away from the team"<br />
+- learning to care for your own body; not always feel cared for and appreciated by medical professionals ("normative expectations of white male dominance")<br />
+- "My body is doing what I want it to do and it's working for me and it's more than something to look at."<br />
+- confidence that comes from knowing one's strength and overcoming challenges in rugby can translate to other spheres; biology is far from fixed and the bar can be raised<br />
+- "it is something to take very seriously and it is just a game"<br />
+- "came for the sport, stayed for the girls"<br />
+- fluidity and mundanity of same sex relationships and sexual activity, frequently within the team, though rarely using the word "lesbian"; more like "gay" or "girls who like girls" or triggering an identity/sexuality crisis. liberating to be away from men and the male gaze.<br />
 <br />
 
 </details>
@@ -1742,17 +1755,17 @@ advocated for more M&E of government's laws; a fan of Marcus Aurelius's Meditati
 <details>
 <summary>The Social Semiotics of Tattoos: Skin and Self (Chris William Martin)</summary>
 
-> interesting, tattoos as a permanent commitment in an age of liquid modernity (ephemeral consumer culture), a refuge of stability<br />
-> tattoos have multiple meanings, and the meaning of even a specific tattoo can have different meanings over time and space<br />
-> as a body modification form, near universal and extremely persistent<br />
-> 19th and 20th centuries, tattoos were among the thing violently stamped out by Christian missionaries<br />
-> the association with deviance is fairly new and also declining today (especially due to artists' pursuit of higher standards over time), and is heaps problematic in any case<br />
-> "flesh journey"; representing one's journey and others' journeys in flesh<br />
-> the extremely deceptive artist that the author encountered<br />
-> questioning whether tattoos, like film, music, and other art forms, will be monopolised by corporations, it's unusual as an art form that is controlled by individual artists rather than corporations<br />
-> modern custom tattoo shops originate in the 1970s but are now standard<br />
-> "pinterest is the new flash, and instagram is the new portfolio" but most artists wont directly use an internet design, inspiration only; to do with the evolution into an art form (and flash on walls giving way to fine art)<br />
-> the sexuality aspect, e.g. physical attraction to tattooed people<br />
+- interesting, tattoos as a permanent commitment in an age of liquid modernity (ephemeral consumer culture), a refuge of stability<br />
+- tattoos have multiple meanings, and the meaning of even a specific tattoo can have different meanings over time and space<br />
+- as a body modification form, near universal and extremely persistent<br />
+- 19th and 20th centuries, tattoos were among the thing violently stamped out by Christian missionaries<br />
+- the association with deviance is fairly new and also declining today (especially due to artists' pursuit of higher standards over time), and is heaps problematic in any case<br />
+- "flesh journey"; representing one's journey and others' journeys in flesh<br />
+- the extremely deceptive artist that the author encountered<br />
+- questioning whether tattoos, like film, music, and other art forms, will be monopolised by corporations, it's unusual as an art form that is controlled by individual artists rather than corporations<br />
+- modern custom tattoo shops originate in the 1970s but are now standard<br />
+- "pinterest is the new flash, and instagram is the new portfolio" but most artists wont directly use an internet design, inspiration only; to do with the evolution into an art form (and flash on walls giving way to fine art)<br />
+- the sexuality aspect, e.g. physical attraction to tattooed people<br />
 <br />
 
 </details>
@@ -1760,80 +1773,80 @@ advocated for more M&E of government's laws; a fan of Marcus Aurelius's Meditati
 <details>
 <summary>Neuroqueer Heresies (Nick Walker)</summary>
 
-> I think this information is important and worth reading. I find myself getting irked by the way the information is presented, somewhat repetitive etc. So I found some bits extremely useful and others irrelevant, which I skipped - treated the book more like a set of lectures than a single narrative<br />
-> This book makes me feel better about myself and the future of society<br />
-> I disagree with some of the author's strategic details, e.g. focus on (her specific interpretations of) language, her apparent pursuit of a distant utopia. at least in my experience of the animal advocacy movement, I haven't seen these to be terribly effective choices, but of course this is a movement whose day-to-day details I know far less about<br />
-> social anxiety as an oppression and trauma as disproportionately imposed on neurodivergent people by a neurotypical society<br />
-> the essay "What is autism?" makes me feel very seen<br />
-> the quote "Power is the ability not to have to learn."<br />
-> stimming includes fidgets, plus enjoying specific sounds, scents, and sights (bit broader than I previously assumed, but makes perfect sense)<br />
-> she's into zazen. which is actually a bit strange because much of her language and approach is hostile and exclusionary/name-cally, e.g. "stop acting like a fucking cop", which is not in line with Buddhist practice, a shame from an otherwise rigorous and compassionate thinker<br />
-> heteronormativity and neuronormativity as the same oppressive process<br />
-> likewise, neuroqueering as something that is done, analogy with gender and sexuality<br />
-> though the author doesnt reject essentialism totally in either neurodiversity or gender/sexuality, theyre roughly 80/20 constructionist/essentialist but essentialist as "innate tendencies or dispositions" not "shape of genitals"<br />
-> there's no "neurotypical brain" or "autistic brain", just like there's no "male brain" or "female brain", especially as neurotypicality and neurodivergence have a large component of performance and cultural context<br />
+- I think this information is important and worth reading. I find myself getting irked by the way the information is presented, somewhat repetitive etc. So I found some bits extremely useful and others irrelevant, which I skipped - treated the book more like a set of lectures than a single narrative<br />
+- This book makes me feel better about myself and the future of society<br />
+- I disagree with some of the author's strategic details, e.g. focus on (her specific interpretations of) language, her apparent pursuit of a distant utopia. at least in my experience of the animal advocacy movement, I haven't seen these to be terribly effective choices, but of course this is a movement whose day-to-day details I know far less about<br />
+- social anxiety as an oppression and trauma as disproportionately imposed on neurodivergent people by a neurotypical society<br />
+- the essay "What is autism?" makes me feel very seen<br />
+- the quote "Power is the ability not to have to learn."<br />
+- stimming includes fidgets, plus enjoying specific sounds, scents, and sights (bit broader than I previously assumed, but makes perfect sense)<br />
+- she's into zazen. which is actually a bit strange because much of her language and approach is hostile and exclusionary/name-cally, e.g. "stop acting like a fucking cop", which is not in line with Buddhist practice, a shame from an otherwise rigorous and compassionate thinker<br />
+- heteronormativity and neuronormativity as the same oppressive process<br />
+- likewise, neuroqueering as something that is done, analogy with gender and sexuality<br />
+- though the author doesnt reject essentialism totally in either neurodiversity or gender/sexuality, theyre roughly 80/20 constructionist/essentialist but essentialist as "innate tendencies or dispositions" not "shape of genitals"<br />
+- there's no "neurotypical brain" or "autistic brain", just like there's no "male brain" or "female brain", especially as neurotypicality and neurodivergence have a large component of performance and cultural context<br />
 
 </details>
 
 <details>
 <summary>The Contemporary Reader of Gender and Fat Studies (ed Amy Erdman Farrell)</summary>
 
-> 100% certified banger!!! like i think much of the overall vibe i already agreed with at least on a conscious level, but really helps to have it written down in detail and explored from all these angles i hadnt considered. the writing is excellent.<br />
-> despite the fact that I work full-time in trying to dismantle economic systems of oppression, this book has done more to radicalise me than anything I've read in years hahahaha<br />
-> a small number of the essays (like just a couple) strike me as uncritical and one-sided<br />
-> skipped a few that were difficult to read (especially around eating disorders and surgery)<br />
-> (1) adipose tissue exists, but the meaning tied to it is entirely discursive (and wrapped up in other areas of discourse and context, i.e. gender, race, one's occupation, one's culture esp neoliberal and individualist culture)<br />
-> masquerades as being about aesthethics and health<br />
-> (2) "an anti-fat society"<br />
-> "the courtesy of civil inattention" but often not paid when a person is not meeting the standards of the male gaze "emphasised femininity"<br />
-> "obesity epidemic discourse"<br />
-> a form of violence (!!!)<br />
-> femininity is linked with thinness and whiteness (and shortness), causes much suffering in trans and gender non conforming people wrt "passing"<br />
-> fat people (especially fat femme people) often erased from queer spaces, incl queer dating community, misgendering<br />
-> (3) the neoliberal commodification of the body, which must meet often numeric and usually arbitrary requirements (size, exercise, diet), which is then taken as a measure of health or lack thereof and understood to be determined by one's own individual will and discipline<br />
-> healthiness and attractiveness are often conflated<br />
-> obesity epidemic discourse -> simultaneously diseased and villified, cause of a social, economic and political problem, esp associated with greed, use of resources -> a moral panic (!)<br />
-> but in fact these problems are caused by the structures of the neoliberal economy itself, and fat people are thus scapegoated<br />
-> neoliberal body discourse has appropriated feminist ideas, e.g. choice, self-determination, empowerment, and of course commercial appropriation of the body positivity movement<br />
-> "perform health in a normative manner"<br />
-> (4) being queer and being fat both seen as deviant and hiding perversions<br />
-> "comfort and respectability politics" (antisocial queer studies)<br />
-> (5) "it's an impossible task, but one completely worthy of you"<br />
-> "if there is an end to our suffering, it is not ..."<br />
-> "understudied, and therefore positioned as anecdotal"<br />
-> (6) "the university classroom erases bodies"<br />
-> nobody should be forced to be mindful, can be good reasons (esp power imbalance) to keep your guard up<br />
-> fat people being denied gender affirmation surgery, including with no data to back up this denial<br />
-> beauty privilege (where beauty means white supremacist cisheteronormative standards of beauty)<br />
-> the language of horror to describe both transness and fatness<br />
-> "at some point in my early thirties, privilege stopped being my aim on most days. im more interested in justice..."<br />
-> (10) denial of IVF based on weight<br />
-> weight control of parents and children as eugenics<br />
-> (12)<br />
-> eating disorder literature centres the experience of white Western people/women<br />
-> (16)<br />
-> wall-e equates fat with laziness and decay<br />
-> "what if you were ok with your body the way it is right now?" fear of letting oneself go, failure of keeping up with standards<br />
-> the female body as something to be watched<br />
-> while plus sized models can extend the set of acceptable standards, in doing so this supports the culture's obsession with objectification and reproduces heternormative bodily ideals. i.e. plus sized models are still sexualised and subject to the male gaze; more bodies are now worthy of objectification.<br />
-> (17)<br />
-> "why do we oppress fat people, and who benefits from that oppression?"<br />
-> "gender apathetic" as a gender identity, what a great phrase!<br />
-> "benevolent anti-fatness"<br />
-> "pretty privilege" and "ugly others"<br />
-> "if one seeks gender affirmation, one must always be moving away from fatness"<br />
-> occupying fatness as a form of protest (the chapter gives many examples of doing this in a subversive artistic context)<br />
-> (19)<br />
-> "compulsory body-thinness" and the "not-thin-yet body"<br />
-> (20)<br />
-> "I miss believing that we were changing the world in radical ways."<br />
-> a house filled with images of fat women!<br />
-> "part of ageing for me is needing more time to rest and recover"<br />
-> ideology of food as bad<br />
-> (22)<br />
-> noone can read or learn all of Torah, but everyone can find the teachings that are most our own<br />
-> (23)<br />
-> "no requirement that we have to love our bodies for them to count"<br />
+- 100% certified banger!!! like i think much of the overall vibe i already agreed with at least on a conscious level, but really helps to have it written down in detail and explored from all these angles i hadnt considered. the writing is excellent.<br />
+- despite the fact that I work full-time in trying to dismantle economic systems of oppression, this book has done more to radicalise me than anything I've read in years hahahaha<br />
+- a small number of the essays (like just a couple) strike me as uncritical and one-sided<br />
+- skipped a few that were difficult to read (especially around eating disorders and surgery)<br />
+- (1) adipose tissue exists, but the meaning tied to it is entirely discursive (and wrapped up in other areas of discourse and context, i.e. gender, race, one's occupation, one's culture esp neoliberal and individualist culture)<br />
+- masquerades as being about aesthethics and health<br />
+- (2) "an anti-fat society"<br />
+- "the courtesy of civil inattention" but often not paid when a person is not meeting the standards of the male gaze "emphasised femininity"<br />
+- "obesity epidemic discourse"<br />
+- a form of violence (!!!)<br />
+- femininity is linked with thinness and whiteness (and shortness), causes much suffering in trans and gender non conforming people wrt "passing"<br />
+- fat people (especially fat femme people) often erased from queer spaces, incl queer dating community, misgendering<br />
+- (3) the neoliberal commodification of the body, which must meet often numeric and usually arbitrary requirements (size, exercise, diet), which is then taken as a measure of health or lack thereof and understood to be determined by one's own individual will and discipline<br />
+- healthiness and attractiveness are often conflated<br />
+- obesity epidemic discourse -> simultaneously diseased and villified, cause of a social, economic and political problem, esp associated with greed, use of resources -> a moral panic (!)<br />
+- but in fact these problems are caused by the structures of the neoliberal economy itself, and fat people are thus scapegoated<br />
+- neoliberal body discourse has appropriated feminist ideas, e.g. choice, self-determination, empowerment, and of course commercial appropriation of the body positivity movement<br />
+- "perform health in a normative manner"<br />
+- (4) being queer and being fat both seen as deviant and hiding perversions<br />
+- "comfort and respectability politics" (antisocial queer studies)<br />
+- (5) "it's an impossible task, but one completely worthy of you"<br />
+- "if there is an end to our suffering, it is not ..."<br />
+- "understudied, and therefore positioned as anecdotal"<br />
+- (6) "the university classroom erases bodies"<br />
+- nobody should be forced to be mindful, can be good reasons (esp power imbalance) to keep your guard up<br />
+- fat people being denied gender affirmation surgery, including with no data to back up this denial<br />
+- beauty privilege (where beauty means white supremacist cisheteronormative standards of beauty)<br />
+- the language of horror to describe both transness and fatness<br />
+- "at some point in my early thirties, privilege stopped being my aim on most days. im more interested in justice..."<br />
+- (10) denial of IVF based on weight<br />
+- weight control of parents and children as eugenics<br />
+- (12)<br />
+- eating disorder literature centres the experience of white Western people/women<br />
+- (16)<br />
+- wall-e equates fat with laziness and decay<br />
+- "what if you were ok with your body the way it is right now?" fear of letting oneself go, failure of keeping up with standards<br />
+- the female body as something to be watched<br />
+- while plus sized models can extend the set of acceptable standards, in doing so this supports the culture's obsession with objectification and reproduces heternormative bodily ideals. i.e. plus sized models are still sexualised and subject to the male gaze; more bodies are now worthy of objectification.<br />
+- (17)<br />
+- "why do we oppress fat people, and who benefits from that oppression?"<br />
+- "gender apathetic" as a gender identity, what a great phrase!<br />
+- "benevolent anti-fatness"<br />
+- "pretty privilege" and "ugly others"<br />
+- "if one seeks gender affirmation, one must always be moving away from fatness"<br />
+- occupying fatness as a form of protest (the chapter gives many examples of doing this in a subversive artistic context)<br />
+- (19)<br />
+- "compulsory body-thinness" and the "not-thin-yet body"<br />
+- (20)<br />
+- "I miss believing that we were changing the world in radical ways."<br />
+- a house filled with images of fat women!<br />
+- "part of ageing for me is needing more time to rest and recover"<br />
+- ideology of food as bad<br />
+- (22)<br />
+- noone can read or learn all of Torah, but everyone can find the teachings that are most our own<br />
+- (23)<br />
+- "no requirement that we have to love our bodies for them to count"<br />
 
 </details>
 
@@ -1841,14 +1854,14 @@ advocated for more M&E of government's laws; a fan of Marcus Aurelius's Meditati
 <details>
 <summary>The United Nations: A Very Short Introduction (Jussi M. Hanhimäki)    </summary>
 
-> Very well written (if a few turns of phrase that are a bit yikes)<br />
-> the classic "prevent you from going to hell, not get you to heaven" reminds me of Masaryk's "practical little utopias"<br />
-> indispensable and flawed<br />
-> cultural conflicts in the day to day work of the civil servants, hadnt thought about that but makes perfect sense!<br />
+- Very well written (if a few turns of phrase that are a bit yikes)<br />
+- the classic "prevent you from going to hell, not get you to heaven" reminds me of Masaryk's "practical little utopias"<br />
+- indispensable and flawed<br />
+- cultural conflicts in the day to day work of the civil servants, hadnt thought about that but makes perfect sense!<br />
  > kinda argues that being politically messy and a bureaucratic monster is a necessary consequence of its goals (an international organisation), I find myself kinda enjoying this feature! like how cool that messy humanity is doing something like this at all!<br />
-> has definitely done some good, esp WHO, UNICEF, some positive effects of the UNSC and so on, just need to interpret this in the context of the obvious political reality of countries pursuing their own interests (and the fact that this is baked in might limit its power but stops countries walking out like Japan did from the League, so kinda good design; this vibes with my pre-existing view on the UN)<br />
-> the UNSC as a context for negotiating the end to conflicts, not a way to prevent conflicts<br />
-> certainly some peacekeeping hits, if well below 100%<br />
+- has definitely done some good, esp WHO, UNICEF, some positive effects of the UNSC and so on, just need to interpret this in the context of the obvious political reality of countries pursuing their own interests (and the fact that this is baked in might limit its power but stops countries walking out like Japan did from the League, so kinda good design; this vibes with my pre-existing view on the UN)<br />
+- the UNSC as a context for negotiating the end to conflicts, not a way to prevent conflicts<br />
+- certainly some peacekeeping hits, if well below 100%<br />
     <br />
 
 </details>
@@ -1856,55 +1869,55 @@ advocated for more M&E of government's laws; a fan of Marcus Aurelius's Meditati
 <details>
 <summary>The New Frontiers of Space: Economic Implications, Security Issues and Evolving Scenarios (Stefania Paladini)</summary>
 
-> Excellent overview of the space industry and policy, very broad in scope. I like all the data and history that puts things into perspective. It's about 6 years old now but seems mostly up-to-date, only exceptions are a few specific projects/missions.
-> Satellies (esp communication and earth observation satellites) are two major components of the industry, though more seemingly mundane. And originally defense.
-> Some recent impressive growth but perhaps a bit slower than I'd have thought. All sectors still bottlenecked by launch costs.
-> The insane billionaire and his company are just one actor among many (incl many emerging chinese companies), if certainly the most successful private actor
-> regional space agencies (e.g. asia pacific) as an emerging trend
-> orbital space is a limited resource
-> TIL ESA isnt actually an EU institution and the lists of states involved in each are different
-> EU space budget has increased, unlike NASA
-> in terms of absolute national budget spent on space, France is actually second after USA
-> China pursuing numerous space collabs with other countries, generating soft power
-> very interesting discussion on the many limitations of current space law
-> helium 3 is abundant in space (not on earth though!) and can be used to power fusion reactors
-> you can put nanosatellites into orbit for $8000! crazy!
-> Ultrascope, a 3D printable telescope
-> a large economic and practical gap between putting something into earth orbit and leaving earth orbit, high failure rates for mars in particular
-> the colonial language in the space settlement section makes me deeply uncomfortable, probably there's less critique of the idea is present in this book than what exists in the literature
+- Excellent overview of the space industry and policy, very broad in scope. I like all the data and history that puts things into perspective. It's about 6 years old now but seems mostly up-to-date, only exceptions are a few specific projects/missions.
+- Satellies (esp communication and earth observation satellites) are two major components of the industry, though more seemingly mundane. And originally defense.
+- Some recent impressive growth but perhaps a bit slower than I'd have thought. All sectors still bottlenecked by launch costs.
+- The insane billionaire and his company are just one actor among many (incl many emerging chinese companies), if certainly the most successful private actor
+- regional space agencies (e.g. asia pacific) as an emerging trend
+- orbital space is a limited resource
+- TIL ESA isnt actually an EU institution and the lists of states involved in each are different
+- EU space budget has increased, unlike NASA
+- in terms of absolute national budget spent on space, France is actually second after USA
+- China pursuing numerous space collabs with other countries, generating soft power
+- very interesting discussion on the many limitations of current space law
+- helium 3 is abundant in space (not on earth though!) and can be used to power fusion reactors
+- you can put nanosatellites into orbit for $8000! crazy!
+- Ultrascope, a 3D printable telescope
+- a large economic and practical gap between putting something into earth orbit and leaving earth orbit, high failure rates for mars in particular
+- the colonial language in the space settlement section makes me deeply uncomfortable, probably there's less critique of the idea is present in this book than what exists in the literature
 
 </details>
 
 <details>
 <summary>The Most Controversial Decision: Truman, the Atomic Bombs, and the Defeat of Japan (Wilson Miscamble)</summary>
 
-> This is good history, really puts you in the mindset and worldview of the people present.<br />
-> argues that the bombs did speed up the surrender, but this wasn't necessarily deliberate or expected or guaranteed (even an attempted coup to stop the surrender)<br />
-> they wanted to end a very bloody conflict against an entrenched enemy minimising American lost lives, took the bomb and its implications very seriously (as they did the moral costs of conventional war) but didn't have a great idea of exactly what its effects would be. in fact they were expecting to have to keep fighting a conventional war<br />
-> but clearly it was a very big bomb so a more economical way of carpet bombing cites which they were already doing, and had some idea of its shock value.<br />
-> truman inherited the overall strategy of "of course we'll use this weapon in this war" and no military leaders or advisors seriously suggested otherwise, and there were no serious alternatives<br />
-> the author distinguishes between "pre-Hiroshima world" and "post-Hiroshima world" which seems reasonable to me; after the war truman became much more reluctant and cognizant of the cost in civilian lives of nuclear bombs<br />
-> the author emphasises how bloody the war was, esp re indiscriminate bombing and the acceptance of targeting non-combatants (see tokyo, london, many other examples): "a moral Rubicon had been crossed long before Hiroshima"<br />
-> so (my elaboration) it's almost like "why are we focusing on the nuclear bombs in the first place?". i actually find this very convincing<br />
-> the author contrasts the salient destruction of a city with the dispersed but equally or more horrific atrocities committed by japanese soldiers against civilians in china and many other parts of asia. this reminds me of the distinction between the salient chernobyl vs the diffuse but more deadly human cost of fossil fuels<br />
-> I definitely get the feeling that I couldn't have come up with a less awful decision even with perfect hindsight and infinite time for reflection, luxuries that the people at time certainly did not have: "Harry Truman of Independence, Missouri was hardly some moral monster...  those who from the safe distance of 65 years criticise his decision would do well to place themselves in his shoes and ask what they might have done in the circumstances."<br />
+- This is good history, really puts you in the mindset and worldview of the people present.<br />
+- argues that the bombs did speed up the surrender, but this wasn't necessarily deliberate or expected or guaranteed (even an attempted coup to stop the surrender)<br />
+- they wanted to end a very bloody conflict against an entrenched enemy minimising American lost lives, took the bomb and its implications very seriously (as they did the moral costs of conventional war) but didn't have a great idea of exactly what its effects would be. in fact they were expecting to have to keep fighting a conventional war<br />
+- but clearly it was a very big bomb so a more economical way of carpet bombing cites which they were already doing, and had some idea of its shock value.<br />
+- truman inherited the overall strategy of "of course we'll use this weapon in this war" and no military leaders or advisors seriously suggested otherwise, and there were no serious alternatives<br />
+- the author distinguishes between "pre-Hiroshima world" and "post-Hiroshima world" which seems reasonable to me; after the war truman became much more reluctant and cognizant of the cost in civilian lives of nuclear bombs<br />
+- the author emphasises how bloody the war was, esp re indiscriminate bombing and the acceptance of targeting non-combatants (see tokyo, london, many other examples): "a moral Rubicon had been crossed long before Hiroshima"<br />
+- so (my elaboration) it's almost like "why are we focusing on the nuclear bombs in the first place?". i actually find this very convincing<br />
+- the author contrasts the salient destruction of a city with the dispersed but equally or more horrific atrocities committed by japanese soldiers against civilians in china and many other parts of asia. this reminds me of the distinction between the salient chernobyl vs the diffuse but more deadly human cost of fossil fuels<br />
+- I definitely get the feeling that I couldn't have come up with a less awful decision even with perfect hindsight and infinite time for reflection, luxuries that the people at time certainly did not have: "Harry Truman of Independence, Missouri was hardly some moral monster...  those who from the safe distance of 65 years criticise his decision would do well to place themselves in his shoes and ask what they might have done in the circumstances."<br />
 
 </details>
 
 <details>
 <summary>The Earliest History of the Christian Gathering: Origin, Development and Content of the Christian Gathering in the First to Third Centuries (Valeriy A. Alikin)</summary>
 <br />
-> reading ch1-3<br />
-> originally essentially a supper on Sunday evenings, in the tradition of meal -> symposium common in the greco-roman world in all sorts of religious cults and associations or clubs<br />
-> sunday was a working day until 325 CE when Constantine made it a day of rest<br />
-> the Christian meeting was held on Sunday evening after work (being the first possible opportunity after the Saturday evening sabbath meal, so it's additional to the sabbath, not a continuation of it); there was a festive vibe to this meeting and this made the whole sunday special<br />
-> meeting houses, private houses (by far the most common!), rooms, or precincts of temples; "adapted themselves to the spaces available"<br />
-> gave way to Eucharist on Sunday morning, open to everyone who was baptised (!) in contrast to the more exclusive (even if for purely logistical reasons) Sunday evening meals which continued though more of a charity meal<br />
-> the author argues that the Eucharist originates from an earlier communal meal, and the association with Jesus' body and blood and the tradition of Jesus having instituted the meal are later developments (!)<br />
-> the Last Supper, including the episode in the Gospels, is thus a later development (though still very early!) to explain a pre-existing community tradition, in the context of the community's existing view that Jesus died for them and that they are one with Jesus' body<br />
-> the author reports that this view is widely accepted among scholars<br />
-> in other words the communal meal (~ the Eucharist, which means thanksgiving) existed first, and the Last Supper story was created to explain the meal and give it meaning. so thanksgiving meal first, and only then body and blood and purported origin as Jesus's final meal.<br />
-> not clear from the sources how the Eucharist was understood beforehand, though elements of thanksgiving, unity (everyone eating from one loaf)
+- reading ch1-3<br />
+- originally essentially a supper on Sunday evenings, in the tradition of meal -> symposium common in the greco-roman world in all sorts of religious cults and associations or clubs<br />
+- sunday was a working day until 325 CE when Constantine made it a day of rest<br />
+- the Christian meeting was held on Sunday evening after work (being the first possible opportunity after the Saturday evening sabbath meal, so it's additional to the sabbath, not a continuation of it); there was a festive vibe to this meeting and this made the whole sunday special<br />
+- meeting houses, private houses (by far the most common!), rooms, or precincts of temples; "adapted themselves to the spaces available"<br />
+- gave way to Eucharist on Sunday morning, open to everyone who was baptised (!) in contrast to the more exclusive (even if for purely logistical reasons) Sunday evening meals which continued though more of a charity meal<br />
+- the author argues that the Eucharist originates from an earlier communal meal, and the association with Jesus' body and blood and the tradition of Jesus having instituted the meal are later developments (!)<br />
+- the Last Supper, including the episode in the Gospels, is thus a later development (though still very early!) to explain a pre-existing community tradition, in the context of the community's existing view that Jesus died for them and that they are one with Jesus' body<br />
+- the author reports that this view is widely accepted among scholars<br />
+- in other words the communal meal (~ the Eucharist, which means thanksgiving) existed first, and the Last Supper story was created to explain the meal and give it meaning. so thanksgiving meal first, and only then body and blood and purported origin as Jesus's final meal.<br />
+- not clear from the sources how the Eucharist was understood beforehand, though elements of thanksgiving, unity (everyone eating from one loaf)
 
 <br /></details>
 
@@ -2015,20 +2028,20 @@ Verdict: A. Completely amazing. Top-notch science communication too. The only re
 <details>
 <summary>A Book of Silence (Sara Maitland)</summary>
 
-> this book is a deep joy and a relief. very comprehensive and reflective yet mostly well-researched look at solitude.<br />
-> surrounded by 20 miles of nothing on all sides<br />
-> nothing in diary for the next fortnight, nowhere to be except mass and noone coming to visit<br />
-> passage at the start is like "we all do XYZ" which is annoying bc its demonstrably false and "protagonist of reality" energy. like i think the authors own experiences are v interesting and references to previous literature likewise, but when she dips into social commentary its a bit weaker. and similar when talking about depression, lots i dont agree with. her science is often a bit incorrect.<br />
-> conflating menopause with womanhood is a bit cringe<br />
-> designing a "sustainable lifestyle that contains as much silence as possible"<br />
-> interesting that the language used to describe her experience going to the shopping centre after a long period of silence reads almost identical to that of Clem Bastow and other autistic people<br />
-> "silence is the oar for something too deep for words"<br />
-> silence as protest, refusal to enter the arena<br />
-> contains animal murder, killing rabbits in a chapter that glorifies birds no less, absolutely bizarre<br />
-> silence as fulfilment (creative arts) vs silence as emptying (hermits) but still ofc many deep similarities<br />
-> "We would probably diagnose a substantial number of the famous and highly regarded saints of this tradition [eremitism and especially penance] as suffering from eating disorders."<br />
-> "I do not want to struggle each day to milk my goat or forage for wood for my fire, and even if I did, there would still be council tax. What I want to do is live in as much silence as possible."<br />
-> "a hefty dose of good administration" hahaha<br />
+- this book is a deep joy and a relief. very comprehensive and reflective yet mostly well-researched look at solitude.<br />
+- surrounded by 20 miles of nothing on all sides<br />
+- nothing in diary for the next fortnight, nowhere to be except mass and noone coming to visit<br />
+- passage at the start is like "we all do XYZ" which is annoying bc its demonstrably false and "protagonist of reality" energy. like i think the authors own experiences are v interesting and references to previous literature likewise, but when she dips into social commentary its a bit weaker. and similar when talking about depression, lots i dont agree with. her science is often a bit incorrect.<br />
+- conflating menopause with womanhood is a bit cringe<br />
+- designing a "sustainable lifestyle that contains as much silence as possible"<br />
+- interesting that the language used to describe her experience going to the shopping centre after a long period of silence reads almost identical to that of Clem Bastow and other autistic people<br />
+- "silence is the oar for something too deep for words"<br />
+- silence as protest, refusal to enter the arena<br />
+- contains animal murder, killing rabbits in a chapter that glorifies birds no less, absolutely bizarre<br />
+- silence as fulfilment (creative arts) vs silence as emptying (hermits) but still ofc many deep similarities<br />
+- "We would probably diagnose a substantial number of the famous and highly regarded saints of this tradition [eremitism and especially penance] as suffering from eating disorders."<br />
+- "I do not want to struggle each day to milk my goat or forage for wood for my fire, and even if I did, there would still be council tax. What I want to do is live in as much silence as possible."<br />
+- "a hefty dose of good administration" hahaha<br />
 <br />
 
 </details>
@@ -2043,19 +2056,19 @@ Verdict: A. Completely amazing. Top-notch science communication too. The only re
 <details>
 <summary>Taking Off the Mask: Practical Exercises to Help Understand and Minimise the Effects of Autistic Camouflaging (Hannah Louise Belcher)</summary>
 
-> nice and validating. also nice to have a late-identifying autistic person who gets through uni before figuring it out. the book is a bit "mental health 101" in some sections though the author does flag this up front<br />
-> grief and anger that she hadn't been recognised and helped sooner<br />
-> a strategy can be helpful to help survive at one point and then less relevant and worth letting go of later on<br />
-> imposter syndrome re accepting ones autism<br />
-> masking is also done by many/all neurotypical people, though at a lower level, as part of meeting other peoples expectations<br />
-> going to great lengths to learn the rules and scripts of particular social contexts<br />
-> so immersed in camoflaguing that she doesn't actually hear what the other person says (!!!)<br />
-> working as a freelancer rather than full time in a single location<br />
-> preferring to sit back and watch social situations rather than participating<br />
-> what you actually want in life being hidden by what you think you should do. so reframing one's identity and figuring out what one actually wants. especially identifying childhood interests.<br />
-> Fred the Bear!<br />
-> becoming less concerned with other peoples impressions as she grows older<br />
-> making databases of her movie figurines!<br />
+- nice and validating. also nice to have a late-identifying autistic person who gets through uni before figuring it out. the book is a bit "mental health 101" in some sections though the author does flag this up front<br />
+- grief and anger that she hadn't been recognised and helped sooner<br />
+- a strategy can be helpful to help survive at one point and then less relevant and worth letting go of later on<br />
+- imposter syndrome re accepting ones autism<br />
+- masking is also done by many/all neurotypical people, though at a lower level, as part of meeting other peoples expectations<br />
+- going to great lengths to learn the rules and scripts of particular social contexts<br />
+- so immersed in camoflaguing that she doesn't actually hear what the other person says (!!!)<br />
+- working as a freelancer rather than full time in a single location<br />
+- preferring to sit back and watch social situations rather than participating<br />
+- what you actually want in life being hidden by what you think you should do. so reframing one's identity and figuring out what one actually wants. especially identifying childhood interests.<br />
+- Fred the Bear!<br />
+- becoming less concerned with other peoples impressions as she grows older<br />
+- making databases of her movie figurines!<br />
 <br />
 
 </details>
@@ -2213,12 +2226,12 @@ A wonderful and deep teaching on equanimity.
 <details>
 <summary>The City and Its Uncertain Walls (Haruki Murakami)</summary>
 
-> a very typical murakami, in a good way<br />
-> I like the stay in the small town, reminiscient of Commendatore<br />
-> Some quite beautiful reflections on love and loss<br />
-> the boy who is a savant but refused to participate in PE hahahaha<br />
-> very interesting meta passage on magical realism<br />
-> (death of a child and then a suicide in ch40; bit of transphobic content in ch40 though not in the context of trans people)<br />
+- a very typical murakami, in a good way<br />
+- I like the stay in the small town, reminiscient of Commendatore<br />
+- Some quite beautiful reflections on love and loss<br />
+- the boy who is a savant but refused to participate in PE hahahaha<br />
+- very interesting meta passage on magical realism<br />
+- (death of a child and then a suicide in ch40; bit of transphobic content in ch40 though not in the context of trans people)<br />
 
 <br />
 
@@ -2228,9 +2241,9 @@ A wonderful and deep teaching on equanimity.
 <details>
 <summary>Butter, Sugar, Magic (Jessica Rosenberg)</summary>
 
-> Verdict: B-. Bread and butter; a textbook example of escapist/cozy slice of life. The premise is a bit mary-sue and the details are a bit tropey, but since it's clearly and deliberately an escapist novel, these aren't a major issue. Writing is fine if not great.<br />
-> "Straight espresso. Badass." hahahahahaha<br />
-> setting the crickets free!<br />
+- Verdict: B-. Bread and butter; a textbook example of escapist/cozy slice of life. The premise is a bit mary-sue and the details are a bit tropey, but since it's clearly and deliberately an escapist novel, these aren't a major issue. Writing is fine if not great.<br />
+- "Straight espresso. Badass." hahahahahaha<br />
+- setting the crickets free!<br />
 
 </details>
 
@@ -2238,14 +2251,14 @@ A wonderful and deep teaching on equanimity.
 <summary>Pinball, 1973 (Haruki Murakami)</summary>
 <br />
 
-> It's a moody Murakami novel. I REALLY like the whole pinball thing. Bit of animal violence which is sad - but it is a moody Murakami novel.
+- It's a moody Murakami novel. I REALLY like the whole pinball thing. Bit of animal violence which is sad - but it is a moody Murakami novel.
 
 <br /></details>
 
 <details>
 <summary>The Shifting Fog (Kate Morton)  </summary>
 <br />
-> Verdict: B. Enjoyable, as the author's other novels are, immersive and compelling characters. "Age is the great mellower." The protagonist is endearing, especially with her Sherlock Holmes novels! Alfred's shell shock is touching and heartbreaking. Got like two thirds of the way through, might finish but not super motivated.
+- Verdict: B. Enjoyable, as the author's other novels are, immersive and compelling characters. "Age is the great mellower." The protagonist is endearing, especially with her Sherlock Holmes novels! Alfred's shell shock is touching and heartbreaking. Got like two thirds of the way through, might finish but not super motivated.
 
 <br /></details>
 
