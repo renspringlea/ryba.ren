@@ -12,7 +12,13 @@ I agree with Dr Deter-Wolf—this idea is so interesting! There are some specifi
 
 I have noticed that these achievement- or status-specific tattoos still exist, in a way. To be clear, most industrialised or Western societies won't actually flay your skin off for getting the wrong tattoo.
 
-However, there are still specific tattoo designs that would *feel* wrong to get, and that would probably earn you social disapproval, unless you've earned them. Two examples are the Olympic rings tattoo and pilgrimage tattoos.
+However, there are still specific tattoo designs that would *feel* wrong to get, and that would probably earn you social disapproval, unless you've earned them. Three examples are military tattoos, the Olympic rings tattoo, and pilgrimage tattoos.
+
+## Military tattoos
+
+The book *Written on the Body: The Tattoo in European and American History* contains this passage about the 1940s ([Govenar 2000](https://www.degruyterbrill.com/document/doi/10.1515/9780691238258-015/html)):  
+
+> Chutes and boots were popular tattoos around those paratroopers, a lot of patriotic designs. I’ll tell you a guy had a hard-time if he had those chutes and boots put on before he took his first jump. That’s right. The rest of them guys worked him over if he got that tattoo too soon. The tattoo was a mark of accomplishment, and if you hadn’t accomplished anything, you didn’t deserve the tattoo.  
 
 ## Olympic rings
 
