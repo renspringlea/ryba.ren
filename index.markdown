@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Written on the Body: The Tattoo in European and American History (ed. Jane Caplan)
 * Ancient Ink: The Archaeology of Tattooing (ed. Lars Krutak and Aaron Deter-Wolf)
 * Stigma: Marking Skin in the Early Modern World (Katherine Dauge-Roth and Craig Koslofsky)
 * Tattoo Histories: Transcultural Perspectives on the Narratives, Practices, and Representations of Tattooing (ed Sinah Theres Kloß)
@@ -43,7 +44,6 @@ layout: home
 * The Dead Sea Scrolls: A Very Short Introduction (Timothy Lim)
 * Tapping into Love (Monica Mccallan) [fiction]
 * Wild Things (Laura Kay) [fiction]
-* The Suffering Body in Sport: Shifting Thresholds of Pain, Risk and Injury (ed. Kevin Young)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*

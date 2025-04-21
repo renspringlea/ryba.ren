@@ -533,6 +533,20 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Written on the Body: The Tattoo in European and American History (ed. Jane Caplan)</summary>
+
+<br />
+- cant say i understood every paper in this book<br />
+- in Rome/Byzantine empire, there was tattooing for religious reasons (e.g. cross tattoos) contemporaneous with punitive tattoos<br />
+- historically people were prejudiced against the idea of their own historical ancestors having tattoos, whereas today the opposite is true and people are prejudiced towards wanting this to be true!<br />
+- tattoos used as part of early modern occult practice in europe, many traditions of power from marks on flesh<br />
+- tattoo studios in victorian britain, both working class and upper class traditions<br />
+- decline in popularity in US in the 1950s, a lot of the associations with deviance came from this period (this strikes me as an interesting parallel with marriage, "family values", sexuality, etc)<br />
+<br />
+
+</details>
+
+<details>
 <summary>Ancient Ink: The Archaeology of Tattooing (ed. Lars Krutak and Aaron Deter-Wolf)</summary>
 
 <br />
