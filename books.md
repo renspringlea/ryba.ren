@@ -533,6 +533,43 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>A Concise History of the Middle East (Arthur Goldschmidt Jr. and Ibrahim Al-Marashi; 13th ed)</summary>
+
+<br />
+- has become drier over the past 10,000 years or so<br />
+- uniquely accessible geographically, so has had far more outside influence over the past few millenia than e.g. China, some European countries<br />
+- 90% Muslims, and most people speak either Arabic, Turkish, or Persian, but still lots of ethnic and religious diversity (branches of Islam, Christians, Jews)<br />
+- 4 main causes of conflict: lack of legitimacy of state, foreign intervention, arms proliferation, and strains on the environment<br />
+- most crops and animals were domesticated here and has the old's first farms, cities, governments, legal systems, and writing<br />
+- Christianity was significant in the Middle-East due to Rome (what we call the Byzantine Empire, a major empire alongside the Persian Empire) and was only subsequently "displaced" by Islam carried by the Arabs. and via this presence of Rome, the Middle-East is just as much an heir to Greek and Roman culture as the West is (in fact preserved many important Greek texts).<br />
+- Arab conquests, absorbed much of (Roman and Persian empires?), going from a miscellaneous group of Meccan Arabs to the rulers of the Middle-East with astonishing speed<br />
+- important mathematical and other intellectual contribution<br />
+- Ottoman Empire, origins in the 13th century (fought the rump Byzantine empire + many groups inside Europe) but perhaps the greatest power of the 16th century, religiously actually more tolerant than the Christian states at the same time<br />
+- with the growth in power of the habsburgs and russians, both christian, the first time when the ottoman empire is sorta behind in power, especially in the seas. ottomans close friends with france both politically and culturally, and to a lesser extent britain. europes rise in power between 16th and 19th century was astonishing, and led to many westernising reforms in the middle east, typically top-down and some hits but some misses.<br />
+- from the late 19th century and in the 20th century, rise of nationalism which until then was foreign to the middle east, ideas imported from europe alongside westernising reforms and in fact arab nationalism specifically was most clearly supported by christian arabs (how interesting!), very limited success before the world wars<br />
+- almost all of the Middle-East came under European control in some form by the end of WWII, and many of the independent states we see today only came into existence (often arbitrary borders) after WWII<br />
+- easy to forget that many modern wealthy states (e.g. Saudi Arabia) were until recently very poor, similar to Europe before the Marshall Plan<br />
+- saudi oil extremely influential on the country, the middle-east, and the global economy<br />
+- second half of the 20th century - lots of conflict (with border changes, unions and independences), lots of foreign intervention, with the palestine-israel conflict being both particularly intractable and influential throughout the region<br />
+- Palestinian statehood was a novelty of the 1960s, before that there was no real concept of people living in Palestine as being a single or united political community<br />
+- strong Zionist lobby in Washington, no Arab lobby could match<br />
+- growing international importance and assertiveness of OPEC<br />
+- iranian revolution and rise of islamism from the 80s, the latter in part as a reaction to westernisation and globalisation (though these authors argue that islam, while important and influential, has never been the sole determinant of behaviours and beliefs)<br />
+- in Iran, forced veiling as a demonstration of the state's power to dictate individiual behaviour. analogy with the less successful Ottoman ban on veiling.<br />
+- Arab states typically feel vulnerable to attack and insecure about their legitimacy, part of why coercion is a common to crises in these states<br />
+- goddamn the united states are unambiguously baddies<br />
+- many american evangelical christians' views on foreign policy are guided by the belief that all jews must be gathered in the promised land before judgment day, absolutely spicy take<br />
+- argues that the arab spring might as well be called the arab fall and winter<br />
+- sexual violence very tough to read<br />
+- floods, droughts, viruses, locust swarms as emerging challenges from the natural world that threatens the security of people and states, desertification, dust/sandstorms<br />
+- usa withdrew from iran nuclear deal, leading to severe sanctions on iran, china the economic lifeline<br />
+- conflict over scarce freshwater resources, including the weaponisation of water<br />
+- lots of state mismanagement of resources, failure to maintain infrastructure, etc<br />
+<br />
+
+</details>
+
+<details>
 <summary>Written on the Body: The Tattoo in European and American History (ed. Jane Caplan)</summary>
 
 <br />
