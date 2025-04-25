@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Tattoo Culture: Theory and Contemporary Contexts (Lee Barron)
 * A Concise History of the Middle East (Arthur Goldschmidt Jr. and Ibrahim Al-Marashi; 13th ed)
 * Written on the Body: The Tattoo in European and American History (ed. Jane Caplan)
 * Ancient Ink: The Archaeology of Tattooing (ed. Lars Krutak and Aaron Deter-Wolf)
@@ -43,7 +44,7 @@ layout: home
 * Thrust (Rachel Spangler) [fiction]
 * Schuss (E. J. Noyes) [fiction]
 * The Dead Sea Scrolls: A Very Short Introduction (Timothy Lim)
-* Tapping into Love (Monica Mccallan) [fiction]
+
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*

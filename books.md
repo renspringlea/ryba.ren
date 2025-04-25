@@ -3,11 +3,10 @@ title: Books I've read
 layout: page
 ---
 
-navigate:    
-- [Leaderboard](#Leaderboard)  
-- [2025](#2025)
+navigate:  
+- [2025](#2025)  
 - [2024](#2024)  
-- [2023-2024](#2023-2024)    
+- [2023-2024](#2023-2024)  
 - [2017-2023](#2017-2023)  
 
 notes:  
@@ -531,6 +530,23 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>Tattoo Culture: Theory and Contemporary Contexts (Lee Barron)</summary>
+
+<br />
+- a la Atkinson, talks about the colonial era, the carnival area (circus performers etc), the rebel area (50s and 60s), tattoo renaissance (70s and 80s, emergence of fine art in tattoos and growth of studios), supermarket era (90s and early 00, more market-based), the new age era (now, individual and popular, about self-actualisation and self-expression, continual technological and artistic advances)<br />
+- ^ obviously this only applies in some places, i.e. the industrialised West, as in e.g. Japan things have played out differently<br />
+- removing tattoos can create new space for future tattoos, so doesn't signify an individual breaking away from tattoo culture<br />
+- economics of tattoo affordability has long been a factor<br />
+- might be a factual error in the Constantine thing, don't think he banned tattoos outright<br />
+- polysemy in texts and in tattoos<br />
+- tattoos as a piece of the past in the present, like ancient greek temples<br />
+- i like the chapter on interviews with tattooed students<br />
+- wow, the unprofessional idea as tattoos draw attention to the bodies in a disembodied professional culture<br />
+<br />
+
+</details>
 
 <details>
 <summary>A Concise History of the Middle East (Arthur Goldschmidt Jr. and Ibrahim Al-Marashi; 13th ed)</summary>
@@ -2010,7 +2026,7 @@ Letter 13 (1.1.13) mentions a "man in woman's clothes".  <br />
 <br /></details>
 
 <details>
-<summary>The Dangerous Life and Ideas of Diogenes the Cynic  </summary>
+<summary>The Dangerous Life and Ideas of Diogenes the Cynic (Jean-Manuel Roubineau)</summary>
 <br />
 So good! Short but rigorous and enjoyable. "The big thiefs are leading away the little one." And on whether the gods exist: "I do not know, only that they ought to exist." Covers Cynicism and life in the ancient world in general. It's refreshing to read an ancient thinker place animals (dogs especially!) above humans on a hierarchy! The book definitely takes advantage of how thin the sources are to give more detail than is probably necessary about the chronology of the barrel as an invention/money laundering practices/etc etc (I dig it though). There are a few interesting tidbits on gender assignment.  
 
