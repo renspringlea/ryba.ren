@@ -375,6 +375,16 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Memoirs and biography
 
 <details>
+<summary>The Gift of an Ordinary Day: A Mother's Memoir (Katrina Kenison)</summary>
+
+<br />
+- this is so lovely<br />
+- ok I've stopped at 50% - don't like the anti-mouse content. and the bit with the crab death by neglect, and then using that death as some poetic plot device, is disgusting and shameful.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Gender Euphoria: Stories of Joy from Trans, Non-Binary, and Intersex Writers (ed. Laura Kate Dale)</summary>
 
 <br />
