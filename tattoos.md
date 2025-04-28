@@ -57,7 +57,7 @@ Tattoo by Scott Middlin. This has the Lorwyn set symbol from Magic: the Gatherin
 ![d20.jpg](/assets/images/d20.jpg){: width='300' }  
 
 ## snail  
-Tattoo by travs.tatts. I actually forget the artist's name—this was an impulse decision in Hobart. I had originally booked in with a different artist, but he ended up being sick on the morning of the appointment, so this apprentice took the booking. I'm glad he did—this snail is outstanding. I actually get more compliments about the snail than any other of my tattoos (especially from other players at soccer!). This artist was also very nice and recommended us a great vegan restaurant.  
+Tattoo by travs.tatts. This was an impulse decision in Hobart. I had originally booked in with a different artist, but he ended up being sick on the morning of the appointment, so this apprentice took the booking. I'm glad he did—this snail is outstanding. I actually get more compliments about the snail than any other of my tattoos (especially from other players at soccer!). This artist was also very nice and recommended us a great vegan restaurant.  
 ![snail.jpg](/assets/images/snail.jpg){: width='300' }  
 
 ## bible quotes  
