@@ -4,9 +4,9 @@ title: "Analysis of goals conceded by Westminster in the first five matches"
 tags: soccer research
 ---
 
-In this post, I offer a brief analysis of the goals that have been scored against the Westminster division 5 team in our first five matches. For context, we are currently in second place out of the eight teams in the league.
+Here is a brief analysis of the goals that have been scored against the Westminster division 5 team in our first five matches. For context, we are currently in second place out of the eight teams in the league.
 
-If you're too lazy to read, here are the key points:
+Key points:
 - We have conceded four goals from five matches.
 - Of our four goals, two were conceded in the last few minutes before half time. This might indicate that we're lagging in energy in those last few minutes!
 - All four goals were conceded in, or very close to, the penalty area. There seems to be a combination of communication errors (especially between the keeper and the defense) and some subtle mistakes from the keeper (me!).
