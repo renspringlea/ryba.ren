@@ -41,7 +41,7 @@ I also think all four of these goals are preventable.
 - The Athletico goal was my mistake, and I'm practicing catching rather than hitting away the ball during training where possible.
 - The Cardijn goal was also my mistake—my positioning could have been better, as I didn't think to adjust for the fact that we did have a defender blocking the near post. Had I realised this, I could have shifted my position slightly to the right to extend my reach when diving to the far post.
 
-![westminster_goals.png](/assets/images/westminster_goals2.png){: width='400' }
+![Diagram showing where on the pitch goals were conceded](/assets/images/westminster_goals_2.png){: width='400' }
 
 Not to criticise myself or anyone, of course—as the next section shows, we're already doing a great job. Just noting things we can work on tightening up as a team.
 
