@@ -95,6 +95,16 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>If We Were Villains (M. L. Rio)</summary>
+
+<br />
+- A/A+, this is some outstanding writing. "Which of us could say we were more sinned against, than sinning?" So good at building foreboding and tension. Some bits are pretty violent and a bit confronting to read, so took me a little while to get through.<br />
+- the bit where he goes back to Delacur is really touching and powerful, lots of parallels with Idlewild<br />
+<br />
+
+</details>
+
+<details>
 <summary>Dead Collections (Isaac Fellman)</summary>
 
 <br />
