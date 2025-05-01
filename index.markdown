@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Bodies of Inscription: A Cultural History of the Modern Tattoo Community (Margo DeMello and Gayle S. Rubin)
 * If We Were Villains (M. L. Rio) [fiction]
 * Tattoo Culture: Theory and Contemporary Contexts (Lee Barron)
 * A Concise History of the Middle East (Arthur Goldschmidt Jr. and Ibrahim Al-Marashi; 13th ed)
@@ -43,7 +44,6 @@ layout: home
 * Tattoo Histories: Transcultural Perspectives on the Narratives, Practices, and Representations of Tattooing (ed Sinah Theres Kloß)
 * Dead Collections (Isaac Fellman) [fiction]
 * Thrust (Rachel Spangler) [fiction]
-* Schuss (E. J. Noyes) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*

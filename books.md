@@ -552,6 +552,24 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Bodies of Inscription: A Cultural History of the Modern Tattoo Community (Margo DeMello and Gayle S. Rubin)</summary>
+
+<br />
+- this is some great history, more of a history of the american tattoo community in the latter half of the 20th century<br />
+- many people in the tattoo community are tired of being analysed by the press and researchers<br />
+- generally, there is a tendency to make sweeping claims about society or culture and its values and beliefs that actually only apply to the class of the speaker<br />
+- biker, sailer, convict, and scratcher as labels that dismiss specific working-class tattoo practices in favour of middle-class practices<br />
+- i think the author is repeating the idea that modern tattooing originated from colonialism in polynesia, which is not fully correct but forgivable given when this author was writing<br />
+- relevance of the self-awareness and liberation movements<br />
+- some discomfort with the increasing commodification and superficiality of modern tattoo practices<br />
+- tattoo conventions as carnival and especially as an excuse to gaze at scandily clad women's bodies<br />
+- japanese style and aesthetic (via sailer jerry who as a marine was no fan of the japanese people), especially visually and thematically coherent designs that use the whole body, very influential on american tattoos and the renaissance in the 1950s-70s, esp allowing interest to be sustained beyond an initial countercultural impulse<br />
+- hostility towards members of the middle class due to a perceived loss in control over the community from bikers, convicts, sailers, etc to "yuppies", "feminists", "homosexuals", and new age practitioners (here demonstrated through the  letters to the editor in magazines)
+<br />
+
+</details>
+
+<details>
 <summary>Tattoo Culture: Theory and Contemporary Contexts (Lee Barron)</summary>
 
 <br />
