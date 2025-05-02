@@ -947,6 +947,24 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>The Grasshopper: Games, Life and Utopia (Bernard Suits)</summary>
+
+<br />
+- this is some very funny philosophy<br />
+- rules are not fully arbitrary but rather must be carefully drawn to preserve the game and make it not too easy and not too hard, and this is good game design<br />
+- a game as a goal-directed activity that involves choosing an inefficient means to one end (bringing about the specific state of affairs that counts as winning) as an efficient means to the other ends of playing and winning the game, where the more efficient means are forbidden by the rules and these rules are accepted because they make playing possible<br />
+- there are three goals to any game (each of which is consistent with the others): to play, to win, and to bring about the specific state of affairs that counts as winning. but the game also necessarily involves other factors: the means and the rules<br />
+- to play is a goal that can sit alongside other goals in life in a way that the other two goals do not; the means used for other two goals are governed by the rules in a way that the first is not<br />
+- the voluntary attempt to overcome unnecessary obstacles<br />
+- in competition, there is a cooperation (identical goals, i.e. playing) on conflict (opposing goals, i.e. winning), without which there can be no competition<br />
+- a loss is still an achievement, it is achieving the goal of playing even if the goal of winning is not achieved (different from e.g. a game being called off)<br />
+- "You sound like a sociologist." "That can't be helped." hahahaha<br />
+- games as a subset of activities that have intrinsic value<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Koran: A Very Short Introduction (Michael Cook)</summary>
 
 <br />
