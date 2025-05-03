@@ -947,6 +947,44 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>The Philosophy of Football (Steffen Borge)</summary>
+
+<br />
+- brief introductin to thought on the uniqueness of human, kinda cool - a paper i thought about writing once<br />
+- religion and sport as two candidates for things that humans do that other animals do not (not an essence, but perhaps a unique phenomenon), interesting to me that religion and sport are linked here too (as in bellah's Religion in Human Evolution)<br />
+- it is unusual that the outcome of a match does not matter, but we care anyway - it is extra-ordinary and unnecessary, something added onto the ordinary. we deliberately pretend that it matters.<br />
+- so soccer is real and it really exists, but it has an element of fiction - specifically, the fiction is the belief that winning matters<br />
+- sport as a socio-historical thing, i.e. it is both socially made up (in a way that an apple or a mountain is not) and historically grounded (soccer has an origin and a history)<br />
+- begins with the grasshopper as a starting place<br />
+- "sports are unnecessary physical skills or practices, where participants aim to win"<br />
+- football is an unnecessary contest stage for our enjoyment and pleasure<br />
+- two sides (you must follow the rules; or you must follow the generally accepted norms of the sport, which occasionally violate the constitutive rules) but this author argues both are wrong and that all you must do is submit to the authority of a referee (so following the rules or generally accepted practice, per se, is not the heart of what it means to say you are playing sport)<br />
+- football's status as a low-scoring sport adds random variance to the outcome of matches, which adds to the tension and enjoyment<br />
+- religion, art, and sport as extra-ordinary activities, but beyond that they don't share much in common<br />
+- it is *because* it is artificial and inconsequential that you can really lose yourself in it, like how watching a movie is a safe space in which you can freely let your emotions run wild (in instrumental day to day activities, it is often prudent to keep your emotions under control). and the fight or flight element provides a context in which emotions are indeed stimulated.<br />
+- sports' external purpose is as a venue for people to compete with each other physically and for people to watch while this happens (reminds me of the old quip on the MTG forums about distinguishing between MTG's goal, to win, and its point, to have fun)<br />
+- in evolution, play (distinct from but similar to sports) can be both for its own sake from the perspective of the participant while also having very real adaptive consequences for that individual or their species<br />
+- games are not random in form and content - they fulfill specific human needs that are consistent with life outside of the game, e.g. soccer provides physical contest and excitement that are not readily available in the modern world<br />
+- if something is a convention (like the rules of a sport), it means that a different convention could have been chosen instead, but it does not necessarily mean that the choice of the convention is arbitrary; replacing the rules of soccer with a randomly chosen set of rules would mean that the game has different and probably worse consequences for enjoyment etc, as it would meet a different set of needs instead of the set of needs that it currently does. if there were no soccer, there would likely be something else in its place, but that something else would not be random or fully arbitrary<br />
+- there are many other "social things" that both have real-world consequences and also are grounded in subjective belief and the details of which are subject to historical contingency, such as marriage, money, elections, fashion, cocktail parties<br />
+- in ancient greece, sporting events were often held as part of religious or ritual festivals, as sports were seen as an appropriate way to honour the gods<br />
+- rugby and soccer as a crystallisation or fission of an existing continuous spectrum of games<br />
+- a social-historical kind<br />
+- critiques the grasshopper, though only makes some subtle adjustments to the arguments (and nothing very cruxy for me)<br />
+- one of the grasshopper's near miss: it's not necessarily the unnecessary obstacles / inefficient means that define a sport (even though this is common), but rather the fact that such things could in principle be introduced without changing the nature of the sport, since the sport has a gratuitous logic<br />
+- mentions corner flagging<br />
+- the Yugoslavia dictator who threatened the players and their family if they lost greater than 3-0! holy shit<br />
+- sports as a family of things that are related but don't necessarily share a common definition, like a ring species (though this is challenged by the author)<br />
+- football is not meritocratic, but rather about the drama and the excitement - the more skillful team does not always win, and moreover the games that result in the most enjoyment for spectators are not the games where the more skillful team wins, but rather where there is a close contest and perhaps a surprising result; it's at the sweet spot for drama between perfectly meritocratic and completely random<br />
+- professional sports can only exist when spectators buy into the fiction that the outcome matters and are willing to spend money to engage in this fiction (analogy with how big-budget movies can only exist when viewers are willing to spend money to engage in the fiction of the story, though of course there are also important differences)<br />
+- argues that soccer is quite unusual among constructive-destructive team sports in that it is a) low scoring and hence more dramatic and b) easy to understand and play<br />
+- philosophical justification for players subject to e.g. racist taunts walking away from the match, as the loss of the real-world value destroys the fiction (that football matters), similar reason to why players sometimes voluntarily stop play for serious injury<br />
+- space-time worms<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Grasshopper: Games, Life and Utopia (Bernard Suits)</summary>
 
 <br />
