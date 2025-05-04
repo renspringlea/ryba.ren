@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* My Wars Are Laid Away in Books: The Life of Emily Dickinson (Alfred Habegger)
 * The Philosophy of Football (Steffen Borge)
 * The Grasshopper: Games, Life and Utopia (Bernard Suits)
 * Bodies of Inscription: A Cultural History of the Modern Tattoo Community (Margo DeMello and Gayle S. Rubin)
@@ -43,7 +44,6 @@ layout: home
 * Written on the Body: The Tattoo in European and American History (ed. Jane Caplan)
 * Ancient Ink: The Archaeology of Tattooing (ed. Lars Krutak and Aaron Deter-Wolf)
 * Stigma: Marking Skin in the Early Modern World (Katherine Dauge-Roth and Craig Koslofsky)
-* Tattoo Histories: Transcultural Perspectives on the Narratives, Practices, and Representations of Tattooing (ed Sinah Theres Kloß)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
