@@ -385,6 +385,23 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Memoirs and biography
 
 <details>
+<summary>My Wars Are Laid Away in Books: The Life of Emily Dickinson (Alfred Habegger)</summary>
+
+<br />
+- excellent attention to detail in the research, it's like listening to somebody to talk their special interest<br />
+- 1800s Massachusetts<br />
+- Ahmerst College, founded in part by her grandfather to promote puritanism and reject unitarianism and other forces, the alumni of which founded institutions in the Middle-East such as the American College in Beirut<br />
+- poem about suing God ?!<br />
+- was often intense about friendships which may have sometimes caused the friend to pull away - she was clingy and intense to the point of repelling others<br />
+- some poems with gender transformation themes<br />
+- can't be separated from the religious currents of the time<br />
+- "People talk of hallowed things aloud and embarass my dog."<br />
+- strong aversion to publicity<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Gift of an Ordinary Day: A Mother's Memoir (Katrina Kenison)</summary>
 
 <br />
