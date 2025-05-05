@@ -569,6 +569,20 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Tattoos and Popular Culture: Cultural Representations in Ink (Lee Barron)</summary>
+
+<br />
+- insta making tattoo studios seem less intimidating and therefore more accessible<br />
+- the human body as one of the last places where you can express yourself without that art being commodified by galleries, museums, etc (though i may question this given the monetisation of social media, where images of tattoos are very popular and the later chapter in this book that refers to social media portfolios as a crucial business resource)<br />
+- "make you feel at home in your own skin"<br />
+- the hypothesis that tattoo prevalence may decrease in the next generations as a form of rebellion against tattooed parent generations<br />
+- while the growth in popularity of tattoos has also involved moving away from the classic flash sheets to highly individualised designs, the fact that these designs are then posted on social media opens them up to imitation, ironically reducing that individuality<br />
+- i vibe with the artist who sees restrictions on copying or imitation as elitist<br />
+<br />
+
+</details>
+
+<details>
 <summary>Bodies of Inscription: A Cultural History of the Modern Tattoo Community (Margo DeMello and Gayle S. Rubin)</summary>
 
 <br />
