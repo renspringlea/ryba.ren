@@ -569,6 +569,46 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Sikhism: A Very Short Introduction (Eleanor Nesbitt)</summary>
+
+<br />
+- Sikh (short I, the kh is like in loch) means "learner", one who learns from a Guru ("remover of darkness", spiritual guides), who in turn learns from a sort of Guru God (a Guru for the Gurus)<br />
+- 20M in India (2% of the country), especially in Punjab (a homeland for most Sikh families, who may even see Sikh and Punjabi as interchangeable words/concepts), plus others around the world (minority populations in UK, Canada, USA, etc)<br />
+- Hindu and Muslim context<br />
+- Lots of continuity with earlier Hindu concepts and traditions, much unproblematic overlap, important to many Sikhs that they are distinct but also no clear dividing line<br />
+- also some Muslim influence, especially via Muslim conquest/rule of Punjab and nearby aread<br />
+- its own scriptures<br />
+- 10 Gurus, starting with the fouder Guru Nanak in 1469 and ending 1708, finally passed onto the Guru Granth Sahib, the central scripture and the living Guru (though there are other texts)<br />
+- "life should be lived generously, industriously, and meditatively"<br />
+- turban, beard, five k's (incl sword, kara (bracelet/bangle))<br />
+- martial and martyr ideals<br />
+- some of the moral prohibitions like on meat, smoking, and sex with muslim women were probably more to do with preserving social separation from muslims in the 18<br />th century
+- struggles, non violent and violent, including against oppression, for recognition as an independent faith community, independence from british, a sikh state (hence, the state of punjab, but also more recent 1980-1990s bloodshed between sikhs and the indian government in a struggle for an independent state "kalistan")<br />
+- significant disproportionate sacrifice/suffering for the indian cause in the india-pakistan conflict<br />
+- sikh diaspora<br />
+- interpretation of morality, general social structure and practices, politics etc different within Sikhism across castes and communities<br />
+- modern sex selection technology used to abort female fetuses in the 1980s and 1990s, illegal but continues<br />
+- persistence of caste<br />
+- violence against sikhs due to association of turbans with islamist terrorists esp in the united states<br />
+<br />
+
+</details>
+
+
+<details>
+<summary>Druids: A Very Short Introduction (Barry Cunliffe)</summary>
+
+<br />
+- a caste of intellectuals, religious leaders and authorities<br />
+- specialists in a system of belief that involved other specialists, religious and ritual roles but also understanding the natural world, philosophical and political roles, teachers<br />
+- celts, northern europe esp modern day france, britain, ireland, 400 bce to 700 ce, roughly. eventually the system of belief distintegrated under roman conquest and disapproval.<br />
+- lots of modern ideas about druids have more to do with the fertile imaginations of 17th century writers rather than actual evidence, e.g. association with stonehenge<br />
+- essentially no connection between historical druids and today's neo-druidism, which this author argues is essentially unrelated and invented<br />
+<br />
+
+</details>
+
+<details>
 <summary>Tattoos and Popular Culture: Cultural Representations in Ink (Lee Barron)</summary>
 
 <br />
@@ -1238,6 +1278,18 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Misc
+
+<details>
+<summary>Essential Dickinson (pub. Caedmon, narr. Julie Harris)</summary>
+
+<br />
+- this is one excellent writer. honestly love her letters, as much as her poems<br />
+- "the steeple swam in amethyst"<br />
+- "until the moss had reached our lips and covered up our names"<br />
+- "when landlords turn the drunken bees out of the foxgloves' door" hahahahahahaha<br />
+<br />
+
+</details>
 
 <details>
 <summary>The Lola Quartet (Emily St. John Mandel)</summary>
