@@ -569,6 +569,30 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)</summary>
+
+<br />
+- this book is astonishing, the author has skin in the game in a way that I rarely see in academic writing, and along with the cross disciplinary approach, the result is both rigorous and very insightful<br />
+- a neo-Orientalist perspective on Islam and the Middle-East in a post-9/11 West, which leads to oversimplification and factual accuracies (obviously you can't just read the religious texts and assume you know a Muslim society's realities), incorrectly assuming Muslims have a connection to Islam that is distinct from that in other religious communities, and therefore that Islamic societies are an exception to the trend towards secularism with technological, economic and scientific development<br />
+- 1979 revolution, monarchy -> Islamic republic<br />
+- failures in the covid response, especially problems in the vaccine roll out, led some people away from science and seeing the pandemic as a punishment or retribution. similar disillusionment with the abuses and shortcomings of both communism and social democracy/capitalism.<br />
+- central arguments: religion is not driving socio-political developments in Iran (other factors, e.g. economics, are doing so), and religious changes in post-1979 Iran resemble some of the most extreme cases of secularisation in the modern West (contrary to the pro-Islam goals of the state)<br />
+- secularisation (an observation) vs secularisation theory (a hypothesis to explain purported observations) vs secularism (a prescription/normative)<br />
+- Iran is the largest of the Shia-majority countries<br />
+- the Shia religious insitutions becoming closely entangled with the state, thus the religious institutions' survival depended less on innovating and providing valuable "goods" (in the sense of Rational Choice Theory) to the people, thus encouraging people's secularisation<br />
+- the religious institutions (esp seminaries and clerics) became essentially state employees and state serving with a thin veneer of religion<br />
+- stability and expediency of the state explicitly placed above islamic principles<br />
+- argues that it's incorrect to see secularism and democracy as intertwined<br />
+- religiosity in Iran has declined since 1979, especially among the young<br />
+- though religiosity is made up of different dimensions and these have each had different trends<br />
+- uses data to show that conventional religiosity is distinct from religio-political beliefs (?) the latter being a similar concept to islamism<br />
+- polygamy legal but rare and stigamised; temporary marriages are also a thing<br />
+- christian communism, interesting<br />
+<br />
+
+</details>
+
+<details>
 <summary>Sikhism: A Very Short Introduction (Eleanor Nesbitt)</summary>
 
 <br />
