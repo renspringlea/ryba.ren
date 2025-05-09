@@ -95,6 +95,21 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Scorched Grace (Margot Douaihy)</summary>
+
+<br />
+- clear A, bona fide banger - a cigarette-smoking, foul-mouthed, queer Catholic sister with throat and knuckle tattoos. was this book written for me? beautifully written, plenty of gallows humour. a bit corny in places, but it feels deliberate and fun.<br />
+- (cw rape, gay bashing, police violence, the cat dies)<br />
+- "Yes, my God is a 'they"."<br />
+- "No person, or saint, or Psalm, would save me. I'd have to do it myself."<br />
+- "In church, the power is in the old."<br />
+- "Hail Mary, mother of God. Let the afterlife have central air and hot women."<br />
+- "Holy Ghost, cut the shit."<br />
+<br />
+
+</details>
+
+<details>
 <summary>If We Were Villains (M. L. Rio)</summary>
 
 <br />
