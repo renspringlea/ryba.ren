@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Scorched Grace (Margot Douaihy) [fiction]
 * Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)
 * Essential Dickinson (pub. Caedmon, narr. Julie Harris)
 * Sikhism: A Very Short Introduction (Eleanor Nesbitt)
@@ -43,7 +44,6 @@ layout: home
 * The Philosophy of Football (Steffen Borge)
 * The Grasshopper: Games, Life and Utopia (Bernard Suits)
 * Bodies of Inscription: A Cultural History of the Modern Tattoo Community (Margo DeMello and Gayle S. Rubin)
-* If We Were Villains (M. L. Rio) [fiction]
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
