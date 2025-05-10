@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* The Other End of the Needle: Continuity and Change among Tattoo Workers (David C. Lane)
 * Scorched Grace (Margot Douaihy) [fiction]
 * Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)
 * Essential Dickinson (pub. Caedmon, narr. Julie Harris)
@@ -43,7 +44,6 @@ layout: home
 * My Wars Are Laid Away in Books: The Life of Emily Dickinson (Alfred Habegger)
 * The Philosophy of Football (Steffen Borge)
 * The Grasshopper: Games, Life and Utopia (Bernard Suits)
-* Bodies of Inscription: A Cultural History of the Modern Tattoo Community (Margo DeMello and Gayle S. Rubin)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*

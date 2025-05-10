@@ -585,3 +585,18 @@ Snugglebun is a cuddly floppy bestie who basically melts to a liquid when they r
 ![snugglebun.jpg](/assets/images/snugglebun.jpg){: width='400' }  
   
 
+## Emily  
+Emily is a happy go lucky girl. She enjoys going clothes shopping and talking about fashion with her friends. She also likes to get her hair plaited. She is often seen pottering around the house, keeping others company and chatting away.  
+![emily.jpg](/assets/images/emily.jpg){: width='400' }  
+  
+
+## Petal  
+Petal (DOB 15/4/2025) is a very chatty bunny who loves adventures. Her best friend is Bart and they spend much of their time hanging about getting carried around on adventures and sightseeing.  
+![petal.jpg](/assets/images/petal.jpg){: width='400' }  
+  
+
+## Sydney  
+Sydney (DOB 13/04/2025) enjoys lazing about in bed. She likes to test out all the beds by giving them a thorough bouncing. She enjoys watching the soccer, as long as it's from bed!  
+![sydney.jpg](/assets/images/sydney.jpg){: width='400' }  
+  
+

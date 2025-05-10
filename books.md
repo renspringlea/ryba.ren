@@ -584,6 +584,30 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>The Other End of the Needle: Continuity and Change among Tattoo Workers (David C. Lane)</summary>
+
+<br />
+- this is a cool perspective, seeing things from the pov of the artists<br />
+- tattoos as a way to assert control over your body when bodies have become politicised<br />
+- there are about as many tattoo studios in the US as there are starbucks or mcdonalds<br />
+- really interesting discussion on complementarity and conflicts of internal identities for artists who then become tattooists<br />
+- the term "scratcher" as a folk devil, and as status politics<br />
+- tattoo parties, the hustle hahahaha<br />
+- zoning laws, can reduce visibility and increase clustering<br />
+- actually not illegal everywhere to tattoo minors, but usually at least a shop policy (and often the shop owner will say its a law even if its not)<br />
+- 1880s and 1890s a fad of tattooing among the elite (the context for many of the kings, churchills, etc who got tattoos that i learned about recently), interestingly faded in part due to the invention of tattoo machines (thus making tattoos faster and less of a leisure activity/status symbol) and emergence of tattooed carnival performers etc<br />
+- histories of tattooing, including those presented in academic research, overemphasise the white perspective/history<br />
+- devaluing aesthetics and designs that are more popular with Black customers<br />
+- devaluing woman tattoo artists and their labour, though can also lead to some opportunities that men dont have<br />
+- makes a similar point to me (though its tangential here) about tattoo artists facing the dilemma of making face and neck tattoos, and how this could affect future accumulation of property, jobs, American dream<br />
+- tattoo museums, you have to be a very senior artist with high status and honour, as this gives you the connections and status necessary to obtain these valuable historical objects (flash, tools, etc), usually owned or created by legends<br />
+- resistance to commodification, especially by outsiders<br />
+- reality tv, youtube videos, etc as causing a drunning-kruger effect where customers have the illusion of knowledge of tattooing and tattooists have to manage this<br />
+<br />
+
+</details>
+
+<details>
 <summary>Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)</summary>
 
 <br />
