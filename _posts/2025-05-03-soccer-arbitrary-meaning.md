@@ -44,7 +44,11 @@ This is the solution to my philosophical conundrum. Soccer is partially arbitrar
 Perhaps the fact that I need to read multiple works of philosophy in order to arrive at the conclusion "soccer is fun" should have been a clear indication that I'm autistic!  
 
 Lastly, here's a neat tidbit. It is interesting to me that there is a deep parallel between sport and religion. The similarity is this: in sport and in religion, time and space is set aside where the ordinary, day-to-day activities of survival are paused. In fact, Bellah (2011) argues that play served an important purpose in the evolution of ritual and religion in humans. To be sure, there are important differences between sport and religion. But I find it very interesting that sport and religion—both deep interests of mine over the past few years, in part *because* I initially thought that they made little sense—share this fundamental connection.  
-  
+
+*Update 2025-05-12*
+My therapist recently shared with me *[The Neurodivergence Skills Workbook for Autism and ADHD](https://www.newharbinger.com/9781648483073/the-neurodivergence-skills-workbook-for-autism-and-adhd/)*. This has a section on stimming—self-stimulating behaviours, especially those that involve physical sensations, that can help people regulate their emotions and find calmness. Stimming is very common in autistic people. It is very interesting to me that the list of stims in this workbook includes "doing sports"!
+
+
 
 
 Sources and reading list:  

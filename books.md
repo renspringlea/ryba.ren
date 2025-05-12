@@ -584,6 +584,22 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Treating Trauma in Trans People: An Intersectional, Phase-Based Approach (Reese Minshew)</summary>
+
+<br />
+- "This book centers bodies that have experienced systemic oppression, bodies that have experienced abuse at the hands of family members and intimate partners, bodies that have been assaulted by strangers. This book centers bodies that have been overmedicalized, undermedicalized, and fetishized. This book is a resistance song for bodies that have survived trial-by-fire, and a mourning song for those who didn't survive."<br />
+- "hypothesis that a fawn response could potentially look like performing in the gender role associated with their birth-assigned sex in order to evade harm or reduce tension in the home."<br />
+- "Another theory that I find clinically useful is the theory of information processing in PTSD. This theory suggests that people who have been exposed to trauma and stress have less attention, relative to non-exposed control groups, to bring to bear on neutral or positive stimuli, and more attention to bring to aversive or traumatic stimuli. Two people may be in the same grocery store, for instance, and one of them may be able to readily focus on finding the food they want while the other is preoccupied by what they perceive as threatning body language in a nearby shopper."<br />
+- "For people who like data and control, this [tracking heart rate etc] can be a helpful strategy, altohugh it is a double-edged sword for people whose desire for control extends to restricting food intake or over-exercise."<br />
+- "They had been prescribed a number of mood stabilizers and antipsychotic medications, which they took intermittently depending on their mood, finances, and degree of hostility to the medical establishment." (!)<br />
+- "There are a variety of gendered and racialized expectations about body shape and size that contribute to people attempting to manipulate their weight through their food intake. In TGD people, who experience disordered eating at two to four times the rate of cisgender people, these gendered expectations around bodies may be more clearly articulated and consciously present. Women may overconsume in order to develop curves or underconsume to meet a white feminine ideal fo thinness."<br />
+- "Voice, and being gendered correctly in vocal communication, is very important to many TGD people. [...] Women and feminine-spectrum people with PTSD may find it more difficult to be heard as women as a function of social expectations about feminie prosody [the variation in our voices that allows us to add richness and layers to speech]."<br />
+- The triphasic model of trauma treatment: "a period of building safety and stabilization, a period of reprocessing the trauma or traumas, and a period of integration or reintegration into a community or communities."<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Other End of the Needle: Continuity and Change among Tattoo Workers (David C. Lane)</summary>
 
 <br />
@@ -1079,6 +1095,32 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>Hermits: The Insights of Solitude (Peter France)</summary>
+
+<br />
+- fine book, its like hermits 101, nice broad perspective though obviously cant go into too much detail about any one historical instance of eremitism<br />
+- the seclusion -> building a reputation for wisdom and advice among the locals -> being mobbed -> seeking seclusion vicious cycle hahahahahah<br />
+- love for neighbour being so strong that you can converse with your neighbour for two days without interrupting your internal prayer<br />
+- eremitism very routine in hinduism<br />
+- revival of hinduism in the modern era, in part in response to christian evangelism<br />
+- Charles de Foucauld (canonised in 2022!)<br />
+- Merton: to be mad, you need other people. When you are alone, you quickly tire of your craziness. It is too exhausting.<br />
+- it is dangerous to go into solitude just because you like to be alone; its about being simple and natural and humble<br />
+- robert lax, a precursor of the beats and a close friend of mertons who was himself a hermit on patmos for the latter period of his life, feeding "the cats who choose to live with him" (and the author of this book knew him personally on patmos, and had many conversations to support the merton chapter of the book, how cool!)<br />
+<br />
+
+</details>
+
+<details>
+<summary>How to See (Thich Nhat Hanh)</summary>
+
+<br />
+- beautiful, classic thich nhat hanh. this book is like a booster shot!<br />
+<br />
+
+</details>
 
 <details>
 <summary>The Philosophy of Football (Steffen Borge)</summary>
