@@ -34,6 +34,9 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Treating Trauma in Trans People: An Intersectional, Phase-Based Approach (Reese Minshew)
+* How to See (Thich Nhat Hanh)
+* Hermits: The Insights of Solitude (Peter France)
 * The Other End of the Needle: Continuity and Change among Tattoo Workers (David C. Lane)
 * Scorched Grace (Margot Douaihy) [fiction]
 * Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)
@@ -41,9 +44,6 @@ layout: home
 * Sikhism: A Very Short Introduction (Eleanor Nesbitt)
 * Druids: A Very Short Introduction (Barry Cunliffe)
 * Tattoos and Popular Culture: Cultural Representations in Ink (Lee Barron)
-* My Wars Are Laid Away in Books: The Life of Emily Dickinson (Alfred Habegger)
-* The Philosophy of Football (Steffen Borge)
-* The Grasshopper: Games, Life and Utopia (Bernard Suits)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
