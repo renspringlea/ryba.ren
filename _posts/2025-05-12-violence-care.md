@@ -1,13 +1,13 @@
 ---  
 layout: post  
 title: "Violent activities (when done with skill and consent) involve showing more care to ourselves and others"  
-tags: philosophy mental-health soccer  
+tags: philosophy mental-health soccer tattoos  
 ---  
 
 I have several hobbies that sometimes involve physical violence directed at myself or at others.  
 
 However, I've noticed an interesting pattern. To outside observers, these activities may appear physically violent and even, sometimes, shockingly painful. However, when these violent activities are done by skilled practitioners, and when they are done with the full enthusiastic consent of all parties, these activities lead to *more* care for ourselves and others.  
-  
+
 Before I elaborate, I want to make one thing crystal clear. I am only talking about activities that involve the fully informed and active consent of all parties. Any of these activities, when a participant has not given their informed and active consent, is abuse. Such abuse is always and unambiguously wrong, and nothing that I say in this article applies to abuse.  
 
 With that said, here are some examples of violent activities that involve more care, not less care, for ourselves and each other.  
@@ -32,7 +32,7 @@ It is precisely because of this risk of disease transmission and infection that 
 
 In *The Other End of the Needle: Continuity and Change among Tattoo Workers*, David C. Lane draws an explicit link between disease risk and skill in disease prevention:  
 
-> Of the 31 people [tattoo artists] I spoke with, all but 2 (the shopless 2) had BBPs certification. Many view this certification as an aspect of becoming a competent professional. [...] established tattooists are constantly concerned with maintaining a sterile enough environment to tattoo. They understand this as a responsibility of the occupation, along with being knowledgeable about disease transmission. Most willingly take courses in BBPs [bloodborne pathogens], and many routinely take refresher courses.  
+> Of the 31 people [tattoo artists] I spoke with, all but 2 (the shopless 2) had BBPs [bloodborne pathogens] certification. Many view this certification as an aspect of becoming a competent professional. [...] established tattooists are constantly concerned with maintaining a sterile enough environment to tattoo. They understand this as a responsibility of the occupation, along with being knowledgeable about disease transmission. Most willingly take courses in BBPs [bloodborne pathogens], and many routinely take refresher courses.  
 
 # BDSM  
 BDSM (for the uninitiated: bondage, discipline, dominance, submission, sadism, and masochism) can appear very violent. BDSM practitioners often receive large wounds and deep bruises. For many practitioners, the pain is the point.  
