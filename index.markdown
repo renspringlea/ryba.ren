@@ -34,6 +34,8 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Drawing with Great Needles: Ancient Tattoo Traditions of North America (ed. Aaron Deter-Wolf and Carol Diaz-Granados)
+* Chemistry Lessons (Jae) [fiction]
 * Treating Trauma in Trans People: An Intersectional, Phase-Based Approach (Reese Minshew)
 * How to See (Thich Nhat Hanh)
 * Hermits: The Insights of Solitude (Peter France)
@@ -42,8 +44,6 @@ layout: home
 * Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)
 * Essential Dickinson (pub. Caedmon, narr. Julie Harris)
 * Sikhism: A Very Short Introduction (Eleanor Nesbitt)
-* Druids: A Very Short Introduction (Barry Cunliffe)
-* Tattoos and Popular Culture: Cultural Representations in Ink (Lee Barron)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
