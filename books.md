@@ -95,6 +95,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Chemistry Lessons (Jae)</summary>
+
+<br />
+- B ish, good fun, maybe a little corny but in a fun and nerdy way. the friendship is sweet.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Scorched Grace (Margot Douaihy)</summary>
 
 <br />
@@ -582,6 +591,18 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>Drawing with Great Needles: Ancient Tattoo Traditions of North America (ed. Aaron Deter-Wolf and Carol Diaz-Granados)</summary>
+
+<br />
+- Didn't get heaps out of this in terms of tattooing, but as a book on the archaeology of religion it's very interesting. These Native Americans get up to some pretty hardcore stuff. And cool to have another data point on the highly diverse traditions and meanings of tattoo practices across societies.<br />
+- all the violence/genocide and war stuff (both within native american tribes and europeans against the native americans) is hard to read obviously, skipped some of the more graphic bits<br />
+- gives more details about the guy whose skin was flayed after getting a tattoo he hadnt earned<br />
+- a number of tattooed mummies, though hasnt been heaps of research or examination done on mummies in the americas for tattoo research<br />
+<br />
+
+</details>
 
 <details>
 <summary>Treating Trauma in Trans People: An Intersectional, Phase-Based Approach (Reese Minshew)</summary>
