@@ -46,7 +46,7 @@ layout: home
 * Sikhism: A Very Short Introduction (Eleanor Nesbitt)
 
 ## Blog  
-*These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. I do not use generative AI to write (exceptions are clearly labelled).*
+*These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write (exceptions are clearly labelled).*
 
 <script type="text/javascript">
   function filterUsingTag(selectedTag) {
