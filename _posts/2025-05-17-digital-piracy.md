@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Notes on the ethics of digital piracy for personal use"
-tags: social-challenges philosophy life-ops
+tags: social-challenges philosophy life-ops research
 ---
-  
+
 Take-home message:
 - There's not much agreement in the philosophical literature on the ethics of piracy for digital use. Interesting!
 
