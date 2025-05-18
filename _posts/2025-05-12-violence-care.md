@@ -6,7 +6,7 @@ tags: philosophy mental-health soccer tattoos
 
 Related posts:  
 - [Notes on the good pain!]({% post_url 2025-02-12-good-pain %})  
-- [Tattoo highs and endorphins]({% post_url 2025-05-19-tattoos-endorphins %})  
+- [Tattoo highs and endorphins]({% post_url 2025-05-18-tattoos-endorphins %})  
 
 I have several hobbies that sometimes involve physical violence directed at myself or at others.  
 
