@@ -31,3 +31,9 @@ I don't mean to say that concerns around employment are not valid! Of course, fi
 There is an episode of *Needles and Pins*, a documentary series hosted by British tattoo artist Grace Neutral, that examines the tattoo traditions of the Māori people in Aotearoa New Zealand. Grace Neutral is heavily tattooed, and she has extensive tattoos and skin modification even on her face and in her eyes. In one part of the episode, Neutral is visiting a Māori community. A member of the community, Murray Bidois, addresses the camera:
 
 > As you might have noticed, your friend, your heavily tattooed and modified friend, when she turned up, didn't scare our kids, you know? Nobody stared at her as if she was any different because we come from thousands of years of body modification.
+
+I also encountered this tidbit in *Tattooing in Contemporary Society: Identity and Authenticity* by Michael Rees:
+
+> When I decided to become visible tattooed, I decided to myself that I was not concerned about ﬁnding a job with tattoos because it’s some- thing that I have wanted to be done, I deﬁnitely thought long and hard about this but it’s more important to me to live my life how I want to and not for a corporate company. (Heather, 25)  
+
+> For these respondents, and many others, key was demonstrating a commitment to the self that was realised through having tattoos, particularly where these were located in visible locations. Readily available for others to read, including those within their ﬁgurations who they considered as having more power such as employers, these individuals demonstrated their authenticity by having tattoos that could potentially limit their future opportunities, but eschewed any regrets by demonstrating a commitment to living their life how they wanted, a key aspect in quests for personal authenticity.  

@@ -4,6 +4,10 @@ title: "Violent activities (when done with skill and consent) involve showing mo
 tags: philosophy mental-health soccer tattoos  
 ---  
 
+Related posts:  
+- [Notes on the good pain!]({% post_url 2025-02-12-good-pain %})  
+- [Tattoo highs and endorphins]({% post_url 2025-05-19-tattoos-endorphins %})  
+
 I have several hobbies that sometimes involve physical violence directed at myself or at others.  
 
 However, I've noticed an interesting pattern. To outside observers, these activities may appear physically violent and even, sometimes, shockingly painful. However, when these violent activities are done by skilled practitioners, and when they are done with the full enthusiastic consent of all parties, these activities lead to *more* care for ourselves and others.  

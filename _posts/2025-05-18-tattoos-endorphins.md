@@ -6,6 +6,10 @@ tags: tattoos mental-health research
 
 *Content warning: self-harm*
 
+Related posts:  
+- [Notes on the good pain!]({% post_url 2025-02-12-good-pain %})  
+- [Violent activities (when done with skill and consent) involve showing more care to ourselves and others]({% post_url 2025-05-12-violence-care %})  
+
 I often experience an interesting feeling when receiving a tattoo. After sitting for a long session (e.g. 4-6 hours) in which I receive a large or extensive tattoo, I experience a physical feeling of satisfaction and relaxation. This feeling is very similar to the pleasant rush of satisfaction and relaxation that I feel after exercising strenuously (e.g. after participating a soccer match). There are differences in the accompanying sensations—after a tattoo, my skin stings and feels blistered, while after exercising it is my muscles that ache. But there is certainly a common sensation of relaxation and satisfaction.
 
 As it turns out, I am not alone in experiencing this subtle "high" during and after receiving tattoos.  

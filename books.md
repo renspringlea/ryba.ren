@@ -593,6 +593,27 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Tattooing in Contemporary Society: Identity and Authenticity (Michael Rees)</summary>
+
+<br />
+- the literature review is cool, nice to have such a broad overview on how tattoos have been viewed by different disciplines (including super problematic and straight-up incoherent views of earlier academics - good example demonstrating how far wrong scientists can go! and how the researchers' biases and unfamiliarity are hidden "beneath a veneer of objectivity", bam!)<br />
+- Tattoos in imprisoned individuals are an almost unique way to express one's identity when this cannot be done by clothes, makeup, etc. Especially for expressing cultural or ethnic identity for people who have been imprisoned far from their own community.<br />
+- the discussion on objectivity and subjectivity in social science research is very interesting, strikes me as thoughtful and balanced, and is really applicable to all social science research (not just tattoo related)<br />
+- the researcher's dual statuses (working class and middle class; academic researcher and tattooed)<br />
+- tidbit about sociological academic writing, interesting, writing your findings in a way that can be (at least in principle) read by your participants while remaining academically rigorous<br />
+- the emergence of tattoos influenced by one's parents' tattoos, interesting<br />
+- bit on employment is interesting - unequal power between tattooees and potential employers; easier for men than for women to be tattooed in the workplace; <br />
+- argues foe four interrelated forces behind tattooings increasing acceptance in the west: increasing role of the body as a site for individuality (esp cosmetics, exercise, diet, plastic surgery, etc), increasing visibility through popular media, increasing diversification and globalisation, and attempts to recognise the practice as a legitimate art form<br />
+- tattoos as a way to overcome traumatic events<br />
+- the participant who reported being true to oneself/authentic as more important than employment considerations<br />
+- the old school artists would break into morgues and tattoo dead bodies! holy moly that is interesting<br />
+- importance of pain in identity construction<br />
+- pain as a way to experience the body, including in sport, some interesting notes on the good pain here<br />
+<br />
+
+</details>
+
+<details>
 <summary>Drawing with Great Needles: Ancient Tattoo Traditions of North America (ed. Aaron Deter-Wolf and Carol Diaz-Granados)</summary>
 
 <br />
