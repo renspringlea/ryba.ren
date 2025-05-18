@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Tattooing in Contemporary Society: Identity and Authenticity (Michael Rees)
 * Drawing with Great Needles: Ancient Tattoo Traditions of North America (ed. Aaron Deter-Wolf and Carol Diaz-Granados)
 * Chemistry Lessons (Jae) [fiction]
 * Treating Trauma in Trans People: An Intersectional, Phase-Based Approach (Reese Minshew)
