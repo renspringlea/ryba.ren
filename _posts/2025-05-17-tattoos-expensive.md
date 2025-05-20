@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tattoos are expensive, and this fact is interesting"
-tags: tattoos research social-challenges
+tags: tattoos research social-challenges history
 ---
 
 I had a very interesting conversation with a tattoo artist lately. I was visiting this artist for the second sitting for my arm sleeve (a fish and aquatic animal-themed sleeve on my left arm). This sleeve will likely take about five sessions in total, and will probably cost me somewhere in the vicinity of 3,500 AUD (2,000 USD).
@@ -33,3 +33,15 @@ In *The Other End of the Needle*, David C. Lane identifies a group of tattooists
 However, Lane notes that shopless tattooists, despite being rejected as legitimate by other tattooists, might provide services that those tattooists cannot:  
 
 > Mobility allows shopless to provide services to a segment of consumers who would not ordinarily meet tattooists. They can reach people who are unwilling or unable to enter a tattoo shop and those who could not afford the prices in a tattoo shop.
+
+*Update 2025-05-20*
+
+The masterpiece by Lars Krutak, *Tattoo Traditions of Asia: Ancient and Contemporary Expressions of Identity*, contains these two fascinating examples.  
+
+Writing about the Paiwan people, who are indigenous to Taiwan, Krutak reports:  
+
+> [...] [T]he cost of tattooing a man’schest, back, and both arms was high: one pig, two iron rakes, four knives, an ax, one roll of cloth, one porcelain bowl, and a bottle of millet wine. Other sources report that payment wasakin to the costs of a dowry and included four guns, good-quality clothes, a large pitchfork, a pot,a large iron cooking wok, a reaping sickle, porcelain bowls, alcoholic drinks, and a pig.  
+
+Regarding the Mentawai people in Indonesia:  
+
+> [...] [S]ome Mentawai people who wish to get tattooed cannot afford these expensive markings. For example, the cost of a full suite of tattoos in Buttui, which may take almost a lifetime to receive, is high by Mentawaian standards: 1 medium size pig; 1 durian tree; 4 sago palm trees; 1 coconut palm tree; and 1 chicken basket with several chicks!  
