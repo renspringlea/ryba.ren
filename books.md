@@ -95,6 +95,17 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Sour Grapes (Eliza Lentzski)</summary>
+
+<br />
+- B-/C ish, this one's mostly fun, it's like cottage in the country vibes but with "how is it made" from the technical details about wine, really scratches an itch. pretty wholesome story and decently written, though drowning in adverbs a bit and some issues with the plot.<br />
+- the mc is not a terribly inspiring manager hahahahah<br />
+- skipped the bit with the falcon + the lobster, animal cruelty not cute<br />
+<br />
+
+</details>
+
+<details>
 <summary>Chemistry Lessons (Jae)</summary>
 
 <br />
@@ -591,6 +602,32 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>Transgender and Non-Binary People in Everyday Sport: A Trans Feminist Approach to Improving Inclusion (Abby Barras)</summary>
+
+<br />
+- this is a thoughtful and constructive contribution to the literature—it's nice to see such a compassionate yet empirical approach to this topic, especially given the current tone of the conversation in the mainstream media. It's not every day that I see myself reflected back at me in an academic book. I wish I had known about this book when I wrote my book Trash Fish, as this book would definitely have been at the top of the "further reading" list for the soccer chapter in my book!<br />
+- I ordered this book in hard copy and I definitely engaged with it, but I haven't read it cover to cover; it's very overwhelming as it's so personal to me, both in terms of the topic and in terms of the specific experiences that are mentioned by the participants, so I've had to pace myself<br />
+- I actually reached out to the author to thank her for this excellent and compassionate book, and we had a great conversation over email.<br />
+<br />
+
+</details>
+
+<details>
+<summary>Tattoo Traditions of Asia: Ancient and Contemporary Expressions of Identity (Lars Krutak)</summary>
+
+<br />
+- this book is INSANELY good, holy moly! what a masterpiece of scholarship.<br />
+- the obscure 1894 german-language paper about japanese anthropology that the author found SO COOL<br />
+- the japanese indigenous traditions again involves women, especially around puberty + men cannot see the tattooing<br />
+- there are supernatural catholic tattoos, still practiced to this day in the central philippines<br />
+- there are some areas of the philippines where, due to islamist insurgency etc, access is highly restricted by the govt. these are also often the areas where tribal tattoo practices exist, making it very hard to document these waning practices<br />
+- some east timor content, cool!<br />
+- sak yant, in thailand, buddhist monks giving tattoos?! that have magical powers from the monk's chanting while tattooing, and the tattooee has to observe one of the five precepts for the rest of his life otherwise the tattoo loses his power<br />
+<br />
+
+</details>
 
 <details>
 <summary>Tattooing in Contemporary Society: Identity and Authenticity (Michael Rees)</summary>
