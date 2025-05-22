@@ -34,6 +34,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Bosnia: A Short History (Noel Malcolm)
 * Transgender and Non-Binary People in Everyday Sport: A Trans Feminist Approach to Improving Inclusion (Abby Barras)
 * Tattoo Traditions of Asia: Ancient and Contemporary Expressions of Identity (Lars Krutak)
 * Sour Grapes (Eliza Lentzski) [fiction]
@@ -41,10 +42,7 @@ layout: home
 * Drawing with Great Needles: Ancient Tattoo Traditions of North America (ed. Aaron Deter-Wolf and Carol Diaz-Granados)
 * Chemistry Lessons (Jae) [fiction]
 * Treating Trauma in Trans People: An Intersectional, Phase-Based Approach (Reese Minshew)
-* How to See (Thich Nhat Hanh)
-* Hermits: The Insights of Solitude (Peter France)
 * The Other End of the Needle: Continuity and Change among Tattoo Workers (David C. Lane)
-* Scorched Grace (Margot Douaihy) [fiction]
 * Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)
 
 ## Blog  
