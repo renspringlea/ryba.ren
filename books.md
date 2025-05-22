@@ -604,6 +604,37 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Bosnia: A Short History (Noel Malcolm)</summary>
+
+<br />
+- solid history, generally careful and measured but not afraid to make important judgment calls when the evidence supports them. though I do wonder if this author has erred slightly towards demonising the Serbs - unsure if this is the case, as I don't know the reality myself, but would be interesting to see how a historian more sympathetic to the Serbs would respond.<br />
+- interesting as a meeting point between east and west, various major empires, christianity and islam<br />
+- the 1990s war is not explained by bosnia's history<br />
+- ilyrians before the slav arrival; "tattooing is common among the ilyrians", textual and archaeological evidence for this, and this is the origin of the bosnian tattoo tradition; a rare form of cultural continuity<br />
+- roman bosnia, first few centuries CE<br />
+- slav arrival in 6th or 7th century, pagan until christianisation c. 10th century<br />
+- lots of conquest, various rulers and empires, etc<br />
+- decorated medieval gravestones, both slabs and standing stones<br />
+- Ottoman rule and much conversion to Islam<br />
+- monasteries<br />
+- romani historically common + discriminated against<br />
+- Austria-Hungary annexed Bosnia in 1908, and a Bosnian Serb was the one who assassinated Archduke Franz Ferdinand in Sarajevo in 1914, motivated by the desire to reject Austro-Hungarian rule and form a southern Slavic (Yugoslav) state<br />
+- the guy who said he needs a train ticket to Vienna so he can go to the graveyard and say "Well, Franz, if I knew what a mess Bosnia would become after your death, I never would have worked to depose you." hahahaha<br />
+- yugoslavia invaded by the axis powers, eventually taken over and heaps of nazi policies, incl persecution of jews and concentration camps<br />
+- shitloads of fighting within yugoslavia, ~1M yugoslavs died, frequently killing each other<br />
+- communist yugoslavia, tito and stalin<br />
+- persecution of religion under the communists, though later permitted and muslims used almost tokenistically to represent the country internationally<br />
+- less powerful than serbia and croatia in federal yugoslavia<br />
+- bit of economic mismanagement under tito, which along with the resulting austerity measures fuelled discontent with the government (of course channelled into nationalism)<br />
+- muslim population of bosnia highly secularised as far as muslim populations go by the 1980s ish<br />
+- 1990s war between the constituent republics/nations<br />
+- 1992-3 Bosnian war, essentially Bosnia vs Serbia vs Croatia, lots of atrocities by serbia, "psychology of terror", "predominantly planned and directed from serbian soil"<br />
+- lack of understanding by politicians from USA, UK, etc didn't help. this author argues it was wrong to maintain the arms embargo on the former yugoslav states (from the yugoslavia era), theoretically applied equally but since serbia held most of the stockpiles from the former federation, this author calls this "a death sentence" for bosnia<br />
+<br />
+
+</details>
+
+<details>
 <summary>Transgender and Non-Binary People in Everyday Sport: A Trans Feminist Approach to Improving Inclusion (Abby Barras)</summary>
 
 <br />
