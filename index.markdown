@@ -23,7 +23,8 @@ layout: home
 * Academic publications @ [Google Scholar](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
 * Animal advocacy research @ [Animal Ask](https://www.animalask.org/research)
 * Additional hot takes @ [Effective Altruism Forum](https://forum.effectivealtruism.org/users/ren-ryba)
-* Data on the European fish farming industry @ [Finsight](https://finsight.fish)  
+* Data on the European fish farming industry @ [Finsight](https://finsight.fish)
+* Data on global cage-free eggs @ [Cagefr.ee](https://cagefr.ee)  
 
 ## My books
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
@@ -34,13 +35,13 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* The Point of Vanishing: A Memoir of Two Years in Solitude (Howard Axelrod)
 * Bosnia: A Short History (Noel Malcolm)
 * Transgender and Non-Binary People in Everyday Sport: A Trans Feminist Approach to Improving Inclusion (Abby Barras)
 * Tattoo Traditions of Asia: Ancient and Contemporary Expressions of Identity (Lars Krutak)
 * Sour Grapes (Eliza Lentzski) [fiction]
 * Tattooing in Contemporary Society: Identity and Authenticity (Michael Rees)
 * Drawing with Great Needles: Ancient Tattoo Traditions of North America (ed. Aaron Deter-Wolf and Carol Diaz-Granados)
-* Chemistry Lessons (Jae) [fiction]
 * Treating Trauma in Trans People: An Intersectional, Phase-Based Approach (Reese Minshew)
 * The Other End of the Needle: Continuity and Change among Tattoo Workers (David C. Lane)
 * Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)
