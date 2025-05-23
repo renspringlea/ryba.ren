@@ -420,6 +420,20 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Memoirs and biography
 
 <details>
+<summary>The Point of Vanishing: A Memoir of Two Years in Solitude (Howard Axelrod)</summary>
+
+<br />
+- this is some beautiful writing<br />
+- 1.5 years without a knock on the door, miles from the nearest road and miles from the nearest house, sheets of rain, oh my<br />
+- reflection on when he plays basketball and he connects with all those childhood afternoons playing the sport too, wow<br />
+- nobody else for miles to blame! hahaahaha I do like how honest he is about his less appealing tendencies, especially anger, sex<br />
+- "I was impersonating my former self and not doing a good job."<br />
+- "What could be more extreme than living in a city? In comparison, living in the woods seems conservative, in every sense of the world."<br />
+<br />
+
+</details>
+
+<details>
 <summary>My Wars Are Laid Away in Books: The Life of Emily Dickinson (Alfred Habegger)</summary>
 
 <br />
