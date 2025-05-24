@@ -71,6 +71,8 @@ $$D_2 > D_1$$
 
 $$p_A\times t_2 - p_B\times t_2 > p_A\times t_1 - p_B\times t_1$$  
 
+Then, we can simply rearrange and simplify:  
+
 $$p_A\times t_2 - p_A\times t_1 > p_B\times t_2 - p_B\times t_1$$  
 
 $$p_A\times (t_2 - t_1) > p_B\times (t_2 - t_1)$$  
@@ -92,5 +94,5 @@ The second reason why I find this result surprising is that teams rarely corner 
 
 There are a few possibilities that could explain the discrepancy between our model and the reality that we actually observe:  
 - These teams might indeed consistently think that they are more likely to concede a goal than score a goal in the final minutes. If this is the case, then our model accurately represents reality and players are aware of this arithmetic (whether consciously or subconsciously).  
-- There might be other factors that are not included in our model. For example, corner flagging involves placing the ball in a pretty advantageous spot on the pitch (the corner closest to the goal that you are attacking), and it tends to draw a couple of opponents to this position which reduces the number of players available to the other time in other spots on the pitch. It could be that these on-pitch movements actually change $$pA$$ and $$pB$$. Our model doesn't allow for these probabilities to vary.  
+- There might be other factors that are not included in our model. For example, corner flagging involves placing the ball in a pretty advantageous spot on the pitch (the corner closest to the goal that you are attacking), and it tends to draw a couple of opponents to this position which reduces the number of players available to the other time in other spots on the pitch. It could be that these on-pitch movements actually change $$p_A$$ and $$p_B$$. Our model doesn't allow for these probabilities to vary.  
 - It could be that our model accurately represents reality and that professional soccer players are often making a mistake when choosing to corner flag. Given the high level of skill involved among the players and the coaching staff, I find this pretty unlikely. However, there have been times in the history of sport when professional athletes have adopted a particular strategy despite that strategy being demonstrably suboptimal, so it is not unimaginable that professional soccer players are actually making a mistake here.  
