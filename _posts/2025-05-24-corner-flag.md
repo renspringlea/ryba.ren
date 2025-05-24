@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "The economics of taking the ball to the corner flag"  
+title: "The economics of taking the ball to the corner flag in soccer"  
 tags: soccer research  
 ---  
 
@@ -41,7 +41,7 @@ $$G_B = p_B\times t_1$$
 
 In this "no corner flagging" scenario, we can obtain the expected difference in goals during the time period remaining. Let's call this goal difference $$D$$, and we calculate it by simply subtracting $$G_B$$ from $$G_A$$.  
 
-$$D_1 = G_A_1 - G_B_1$$  
+$$D_1 = G_{A1} - G_{B1}$$  
 
 $$D_1 = p_A\times t_1 - p_B\times t_1$$  
 
@@ -53,7 +53,7 @@ $$t_1 > t_2$$
 
 This smaller time period means that we have to define a second goal difference, $$D_2$$. This is the conceptually the same as $$D_1$$. The difference is that $$D_1$$ is the expected difference in goals scored during the remaining time in the match if team A chooses *not* to corner flag, while $$D_2$$ is the expected difference in goals scored during the remaining time in the match if team A chooses to *indeed* corner flag. The only difference is that $$D_2$$ results from a smaller time period.  
 
-$$D_2 = G_A_2 - G_B_2$$  
+$$D_2 = G_{A2} - G_{B2}$$  
 
 $$D_2 = p_A\times t_2 - p_B\times t_2$$  
 
