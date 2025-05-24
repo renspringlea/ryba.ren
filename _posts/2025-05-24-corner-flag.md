@@ -36,12 +36,15 @@ Let us define $$p_A$$ as the probability that A scores a goal in  a particular s
 Consider the case where team A chooses *not* to corner flag. The number of goals $$G_1$$ that each team can be expected to score in a particular period of time is, therefore, the probability per second for that team $$p$$ multiplied by the amount of time remaining, $$t_1$$. Here, the subscript $$1$$ denotes the scenario where team A is choosing not to corner flag.  
 
 $$G_A = p_A\times t_1$$  
+
 $$G_B = p_B\times t_1$$  
 
 In this "no corner flagging" scenario, we can obtain the expected difference in goals during the time period remaining. Let's call this goal difference $$D$$, and we calculate it by simply subtracting $$G_B$$ from $$G_A$$.  
 
-$$D_1 = G_A1 - G_B1$$  
+$$D_1 = G_A_1 - G_B_1$$  
+
 $$D_1 = p_A\times t_1 - p_B\times t_1$$  
+
 $$D_1 = t_1(p_A - p_B)$$  
 
 What about the situation where team A chooses to corner flag? Here, team A is effectively choosing to reduce the time available in this game. This means we have to swap out $$t_1$$ for a smaller time period, which we can call $$t_2$$.  
@@ -50,8 +53,10 @@ $$t_1 > t_2$$
 
 This smaller time period means that we have to define a second goal difference, $$D_2$$. This is the conceptually the same as $$D_1$$. The difference is that $$D_1$$ is the expected difference in goals scored during the remaining time in the match if team A chooses *not* to corner flag, while $$D_2$$ is the expected difference in goals scored during the remaining time in the match if team A chooses to *indeed* corner flag. The only difference is that $$D_2$$ results from a smaller time period.  
 
-$$D_2 = G_A2 - G_B2$$  
+$$D_2 = G_A_2 - G_B_2$$  
+
 $$D_2 = p_A\times t_2 - p_B\times t_2$$  
+
 $$D_2 = t_2(p_A - p_B)$$  
 
 Now, recall that Team A's decision is whether or not they would like to corner flag. Team A has to make a judgment: will corner flagging make them more likely or less likely to win the match?  
@@ -63,9 +68,13 @@ $$D_2 > D_1$$
 We can see when this condition is met by substituting in the expressions for $$D_1$$ and $$D_2$$:  
 
 $$D_2 > D_1$$  
+
 $$p_A\times t_2 - p_B\times t_2 > p_A\times t_1 - p_B\times t_1$$  
+
 $$p_A\times t_2 - p_A\times t_1 > p_B\times t_2 - p_B\times t_1$$  
+
 $$p_A\times (t_2 - t_1) > p_B\times (t_2 - t_1)$$  
+
 $$p_A < p_B$$  
 
 Pay careful attention to that final line. The direction of the inequality has changed; this is because we divided both sides by $$(t_2 - t_1)$$. $$(t_2 - t_1)$$ is always a negative number, as $$t_2$$ is always smaller than $$t_1$$. Dividing both sides by a negative number reverses the inequality, under the rules of algebra.  
