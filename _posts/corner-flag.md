@@ -20,16 +20,29 @@ To illustrate, let's assume that we are in the following typical situation:
 - Team A has a one-goal lead over Team B.
 - From Team A's perspective, the optimal outcome is a victory. For Team A, it is very important that Team B does not score a goal.
 - From Team B's perspective, the optimal outcome is a victory or a draw. For Team B, it is very important to score a goal. (A draw is certainly better than a loss. In fact, in many high-stakes tournaments, a draw will actually result in extra time, which would give Team B the opportunity to score an additional goal and win the match.)
-- If Team A actually had a two-goal lead, this would all be a non-issue. Assume, for the sake of argument, that Team B would not be able to come back from a two-goal lead. So, if Team A scores an extra goal, the match is as good as won.
+- If Team A actually had a two-goal lead, this would all be a non-issue. Assume, for the sake of argument, that Team B would not be able to come back from a two-goal lead. So, if Team A is ahead by one goal and scores an extra goal, the match is as good as won.
 - All of this means that if either team manages to score a goal in these "final" minutes, this is a catastrophically bad outcome for the other team.
 
 Now, corner flagging has the following effects:
 - Corner flagging reduces the possession that Team B has for the remainder of the match. This means that the probability of Team B scoring decreases.
-- Corner flagging *also reduces the probability of Team A scoring*. Team A has possession, but they aren't attacking Team B's goal. They are simply keeping the ball still.
+- Corner flagging *also reduces the probability of Team A scoring*. Team A has possession, but they aren't attacking Team B's goal. They are simply keeping the ball still, holding up play to reduce the effective time remaining in the match.
 
 # Some fancy equations
 
-In the academic economics literature, there are plenty of studies that analyse sport. There are numerous papers on the economics of various soccer tactics, including the unlawful forms of time-wasting. But I haven't seen any papers on the economics of corner flagging.
+In the academic economics literature, there are plenty of studies that analyse sport. There are numerous papers on the economics of various soccer tactics, including decisions when taking penalty kicks and the frequency of unlawful forms of time-wasting. But I haven't seen any papers on the economics of corner flagging.
+
+Let us define $$p_A$$ as the probability that A scores a goal in  a particular second of time remaining in the match. Likewise, $$p_B$$ is the probability per second of B scoring a goal in the remaining time of the match.
+
+Consider the case where team A chooses *not* to corner flag. The number of goals $$G_1$$ that each team can be expected to score in a particular period of time is, therefore, the probability per second for that team $$p$$ multiplied by the amount of time remaining, $$t_1$$. Here, the subscript *1* denotes the scenario where team A is choosing not to corner flag.
+
+$$G_A = p_A\times t_1$$
+$$G_B = p_B\times t_1$$
+
+In this "no corner flagging" scenario, the differences in 
+
+
+
+$$(p_A + p_0)\times t_1 - (p_B\times t_1) $$
 
 ![corner_flag_graph.png](/assets/images/corner_flag_graph.png){: width='600' }  
 
