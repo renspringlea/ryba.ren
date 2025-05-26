@@ -38,6 +38,8 @@ In *The Other End of the Needle: Continuity and Change among Tattoo Workers*, Da
 
 > Of the 31 people [tattoo artists] I spoke with, all but 2 (the shopless 2) had BBPs [bloodborne pathogens] certification. Many view this certification as an aspect of becoming a competent professional. [...] established tattooists are constantly concerned with maintaining a sterile enough environment to tattoo. They understand this as a responsibility of the occupation, along with being knowledgeable about disease transmission. Most willingly take courses in BBPs [bloodborne pathogens], and many routinely take refresher courses.  
 
+*Update 2025-05-25*: In *Blood and Lightning: On Becoming a Tattooer*, tattooer and sociologist Dustin Kiskaddon reports on his experiences becoming and working as a tattooer. He reports that he learned to see objects in "red and green", where red indicates an object that had been potentially contaminated with bodily fluids and green indicates a "clean" object. He also reports that he developed a very fine sense of the signs of a person being in distress, such as when people begin to turn pale, sweat, and/or breathe rapidly.  
+
 # BDSM  
 BDSM (for the uninitiated: bondage, discipline, dominance, submission, sadism, and masochism) can appear very violent. BDSM practitioners often receive large wounds and deep bruises. For many practitioners, the pain is the point.  
 

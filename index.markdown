@@ -35,15 +35,15 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Dreaming: A Very Short Introduction (J. Allan Hobson)
+* Fence: Striking Distance (Sarah Rees Brennan) [fiction]
+* Blood and Lightning: On Becoming a Tattooer (Dustin Kiskaddon)
 * The Point of Vanishing: A Memoir of Two Years in Solitude (Howard Axelrod)
 * Bosnia: A Short History (Noel Malcolm)
 * Transgender and Non-Binary People in Everyday Sport: A Trans Feminist Approach to Improving Inclusion (Abby Barras)
 * Tattoo Traditions of Asia: Ancient and Contemporary Expressions of Identity (Lars Krutak)
 * Sour Grapes (Eliza Lentzski) [fiction]
 * Tattooing in Contemporary Society: Identity and Authenticity (Michael Rees)
-* Drawing with Great Needles: Ancient Tattoo Traditions of North America (ed. Aaron Deter-Wolf and Carol Diaz-Granados)
-* Treating Trauma in Trans People: An Intersectional, Phase-Based Approach (Reese Minshew)
-* The Other End of the Needle: Continuity and Change among Tattoo Workers (David C. Lane)
 * Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)
 
 ## Blog  

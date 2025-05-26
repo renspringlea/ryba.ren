@@ -95,6 +95,17 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Fence: Striking Distance (Sarah Rees Brennan)</summary>
+
+<br />
+- A/A-, love this. it's funny, really good humour, and very sweet. occasionally a bit uncomfortable with the boys' issues, which drag out a bit. i wish there were more actual fencing.<br />
+- i vibe with seiji<br />
+- the bit with nicholas and class is very interesting<br />
+<br />
+
+</details>
+
+<details>
 <summary>Sour Grapes (Eliza Lentzski)</summary>
 
 <br />
@@ -616,6 +627,30 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>Blood and Lightning: On Becoming a Tattooer (Dustin Kiskaddon)</summary>
+
+<br />
+- this is a really special book, a very experienced tattooer but with strong academic skills and also capable of highly self-reflective and thoughtful analysis. focus on women, queer and trans tattoo artists so cool.<br />
+- i like how the author really gets across how difficult it is to be a tattooer, both the work itself and the ethical dimension<br />
+- when a client jumps right in, the trust and enthusiasm that makes for good tattooing<br />
+- the bit about him asking for consent to touch the client is interesting, and the senior tattooer's pushback saying this serves him more than the client<br />
+- and the tattooer's exposure to people's breath and therefore disease risk<br />
+- "red and green", really fascinating look at the first-person perspective of all that sterilising and cleaning and pathogen control<br />
+- not wanting someone else to take your coat as a working class attitude, makes perfect sense but i never thought about it that way (i always assumed i just didnt like people touching me + the social interaction, like with people waiting on me or people cleaning my house)<br />
+- a tattoo being technically great can be important but often doesn't matter so much, what matters is that the person likes the tattoo (including the process of getting it, the meaning and relationship with the tattoo, etc)<br />
+- the physical skill of tattooing, specific ways to use one's arms, hands, feet "It's like a yoga workshop... I had no idea it was a full-body thing." "to experience bodies in a new and technical way, both mine and those of my clients." hmmm!<br />
+- the tension between the experience being technical and mundane for tattooers but special and meaningful for the client (though not all tattooers feel this way)<br />
+- going heavier to get the lines right the first time, so as to not have to go back over them and thus actually reducing pain<br />
+- learning the signs of somebody in pain or distress, interesting<br />
+- examples of artists abusing their power<br />
+- examples of clients crossing boundaries without consent, e.g. sexualising the process<br />
+- some technical nuances in tattooing dark skin, obviously many non-technical dimensions, meaning that some artists won't do work on Black and brown people and those people will be turned away. obviously people with dark skin have been receiving tattoos forever, but whiteness is built into the technology and training in contemporary Western society. though the best tattooers can "account for the melanin filter" and produce highly vibrant and sophisticated designs on dark skin<br />
+- an ethic of refusal<br />
+<br />
+
+</details>
 
 <details>
 <summary>Bosnia: A Short History (Noel Malcolm)</summary>
@@ -1219,6 +1254,24 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>Dreaming: A Very Short Introduction (J. Allan Hobson)</summary>
+
+<br />
+- argues persuasively that dreaming is essentially physiological, something caused by the brain<br />
+- REM sleep is the ideal condition for dreaming<br />
+- some brain functions are activated, and others are impaired (hence loss of movement, logical reasoning, memory, self-reflectiveness)<br />
+- incorporation peaks at events 6-7 days before the dream, actually less common to see same day content<br />
+- in general, while the capacity for the mind's subjectivity remains unexplained (the hard problem), the form of that subjectivity can be well explained by what is happening in the brain, and the contrasting forms of awake vs dreaming consciousness show this<br />
+- the bit on chemistry + inducing dreams is fascinating<br />
+- dreaming (or at least the brain states associated with dreaming in humans) is highly conserved across all mammals, suggesting that these brain states have an important function in development.<br />
+- a very common fear is being hurt by criminals and bullies, which is why being pursued by some powerful and malevolent person or force is a common theme of dreams, hmm.<br />
+- some connection between REM and mood, e.g. links between brain function in REM and depression. could collapse into a single theory.<br />
+- sleep demonstrably improves retention of skills from that day<br />
+<br />
+
+</details>
 
 <details>
 <summary>Hermits: The Insights of Solitude (Peter France)</summary>
