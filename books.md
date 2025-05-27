@@ -95,6 +95,17 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>A Sharp Endless Need (Marisa Crane)</summary>
+
+<br />
+- A. It's such a vibe, full of energy and angst. There's lots of basketball and pain. The first chapter is such an outstanding description of sport and the good pain.<br />
+- It's pretty dark in a lot of ways. It's set in early 2000s conservative America. There are constantly creepy men observing everything. There is the death of a father and sexual assault. Lots of misogyny and especially homophobia. some bits are very much a 90s queer narrative in that the queerness is secret and shameful, being socialised as a girl in conservative america (fine but those bits are not my vibe). still a pretty powerful depiction of compulsory heterosexuality. the parental intrusion is very interesting, many very messed up adults in this story.<br />
+- It's about queer angst, not queer joy. There is lesbianism, repressed trans masc energy, drug use, and self-harm.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Fence: Striking Distance (Sarah Rees Brennan)</summary>
 
 <br />
