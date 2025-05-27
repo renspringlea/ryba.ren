@@ -35,6 +35,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* A Sharp Endless Need (Marisa Crane) [fiction]
 * Dreaming: A Very Short Introduction (J. Allan Hobson)
 * Fence: Striking Distance (Sarah Rees Brennan) [fiction]
 * Blood and Lightning: On Becoming a Tattooer (Dustin Kiskaddon)
@@ -42,7 +43,6 @@ layout: home
 * Bosnia: A Short History (Noel Malcolm)
 * Transgender and Non-Binary People in Everyday Sport: A Trans Feminist Approach to Improving Inclusion (Abby Barras)
 * Tattoo Traditions of Asia: Ancient and Contemporary Expressions of Identity (Lars Krutak)
-* Sour Grapes (Eliza Lentzski) [fiction]
 * Tattooing in Contemporary Society: Identity and Authenticity (Michael Rees)
 * Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)
 
