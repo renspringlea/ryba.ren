@@ -1052,33 +1052,6 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 <details>
-<summary>What Is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)</summary>
-
-<br />
-- excellent science communiction, funny but profound, and great insight into the extremely messy world of humans doing science (politics, personal relationships, accidents of history, the academic job market)<br />
-- Einstein: "This epistemology-soaked orgy ought to come to an end." hahahaha<br />
-- Einstein made working alone a lifelong habit and referred to himself as a "one-horse cart". Also boycotted any event in Italy as long as Mussolini was in power.<br />
-- Pauli: "It's not even wrong." Hahahahahaha my favourite quip ever<br />
-- Einstein: an instantaneous wave function collapse for a single particle would be tantamount to a signal instantaneously being sent from one location to another (violating locality), which violates special relativity's speed limit, so quantum mechanics cannot be complete; contrary to positivism (copenhagen), particles must have definite positions in addition to wave functions<br />
-- interesting, the author writes that Hitler's firing of all Jewish civil servants (including scientists) via the Civil Service Act and their resulting emigration mostly to the US and the UK is what shifted the centre of physics from the German-speaking world to the English-speaking (with obvious implications for the development of the nuclear bomb). Though Harvard also had "Jewish quotas" and the Americans subsequently harassed physicists with suspected communist links like Bohm, so maybe it's not that simple?<br />
-- post-war american investment in physics significantly altered how physics was done, much less cozy, much more money, much more government and military involvement<br />
-- the author suggests that heisenberg essentially invented the idea of a unified and consensus copenhagen interpretation<br />
-- Bohm's interpretation: particles with definite positions following pilot waves, and measurement devices and other macro objects also follow quantum laws. Still suffers from action at a distance.<br />
-- Everett: many worlds interpretation, a single universal wave function where an observer also gets entangled so the observer splits in two, elegantly circumventing the measurement problem. "Can you feel the motion of the Earth?" hahaha burnnnn!!!<br />
-- Bell's theorem, an inequality and experimental setup (then results) that has demonstrated that quantum theory is incompatible with local hidden-variable theories (theories that involve hidden variables that cannot be observed, such as particles following pilot waves) as long as you assume there is a single outcome (so locality is still permissible under the many worlds interpretation). Experimental tests showed Bell's inequality was violated, so either locality is false or something like the many worlds interpretation is correct.<br />
-- The Structure of Scientific Revolution helped critique positivism and promote realism<br />
-- Consciousness causes collapse as an idea sometimes floating around<br />
-- Interpretations based on information theory (foundations of cs)<br />
-- Popper's tenet of falsifiability is no longer taken seriously by most philosophers as no theory is falsifiable in isolation, and sometimes it is a separate assumption that is incorrect. There are also many characteristics of theories aside from their specific predictions (e.g. the other ideas they generate and the way they picture the world) that are still important and can distinguish between mathematically identical but competing interpretations.<br />
-- Copenhagen still has the strongest support among physicists in stated surveys, but at the same time the interpretation is poorly defined and unclear, so many physicists just don't have a single consistent interpretation. Most physicists conceptually agree that quantum physics underlies classical physics, but the actual practice of physics tacitly operates under the opposite assumption (i.e. Copenhagen).<br />
-- So this is an unsolved problem in science<br />
-- physicists are commonly (not always) dismissive of philosophy while not knowing much about it, perhaps due to the analytic/continental divide in philosophy<br />
-- all current alternatives to Copenhagen are weird in some way, but at least that's better than Copenhagen's "gibberish"<br />
-<br />
-
-</details>
-
-<details>
 <summary>Wild History: Journeys into Lost Scotland (James Crawford)</summary>
 
 <br />
@@ -1267,19 +1240,25 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
-<summary>Dreaming: A Very Short Introduction (J. Allan Hobson)</summary>
+<summary>Buddhist and Christian? An Exploration of Dual Belonging (Rose Drew)</summary>
 
 <br />
-- argues persuasively that dreaming is essentially physiological, something caused by the brain<br />
-- REM sleep is the ideal condition for dreaming<br />
-- some brain functions are activated, and others are impaired (hence loss of movement, logical reasoning, memory, self-reflectiveness)<br />
-- incorporation peaks at events 6-7 days before the dream, actually less common to see same day content<br />
-- in general, while the capacity for the mind's subjectivity remains unexplained (the hard problem), the form of that subjectivity can be well explained by what is happening in the brain, and the contrasting forms of awake vs dreaming consciousness show this<br />
-- the bit on chemistry + inducing dreams is fascinating<br />
-- dreaming (or at least the brain states associated with dreaming in humans) is highly conserved across all mammals, suggesting that these brain states have an important function in development.<br />
-- a very common fear is being hurt by criminals and bullies, which is why being pursued by some powerful and malevolent person or force is a common theme of dreams, hmm.<br />
-- some connection between REM and mood, e.g. links between brain function in REM and depression. could collapse into a single theory.<br />
-- sleep demonstrably improves retention of skills from that day<br />
+- religiously pluralist societies have been the norm in the east, the west is sorta unusual in having had only one major religious voice<br />
+- it's clear in its focus on theology and especially theory, while being empirical, but could be seen as a bit elitist for its focus on well-read academically trained participants<br />
+- monocentric pluralism<br />
+- "this koan, the way of the cross and the lotus"<br />
+- God as existence or presence, a verb not a noun<br />
+- Thay's rejection of Jesus as literally the only Son of God, 84,000 Dharma doors<br />
+- seeing Jesus as essentially like the Buddha misses something important; Jesus did not sit peacefully in meditation, but walked the streets of Galilee challenging the system and got crucified for it<br />
+- each tradition has its unique features and strengths; they are clearly not literally identical, otherwise we'd have no reason to find a practice across both<br />
+- i like the participants' humility about what they can and cannot say about each tradition, especially as they relate to the more advanced stages of development/enlightenment<br />
+- a focus on the here and now<br />
+- having two maps can be helpful if the journey ahead is very difficult<br />
+- prayer as something that the person praying needs, reminds me of that "what do we do when we pray" book. not to say that is its only effect - an ineffible feeling that it does have an effect, even if its not a classical and personal god actively intervening for a specific purpose<br />
+- skepticism of specific intercessory prayers, more just expressing a wish for others' wellness and the relief of others' suffering<br />
+- convergence of prayer and meditation<br />
+- a lot of discussion of "parts" which reminds me of IFS (in fact mentions multiple personalities but in a perjorative sense)<br />
+- a lot of arguments against dual belongers place a bar too high for even many single belongers to meet<br />
 <br />
 
 </details>
@@ -1567,6 +1546,53 @@ Starling Days (Rowan Hisayo Buchanan)
 - God's idea of a good time is picking up litter, serving food at the soup kitchen, or calling a relative who nobody else talks to<br />
 - sin is a hard heart, a lack of generosity<br />
 - dieting as time wasted<br />
+
+</details>
+
+## Science
+
+<details>
+<summary>Dreaming: A Very Short Introduction (J. Allan Hobson)</summary>
+
+<br />
+- argues persuasively that dreaming is essentially physiological, something caused by the brain<br />
+- REM sleep is the ideal condition for dreaming<br />
+- some brain functions are activated, and others are impaired (hence loss of movement, logical reasoning, memory, self-reflectiveness)<br />
+- incorporation peaks at events 6-7 days before the dream, actually less common to see same day content<br />
+- in general, while the capacity for the mind's subjectivity remains unexplained (the hard problem), the form of that subjectivity can be well explained by what is happening in the brain, and the contrasting forms of awake vs dreaming consciousness show this<br />
+- the bit on chemistry + inducing dreams is fascinating<br />
+- dreaming (or at least the brain states associated with dreaming in humans) is highly conserved across all mammals, suggesting that these brain states have an important function in development.<br />
+- a very common fear is being hurt by criminals and bullies, which is why being pursued by some powerful and malevolent person or force is a common theme of dreams, hmm.<br />
+- some connection between REM and mood, e.g. links between brain function in REM and depression. could collapse into a single theory.<br />
+- sleep demonstrably improves retention of skills from that day<br />
+<br />
+
+</details>
+
+<details>
+<summary>What Is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)</summary>
+
+<br />
+- excellent science communiction, funny but profound, and great insight into the extremely messy world of humans doing science (politics, personal relationships, accidents of history, the academic job market)<br />
+- Einstein: "This epistemology-soaked orgy ought to come to an end." hahahaha<br />
+- Einstein made working alone a lifelong habit and referred to himself as a "one-horse cart". Also boycotted any event in Italy as long as Mussolini was in power.<br />
+- Pauli: "It's not even wrong." Hahahahahaha my favourite quip ever<br />
+- Einstein: an instantaneous wave function collapse for a single particle would be tantamount to a signal instantaneously being sent from one location to another (violating locality), which violates special relativity's speed limit, so quantum mechanics cannot be complete; contrary to positivism (copenhagen), particles must have definite positions in addition to wave functions<br />
+- interesting, the author writes that Hitler's firing of all Jewish civil servants (including scientists) via the Civil Service Act and their resulting emigration mostly to the US and the UK is what shifted the centre of physics from the German-speaking world to the English-speaking (with obvious implications for the development of the nuclear bomb). Though Harvard also had "Jewish quotas" and the Americans subsequently harassed physicists with suspected communist links like Bohm, so maybe it's not that simple?<br />
+- post-war american investment in physics significantly altered how physics was done, much less cozy, much more money, much more government and military involvement<br />
+- the author suggests that heisenberg essentially invented the idea of a unified and consensus copenhagen interpretation<br />
+- Bohm's interpretation: particles with definite positions following pilot waves, and measurement devices and other macro objects also follow quantum laws. Still suffers from action at a distance.<br />
+- Everett: many worlds interpretation, a single universal wave function where an observer also gets entangled so the observer splits in two, elegantly circumventing the measurement problem. "Can you feel the motion of the Earth?" hahaha burnnnn!!!<br />
+- Bell's theorem, an inequality and experimental setup (then results) that has demonstrated that quantum theory is incompatible with local hidden-variable theories (theories that involve hidden variables that cannot be observed, such as particles following pilot waves) as long as you assume there is a single outcome (so locality is still permissible under the many worlds interpretation). Experimental tests showed Bell's inequality was violated, so either locality is false or something like the many worlds interpretation is correct.<br />
+- The Structure of Scientific Revolution helped critique positivism and promote realism<br />
+- Consciousness causes collapse as an idea sometimes floating around<br />
+- Interpretations based on information theory (foundations of cs)<br />
+- Popper's tenet of falsifiability is no longer taken seriously by most philosophers as no theory is falsifiable in isolation, and sometimes it is a separate assumption that is incorrect. There are also many characteristics of theories aside from their specific predictions (e.g. the other ideas they generate and the way they picture the world) that are still important and can distinguish between mathematically identical but competing interpretations.<br />
+- Copenhagen still has the strongest support among physicists in stated surveys, but at the same time the interpretation is poorly defined and unclear, so many physicists just don't have a single consistent interpretation. Most physicists conceptually agree that quantum physics underlies classical physics, but the actual practice of physics tacitly operates under the opposite assumption (i.e. Copenhagen).<br />
+- So this is an unsolved problem in science<br />
+- physicists are commonly (not always) dismissive of philosophy while not knowing much about it, perhaps due to the analytic/continental divide in philosophy<br />
+- all current alternatives to Copenhagen are weird in some way, but at least that's better than Copenhagen's "gibberish"<br />
+<br />
 
 </details>
 
