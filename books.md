@@ -640,6 +640,27 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Hinduism: A Very Short Introduction (Kim Knott)</summary>
+
+<br />
+- >70% of the population in each of India and Nepal<br />
+- more than a religion, intrinsic ties to society and culture, no single founder and numerous scriptures. families of numerous hinduisms.<br />
+- 2600ish BCE, Indus Valley civilization (including an undeciphered script hmmmmmm!!!)<br />
+- Aryan migration into India, ~1500 BCE, over the following couple of centuries composed the Rig Veda (though devout Hindus see it as revealed and eternal). Unclear how they are related to Indus Valley civilization.<br />
+- recitation, oral transmission, brahmins and gurus - some gurus now use modern technology to reach people, cool!<br />
+- vedas and upanishads seen as divinely revealed, as opposed to sutras etc taught by sages<br />
+- the vedas have a special status, absolutely central<br />
+- mystics, monasteries<br />
+- cycles of birth and dead, karma, meditation, yoga, social order and rightness<br />
+- "both polytheistic and monotheistic", both the many and the one are important<br />
+- wilberforce sought to outlaw some hindu practices and promote christianity???<br />
+- dowry, dowry deaths, sati, embryo sex selection<br />
+- discrimination against dalits, including backlash against affirmative action; many dalits converting to other religions<br />
+<br />
+
+</details>
+
+<details>
 <summary>Blood and Lightning: On Becoming a Tattooer (Dustin Kiskaddon)</summary>
 
 <br />
