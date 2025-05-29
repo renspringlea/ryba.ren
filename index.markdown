@@ -35,6 +35,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Hinduism: A Very Short Introduction (Kim Knott)
 * Buddhist and Christian? An Exploration of Dual Belonging (Rose Drew)
 * A Sharp Endless Need (Marisa Crane) [fiction]
 * Dreaming: A Very Short Introduction (J. Allan Hobson)
@@ -44,7 +45,6 @@ layout: home
 * Bosnia: A Short History (Noel Malcolm)
 * Transgender and Non-Binary People in Everyday Sport: A Trans Feminist Approach to Improving Inclusion (Abby Barras)
 * Tattoo Traditions of Asia: Ancient and Contemporary Expressions of Identity (Lars Krutak)
-* Sacred As Secular: Secularization under Theocracy in Iran (Abdolmohammad Kazemipur)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write (exceptions are clearly labelled).*
