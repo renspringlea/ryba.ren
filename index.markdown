@@ -35,6 +35,8 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Wabori: Traditional Japanese Tattoo (Manami Okazaki)
+* Wear Your Dreams: My Life in Tattoos (Ed Hardy with Joel Selvin)
 * Hinduism: A Very Short Introduction (Kim Knott)
 * Buddhist and Christian? An Exploration of Dual Belonging (Rose Drew)
 * A Sharp Endless Need (Marisa Crane) [fiction]
@@ -43,8 +45,6 @@ layout: home
 * Blood and Lightning: On Becoming a Tattooer (Dustin Kiskaddon)
 * The Point of Vanishing: A Memoir of Two Years in Solitude (Howard Axelrod)
 * Bosnia: A Short History (Noel Malcolm)
-* Transgender and Non-Binary People in Everyday Sport: A Trans Feminist Approach to Improving Inclusion (Abby Barras)
-* Tattoo Traditions of Asia: Ancient and Contemporary Expressions of Identity (Lars Krutak)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write (exceptions are clearly labelled).*

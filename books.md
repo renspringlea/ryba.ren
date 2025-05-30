@@ -640,6 +640,43 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Wabori: Traditional Japanese Tattoo (Manami Okazaki)</summary>
+
+<br />
+- the interview with Horiyoshi III is very cool<br />
+- Horiyoshi III reports the conversation as "Do you like spaghetti?", not "Do you like pizza?" as Ed Hardy remember, interesting!!<br />
+- Horitoku's attitude of working in a hidden shop with no sign, not knowing other artists unless they come to visit, not doing conventions, just focusing on developing his own abilities<br />
+- it's about classic motifs that you choose from and doing that really well, not creating new designs (though colour is a recent innovation, in part from Sailer Jerry)<br />
+- the artists report that the ink goes deeper and is stronger so the colour lasts longer?<br />
+- the interview with Shoko Tendo, the author of Yakuza Moon + one of the several woman tattooers in this book, is very powerful<br />
+<br />
+
+</details>
+
+<details>
+<summary>Wear Your Dreams: My Life in Tattoos (Ed Hardy with Joel Selvin)</summary>
+
+<br />
+- lot of tattoo history in this book, i love how much he appreciates the history<br />
+- art school background, experience showing art<br />
+- trained under Phil Sparrow initially (!), correspondence with Sailer Jerry (who despite his tattooing genius was an ultra right winger + held a grudge hahahaha, hated Lyle Tuttle), knew Horihide<br />
+- had a large gay clientele<br />
+- spent time in japan (almost entirely with the yakuza hahahaha), england<br />
+- Curly, a tattooer in Vancouver who only had the use of one arm<br />
+- was in San Diego in the 1940s, around the same time as Tahiti Felix ?!<br />
+- Painless Nell, a woman tattooer who owned shops in San Diego in the first half of the 1900s<br />
+- found it rare for women to come in to get tattooed<br />
+- Des Connelly, an Australian artist he met once<br />
+- San Francisco "more freaks, weirdos and misfits in those 49 square miles than the rest of the United States" hahahahahah<br />
+- Lyle Tuttle once signed someone's wrist without consent??? wtf?<br />
+- launched Tattoo Time<br />
+- tattooed human skin collections<br />
+- "Having those areas of clean skin is like money in the bank."<br />
+<br />
+
+</details>
+
+<details>
 <summary>Hinduism: A Very Short Introduction (Kim Knott)</summary>
 
 <br />

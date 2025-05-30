@@ -600,3 +600,8 @@ Sydney (DOB 13/04/2025) enjoys lazing about in bed. She likes to test out all th
 ![sydney.jpg](/assets/images/sydney.jpg){: width='400' }  
   
 
+## Cheery  
+Cheery is your number one cheerleader! She loves looking after other people and teddies and she will always work hard to make sure you're comfortable and happy. She loves encouraging people for making little wins in life. When she gets sleepy, she likes to snuggle up under your armpit or on a soft pillow.  
+![cheery.jpg](/assets/images/cheery.jpg){: width='400' }  
+  
+
