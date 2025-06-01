@@ -35,15 +35,15 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Prison Tattoos: A Study of Russian Inmates in Israel (Efrat Shoham)
+* Russian Prison Tattoos: Codes of Authority, Domination, and Struggle (Alix Lambert)
+* Bodies of Subversion: A Secret History of Women and Tattoo (Margot Mifflin, 2nd ed)
+* Snow Falls (Gerri Hill) [fiction]
 * Wabori: Traditional Japanese Tattoo (Manami Okazaki)
 * Wear Your Dreams: My Life in Tattoos (Ed Hardy with Joel Selvin)
 * Hinduism: A Very Short Introduction (Kim Knott)
 * Buddhist and Christian? An Exploration of Dual Belonging (Rose Drew)
 * A Sharp Endless Need (Marisa Crane) [fiction]
-* Dreaming: A Very Short Introduction (J. Allan Hobson)
-* Fence: Striking Distance (Sarah Rees Brennan) [fiction]
-* Blood and Lightning: On Becoming a Tattooer (Dustin Kiskaddon)
-* The Point of Vanishing: A Memoir of Two Years in Solitude (Howard Axelrod)
 * Bosnia: A Short History (Noel Malcolm)
 
 ## Blog  

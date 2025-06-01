@@ -95,6 +95,16 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Snow Falls (Gerri Hill)</summary>
+
+<br />
+- B, fun! Grumpy recluse living in a remote cabin on a snowy mountain with her two dogs, beautiful.<br />
+- the writing itself is good if not great.<br />
+<br />
+
+</details>
+
+<details>
 <summary>A Sharp Endless Need (Marisa Crane)</summary>
 
 <br />
@@ -638,6 +648,58 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>Prison Tattoos: A Study of Russian Inmates in Israel (Efrat Shoham)</summary>
+
+<br />
+- obviously this book is filled to the brim with explicit violence, including sexual violence and violence against prisoners by the state<br />
+- not 100% on board with the author's scholarship, makes many overgeneralisations about society based on little evidence or reasoning. the content about the actual prisons and prisoners that are the subject of the book seems more empirical and grounded.<br />
+- good lord, the prison system is messed up<br />
+- Arabs overrepresented in Israeli prisons, hmmm<br />
+- the only thing that cannot be stripped from an inmate is his skin<br />
+- tattoos expressing resistance to the authority<br />
+- the authors use "russian" to denote anyone from the countries of the former soviet union, a terminology choice i dont love. also means the book is a bit broader in its subject population than "russians" suggests.<br />
+- Bentham came up with the panoptican???<br />
+- tattoos in gangs and prisoners expressing group solidarity as opposed from society, often explicitly opposed to accepted norms (hence explicit or offensive imagery)<br />
+- hostility towards the institution and its invalidation of them<br />
+- conflict as two parties trying to impose their definition of reality<br />
+- tattoos adopted as a sign of non conformity in israeli prisons in part because judaism forbids them<br />
+- rape and forcible tattooing by prisoners against homosexual prisoners for humiliation and expression of their very low status<br />
+<br />
+
+</details>
+
+<details>
+<summary>Russian Prison Tattoos: Codes of Authority, Domination, and Struggle (Alix Lambert)</summary>
+
+<br />
+- obviously this book is filled to the brim with explicit violence, including sexual violence and violence against prisoners by the state<br />
+- the hidden language or code in the tattoos is so fascinating<br />
+- the photo of prisoners playing soccer<br />
+- making prayer beads by melting the plastic from old cigarette lighters<br />
+- many of the tattoos express resistance to the authority<br />
+<br />
+
+</details>
+
+<details>
+<summary>Bodies of Subversion: A Secret History of Women and Tattoo (Margot Mifflin, 2nd ed)</summary>
+
+<br />
+- interesting about the tattooed performer Emma de Burgh (the one with The Last Supper on her back) being criticised for gaining weight, hmm<br />
+- Cindy Ray, had a shop near Melbourne in the 60s!<br />
+- a photo of an explicit 1933 lesbian chest tattoo, so cool<br />
+- a photo of drag angel from 1979<br />
+- the Jewish woman covered in Holocaust and Judaism tattoos, holy shit<br />
+- Black and Blue, an all lesbian shop in SF, wow thats cool https://www.blackandbluetattoo.com/about-us<br />
+- Natasha Kai, US soccer player who has heaps of tattoos reflecting her Hawaiian identity<br />
+- older women as a rising demographic for getting tattoos<br />
+- the 6'1" tattooed lutheran pastor!! tattoo shop in a church?! as a way for the pastor to connect with people skeptical about religion<br />
+- the short story Skin which only exists in words tattooed on people!<br />
+<br />
+
+</details>
 
 <details>
 <summary>Wabori: Traditional Japanese Tattoo (Manami Okazaki)</summary>
