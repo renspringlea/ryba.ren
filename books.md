@@ -452,6 +452,19 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Memoirs and biography
 
 <details>
+<summary>Roots and Sky: A Journey Home in Four Seasons (Christie Purifoy)</summary>
+
+<br />
+- this is beautiful. lots of self reflection and more about the author's inner world than the house or garden itself, though those are certainly described.<br />
+- "Heaven and Earth meet in scratches and scars."<br />
+- unprepared for the amount of loss in moving to the country<br />
+- "God parted the waters and brought me to the promise land, and I return the favour by snapping at my children and fretting over the unseasonably warm weather."<br />
+- "We mostly find God in the rubbing of shoulders with other, difficult people, people like ourselves. God shows up in the jagged edges between us."<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Point of Vanishing: A Memoir of Two Years in Solitude (Howard Axelrod)</summary>
 
 <br />
@@ -1358,6 +1371,18 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>How to Focus (Thich Nhat Hanh)</summary>
+
+<br />
+- classic thay<br />
+- "You have sovereignty. When you walk, it is because it is your intention to walk."<br />
+- "You are a miracle encountering another miracle."<br />
+- "To become rain is also a beautiful thing."<br />
+<br />
+
+</details>
 
 <details>
 <summary>Buddhist and Christian? An Exploration of Dual Belonging (Rose Drew)</summary>

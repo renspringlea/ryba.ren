@@ -41,3 +41,9 @@ These two portraits show, on the wrists of each subjects, a pilgrimage tattoo! T
 I find this amazing for a couple of reasons. First, you don't often hear about European noblemen with tattoos, but here we have this practice recorded in portrait paintings. The aforementioned book chapter even reports that King Edward VII had a pilgrimage tattoo. Second, this is visual evidence of a practice that has existed for hundreds of years—it's one thing to read that pilgrims have been receiving tattoos in Jerusalem for hundreds of years, but it's astonishing to actually compare pictures of tattoos (e.g. those portraits vs the photo above) that are separated by a span of 300 years but united by a common tattoo tradition.  
 
 I also think these two guys look pretty badass with their tatts. *Is there a Mrs Ludolf? ;)*
+
+*Update 2025-06-02*
+
+Shoham ([2015](https://link.springer.com/book/10.1007/978-3-319-15871-6)) writes about tattoo cultures among imprisoned people from the former Soviet Union, focusing on people from the former Soviet Union living in Israeli prisons:
+
+> [...] [A] criminal may not, under any circumstances, have a tattoo that was not approved and socially validated by his peers, and without the symbols actually matching the criminal’s nature. A criminal who “steals” a tattoo is actually taking a rank that he does not deserve. He will pay for such a deed by a painful removal of the tattoo and by ostracism, rejection, and alienation from the community. The more severe this theft act is, i.e., the more respect associated with the stolen tattoo is, the harsher the punishment will be. Even today, Israeli prisoners may be punished for identity theft with severe violence.

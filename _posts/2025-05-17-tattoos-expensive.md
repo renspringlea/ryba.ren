@@ -45,3 +45,15 @@ Writing about the Paiwan people, who are indigenous to Taiwan, Krutak reports:
 Regarding the Mentawai people in Indonesia:  
 
 > [...] [S]ome Mentawai people who wish to get tattooed cannot afford these expensive markings. For example, the cost of a full suite of tattoos in Buttui, which may take almost a lifetime to receive, is high by Mentawaian standards: 1 medium size pig; 1 durian tree; 4 sago palm trees; 1 coconut palm tree; and 1 chicken basket with several chicks!  
+
+*Update 2025-06-02*  
+
+Two more interesting tidbits.
+
+Shoham ([2015](https://link.springer.com/book/10.1007/978-3-319-15871-6)) writes about tattoo cultures among imprisoned people from the former Soviet Union:
+
+> While Russian criminals pay large amounts of money for their tattoos, a tattooist in a Russian prison will accept payment in cigarettes, food, or a few rubles.
+
+[Lynn et al 2018](https://link.springer.com/article/10.1007/s40806-018-0174-4) examine how tattoos are costly not in an economic sense, but in an evolutionary and biological sense:  
+
+> Evolutionary theorists have posited two complementary hypotheses for the popularity of tattooing and piercing in the face of less dangerous options. The Bhuman canvas hypothesis^ suggests that tattooing and piercing may be hard-to-fake conscious or unconscious advertisements of fitness or affiliations. The Bupping the ante hypothesis^ proposes that tattooing and piercing are costly honest signals of good genes in that they injure the body to show how well it heals.

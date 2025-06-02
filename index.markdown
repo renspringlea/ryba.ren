@@ -29,20 +29,20 @@ layout: home
 ## My books
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Yip Fai Tse, and Peter Singer; preorder from CRC Press <a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459">here</a></span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Tse Yip Fai, and Peter Singer; preorder from CRC Press <a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459">here</a></span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
 
 <br />
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Roots and Sky: A Journey Home in Four Seasons (Christie Purifoy)
+* How to Focus (Thich Nhat Hanh)
 * Prison Tattoos: A Study of Russian Inmates in Israel (Efrat Shoham)
 * Russian Prison Tattoos: Codes of Authority, Domination, and Struggle (Alix Lambert)
 * Bodies of Subversion: A Secret History of Women and Tattoo (Margot Mifflin, 2nd ed)
 * Snow Falls (Gerri Hill) [fiction]
 * Wabori: Traditional Japanese Tattoo (Manami Okazaki)
 * Wear Your Dreams: My Life in Tattoos (Ed Hardy with Joel Selvin)
-* Hinduism: A Very Short Introduction (Kim Knott)
-* Buddhist and Christian? An Exploration of Dual Belonging (Rose Drew)
 * A Sharp Endless Need (Marisa Crane) [fiction]
 * Bosnia: A Short History (Noel Malcolm)
 

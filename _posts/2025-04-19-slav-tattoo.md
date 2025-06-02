@@ -20,6 +20,8 @@ I find this chapter deeply fascinating for a few reasons:
 3. The communist government and society frowned upon these tattoos as primitive. The book chapter reports the story of a woman, who had cross tattoos on her hands and chest, facing the risk of losing her job.
 4. This tradition is now seeing a revival. One tattoo artist quoted in the book chapter attributes this to globalisation and cultural homogenisation around the world, which are causing people to look to the past to find unique facets of their identity.
 
+(*Update 2025-06-02: I just encountered [this very cool Wikipedia article](https://en.m.wikipedia.org/wiki/Albanian_traditional_tattooing) that also describes traditional tattooing in Albania.*)
+
 # Who are the Slavic people?
 
 Before coming to Australia, my mother's side of my family lived in Slovakia. My grandfather on my mother's side was a Catholic mathematician who also had trouble with the communist government of Czechoslovakia, and this tense relationship with the communists was part of why the family moved to Australia. You can see why that story about Balkan tattoo traditions resonates with me!
