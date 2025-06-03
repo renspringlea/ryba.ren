@@ -15,7 +15,7 @@ A common theme in the sociology of tattoos is the observation that tattoos can o
 I find it interesting that the cultural subgroups who express themselves in this way are pretty diverse—everything from queer people (including me!) to Russian criminals living in prison. That latter group is certainly not friendly towards gay people, but it is interesting that these groups nevertheless share a common form of self-expression and assertion of control.
 
 # Women
-Mifflin ((1997/2000/2013)[https://margotmifflin.com/books/bodies-of-subversion-3rd-edition/]) writes:
+Mifflin ([1997/2000/2013](https://margotmifflin.com/books/bodies-of-subversion-3rd-edition/)) writes:
 
 > Tattoos appeal to contemporary women both as emblems of empowerment in an era of feminist gains and as badges of self-determination at a time when controversies about abortion rights, date rape, and sexual harassment have many women thinking hard about who controls their bodies—and why. Their significance can lie in the mere act of getting tattooed (as a form of rebellion or a way of reclaiming one’s body after rape or sexual abuse) [...]
 
