@@ -35,6 +35,8 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Buddhist-Christian Dual Belonging: Affirmations, Objections, Explorations (ed. Gavin D'Costa and Ross Thompson)
+* The Rainfall Market (You Yeong-Gwang) [fiction]
 * Roots and Sky: A Journey Home in Four Seasons (Christie Purifoy)
 * How to Focus (Thich Nhat Hanh)
 * Prison Tattoos: A Study of Russian Inmates in Israel (Efrat Shoham)
@@ -42,8 +44,6 @@ layout: home
 * Bodies of Subversion: A Secret History of Women and Tattoo (Margot Mifflin, 2nd ed)
 * Snow Falls (Gerri Hill) [fiction]
 * Wabori: Traditional Japanese Tattoo (Manami Okazaki)
-* Wear Your Dreams: My Life in Tattoos (Ed Hardy with Joel Selvin)
-* A Sharp Endless Need (Marisa Crane) [fiction]
 * Bosnia: A Short History (Noel Malcolm)
 
 ## Blog  

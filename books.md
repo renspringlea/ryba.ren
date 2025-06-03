@@ -1373,6 +1373,33 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>Buddhist-Christian Dual Belonging: Affirmations, Objections, Explorations (ed. Gavin D'Costa and Ross Thompson)</summary>
+
+<br />
+- a continuation of three books published independently on this topic around the same time, one of which was the Rose Drew book I read earlier (others are Paul Knitter's Without Buddha I Could Not Be Christian, and Thompson's Buddhist Christianity) - all three of those authors are also authors of sections of this book<br />
+- I like how this book includes both supportive and critical stances<br />
+- Dual religions is not really unusual, a long history - the Abrahamic religions are unusual in demanding sole adherence<br />
+- not love as in a monogamous marriage, but love as in for one's parents and one's children - different and in their own way (i wonder if you could also apply polyamory here)<br />
+- contradictions not as a thing to overcome intellectually, but as an invitation to grow spiritually<br />
+- even many catholics dont have total agreement with the doctrine stated by the vatican<br />
+- ch2 the argument that the buddha transforms views and the jesus transforms policies - both of which are essential and complementary with each other. both compassion and justice. the subsequent discussion is actually a very profound perspective and very close to how i see religion and activism.<br />
+- i found ch4 very poorly argued and close-minded, along the lines of "i have a dogma that i am taking to represent all of christianity, and i have an interpretation of buddhism which conflicts with that dogma" which is not useful or constructive, doesnt even raise important questions or critiques - almost like a strawman or a circular argument, and takes bible verses out of context. arguing that christianity is monolithic and a single thing and can never be syncretistic, whereas in fact there are many "christian" practices that originate from other religions.<br />
+- ch5 is unsatisfactory; the sweeping statements at the end are not justified by anything in the body of the chapter<br />
+- in fact im noticing there is a tendency to present each religion as internally consistent, which i disagree with and dont think is a tenable position - i can think of examples from within both christianity and buddhism that present paradoxes already existing in each tradition. Zen Buddhism even celebrates these contradictions! ch9 points this out - "even if I wanted to, I could not identify with all the doctrines, texts and thinkers from one religion"<br />
+- ch6 gives an interesting tidbit, not explored, that most catholics might in fact be dual belongers with civic secularism<br />
+- in fact I find ch6 to be carefully argued and quite compelling, does a good job of acknowledging nuance and diversity, doesnt fall into any strawman or question begging traps and clearly states the scope of inference (catholic magisterial teaching specifically). also happens to be well written and engaging (the Sunday middle-class newspaper religion hahahahaha).<br />
+- i vibe with the premise of ch7, i.e. one's attitude towards dual belonging hinges on one's pre-existing understanding of what religion is (e.g. a set of creeds, the practice of rituals, etc). i also find this chapter and its hypothesis (that dual belonging is an epiphenomenon of the spiritualisation of religion) quite compelling. i dont agree with the view that one can only belong to a religion if one is recognised as such by a corresponding community; it is easy to come up with counterexamples.<br />
+- the spiritualisation of religion (and the accompanying concern expressed in ch7 that people will neglect the fact that matter matters, i.e. ritual and sacred objects and spaces are important)<br />
+- the subjective turn<br />
+- some authors speak of "religions' self-understanding", which i do not vibe with, because religions are not actors and cannot understand anything. i suspect this is masking concepts like "the understanding of the majority of adherents" or "the understanding of specific institutions" which obviously are clearer about the problems raised by this concept.<br />
+- the very end of ch7 mentions how dual belonging might be an expression that specific religions are not meeting the needs of these adherents and that this could reveal room for improvement<br /> - this is a very powerful idea that i wish were explored further, very interesting<br />
+- dual/interreligious belongers are uniquely qualified to facilitate religious dialogue (though they usually cannot speak authoritatively for a religion, whatever that means)<br />
+- dual belonging as dual attachment (attachment in a negative Buddhist sense a la dharma-as-raft), hmm<br />
+<br />
+
+</details>
+
+<details>
 <summary>How to Focus (Thich Nhat Hanh)</summary>
 
 <br />
@@ -1742,6 +1769,16 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Misc
+
+<details>
+<summary>The Rainfall Market (You Yeong-Gwang)</summary>
+
+<br />
+- this is a sweet story, it's like spirited away meets willy wonka in a korean suburban setting. a liiiittle bit on the predictable side and tropey but maybe thats ok for a middle grade/ya novel.<br />
+- "I hope you have healthy kittens." beautiful<br />
+<br />
+
+</details>
 
 <details>
 <summary>Essential Dickinson (pub. Caedmon, narr. Julie Harris)</summary>
