@@ -1373,6 +1373,22 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>Theologies in Conflict in 4 Ezra: Wisdom Debate and Apocalyptic Solution (Karina Martin Hogan)</summary>
+
+<br />
+- 7 episodes, including dialogues, visions, and an epilogue.<br />
+- dialogues contain a theodicy following Job.<br />
+- this book argues that the visions provide an eschatological resolution to the dialogues, suggesting that the intractable human problems raised in the dialogues will be solved by divine intervention - revealed wisdom of apocalypticism over rational theodicy.<br />
+- some disagreement over whether this is a unified text or a composite from multiple sources<br />
+- ezra's perspective represents a breakdown of covenantal wisdom in response to the destruction of the temple (?)<br />
+- uriel's arguments fail to console ezra<br />
+- ezra's position as roughly representing the wisdom tradition, and uriel's the eschatological tradition<br />
+- ezra is more concerned about the fate of israel than that of humanity, which is why he is quite satisfied by the religious visions and their implications<br />
+<br />
+
+</details>
+
+<details>
 <summary>Buddhist-Christian Dual Belonging: Affirmations, Objections, Explorations (ed. Gavin D'Costa and Ross Thompson)</summary>
 
 <br />
