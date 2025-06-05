@@ -30,6 +30,23 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Classics
 
 <details>
+<summary>The Art of War (Sun Tzu)</summary>
+
+<br />
+- all warfare is based on deception<br />
+- many calculations lead to victory, few to defeat<br />
+- using the conquered foe to augment one's strength<br />
+- breaking the enemy's resistance without fighting - fighting is less profitable, siege least of all<br />
+- if you know the enemy and you know yourself, you need not fear the result of one thousand battles<br />
+- puts himself in a position where defeat is impossible<br />
+- indirect tactics, the science of weak points<br />
+- do not press a desperate foe too hard<br />
+- soldiers treated with humanity then with iron discipline<br />
+<br />
+
+</details>
+
+<details>
 <summary>Carmilla (Joseph Sheridan Le Fanu)</summary>
 
 <br />
@@ -450,6 +467,18 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Memoirs and biography
+
+<details>
+<summary>Orchard House: How a Neglected Garden Taught One Family to Grow (Tara Austen Weaver)</summary>
+
+<br />
+- (cw: a chicken dies)<br />
+- this is extremely good<br />
+- isolation as well as privacy<br />
+- Squeakfish the deer omg!<br />
+<br />
+
+</details>
 
 <details>
 <summary>Roots and Sky: A Journey Home in Four Seasons (Christie Purifoy)</summary>
@@ -1371,6 +1400,32 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>Making Work Visible: Exposing Time Theft to Optimize Work & Flow (Dominica Degrandis)</summary>
+
+<br />
+- definitely pop psychology vibes, typically comes off as an anecdotal blog and maybe a bit uncritical about the proposed methods, but still good fun for the ops vibes and some useful ideas<br />
+- 5 thieves of time: 1) too much work in progress/too many concurrent projects/saying yes too much, 2) unknown dependencies (anything that blindsides you), 3) unplanned work/interruptions (incl unnecessary revisions, expedited work requests), 4) conflicting priorities, 5) neglected work<br />
+- interesting how most of these problems simply don't exist in my organisations hahahaha i am very lucky<br />
+- context switching is costly<br />
+- flow requires a do not disturb ethos<br />
+- saying yes to something means prioritising that thing over all other work on your plate<br />
+- unknown dependency includes not knowing critical information held by someone else in the team, server down time, data loss, coordinating many people (e.g. for meetings), getting expert input (!)<br />
+- probability of failure/delay increases exponentially with number of dependencies<br />
+- maintenance work, e.g. maintaining old systems, is usually underprioritised - protecting valuable assets<br />
+- like rotten fruit, knowledge decays faster than we'd like
+- measuring the cost of delay of projects<br />
+- you can have project management boards at different levels, e.g. the company and the project<br />
+- "flow metrics", now we're cooking with gas<br />
+- due dates are usually arbitrary, and you can use probabilistic prediction instead to remain predictable<br />
+- essentially use data collected during previous projects to forecast the time that future similar projects will take<br />
+- higher utilisation (e.g. people's loaded schedules or capacity) = longer wait times for new projects, and higher risk and vulnerability for uncertainty. so allow some slack.<br />
+- if the project board allows work's status to always be visible, meetings can be spent on addressing blocked work, risks, and uncertainties, a better use of time<br />
+- there are rarely any best practices (only for high-danger and routine tasks, like cleaning a wound). when cause and effect are unknown, there are no best practices.<br />
+<br />
+
+</details>
 
 <details>
 <summary>Theologies in Conflict in 4 Ezra: Wisdom Debate and Apocalyptic Solution (Karina Martin Hogan)</summary>

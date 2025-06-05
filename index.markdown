@@ -35,16 +35,16 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Orchard House: How a Neglected Garden Taught One Family to Grow (Tara Austen Weaver)
+* Making Work Visible: Exposing Time Theft to Optimize Work & Flow (Dominica Degrandis)
+* The Art of War (Sun Tzu)
 * Theologies in Conflict in 4 Ezra: Wisdom Debate and Apocalyptic Solution (Karina Martin Hogan)
 * Buddhist-Christian Dual Belonging: Affirmations, Objections, Explorations (ed. Gavin D'Costa and Ross Thompson)
 * The Rainfall Market (You Yeong-Gwang) [fiction]
 * Roots and Sky: A Journey Home in Four Seasons (Christie Purifoy)
 * How to Focus (Thich Nhat Hanh)
 * Prison Tattoos: A Study of Russian Inmates in Israel (Efrat Shoham)
-* Russian Prison Tattoos: Codes of Authority, Domination, and Struggle (Alix Lambert)
 * Bodies of Subversion: A Secret History of Women and Tattoo (Margot Mifflin, 2nd ed)
-* Snow Falls (Gerri Hill) [fiction]
-* Wabori: Traditional Japanese Tattoo (Manami Okazaki)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write (exceptions are clearly labelled).*
