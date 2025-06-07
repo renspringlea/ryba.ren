@@ -112,6 +112,18 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Crushing It (Erin Becker)</summary>
+
+<br />
+- this book is really sweet and superbly written<br />
+- "We're smelly and grassy and everything is perfect."<br />
+- "Rules make everything simple and clear. Spraypaint lines tell me where to be. A playbook tells me what to do."<br />
+- "We didn't deserve to win." "Soccer's like that sometimes." hahahahahaha<br />
+<br />
+
+</details>
+
+<details>
 <summary>Snow Falls (Gerri Hill)</summary>
 
 <br />

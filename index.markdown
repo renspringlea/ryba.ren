@@ -35,6 +35,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Crushing It (Erin Becker) [fiction]
 * Orchard House: How a Neglected Garden Taught One Family to Grow (Tara Austen Weaver)
 * Making Work Visible: Exposing Time Theft to Optimize Work & Flow (Dominica Degrandis)
 * The Art of War (Sun Tzu)
@@ -43,7 +44,6 @@ layout: home
 * The Rainfall Market (You Yeong-Gwang) [fiction]
 * Roots and Sky: A Journey Home in Four Seasons (Christie Purifoy)
 * How to Focus (Thich Nhat Hanh)
-* Prison Tattoos: A Study of Russian Inmates in Israel (Efrat Shoham)
 * Bodies of Subversion: A Secret History of Women and Tattoo (Margot Mifflin, 2nd ed)
 
 ## Blog  
