@@ -35,6 +35,8 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* A Carpenter's Life as Told by Houses (Larry Haun)
+* The (Other) F Word: A Celebration of the Fat & Fierce (ed. Angie Manfredi)
 * Crushing It (Erin Becker) [fiction]
 * Orchard House: How a Neglected Garden Taught One Family to Grow (Tara Austen Weaver)
 * Making Work Visible: Exposing Time Theft to Optimize Work & Flow (Dominica Degrandis)
@@ -43,8 +45,6 @@ layout: home
 * Buddhist-Christian Dual Belonging: Affirmations, Objections, Explorations (ed. Gavin D'Costa and Ross Thompson)
 * The Rainfall Market (You Yeong-Gwang) [fiction]
 * Roots and Sky: A Journey Home in Four Seasons (Christie Purifoy)
-* How to Focus (Thich Nhat Hanh)
-* Bodies of Subversion: A Secret History of Women and Tattoo (Margot Mifflin, 2nd ed)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write (exceptions are clearly labelled).*
