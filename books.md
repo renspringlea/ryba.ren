@@ -481,6 +481,18 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Memoirs and biography
 
 <details>
+<summary>A Carpenter's Life as Told by Houses (Larry Haun)</summary>
+
+<br />
+- The memoir bits are excellent and very informative. This guy really gets it. Difficult to understand how somebody can own land, such a vibe.<br />
+- Got about 65% through, was a bit fed up as some of the environmentalist and anti-modernity rhetoric is a bit pedestrian and one-sided - not wrong exactly, but maybe a bit unexciting and heard it all before. "dad, i can't click the book" vibes.<br />
+- thank GOD for modern comforts<br />
+- nebraska has a large network of rain-fed lakes and an associated underground aquifer, the largest wetland ecosystem in the united states<br />
+<br />
+
+</details>
+
+<details>
 <summary>Orchard House: How a Neglected Garden Taught One Family to Grow (Tara Austen Weaver)</summary>
 
 <br />
@@ -702,6 +714,22 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>The (Other) F Word: A Celebration of the Fat & Fierce (ed. Angie Manfredi)</summary>
+
+<br />
+- "We complicate the system by making the system visible." bam<br />
+- neutral invisibility<br />
+- most of the worst abuse is the abuse inside your own head<br />
+- swearing off diets in favour of intuitive eating<br />
+- how can you be healthy if you dont love your body<br />
+- confidence is the belief that you are capable<br />
+- data showing that unusually thin women are highly overrepresented in movies and series<br />
+- the one who mentioned trying to lose weight while playing varsity basketball - interesting that my first thought went to "that would be tough to balance with your athletic performance"<br />
+<br />
+
+</details>
 
 <details>
 <summary>Prison Tattoos: A Study of Russian Inmates in Israel (Efrat Shoham)</summary>
