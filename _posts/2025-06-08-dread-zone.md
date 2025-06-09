@@ -5,9 +5,9 @@ tags: self-improvement ai social-challenges mental-health
 ---  
 
 Related posts:  
-- [Staying sane in the dizzying new reality]({% 2024-09-17-dizzying-sane %})  
-- [I think ChatGPT's Deep Research will transform the process of doing secondary research]({% 2025-03-20-chatgpt-deep-research %})  
-- [Some thoughts on AI]({% 2024-02-26-some-thoughts-on-ai %})  
+- [Staying sane in the dizzying new reality]({% post_url 2024-09-17-dizzying-sane %})  
+- [I think ChatGPT's Deep Research will transform the process of doing secondary research]({% post_url 2025-03-20-chatgpt-deep-research %})  
+- [Some thoughts on AI]({% post_url 2024-02-26-some-thoughts-on-ai %})  
 - [Abundance and scarcity]({% post_url 2024-04-19-abundance-and-scarcity %})  
 
 The 2009 science fiction film *Surrogates* depicts a world where technology has advanced to a point where people live entirely from the safety of their home and interact with the world entirely via remote-control humanoid robots. In the film, there are many "Dread Reservations", which are zones where people choose to reject this technology in favour of a life without surrogates.  

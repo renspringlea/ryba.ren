@@ -35,6 +35,7 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Buddhism: A Journey through History (Donald S. Lopez Jr.)
 * A Carpenter's Life as Told by Houses (Larry Haun)
 * The (Other) F Word: A Celebration of the Fat & Fierce (ed. Angie Manfredi)
 * Crushing It (Erin Becker) [fiction]

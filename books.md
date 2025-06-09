@@ -1442,6 +1442,40 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>Buddhism: A Journey through History (Donald S. Lopez Jr.)</summary>
+
+<br />
+- this is a superb history, I simply inhaled this. very broad yet deep, very insightful and balanced. a thematic history, 30 self contained essays<br />
+- buddhism has been a world religion for longer than many people imagine<br />
+- about 20 years between the death of jesus and the first surviving written record of jesus, but this is in the ballpark of 400 years for the buddha<br />
+- importance of cosmology, in many ways inherited from hinduism with modifications; and ritual and magic<br />
+- pali was invented in order for monastics to have a common language for recitation<br />
+- the mahayana/theravada spatial division as a misconception, in fact many countries have had many forms of buddhism at different points in history<br />
+- the cambodian genocide also targeted buddhist monks, killing 60%!<br />
+- mindfulness meditation originated with burmese monks who created it as a simple form of meditation to be taught to the laity, amid fears that the british would seek to remove buddhism from burma<br />
+- in monastic history, the discipline (vinaya) often eclipses the doctrine (dharma) in importance<br />
+- british looting sacred buddhist sites in burma -.- (though not unique in desecrating buddhist sites around asia)<br />
+- buddhist-islamic contact has a long and complicated history (despite caricatures of a religion of peace meeting a religion of war, which is obvioisly a gross oversimplification)<br />
+- the story of saint barlom and saint josephat in christianity is based on the life of the buddha (by way of islam, an arabic text! wild)<br />
+- tantras (esoteric practices or observances)<br />
+- many examples of buddhists, including monastics, fighting and killing in war, battles, and civil unrest; buddhists colonising other buddhists (e.g. japan making korea a japanese colony); "warrior zen"; buddhists getting caught up in race theory; even monk armies fighting other monk armies, ostensibly over points of buddhist doctrine or theology<br />
+- dogen and his "just sitting" practice was one of three japanese schools of buddhism that taught that a single practice is sufficient for enlightenment<br />
+- buddhism as a missionary religion, with scriptural justification for this (as in christianity)<br />
+- one writer Han Yang Un (?) who argued for monastics to be able to marry if they so wish (i.e. for celibacy to be an optional vow rather than a mandatory vow)<br />
+- LOVE the chapter "Ordination", especially its discussion on challenges faced by bhikkunis and other monastic women<br />
+- among the list of people who cannot be ordained are "hermaphrodites" hmmm<br />
+- the story of a monk magically transforming into a woman for 3 weeks to enable him to ordain other women!!<br />
+- self-ordination, as allowed for in some situations by the Brahma's Net Sutra<br />
+- interesting point that the written accounts of travelers can often contain more detail than the accounts of locals, who have no need to note the apparently mundane and everyday details<br />
+- claims of agreement between buddhism and science have remained remarkably constant since the 1800s, despite huge shifts in what is meant by buddhism and what is meant by science<br />
+- the "chief referent" of buddhism in the west as shifting from theravada (?) buddhism (sri lanka?) to tibetan buddhism (esp under influence of dalai lama) to mindfulness (esp under therapy and self help culture)<br />
+- 1946, medical book Self: A Study in Ethics in Endocrinology, advocated for what is today transgender surgeries - written by a trans man! https://en.m.wikipedia.org/wiki/Michael_Dillon<br />
+- in the chapter "Health", there is a really insightful discussion on the Buddha's "obsession with the heteronormative" and rejection of what today we would call intersex people, gay people, transgender people<br />
+<br />
+
+</details>
+
+<details>
 <summary>Making Work Visible: Exposing Time Theft to Optimize Work & Flow (Dominica Degrandis)</summary>
 
 <br />
