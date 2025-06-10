@@ -35,6 +35,8 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Underneath the Surface: African American Religion and Tattoo Culture (Jason Jeffries, thesis)
+* Methodism: A Very Short Introduction (William J. Abraham)
 * Buddhism: A Journey through History (Donald S. Lopez Jr.)
 * A Carpenter's Life as Told by Houses (Larry Haun)
 * The (Other) F Word: A Celebration of the Fat & Fierce (ed. Angie Manfredi)
@@ -43,9 +45,6 @@ layout: home
 * Making Work Visible: Exposing Time Theft to Optimize Work & Flow (Dominica Degrandis)
 * The Art of War (Sun Tzu)
 * Theologies in Conflict in 4 Ezra: Wisdom Debate and Apocalyptic Solution (Karina Martin Hogan)
-* Buddhist-Christian Dual Belonging: Affirmations, Objections, Explorations (ed. Gavin D'Costa and Ross Thompson)
-* The Rainfall Market (You Yeong-Gwang) [fiction]
-* Roots and Sky: A Journey Home in Four Seasons (Christie Purifoy)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write (exceptions are clearly labelled).*
