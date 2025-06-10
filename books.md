@@ -716,6 +716,25 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Underneath the Surface: African American Religion and Tattoo Culture (Jason Jeffries, thesis)</summary>
+
+<br />
+- the platonic influence over christianity, specifically the mind body duality, as allowing for complacency in the face of oppression and violence against bodies<br />
+- the white gaze<br />
+- tattooing as a way for people experiencing psychological distress to restore a sense of self<br />
+- a stereotype that Black people can't feel pain on their skin!!!!!<br />
+- "scratcher" as a racial slur<br />
+- an excellent discussion on tattooing black skin, including stereotypes about black skin<br />
+- even if a given tattoo design has no meaning ("aesthetic" tattoos under the author's typology), getting it and having it can have significant social meaning<br />
+- "stigmata" tattoos, designs that express and bear witness to one's religious faith<br />
+- previous literature seeing religious objects and art as transitional objects (children's blankets etc, objects to soothe anxiety during transitional processes and due to uncertainty caused by the outside world) - this resonates<br />
+- tattoo artists as healers<br />
+- the bit about Tupac's social justice activism and religious themes, in each of his life story, lyrics, and tattoos, is really good<br />
+<br />
+
+</details>
+
+<details>
 <summary>The (Other) F Word: A Celebration of the Fat & Fierce (ed. Angie Manfredi)</summary>
 
 <br />
@@ -1440,6 +1459,22 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>Methodism: A Very Short Introduction (William J. Abraham)</summary>
+
+<br />
+- within protestantism, came out of the C of E and was originally intended as a revival or improvement within the church rather than its own denomination<br />
+- methodism as "monasticism for dummies"<br />
+- wiki: "focuses on sanctification and the transforming effect of faith on the character of a Christian, exemplified by living a victorious life over sin. Distinguishing doctrines include the new birth, assurance, imparted righteousness, and obedience to God manifested in performing works of piety. John Wesley held that entire sanctification was "the grand depositum", or foundational doctrine, of the Methodist faith"; strong influence on the british working class and on black americans; outward holiness, simple dress and rejection of drinking, gambling, etc; emphasis on the social gospel and working to help others<br />
+- lots of diversity in methodism, e.g. progressive versions in northern usa, conservative megachurches in southern usa, africa and korea have congregations that have evolved in different ways<br />
+- the quadrilateral has frequently been rejected as a reading of wesley, definitely not accepted universally within methodism<br />
+- salvation army is an offshoot of methodism<br />
+- methodism has always been very hesitant to prescribe intellectual or political views - "think and let think" - and george w. bush and hillary clinton are both methodists. lots of universities and hospitals.<br />
+- pentecostalism emerged within methodism<br />
+<br />
+
+</details>
 
 <details>
 <summary>Buddhism: A Journey through History (Donald S. Lopez Jr.)</summary>
