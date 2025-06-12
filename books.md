@@ -112,6 +112,16 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Woods of the Raven (Mary Calmes)</summary>
+
+<br />
+- this is so so good, wholesome and cozy. Superbly funny, such good banter. love the witchy vibes and the grumpy love interest.<br />
+- (cw rape in one character's backstory, mentioned only)<br />
+<br />
+
+</details>
+
+<details>
 <summary>Crushing It (Erin Becker)</summary>
 
 <br />
@@ -488,6 +498,7 @@ Starling Days (Rowan Hisayo Buchanan)
 - Got about 65% through, was a bit fed up as some of the environmentalist and anti-modernity rhetoric is a bit pedestrian and one-sided - not wrong exactly, but maybe a bit unexciting and heard it all before. "dad, i can't click the book" vibes.<br />
 - thank GOD for modern comforts<br />
 - nebraska has a large network of rain-fed lakes and an associated underground aquifer, the largest wetland ecosystem in the united states<br />
+- paraphrasing The Little Prince: "When meeting someone we never ask does he collect butterflies; does she like rainbows or the sweet smell of jasmine in the night air? No, we ask where do you live and what is your job. And then we think that we know him or her."
 <br />
 
 </details>
@@ -714,6 +725,47 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>Heaven and Hell: A History of the Afterlife (Bart D. Ehrman)</summary>
+
+<br />
+- the author's analysis is solid and *mostly* rigorous, despite these immense themes he is tackling (life, death, suffering, justice, ethics). though i do wonder if he overstates the degree of agreement among critical bible scholars on points relating to the gospels and sometimes makes slightly condescending references to passages being "misinterpreted" when in fact multiple valid interpretations could exist. and only ever addresses the history of the afterlife in the greco-roman and then western world, not the many other traditions, so the book title is misleadingly general.<br />
+- modern concepts of heaven and hell are in neither the old testament nor jesus teachings<br />
+- plato's idea that people are rewarded with a good or bad afterlife depending on their deeds, an innovation of hades being experienced by everyone<br />
+- the idea of the afterlife as punishment for actions during life is first seen in virgil's aeneid from rome, which is a clear innovation from the odyssey from greece<br />
+- platos body mind duality, the innovation is seeing the soul as the real person and the body as the shell (inverse of homer), though plato is clearly giving an allegory meant to assist people in living now rather than a literal description of the afterlife<br />
+- there is no mention of heaven and hell in the entire hebrew bible / old testament; there are some different ideas obviously, including death as simply cessation, a dark and silent forgetfulness. sheol's meaning is debated but could simply mean the pit where somebody is buried. some ambiguous references to consulting the dead, but meaning is unclear.<br />
+- hebrew prophets mention resurrection, but usually as a metaphor for the redemption or restoration of israel or judah<br />
+- bodily resurrection appeared in jewish writing sometime ~200 BC. unclear where it came from. connected with the idea of a judgment day including the resurrection of the dead, god's final intervention, in turn required to make sense of the emerging view of dark forces opposed to god (e.g. the devil). it functions as a theodicy, given the hard stuff israel was going through. and influenced by ongoing hellenization via the conquests of alexander.<br />
+- a section on 4 ezra heyooooo<br />
+- the fact that these views were becoming popular among Jews c. 200 - 0 BC means they happen to have been held by Jesus and his followers<br />
+- Jesus taught about an imminent kingdom of god, of course. for the wicked, not eternal torture, but simple annihiliation. he spoke not of hell but "Gehenna" (often incorrectly translated as hell in english bibles), which was a specific cursed valley that actually exists in jerusalem and had a bad reputation. perhaps something like death or annihilation, not eternal torture.<br />
+- as generations passed, and jesus's imminent apocalypse appeared increasingly distant, christians became increasingly concerned not with what will happen at the day of judgment, but with the more proximal question of what happens when we die<br />
+- for jesus, god's judgment hinges on whether one has lived a moral life (love your neighbour as yourself etc). for paul, this was not enough; judgment hinges on whether one has been baptised as a christian (has followed jesus in dying to sin) and involves the transformation of the body (acorn and oak tree)<br />
+- after paul, early christians (notably the author of luke-acts) "de-apocalypticized" jesus's teachings, so "now -> imminent but future kingdom of god / punishment of the wicked" was modified to "here -> kingdom of god in heaven above / punishment of wicked below"<br />
+- revelation agrees with jesus and paul - god's judgment is the permanent annihilation of the wicked - but expresses judgment using an image of burning fire and sulfur. this symbolism was later interpreted as a literal description of hell, even though this was not the intent of the author of revelation.<br />
+<br />
+
+</details>
+
+<details>
+<summary>Understanding Tattoos from the Indonesian Underground Music Scene of the Surabaya Region (Cons. Tri Handoko, thesis)</summary>
+
+<br />
+- this is so cool. Love the author wrecking their motorbike in a flood + drinking alcohol despite not being a drinker just to conduct an interview<br />
+- street/door to door tattooists, "scratchers", here too, so interesting, reports on one who built a machine using the motor from a tape recorder<br />
+- no health standards in indonesia, govt just isnt involved in regulation, though the industry is trying to self regulate and educate each other re health and safety<br />
+- lots of social and legal stigma against unmarried couples living together or having a baby<br />
+- the woman who did not want to get tattoos on her arms or legs as this would complicate the process of ritual washing before prayer<br />
+- the unemployment/professional image thing<br />
+- many muslims see tattoos as prohibited under islam<br />
+- cross and crucifixion tattoos are traditionally placed on the back or the shoulder for the symbolic reason of carrying one's cross on one's back<br />
+- tattoos of cheap items like lighters to commemorate time spent in poverty or on the street<br />
+- tattoos used as (literal) advertisements<br />
+<br />
+
+</details>
 
 <details>
 <summary>Underneath the Surface: African American Religion and Tattoo Culture (Jason Jeffries, thesis)</summary>

@@ -35,6 +35,9 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Heaven and Hell: A History of the Afterlife (Bart D. Ehrman)
+* Understanding Tattoos from the Indonesian Underground Music Scene of the Surabaya Region (Cons. Tri Handoko, thesis)
+* Woods of the Raven (Mary Calmes) [fiction]
 * Underneath the Surface: African American Religion and Tattoo Culture (Jason Jeffries, thesis)
 * Methodism: A Very Short Introduction (William J. Abraham)
 * Buddhism: A Journey through History (Donald S. Lopez Jr.)
@@ -42,9 +45,6 @@ layout: home
 * The (Other) F Word: A Celebration of the Fat & Fierce (ed. Angie Manfredi)
 * Crushing It (Erin Becker) [fiction]
 * Orchard House: How a Neglected Garden Taught One Family to Grow (Tara Austen Weaver)
-* Making Work Visible: Exposing Time Theft to Optimize Work & Flow (Dominica Degrandis)
-* The Art of War (Sun Tzu)
-* Theologies in Conflict in 4 Ezra: Wisdom Debate and Apocalyptic Solution (Karina Martin Hogan)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write (exceptions are clearly labelled).*
