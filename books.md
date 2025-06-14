@@ -112,7 +112,17 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
-<summary>Woods of the Raven (Mary Calmes)</summary>
+<summary>Demon and the Raven (Mary Calmes, Raven of the Woods #2)</summary>
+
+<br />
+- more of the same, but not as good as the first one. this one feels more "on rails" and predictable, pretty corny in places.<br />
+- the Catholic priest who did a transgender support day! <3 "Fake bacon is not in the Bible." hahahaha<br />
+<br />
+
+</details>
+
+<details>
+<summary>Woods of the Raven (Mary Calmes, Raven of the Woods #1)</summary>
 
 <br />
 - this is so so good, wholesome and cozy. Superbly funny, such good banter. love the witchy vibes and the grumpy love interest.<br />
@@ -725,6 +735,18 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>Mastectomy tattoos: transforming perceptions of self (Victoria Reid-de Jong, thesis)</summary>
+
+<br />
+- this is amazing, tattoos as an unconventional way to beautify mastectomy sites<br />
+- interesting, the critiques of the concept of breast reconstruction (lots of which resonates with trans affirming surgeries - in fact a lot of this book resonates with my own feelings)<br />
+- some debate about mastectomy tattoos as being an expression of hegemonic beauty practices vs a means to reclaim control over one's body<br />
+- interesting how all the photos of participants show light skin, hmm (though the author acknowledges this limitation)<br />
+<br />
+
+</details>
 
 <details>
 <summary>Heaven and Hell: A History of the Afterlife (Bart D. Ehrman)</summary>
@@ -1511,6 +1533,24 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>New Seeds of Contemplation (Thomas Merton)</summary>
+
+<br />
+- lots of gems. not everything is useful and i skipped large sections that felt a bit technical and obsure. and dont love everything he says, some of it comes off as judgment and dismissive rather than compassionate<br />
+- lots in common with thich nhat hanh here, e.g. mindful work, loving and acting for the benefit of others, acting naturally to do what you are created to do<br />
+- let nobody dare to hate or misuse this body that has been entrusted to him by God<br />
+- flowers and fish and trees as saints<br />
+- judgments and opinions that you just dont have to carry<br />
+- even in the desire to do god's will can be hidden one's own ambition<br />
+- the chapter on solitude is full of gems. solitude is not moving away from other people, but moving toward them.<br />
+- "If you want to help people, you have to make up your mind to write things that some men will condemn."<br />
+- god might have given you money so you can find joy in giving it away<br />
+- if you are humble, you can accept praise, as you know the praise belongs to God<br />
+<br />
+
+</details>
 
 <details>
 <summary>Methodism: A Very Short Introduction (William J. Abraham)</summary>
