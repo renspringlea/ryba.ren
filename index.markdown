@@ -35,16 +35,16 @@ layout: home
 
 ## Recent books I've read
 *Full list [here](books.html)*  
+* Mastectomy tattoos: transforming perceptions of self (Victoria Reid-de Jong, thesis)
+* New Seeds of Contemplation (Thomas Merton)
+* Demon and the Raven (Mary Calmes, Raven of the Woods #2) [fiction]
 * Heaven and Hell: A History of the Afterlife (Bart D. Ehrman)
 * Understanding Tattoos from the Indonesian Underground Music Scene of the Surabaya Region (Cons. Tri Handoko, thesis)
-* Woods of the Raven (Mary Calmes) [fiction]
+* Woods of the Raven (Mary Calmes, Raven of the Woods #1) [fiction]
 * Underneath the Surface: African American Religion and Tattoo Culture (Jason Jeffries, thesis)
 * Methodism: A Very Short Introduction (William J. Abraham)
 * Buddhism: A Journey through History (Donald S. Lopez Jr.)
 * A Carpenter's Life as Told by Houses (Larry Haun)
-* The (Other) F Word: A Celebration of the Fat & Fierce (ed. Angie Manfredi)
-* Crushing It (Erin Becker) [fiction]
-* Orchard House: How a Neglected Garden Taught One Family to Grow (Tara Austen Weaver)
 
 ## Blog  
 *These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write (exceptions are clearly labelled).*
