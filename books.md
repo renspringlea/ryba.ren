@@ -2109,6 +2109,15 @@ Starling Days (Rowan Hisayo Buchanan)
 
 </details>
 
+## Revisiting some old favourites
+- Essentialism (Greg McKeown)
+- Effortless (Greg McKeown)
+- The Lean Startup (Eric Ries)
+- The Cognitive Behavioral Workbook for Anxiety (Willian J. Knaus)
+- Killing Commendatore (Haruki Murakami)
+- Idlewild (James Frankie Thomas)
+- A Psalm for the Wild-Built (Becky Chambers)
+
 # 2024  
 april 2024 -> end of 2024  
 ## Classics  
@@ -3338,7 +3347,7 @@ august 2023 -> april 2024
 - The Book of Job: When Bad Things Happened to a Good Person (Harold S. Kushner)  
 - An Atlas of Extinct Countries (Gideon Defoe)  
 - On the Beach (Nevil Shute)  
-- Must Love Silence (Luxy Bexley)  
+- Must Love Silence (Lucy Bexley)  
 - Out of Character (Jenna Miller)  
 - The Gravity of Us (Phil Stamper)  
 - Fear and Trembling (Kierkegaard)  
@@ -3348,7 +3357,7 @@ august 2023 -> april 2024
 - Faith After Doubt (Brian McLaren)  
 - Brave Enough Not to Quit (Millie Farrow)  
 - The House in the Cerulean Sea (TJ Klune)  
-- The Cognitive Behavioral Workbook for Anxiety (!!!) (I cannot recommend this book enough)  
+- The Cognitive Behavioral Workbook for Anxiety Willian J. Knaus) (!!!) (I cannot recommend this book enough)  
 - The Political Thought of Xi Jinping (Tsang and Cheung)  
 - King (Jonathan Eig)  
 
@@ -3466,7 +3475,7 @@ late 2017 -> august 2023
 - Tall Order: The Goh Chok Tong Story Volume 1 (Shing Huei Peh)  
 - Creativity, Inc (Ed Catmull and Amy Wallace)  
 - Cockpit Confidential: Everything You Need to Know About Air Travel: Questions, Answers, and Reflections (Patrick Smith)  
-- Team of Rivals (Dorins Kearns Goodwin)  
+- Team of Rivals: The Political Genius of Abraham Lincoln (Dorins Kearns Goodwin)  
 - Discourses and Selected Writings (Epictetus)  
 - 1Q84 (Haruki Murakami) (!!!)  
 - Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions (Johann Hari)  
@@ -3580,7 +3589,7 @@ late 2017 -> august 2023
 - Project Hail Mary (Andy Weir) (!!!)  
 - Star Wars: Queen's Shadow (E. K. Johnston)  
 - Training Ground (Kate Christie)
-- Endgame (Kate Christie)
+- Endgame (Z. R. Reed)
 - Red, White & Royal Blue (Casey McQuiston) (!!!)  
 - Standing Tall: The Goh Chok Tong Years, Volume 2 (Shing Huei Pei)  
 - Breaking Legacies (Z. R. Reed)  
