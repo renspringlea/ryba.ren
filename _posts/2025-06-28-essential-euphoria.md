@@ -13,10 +13,20 @@ I work in small charity startups, so I am used to thinking: how can I get the mo
 # Step 1. Brainstorm  
 To figure out the activities, experiences and items that give us the most gender euphoria, it helps to have as many options as possible. Surgery is one way to exchange time and money for gender euphoria. There are thousands of other ways.  
 
-When brainstorming, think big—we don't need to limit ourselves at this stage. Having 20 or 30 ideas is good. 50 or 100 is great. A trusted friend or even ChatGPT can offer many great examples that would not have occurred  
+When brainstorming, think big—we don't need to limit ourselves at this stage. Having 20 or 30 ideas is good. 50 or 100 is great. A trusted friend or even ChatGPT can offer many great examples that would not have occurred to you.
+
+If you need help getting started, some of the ways I love to express myself and some activities that help me experience queer joy are:  
+- Wearing tight jeans
+- Meeting up with queer and/or affirming friends for dessert
+- Using "she/her" pronouns in online groups
+- Bleaching my hair
+- Getting tattoos
+- Playing soccer
+- Wearing makeup or face glitter
+- Reading novels with queer characters  
 
 # Step 2. Experiment  
-Entrepreneurs often talk about a "minimum viable product", which means designing the simplest possible product that can be used to get feedback from potential customers. We can do the same thing—each of our brainstormed ideas is a product, and our customer is ourself.  
+Entrepreneurs often talk about a "minimum viable product", which means designing the simplest possible product that can be used to get feedback from potential customers. We can do the same thing—each of our brainstormed ideas is a product that might (or might not) generate queer joy and gender affirmation, and our customer is ourself.  
 
 Pick the 3 or 5 ideas that strike you as the most interesting. Can you think of a way to test the idea with low effort?  
 
