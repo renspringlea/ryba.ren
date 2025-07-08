@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Fall for Him (Andie Burke)</summary>
+
+<br />
+cute! pretty funny too. not as much renovation vibes as id hoped but still fun. love the dog.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Demon and the Raven (Mary Calmes, Raven of the Woods #2)</summary>
 
 <br />
