@@ -1544,6 +1544,25 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>Body Neutral: A Revolutionary Guide to Overcoming Body Image Issues (Jessi Kneeland)</summary>
+
+<br />
+- seeing only what is really there in the moment, without interpretation or undue significance. so its essentially the same as mindfulness.<br />
+- you dont ever need to have an opinion about your body<br />
+- you can also have a neutral lens about your body *issues*!<br />
+- 4 avatars, which illustrate what problem the body image issue is (unsuccessfully) trying to solve: want to look good, want external validation, want social safety, want to just cope<br />
+- the outsider<br />
+- seeking to use their body image issue to obtain social connection and/or avoid social disconnection (usually one is stronger)<br />
+- can hyperfixate on differences with others in some valued space, e.g. workplace or community<br />
+- can include people in marginalised body who justifiably fear the stigma or judgment that comes with this<br />
+- terms like "people pleaser" and "anxious attachment style" can be used to denigrate and criticise rather than liberate<br />
+- genuine self expression is a prerequisite to meaningful intimate relationships<br />
+- your body image suffering can only disappear once all parts of you have let go of the underlying purpose or need<br />
+<br />
+
+</details>
+
+<details>
 <summary>New Seeds of Contemplation (Thomas Merton)</summary>
 
 <br />
