@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Love Next Door (Rachael Sommers)</summary>
+
+<br />
+LOVE this. tattoo artist soccer player with a rescue mutt + a bakery owner, and trans rep.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Fall for Him (Andie Burke)</summary>
 
 <br />
