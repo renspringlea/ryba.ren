@@ -112,10 +112,19 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Lakelore (Anna-Marie Mclemore)</summary>
+
+<br />
+- Love this. This book makes me feel less alone. Such beautiful writing and such a beautiful take on the trans and neurodivergent experience.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Love Next Door (Rachael Sommers)</summary>
 
 <br />
-LOVE this. tattoo artist soccer player with a rescue mutt + a bakery owner, and trans rep.<br />
+- LOVE this. tattoo artist soccer player with a rescue mutt + a bakery owner, and trans rep.<br />
 <br />
 
 </details>
