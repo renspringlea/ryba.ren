@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Delilah Green Doesn't Care (Ashley Herring Blake)</summary>
+
+<br />
+This is very very funny. I think I actually DNF'd this a couple of years ago, but I tried it again and it's funnier than I remember and Kristin DiMercurio does the narration, I don't know what on earth I was thinking.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Lakelore (Anna-Marie Mclemore)</summary>
 
 <br />
@@ -2158,11 +2167,10 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Revisiting some old favourites
 - Essentialism (Greg McKeown)
 - Effortless (Greg McKeown)
-- The Lean Startup (Eric Ries)
 - The Cognitive Behavioral Workbook for Anxiety (Willian J. Knaus)
 - Killing Commendatore (Haruki Murakami)
 - Idlewild (James Frankie Thomas)
-- A Psalm for the Wild-Built (Becky Chambers)
+- Nevada (Imogen Binnie)
 
 # 2024  
 april 2024 -> end of 2024  
