@@ -112,6 +112,17 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Cleat Cute (Meryl Wilsner)</summary>
+
+<br />
+- I DNF'd this one at like 5% a while ago. Honestly I sorta stand by that choice. The writing quality is ok, if not fantastic, and I don't really connect with or feel super invested in either of the main characters. But I needed my soccer fix, so I caved! I relate to Hendy and especially her quietness, need for control and organisation, and depression. And I really appreciate the politics, especially the overt trans support, the references to pay, and the mentions of kneeling during the anthem. and hendy being clearly but obliviously autistic is so funny to me<br />
+- "The mechanics of a penalty kick are simple: kick the ball into the goal."<br />
+- "First thing you learn as goalie is there's 10 people who have to fuck up in front of you first."<br />
+<br />
+
+</details>
+
+<details>
 <summary>Delilah Green Doesn't Care (Ashley Herring Blake)</summary>
 
 <br />
