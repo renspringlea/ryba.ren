@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Flipping Hearts and Homes (Chris Zett)</summary>
+
+<br />
+- cute and wholesome, love the home reno vibes, if a bit on rails (a lot of details that are way too convenient to be believable). all the rescue animals are cute but everyone around them is eating chickens?? bit weird<br />
+<br />
+
+</details>
+
+<details>
 <summary>Cleat Cute (Meryl Wilsner)</summary>
 
 <br />
@@ -2183,6 +2192,7 @@ Starling Days (Rowan Hisayo Buchanan)
 - Idlewild (James Frankie Thomas)
 - Nevada (Imogen Binnie)
 - Catch and Cradle (Katia Rose)
+- Game Time (Kate Christie, Girls of Summer #2) (R)
 
 # 2024  
 april 2024 -> end of 2024  
