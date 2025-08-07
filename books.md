@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Iris Kelly Doesn't Date (Ashley Herring Blake)</summary>
+
+<br />
+- this is really funny and engaging, i think it's my favourite of the series. appreciate the anxiety disorder rep and the overt queer energy.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Flipping Hearts and Homes (Chris Zett)</summary>
 
 <br />
