@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Two Hearts Alone (Harper Bliss)</summary>
+
+<br />
+- good fun, writing is ok but not great, but i enjoy the quiet and simple story. also the mc is sort of a recluse and autistic, so i appreciate that rep.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Iris Kelly Doesn't Date (Ashley Herring Blake)</summary>
 
 <br />
