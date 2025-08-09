@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Bitterthorn (Kat Dunn)</summary>
+
+<br />
+- This is very very good. The writing is beautiful. It has a witch, solitude, a crumbling old castle in remote Germany, even a cheeky bit of science in the main character's geology interest.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Two Hearts Alone (Harper Bliss)</summary>
 
 <br />
