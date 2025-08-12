@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>The Skeptic (Kelly Fox)</summary>
+
+<br />
+this smutty trash is legitimately full of deep and profound wisdom. totally hooked. though a lot of "problem solved by rich friend's money", a bit frustrating<br />
+<br />
+
+</details>
+
+<details>
 <summary>Bitterthorn (Kat Dunn)</summary>
 
 <br />
