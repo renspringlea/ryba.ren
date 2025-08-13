@@ -829,6 +829,15 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary>Shifting Sands: A Human History of the Sahara (Judith Scheele)</summary>
+
+<br />
+- this is excellent information and history and some great writing. really enjoyed this, great nuance and detail, stories of people's lives that i wouldn't have encountered otherwise. got like halfway through before i lost interest, but the half i did read was really really valuable and insightful.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Mastectomy tattoos: transforming perceptions of self (Victoria Reid-de Jong, thesis)</summary>
 
 <br />
