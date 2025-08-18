@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Can't Spell Treason Without Tea (Rebecca Thorne)</summary>
+
+<br />
+- this was decent. i got like 65% of the way through. i think it had less actual cozy tea shop vibes than i expected, was more "two people trying to escape their old lives but not being very successful", so lots of drama and action which was fine but not as much of the tea and bookshop vibes i wanted. appreciated the non-binary rep in a fantasy setting.<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Skeptic (Kelly Fox)</summary>
 
 <br />
