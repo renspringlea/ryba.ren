@@ -13,7 +13,7 @@ layout: home
 {%   assign lifePerc = lifeProp | times: 100  %}
 {%   assign lifePercRound = lifePerc | round  %}
 
-* My pronouns are they/them and she/her
+* My pronouns are she/her or they/them
 * I am proud to be transgender and neurodivergent
 * I live and work on the unceded land of the Kaurna people
 * "Ryba" means "fish" in Slovak, and it rhymes with "Bieber" (no relation)
