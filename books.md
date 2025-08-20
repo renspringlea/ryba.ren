@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Hold Me Closer, Toni Danzig (Laura Henry)</summary>
+
+<br />
+- this is good fun, very energetic. some of the politics and business strategy felt a bit naive; but hey, it is a rom com<br />
+<br />
+
+</details>
+
+<details>
 <summary>Can't Spell Treason Without Tea (Rebecca Thorne)</summary>
 
 <br />
@@ -1643,6 +1652,24 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Religion, philosophy, and lifestyle
+
+<details>
+<summary>The Scent of Holiness: Lessons from a Women’s Monastery (Constantina R. Palmer)</summary>
+
+<br />
+- just lovely. this is such a beautiful book, its like a monastery slice of life, all the more enjoyable for me for being a women's monastery. really fascinating to see how greek orthodox communities approach life and religion. occasional supernatural aspects that don't resonate as much as me, but i can see the obvious value and meaning for the author and her communities.<br />
+<br />
+
+</details>
+
+<details>
+<summary>St. Francis of Assisi (G. K. Chesterton)</summary>
+
+<br />
+- beautifully written book, in a thoroughly meandering way - the "stained glass" model of writing. the introduction (which ive seen quoted and even quoted myself previously) is such a beautiful description of one's faith in God. despite being written 102 years ago, the writing comes across as very engaging and even modern, and many of the observations could come from a writer today.<br />
+<br />
+
+</details>
 
 <details>
 <summary>Body Neutral: A Revolutionary Guide to Overcoming Body Image Issues (Jessi Kneeland)</summary>
