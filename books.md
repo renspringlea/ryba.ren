@@ -1654,6 +1654,15 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion, philosophy, and lifestyle
 
 <details>
+<summary>The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results (Gary W. Keller and Jay Papasan)</summary>
+
+<br />
+- I'm mostly reading this for hype. I think the core message of the book is helpful, if a bit self-evident. In the style of much pop psychology, many of the examples are absurd, and the core message is applied in such a general way that you can describe anything using this framework. But this book is still helpful as like a hype guy hahaha<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Scent of Holiness: Lessons from a Women’s Monastery (Constantina R. Palmer)</summary>
 
 <br />
