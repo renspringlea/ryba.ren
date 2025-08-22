@@ -1651,13 +1651,13 @@ Starling Days (Rowan Hisayo Buchanan)
 
 </details>
 
-## Religion, philosophy, and lifestyle
+## Religion and philosophy
 
 <details>
-<summary>The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results (Gary W. Keller and Jay Papasan)</summary>
+<summary>Accompanying Disability: Caretaking, Family, and Faith (Topher Endress)</summary>
 
 <br />
-- I'm mostly reading this for hype. I think the core message of the book is helpful, if a bit self-evident. In the style of much pop psychology, many of the examples are absurd, and the core message is applied in such a general way that you can describe anything using this framework. But this book is still helpful as like a hype guy hahaha<br />
+- This book is astonishing. "Accompaniment theology". The wisdom and profound insights in this book - I'm simply amazed. This is a shining gem, definitely one of the top few non-fiction books I've ever had the pleasure to encounter. There are also long passages on navigating grief, speaking on behalf of others, ritual, ageing, and many other areas of life well beyond the theme of disability theology - all of which contain the author's deep wisdom.<br />
 <br />
 
 </details>
@@ -1676,25 +1676,6 @@ Starling Days (Rowan Hisayo Buchanan)
 
 <br />
 - beautifully written book, in a thoroughly meandering way - the "stained glass" model of writing. the introduction (which ive seen quoted and even quoted myself previously) is such a beautiful description of one's faith in God. despite being written 102 years ago, the writing comes across as very engaging and even modern, and many of the observations could come from a writer today.<br />
-<br />
-
-</details>
-
-<details>
-<summary>Body Neutral: A Revolutionary Guide to Overcoming Body Image Issues (Jessi Kneeland)</summary>
-
-<br />
-- seeing only what is really there in the moment, without interpretation or undue significance. so its essentially the same as mindfulness.<br />
-- you dont ever need to have an opinion about your body<br />
-- you can also have a neutral lens about your body *issues*!<br />
-- 4 avatars, which illustrate what problem the body image issue is (unsuccessfully) trying to solve: want to look good, want external validation, want social safety, want to just cope<br />
-- the outsider<br />
-- seeking to use their body image issue to obtain social connection and/or avoid social disconnection (usually one is stronger)<br />
-- can hyperfixate on differences with others in some valued space, e.g. workplace or community<br />
-- can include people in marginalised body who justifiably fear the stigma or judgment that comes with this<br />
-- terms like "people pleaser" and "anxious attachment style" can be used to denigrate and criticise rather than liberate<br />
-- genuine self expression is a prerequisite to meaningful intimate relationships<br />
-- your body image suffering can only disappear once all parts of you have let go of the underlying purpose or need<br />
 <br />
 
 </details>
@@ -1763,32 +1744,6 @@ Starling Days (Rowan Hisayo Buchanan)
 - the "chief referent" of buddhism in the west as shifting from theravada (?) buddhism (sri lanka?) to tibetan buddhism (esp under influence of dalai lama) to mindfulness (esp under therapy and self help culture)<br />
 - 1946, medical book Self: A Study in Ethics in Endocrinology, advocated for what is today transgender surgeries - written by a trans man! https://en.m.wikipedia.org/wiki/Michael_Dillon<br />
 - in the chapter "Health", there is a really insightful discussion on the Buddha's "obsession with the heteronormative" and rejection of what today we would call intersex people, gay people, transgender people<br />
-<br />
-
-</details>
-
-<details>
-<summary>Making Work Visible: Exposing Time Theft to Optimize Work & Flow (Dominica Degrandis)</summary>
-
-<br />
-- definitely pop psychology vibes, typically comes off as an anecdotal blog and maybe a bit uncritical about the proposed methods, but still good fun for the ops vibes and some useful ideas<br />
-- 5 thieves of time: 1) too much work in progress/too many concurrent projects/saying yes too much, 2) unknown dependencies (anything that blindsides you), 3) unplanned work/interruptions (incl unnecessary revisions, expedited work requests), 4) conflicting priorities, 5) neglected work<br />
-- interesting how most of these problems simply don't exist in my organisations hahahaha i am very lucky<br />
-- context switching is costly<br />
-- flow requires a do not disturb ethos<br />
-- saying yes to something means prioritising that thing over all other work on your plate<br />
-- unknown dependency includes not knowing critical information held by someone else in the team, server down time, data loss, coordinating many people (e.g. for meetings), getting expert input (!)<br />
-- probability of failure/delay increases exponentially with number of dependencies<br />
-- maintenance work, e.g. maintaining old systems, is usually underprioritised - protecting valuable assets<br />
-- like rotten fruit, knowledge decays faster than we'd like
-- measuring the cost of delay of projects<br />
-- you can have project management boards at different levels, e.g. the company and the project<br />
-- "flow metrics", now we're cooking with gas<br />
-- due dates are usually arbitrary, and you can use probabilistic prediction instead to remain predictable<br />
-- essentially use data collected during previous projects to forecast the time that future similar projects will take<br />
-- higher utilisation (e.g. people's loaded schedules or capacity) = longer wait times for new projects, and higher risk and vulnerability for uncertainty. so allow some slack.<br />
-- if the project board allows work's status to always be visible, meetings can be spent on addressing blocked work, risks, and uncertainties, a better use of time<br />
-- there are rarely any best practices (only for high-danger and routine tasks, like cleaning a wound). when cause and effect are unknown, there are no best practices.<br />
 <br />
 
 </details>
@@ -2046,6 +2001,105 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 <details>
+<summary>Revelations: Visions, Prophecy, and Politics in the Book of Revelation (Elaine Pagels)</summary>
+
+<br />
+- as wartime literature, protesting against the degradation of the weak by the empire, and in particular imagery that brags about the degradation<br />
+- john advocating for total opposition rather than other christians who accommodated rome, hmm<br />
+- william blake: "Both read the Bible day and night, But thou read'st black where I read white."<br />
+- zostrianos!<br />
+<br />
+
+</details>
+
+<details>
+<summary>The Existentialist's Survival Guide (Gordon Marino)</summary>
+
+<br />
+- it's fine, more of a personal meditation on some topics with frequent reference to the existentialists (reading chapters 1,2,4)<br />
+- kierkegaard: anxiety as a friend and teacher, helps point towards becoming an authentic person<br />
+- kierkegaard's journal: was at a party where he was the centre of attention, then left and wanted to shoot himself (!)<br />
+<br />
+
+</details>
+
+<details>
+<summary>Help, Thanks, Wow (Anne Lamott)</summary>
+
+- this book is really special. excellent writing, touching and compassionate with a sense of humor<br />
+- contains animal suffering and death<br />
+- keeping prayer simple<br />
+- "Please help me not to be such an asshole."<br />
+- "I am existentially sick to death of death."<br />
+- (to God) "What on Earth could you be thinking?"<br />
+- people are disappointing<br />
+- interesting she was raised in a non-religious family<br />
+- "Help for the sick and hungry, home for the homeless folk, peace in the world forever. This is my prayer, O Lord. Amen."<br />
+- "the wrinkly peaks of maturity"<br />
+- too much time in the old testament hahhaaha<br />
+- God's idea of a good time is picking up litter, serving food at the soup kitchen, or calling a relative who nobody else talks to<br />
+- sin is a hard heart, a lack of generosity<br />
+- dieting as time wasted<br />
+
+</details>
+
+## Self-improvement and business
+
+<details>
+<summary>The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results (Gary W. Keller and Jay Papasan)</summary>
+
+<br />
+- I'm mostly reading this for hype. I think the core message of the book is helpful, if a bit self-evident. In the style of much pop psychology, many of the examples are absurd, and the core message is applied in such a general way that you can describe anything using this framework. But this book is still helpful as like a hype guy hahaha<br />
+<br />
+
+</details>
+
+<details>
+<summary>Body Neutral: A Revolutionary Guide to Overcoming Body Image Issues (Jessi Kneeland)</summary>
+
+<br />
+- seeing only what is really there in the moment, without interpretation or undue significance. so its essentially the same as mindfulness.<br />
+- you dont ever need to have an opinion about your body<br />
+- you can also have a neutral lens about your body *issues*!<br />
+- 4 avatars, which illustrate what problem the body image issue is (unsuccessfully) trying to solve: want to look good, want external validation, want social safety, want to just cope<br />
+- the outsider<br />
+- seeking to use their body image issue to obtain social connection and/or avoid social disconnection (usually one is stronger)<br />
+- can hyperfixate on differences with others in some valued space, e.g. workplace or community<br />
+- can include people in marginalised body who justifiably fear the stigma or judgment that comes with this<br />
+- terms like "people pleaser" and "anxious attachment style" can be used to denigrate and criticise rather than liberate<br />
+- genuine self expression is a prerequisite to meaningful intimate relationships<br />
+- your body image suffering can only disappear once all parts of you have let go of the underlying purpose or need<br />
+<br />
+
+</details>
+
+<details>
+<summary>Making Work Visible: Exposing Time Theft to Optimize Work & Flow (Dominica Degrandis)</summary>
+
+<br />
+- definitely pop psychology vibes, typically comes off as an anecdotal blog and maybe a bit uncritical about the proposed methods, but still good fun for the ops vibes and some useful ideas<br />
+- 5 thieves of time: 1) too much work in progress/too many concurrent projects/saying yes too much, 2) unknown dependencies (anything that blindsides you), 3) unplanned work/interruptions (incl unnecessary revisions, expedited work requests), 4) conflicting priorities, 5) neglected work<br />
+- interesting how most of these problems simply don't exist in my organisations hahahaha i am very lucky<br />
+- context switching is costly<br />
+- flow requires a do not disturb ethos<br />
+- saying yes to something means prioritising that thing over all other work on your plate<br />
+- unknown dependency includes not knowing critical information held by someone else in the team, server down time, data loss, coordinating many people (e.g. for meetings), getting expert input (!)<br />
+- probability of failure/delay increases exponentially with number of dependencies<br />
+- maintenance work, e.g. maintaining old systems, is usually underprioritised - protecting valuable assets<br />
+- like rotten fruit, knowledge decays faster than we'd like
+- measuring the cost of delay of projects<br />
+- you can have project management boards at different levels, e.g. the company and the project<br />
+- "flow metrics", now we're cooking with gas<br />
+- due dates are usually arbitrary, and you can use probabilistic prediction instead to remain predictable<br />
+- essentially use data collected during previous projects to forecast the time that future similar projects will take<br />
+- higher utilisation (e.g. people's loaded schedules or capacity) = longer wait times for new projects, and higher risk and vulnerability for uncertainty. so allow some slack.<br />
+- if the project board allows work's status to always be visible, meetings can be spent on addressing blocked work, risks, and uncertainties, a better use of time<br />
+- there are rarely any best practices (only for high-danger and routine tasks, like cleaning a wound). when cause and effect are unknown, there are no best practices.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Self-Care for Autistic People (Megan Anna Neff)</summary>
 
 <br />
@@ -2086,29 +2140,6 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 <details>
-<summary>Revelations: Visions, Prophecy, and Politics in the Book of Revelation (Elaine Pagels)</summary>
-
-<br />
-- as wartime literature, protesting against the degradation of the weak by the empire, and in particular imagery that brags about the degradation<br />
-- john advocating for total opposition rather than other christians who accommodated rome, hmm<br />
-- william blake: "Both read the Bible day and night, But thou read'st black where I read white."<br />
-- zostrianos!<br />
-<br />
-
-</details>
-
-<details>
-<summary>The Existentialist's Survival Guide (Gordon Marino)</summary>
-
-<br />
-- it's fine, more of a personal meditation on some topics with frequent reference to the existentialists (reading chapters 1,2,4)<br />
-- kierkegaard: anxiety as a friend and teacher, helps point towards becoming an authentic person<br />
-- kierkegaard's journal: was at a party where he was the centre of attention, then left and wanted to shoot himself (!)<br />
-<br />
-
-</details>
-
-<details>
 <summary>Uncompromising: How an Unwavering Commitment to Your Why Leads to an Impactful Life and a Lasting Legacy (Steven White)</summary>
 
 <br />
@@ -2135,26 +2166,6 @@ Starling Days (Rowan Hisayo Buchanan)
 - modelling self compassion and a healthy self relationship as a way to help others<br />
 - dissociation as a survival strategy<br />
 <br />
-
-</details>
-
-<details>
-<summary>Help, Thanks, Wow (Anne Lamott)</summary>
-
-- this book is really special. excellent writing, touching and compassionate with a sense of humor<br />
-- contains animal suffering and death<br />
-- keeping prayer simple<br />
-- "Please help me not to be such an asshole."<br />
-- "I am existentially sick to death of death."<br />
-- (to God) "What on Earth could you be thinking?"<br />
-- people are disappointing<br />
-- interesting she was raised in a non-religious family<br />
-- "Help for the sick and hungry, home for the homeless folk, peace in the world forever. This is my prayer, O Lord. Amen."<br />
-- "the wrinkly peaks of maturity"<br />
-- too much time in the old testament hahhaaha<br />
-- God's idea of a good time is picking up litter, serving food at the soup kitchen, or calling a relative who nobody else talks to<br />
-- sin is a hard heart, a lack of generosity<br />
-- dieting as time wasted<br />
 
 </details>
 
