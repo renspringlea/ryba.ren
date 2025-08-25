@@ -8,7 +8,7 @@ source: [wiki](https://en.wikipedia.org/wiki/2026_AFC_Women%27s_Asian_Cup)
 
 ## international-friendlies  
 ~~~~~~
-
+2025-10-25  wales v australia
 ~~~~~~
 
 source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
