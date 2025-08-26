@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>The Borrow a Boyfriend Club (Page Powars)</summary>
+
+<br />
+- LOVE this. it's like an underground Ouran High School Host Club with trans rep. some really funny moments too.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Hold Me Closer, Toni Danzig (Laura Henry)</summary>
 
 <br />
