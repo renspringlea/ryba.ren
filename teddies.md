@@ -3,6 +3,38 @@ title: Teddies
 layout: page
 ---
 
+## Cloudland
+
+- Everyone is welcome and accepted as they are
+- Love, caring and kindness
+- Supporting one another
+- Fun and games
+- Fairies, soft friends and family
+
+## Pink Bunny
+
+- Leader of the pack as she is responsible
+- Caring and comforting (gives the best cuddles)
+- Really good listener
+- Fave food is carrots
+- Best friend is Blue Bunny
+
+## Round-icorn
+
+- I am actually a Pegasus but love playing pretend as a unicorn
+- Unicorns are magical just like me
+- May favourite colour is all of the PINKS!
+- My besties are Roly Poly and Sprinkles
+- Our favourite activity is rolling down grass hills over and over again
+
+## Bun Bun
+
+I love bouncing all day love
+Gently stroke between my ears and down my nose, I'll fall asleep snoozing quietly
+I really like curling up and snuggling close
+You'll often find me snoozing in a sunny spot
+My bestie is Alanna's blue bunny that looks just like me!
+
 ## Gummy  
 Gummy likes long sleep ins, gentle snoozes in the sun, cuddles and snacks. They like to snooze near others so that they can join in when they are awake but it's not rude if they fall asleep either. Gummy is loyal and snuggly.  
 ![gummy.jpg](/assets/images/gummy.jpg){: width="400" }  
@@ -60,6 +92,13 @@ Cherry is shy. She loves fashion and the colour pink. Her favourite time of year
 
 ## Libby  
 Libby loves meditating and teaching and helping her friends with meditation. She's so patient and calm and considerate of everyone. She loves doing helping.  
+
+Meditation guru (also really good at bonging the bell)  
+Enthusiastic in sharing her practice  
+Loves teaching others  
+Fave food is peanut butter  
+Trunk scritches  
+
 ![libby.jpg](/assets/images/libby.jpg){: width='400' }  
 
 
@@ -447,161 +486,159 @@ Scrumby is one of Ren's besties. They are a beautiful scruffly bird who came fro
 ## Abby  
 Abby is a very teeny bear with a big heart. She is quite shy to start with, while she's getting to know you. Probably because everyone is so much bigger than her! With slow, gentle, kind interactions, she will slowly open up and become a treasured friend.  
 ![abby.jpg](/assets/images/abby.jpg){: width='400' }  
-  
+
 
 ## Gabby  
 Gabby is the cheeky part of the Abby and Gabby duo! Gabby is the one that leads the way and eggs Abby on to join them. They are absolutely inseparable and love to be together.  
 ![gabby.jpg](/assets/images/gabby.jpg){: width='400' }  
-  
+
 
 ## Annie  
 Annie is a softy for marshmallows. Her favourite thing is to sit by the campfire toasting marshmallows on sticks with her bestie Rory. She likes to go on adventures and enjoys being carried around in a handbag. She's very very chatty and makes friends wherever she goes.  
 ![annie.jpg](/assets/images/annie.jpg){: width='400' }  
-  
+
 
 ## Beepooh  
 Bee Pooh (aka BeeBoo) is a bee like no other. Bee Pooh is able to sniff out honey miles away. As soon as he gets even the slightest whiff of honey, he will call up his bestie Car Pooh and vroom off they go in search of the honey!  
 ![beepooh.jpg](/assets/images/beepooh.jpg){: width='400' }  
-  
+
 
 ## Bilby  
 Bilby's favourite time of year is Easter. They are very inquisitive and their nose goes twitch when they are curious, learning something new or can sniff yummies! They really do like chocolate and often squirrel some away in their pouch for later.  
 ![bilby.jpg](/assets/images/bilby.jpg){: width='400' }  
-  
+
 
 ## Brainy  
 Brainy is a very wise owl. He gives great consideration to all questions great and small so that he can provide the most helpful of answers. He spends the rest of his time sitting in his rocking chair pondering life, the world and the universe. He also is a wonderful storyteller for the littlies, he gets really into the characters.  
 ![brainy.jpg](/assets/images/brainy.jpg){: width='400' }  
-  
+
 
 ## Brushtail  
 Brushtail is a quiet friend who mostly comes out at night. They love hiding under logs and listening for things with their big fluffy ears. When they feel comfortable enough to come out of their hiding spot, they can be a cheeky monster, and they have learned from Mr Penguin that it's funny to stick their snout in people's ears.  
 ![brushtail.jpg](/assets/images/brushtail.jpg){: width='400' }  
-  
+
 
 ## Carpooh  
 Beep Beep, Car Pooh is here to pick you up! Car Pooh loves to drive everyone around whilst having a gossip and giggle with them. They go Vroom Vroom around! Car Pooh and Bee Pooh are besties!  
 ![carpooh.jpg](/assets/images/carpooh.jpg){: width='400' }  
-  
+
 
 ## Everest  
 Everest is the goodest of dogs. She spends most of her time snoozing with her pawpals but once she's got her outfit on, she's coming to your rescue!! She's the bravest dog and has done some amazing rescuing in her years. If there's a soft friend who's falling down the back of the cupboard, Everest will get them out. If there's someone stuck up a tree, call Everest and she will safely get them down. You see a burglar, Everest will chase them away. She's amazing!  
 ![everest.jpg](/assets/images/everest.jpg){: width='400' }  
-  
+
 
 ## Gumby  
 Gumby is a cuddly and loving bear whom we met at Tumby Bay op shop and they decided they just had to come home with us. Gumby is sensitive and likes quiet afternoons filled with gentle cuddles and dozes. If you're in a sensitive mood or feeling down, there's nobody to make you feel comfortable like Gumby.  
 ![gumby.jpg](/assets/images/gumby.jpg){: width='400' }  
-  
+
 
 ## Maggie  
 Maggie is named after Margaret Malpass (my Grandma) who bought Maggie for me as a 21st birthday present. Maggie is quiet, calm and reassuring. She enjoys supporting others to try their best and follow their dreams. She is a small bear with much wisdom and the bear to go to if you would like some life wisdom. She's so loving to all around her.  
 ![maggie.jpg](/assets/images/maggie.jpg){: width='400' }  
-  
+
 
 ## Rory  
 Rory is Annie's best friend and a real cheeky monster. Sometimes she wanders around in her signature jeans and glasses, but sometimes she finds it more comfortable to be nakey! She is outgoing and loves adventures and playing, especially if Annie is around.  
 ![rory.jpg](/assets/images/rory.jpg){: width='400' }  
-  
+
 
 ## Dolphin  
 Dolphin is a very comforting friend to have around. She likes to nuzzle in around your neck to support you. She decided to come home with me from the Show as I knew she desperately needed to join our family rather than me buying a showbag!! She's a very very good friend.  
 ![dolphin.jpg](/assets/images/dolphin.jpg){: width='400' }  
-  
+
 
 ## Dolphindoorstop  
 Dolphin doorstop is the rock in our family. She's always reliable and solid in her support for each and everyone of us. She enjoys sitting back and watching everyone go about their day.
-  
+
 ![dolphindoorstop.jpg](/assets/images/dolphindoorstop.jpg){: width='400' }  
-  
+
 
 ## Floppydolphin  
 Dolphin (aka Floppy Dolphin) is very silly and cheeky. They like to change shapes and play pretend being other soft friends or items! One second they are a dolphin and the next second they are a pillow and then they are a fish with big glub glub lips etc etc! They also really like sitting on your shoulder (like a parrot would!)  
 ![floppydolphin.jpg](/assets/images/floppydolphin.jpg){: width='400' }  
-  
+
 
 ## Berry  
 Berry is a bubbly frog who loves to play. She loves tickles on the belly and toes. She enjoys spending time with her bestie Beans and looking after their chiddlers Little Frog and Froggy.  
 ![berry.jpg](/assets/images/berry.jpg){: width='400' }  
-  
+
 
 ## Dolphinmediumgrey  
 Dolphin (medium grey) is so happy that she has found her pod! She's thrilled to be part of the family and loves socialising with all her dolphin friends. You'll often catch her swimming and spinning and jumping around, playing with everyone.  
 ![dolphinmediumgrey.jpg](/assets/images/dolphinmediumgrey.jpg){: width='400' }  
-  
+
 
 ## Dolphinsmallgreycoinpurse  
 Dolphin (small grey coin purse) is a very loyal friend. She's always by your side and will look after your small valuable items for you. She loves to help and be involved.  
 ![dolphinsmallgreycoinpurse.jpg](/assets/images/dolphinsmallgreycoinpurse.jpg){: width='400' }  
-  
+
 
 ## Mrpenguin  
 Mr Penguin is a distinguished gentleman who is always there to provide "wise" advice. He is oh so supportive and gives the most magical cuddles, you'll instantly feel better. If that doesn't cheer you straight up then he's always willing to stick his beak in your ear and get the worries out.  
 ![mrpenguin.jpg](/assets/images/mrpenguin.jpg){: width='400' }  
-  
+
 
 ## Narwhal  
 Narwhal, don't let size misguide you! They are one pocket rocket for sure. It's hard to catch a glimpse of them as they flit in and out everywhere!  
 ![narwhal.jpg](/assets/images/narwhal.jpg){: width='400' }  
-  
+
 
 ## Oceana  
 Although Oceana is timid at first, when you get to know them you'll find that they are actually a chatterbox! They quite enjoy sitting back and people/soft friend watching.  
 ![oceana.jpg](/assets/images/oceana.jpg){: width='400' }  
-  
+
 
 ## Teagan  
 Teagan is a bubble tea fanatic! She always has a bubble tea with her, even when she's sleeping! Ask her anything related to bubble tea and she'll be able to tell you. She loves to talk about favourite drinks with anyone who will listen.  
 ![teagan.jpg](/assets/images/teagan.jpg){: width='400' }  
-  
+
 
 ## Clover  
 Clover is a curious and inquisitive sheep. She likes to know what is going on and likes to be involved. She's quiet and shy and very polite.  
 ![clover.jpg](/assets/images/clover.jpg){: width='400' }  
-  
+
 
 ## Harmonybear  
 Harmony Bear exemplifies unity and togetherness between people of all kinds. She loves to spread the joy of music and sound. She often uses her songs and melodious voice to bridge gaps that language cannot.  
 ![harmonybear.jpg](/assets/images/harmonybear.jpg){: width='400' }  
-  
+
 
 ## Lillibelle  
 Lillibelle is a sweet and curious sheep. She is always checking in others to make sure they are okay. She likes to peek and shuffle in to see what is happening around her.  
 ![lillibelle.jpg](/assets/images/lillibelle.jpg){: width='400' }  
-  
+
 
 ## Littlefrog  
 Little Frog is small but packed with cheekiness. They love to explore. When they were young they confused Grandma by croaking when walking near a river. They giggled for ages as Grandma was looking for frogs!  
 ![littlefrog.jpg](/assets/images/littlefrog.jpg){: width='400' }  
-  
+
 
 ## Lovealotbear  
 Love-a-Lot Bear is a kind bear that loves everything, and everyone. She has the propensity to use the word "love" itself in most of her speech.  
 ![lovealotbear.jpg](/assets/images/lovealotbear.jpg){: width='400' }  
-  
+
 
 ## Snugglebun  
 Snugglebun is a cuddly floppy bestie who basically melts to a liquid when they relax. She is most cosy when she is laying on her bestie. Her bestie is whomever will give her cuddles, she's not picky!  
 ![snugglebun.jpg](/assets/images/snugglebun.jpg){: width='400' }  
-  
+
 
 ## Emily  
 Emily is a happy go lucky girl. She enjoys going clothes shopping and talking about fashion with her friends. She also likes to get her hair plaited. She is often seen pottering around the house, keeping others company and chatting away.  
 ![emily.jpg](/assets/images/emily.jpg){: width='400' }  
-  
+
 
 ## Petal  
 Petal (DOB 15/4/2025) is a very chatty bunny who loves adventures. Her best friend is Bart and they spend much of their time hanging about getting carried around on adventures and sightseeing.  
 ![petal.jpg](/assets/images/petal.jpg){: width='400' }  
-  
+
 
 ## Sydney  
 Sydney (DOB 13/04/2025) enjoys lazing about in bed. She likes to test out all the beds by giving them a thorough bouncing. She enjoys watching the soccer, as long as it's from bed!  
 ![sydney.jpg](/assets/images/sydney.jpg){: width='400' }  
-  
+
 
 ## Cheery  
 Cheery is your number one cheerleader! She loves looking after other people and teddies and she will always work hard to make sure you're comfortable and happy. She loves encouraging people for making little wins in life. When she gets sleepy, she likes to snuggle up under your armpit or on a soft pillow.  
 ![cheery.jpg](/assets/images/cheery.jpg){: width='400' }  
-  
-

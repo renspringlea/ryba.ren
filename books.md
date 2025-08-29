@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Down to a Science (Haley Cass) (R)</summary>
+
+<br />
+- refreshing and encouraging to have somebody with a similar neurotype as me, approaching major life uncertainties systematically as hypotheses, i really feel seen. and really not a people person, a bit of a grump which really resonates. a re-read but had actually forgotten most of the plot which was a bonus.<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Borrow a Boyfriend Club (Page Powars)</summary>
 
 <br />
@@ -854,6 +863,17 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Politics, history, and society
+
+<details>
+<summary>Lost Enlightenment: Central Asia's Golden Age from the Arab Conquest to Tamerlane (S. Frederick Starr)</summary>
+
+<br />
+- this is a cool book. i focused on the scholarship and learning side, skipped some large sections about the politics and especially warfare of the time.<br />
+- parallels with that sahara history in social and political importance  of oases and camels<br />
+- buddhism historically very influential (added to the existing layers of local traditional cults, zoroastrianism, and greek pantheons, plus the newer christianity and manichaeism), even though it waned after the arab conquest - this author argues central asia gave us the image of the buddha in flowing robes. and cross fertilisation between all these traditions, which to me make today's arguments about dual belonging appear pretty narrow minded.<br />
+<br />
+
+</details>
 
 <details>
 <summary>Shifting Sands: A Human History of the Sahara (Judith Scheele)</summary>
