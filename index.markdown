@@ -13,10 +13,15 @@ layout: home
 {%   assign lifePerc = lifeProp | times: 100  %}
 {%   assign lifePercRound = lifePerc | round  %}
 
-* My pronouns are she/her or they/them
-* I am proud to be transgender and neurodivergent
-* I live and work on the unceded land of the Kaurna people
-* "Ryba" means "fish" in Slovak, and it rhymes with "Bieber" (no relation)
+*she/her or they/them*  
+
+My work focuses on animal advocacy. I have been deeply involved in numerous fish welfare projects in particular. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor. I like researching things, planning things, and organising things.  
+
+I have experience in ecology, fisheries science, and statistics from my time in academia and government. I enjoy thinking about politics and social justice. I like soccer!  
+
+* Proudly transgender and neurodivergent
+* Kaurna land (South Australia)
+* "Ryba" is pronounced "REE-ber" and it means "fish" in Slovak
 * Years lived: {{lifePercRound}} %
 
 ## My work
@@ -27,14 +32,14 @@ layout: home
 * Data on the global cage-free egg market @ [Cagefr.ee](https://cagefr.ee)  
 
 ## My books
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="/shrimp.html"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
 
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Tse Yip Fai, and Peter Singer; preorder from CRC Press <a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459">here</a></span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
 
 <br />
 
 ## Blog  
-*These posts are hot takes and little tidbits that I find interesting, not systematic or rigorous examinations of any topic. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write (exceptions are clearly labelled).*
+*These posts are hot takes and tidbits on topics that I find interesting, not systematic or rigorous examinations. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write.*  
 
 <script type="text/javascript">
   function filterUsingTag(selectedTag) {

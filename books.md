@@ -1,5 +1,5 @@
 ---
-title: Books I've read
+title: My read list
 layout: page
 ---
 

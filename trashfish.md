@@ -1,5 +1,5 @@
 ---
-title: "Trash Fish"
+title: "Book: Trash Fish"
 layout: page
 ---
 
