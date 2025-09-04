@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>When You Least Expect It (Haley Cass) (R)</summary>
+
+<br />
+- very standard, off-the-shelf sapphic fiction, scratches the itch<br />
+<br />
+
+</details>
+
+<details>
 <summary>Down to a Science (Haley Cass) (R)</summary>
 
 <br />
