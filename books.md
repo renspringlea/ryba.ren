@@ -1692,6 +1692,33 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion and philosophy
 
 <details>
+<summary>Prayer: Experiencing Awe and Intimacy with God (Timothy Keller)</summary>
+
+<br />
+- this is a challenging book in a lot of ways, I think there is a lot of value here even though I don't agree with everything the author argues. read about the first half.<br />
+- defines prayer as "a personal, communicative response to the knowledge of God. [...] Prayer is continuing a conversation that God has started through His word and His grace, which eventually becomes a full encounter with Him."<br />
+- "Prayer is rebellion against the evil status quo of the world."<br />
+- a two-way personal encounter, "encounter" because you are sharing your self rather than just information<br />
+- Prayer is always initiated by God, like how language is only learned by being spoke to as an infant<br />
+- Prayer is unfocused and instinctive until it is focused by understanding God through scripture (as the Bible contains God's living word) and especially through the scripture of Jesus. "Jesus Christ is *the* word of God."<br />
+- so "our prayers should arise out of immersion in the scripture. We should plunge ourselves into the sea of God's language - the Bible. We should listen, study, think, reflect, and ponder the scriptures until there is an answering response in our hearts and minds. [...] that response to God's speech is truly prayer, and should be given to God."<br />
+- as the children of God, we are "already forgiven and accepted"<br />
+- there is a place for silence and silent adoration, after we have spoken to Him and felt His love. a "periodic punctuation", as when two loving partners have a relationship based on words but often just sit lovingly with each other.<br />
+- warning against praying based on your own perceived emotional needs, which can cause you to mistake your own desires for God's voice. "[...] not that God never guides our thoughts or prompts us to choose wise courses of action, but that we cannot be sure he is speaking to us unless we read it in the Scripture." - what God actually says to us, rather than what we would like God to be. we should learn to answer God, not to express ourselves.<br />
+- seems to take the view of Isaiah as foreshadowing Jesus, a view that I'm personally not super convinced by<br />
+- criticises Anne Lamott's "Help, Thanks, Wow" (supplication, thanksgiving, and adoration respectively) for leaving out confession and repentance<br />
+- confidence that one's relationship with God does not depend on performance, as in an employment relationship - but on parental love<br />
+- a familial relationship<br />
+- Jesus is the mediator<br />
+- in the section on augustine, the author comes uncomfortably close to the "suffering and trauma builds character" bullshit<br />
+- martin luther: take a bible passage and meditate on it in four ways: as a teaching, as a thanksgiving/gratitude, as a confession, and as a prayer<br />
+- luther: can pray through each petition in the lord's prayer, but modified to meet your own needs and aspirations on your mind on a given day. luther recommends doing this right after his fourfold meditation.<br />
+- calvin's rules for prayer: awe and majesty/the fear of god; humility; selfless trust; confident hope. but the "fifth rule" is grace - our prayers are not heard because we follow rules, but because of gods grace and mercy; god can hear and answer the prayers of anyone, regardless of whether or how they pray.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Accompanying Disability: Caretaking, Family, and Faith (Topher Endress)</summary>
 
 <br />
