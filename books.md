@@ -874,6 +874,15 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Politics, history, and society
 
 <details>
+<summary> The Monastic World: A 1,200-Year History (Andrew Jotischky)</summary>
+
+<br />
+- really enjoyed this. high-quality historical analysis and very insightful. it focused mostly on the political and institutional aspects, with many important insights about land ownership, gender and gendered structures of monasticism, the relationship of monastics to mainstream society, and other similar topics. there was less on the inner lives or subjective experiences of monastics themselves, which i found a bit of a shame. but still overall some top-notch history.<br />
+<br />
+
+</details>
+
+<details>
 <summary>Lost Enlightenment: Central Asia's Golden Age from the Arab Conquest to Tamerlane (S. Frederick Starr)</summary>
 
 <br />
