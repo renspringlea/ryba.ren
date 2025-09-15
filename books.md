@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Enchanted Ink (Robin Lynn)</summary>
+
+<br />
+- i enjoyed this one! really really fun, some great escapism. despite the fact that the cover has two shirtless people making out, there was a lot of depth to the story. sometimes it felt a bit sickly sweet, the story occasionally felt "on wheels", and some details of the premise i found a bit unrealistic (not even the stuff to do with magic!). but overall a really fun story with loads of tattoo content.<br />
+<br />
+
+</details>
+
+<details>
 <summary>When You Least Expect It (Haley Cass) (R)</summary>
 
 <br />
