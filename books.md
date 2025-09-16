@@ -647,6 +647,15 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Memoirs and biography
 
 <details>
+<summary>St. Francis of Assisi (G. K. Chesterton)</summary>
+
+<br />
+- beautifully written book, in a thoroughly meandering way - the "stained glass" model of writing. the introduction (which ive seen quoted and even quoted myself previously) is such a beautiful description of one's faith in God. despite being written 102 years ago, the writing comes across as very engaging and even modern, and many of the observations could come from a writer today.<br />
+<br />
+
+</details>
+
+<details>
 <summary>A Carpenter's Life as Told by Houses (Larry Haun)</summary>
 
 <br />
@@ -1755,15 +1764,6 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 <details>
-<summary>St. Francis of Assisi (G. K. Chesterton)</summary>
-
-<br />
-- beautifully written book, in a thoroughly meandering way - the "stained glass" model of writing. the introduction (which ive seen quoted and even quoted myself previously) is such a beautiful description of one's faith in God. despite being written 102 years ago, the writing comes across as very engaging and even modern, and many of the observations could come from a writer today.<br />
-<br />
-
-</details>
-
-<details>
 <summary>New Seeds of Contemplation (Thomas Merton)</summary>
 
 <br />
@@ -2253,6 +2253,15 @@ Starling Days (Rowan Hisayo Buchanan)
 </details>
 
 ## Science
+
+<details>
+<summary>Space Oddities: The Mysterious Anomalies Challenging Our Understanding of the Universe (Harry Cliff)</summary>
+
+<br />
+- this is such a cool book. really conveys the human drama and the "forensic"-level care taken in fundamental physics research. my gosh physicists have a tough job!<br />
+<br />
+
+</details>
 
 <details>
 <summary>Dreaming: A Very Short Introduction (J. Allan Hobson)</summary>
