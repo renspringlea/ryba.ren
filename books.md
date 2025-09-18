@@ -112,6 +112,15 @@ My current leaderboard (list of what I think are the greatest novels ever!) is, 
 ## Queer fiction
 
 <details>
+<summary>Thy Neighbor's Wife (Georgia Beers)</summary>
+
+<br />
+- good fun, bread and butter, especially enjoyed the dog and the volleyball content. probably shouldve taken that suspected concussion more seriously hahaha you can tell they aren't soccer players<br />
+<br />
+
+</details>
+
+<details>
 <summary>Enchanted Ink (Robin Lynn)</summary>
 
 <br />
