@@ -2264,6 +2264,16 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Science
 
 <details>
+<summary>The Invisible Universe: Why There’s More to Reality than Meets the Eye (Matthew Bothwell)</summary>
+
+<br />
+- really enjoyed this, this book turned out to be approximately as cool as it sounds from the title.<br />
+- TIL quasars (supermassive black holes) are mostly (apart from when at the center of galaxies) in the very distant universe (= old = highly redshifted), indicating they were "creatures of the early universe"<br />
+<br />
+
+</details>
+
+<details>
 <summary>Space Oddities: The Mysterious Anomalies Challenging Our Understanding of the Universe (Harry Cliff)</summary>
 
 <br />
