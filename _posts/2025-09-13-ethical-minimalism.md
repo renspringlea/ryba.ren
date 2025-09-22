@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethical minimalism"
+title: "Minimal ethics"
 tags: animals effective-altruism philosophy self-improvement
 ---
 
