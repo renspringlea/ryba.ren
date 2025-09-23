@@ -2264,6 +2264,23 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Science
 
 <details>
+<summary>An Infinity of Worlds: Cosmic Inflation and the Beginning of the Universe (Will Kinney)</summary>
+
+<br />
+- didnt grasp 100% of the content (wasnt paying complete attention), but learned lots from the content i did grasp<br />
+- i find his arguments against the anthropic principle to be very strawmanny<br />
+- the visible universe is the same size as the event horizon of a black hole with the same mass<br />
+- cosmological redshift is a general relativistic effect due to the expansion of space, its not the same as doppler shift - though wikipedia tells me "Three forms of redshift occur in astronomy and cosmology: Doppler redshifts due to the relative motions of radiation sources, gravitational redshift as radiation escapes from gravitational potentials, and cosmological redshifts caused by the universe expanding."<br />
+- cosmic inflation = an accelerating expansion (which explains the three observations noted below) followed by a slowing down of that expansion (which is subsequently required to explain a universe like ours, which stopped expanding so rapidly at some point); and this happens before the big bang<br />
+- the horizon problem: the CMB seen at different points are different events in our past light cone. under general relativity, those points are causally disconnected from each other. yet they are homogeneous. one explanation is cosmic inflation: i.e., a small, causally connected patch including a given location can be expanded to a patch larger than that location's event horizon, causally disconnecting different locations.<br />
+- we observe the universe is flat to within a reasonably high precision. this means the early universe was flat to within an even higher position. the standard model of cosmology doesn't explain this but rather assumes it as a starting condition. one explanation is cosmic inflation: i.e., a universe that is inflating (expanding at an accelerating rate) tends towards flatness.<br />
+- cosmic inflation also explains the clumpiness of objects in the universe as originating in quantum fluctuations that are then stretched to larger sizes<br />
+- eternal inflation multiverse? by definition we cannot observe this directly, as these other universes are outside our event horizon. but most reasonable models of inflation also happen to feature eternal inflation. - but then at the end of ch7 he suggests otherwise?<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Invisible Universe: Why There’s More to Reality than Meets the Eye (Matthew Bothwell)</summary>
 
 <br />
