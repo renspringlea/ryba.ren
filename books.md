@@ -1728,6 +1728,18 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Religion and philosophy
 
 <details>
+<summary>Whose Bible Is It? A History of the Scriptures Through the Ages (Jaroslav Pelikan)</summary>
+
+<br />
+- overall pretty cool book, wish it had a bit more on the history of the inclusion vs exclusion of various books
+- the greek language septuagint mistranslated lots of turns of phrase from the original hebrew, and these mistranslations were explicitly mentioned as being "fulfilled" by the authors of the gospels + have been deeply influential on christian history and practice
+- the hebrew bible manuscript on which all modern editions are based is itself not original, but is a translation of the greek septuagint back into hebrew! and that manuscript has demonstrably read in different vowels from what the septuagint translators read in. wow, did i understand that right?
+- The spiritual song Go Down Moses: Go down, Moses / Way down in Egypt's land / Tell old Pharaoh / Let my people go<br />
+<br />
+
+</details>
+
+<details>
 <summary>Prayer: Experiencing Awe and Intimacy with God (Timothy Keller)</summary>
 
 <br />
@@ -3348,6 +3360,45 @@ Verdict: A. Completely amazing. Top-notch science communication too. The only re
 <br /></details>
 
 ## Religion, Philosophy, and Lifestyle
+
+<details>
+<summary>The Undervalued Self: Restore Your Love/Power Balance, Transform the Inner Voice That Holds You Back, and Find Your True Self-Worth (Elaine N. Aron)</summary>
+
+<br />
+- actually the second time i've read this, and i happened to have my notes saved from the first read<br />
+<br />
+first read<br />
+- balancing ranking and linking<br />
+- erring towards undervaluing as an evolutionary adaptive strategy to avoid injury<br />
+- the context dependence of rank, differs by group etc (contrasts to evolutionary history where youd only have 1 group)<br />
+- anxiety is when we are worried about being defeated. Are we about to be confronted, challenged, rejected?<br />
+- shyness = one manifestation of anxiety; not wanting to be seen and judged for fear of defeat<br />
+- taking anxiety and shyness from one group (where we were defeated or judged) to another group (where we have not been defeated or judged), thus most anxiety is pointless<br />
+- the risk of physical harm due to ranking conflict is now low, but the risk of physical harm due to anxiety and depression is large<br />
+- The 6 self-protections: minimising, blaming, noncompeting, overachieving, inflating, projecting<br />
+- Noncompeting can make you hesitant to exert power over others, even when it is your job<br />
+<br />
+second read (now)<br />
+- it's very common for depression to occur after a defeat, especially if it involved humiliation - "the defeat response"<br />
+- shame is interpreted by the brain similarly to physical pain, nudges you to get back in line with the group (adaptive when we evolved and only had 1 group, maladaptive now)<br />
+- be around people who believe in you, different groups - regular contact with valued friends really helps this process<br />
+- completely unnecessary torture<br />
+- selfless love, using the power and influence derived from your high rank to help the linking of others, we observe that many people simply choose to act in this way<br />
+- those who rank themselves too low often express their anger too little - in fact anger can help you stand up for yourself + communicate that your wishes and boundaries have not been respected + help the conflict resolve in a way that is more likely to meet your needs<br />
+- the defeat response leads to the usual depression and shame, even if you could obviously not have done anything about it (e.g. prisoners of war, victims of natural disasters)<br />
+- prejudice can be a particularly indisidous form of trauma + can compound other forms of trauma, some instances of which may outwardly have no connection to prejudice<br />
+- the trait of high sensitivity can also compound trauma, including shame about feeling traumatized by experiences<br />
+- an insecure attachment style can also compound trauma<br />
+- an emotional schema = a system of emotional responses, developed during early trauma, that is triggered by anything that reminds you of that early trauma, the purpose of which is to keep you safe from harm<br />
+- emotional schemas are formed from trauma, so they are dissociative and not part of your everyday experience, rather they take you by surprise<br />
+- "emotions are never wrong. they just happen, like the weather."<br />
+- using active imagination to link with the innocent, trusting part of you touched and still distressed by trauma: attunement and understanding; connecting with the present cause; connecting with the past cause; a corrective emotional link (giving her what she needs); appreciation; gentle treatment<br />
+- the protector-persecutor, a part who is like a "demon lover" and tries to protect you from further trauma by disconnecting you from reality or even giving you suicidal thoughts<br />
+- often this process will necessitate mourning or grieving<br />
+- i think the author overestimates the value of dreams<br />
+<br />
+
+</details>
 
 <details>
 <summary>Constructing Canine Consent: Conceptualising and adopting a consent-focused relationship with dogs (Erin Jones)</summary>
