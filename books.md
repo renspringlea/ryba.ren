@@ -3362,7 +3362,38 @@ Verdict: A. Completely amazing. Top-notch science communication too. The only re
 ## Religion, Philosophy, and Lifestyle
 
 <details>
-<summary>The Undervalued Self: Restore Your Love/Power Balance, Transform the Inner Voice That Holds You Back, and Find Your True Self-Worth (Elaine N. Aron)</summary>
+<summary>Unbroken: The Trauma Response Is Never Wrong, and Other Things You Need to Know to Take Back Your Life (MaryCatherine McDonald)</summary>
+
+<br />
+- this is an excellent book, highly accessible, deeply compassionate, and written with some top-notch science communication. i wish it had more on methods for healing, but apart from that it's excellent.<br />
+- something is traumatic when it overwhelms the nervous system enough for our emergency coping mechanisms to kick into gear. those mechanisms are designed to save our lives.<br />
+- freud and breuer discovered an epidemic of sexual abuse among the families of their friends who were respected in society :'(<br />
+- emphasizes: prefrontal cortex (pepper pots from iron man); amygdala (smoke alarm); hippocampus (filing room that stores three things for each event: the narrative of the event, the emotional content, and the meanings assigned to the event); hypothalamus (puppeteer that controls involuntary functions, like internal organs);<br />
+- the trauma response keeps us alive; it is rooted in strength, not weakness<br />
+- moral injury - when your map of the world is overturned. when an event seems to have no rhyme or reason about it, it's hard to integrate into your story. this doesn't mean the world is devoid of meaning full stop, but that it's full of the meaning we give it.<br />
+- step 1: write down the facts. step 2: think and write down of four different interpretations. step 3: for each interpretation, write what that interpretation means for you and the world. step 4: write down how you feel in your body when you read this back to yourself.<br />
+- hypervigilance (including being easily startled and having trouble relaxing) is one of the most common symptoms of ptsd<br />
+- we aren't always consciously aware of our triggers and we don't know why we suddenly feel unsafe/wrong - "shot through a portal to the annihilation of the past". signs of things that we have not yet processed.<br />
+- the threat system slows down the information processing function of the brain, but it does give you the power to do superhuman things, like lifting a car off of a person - so the information isn't processed in the sense that it becomes organized as normal, but fragmets are imprinted for later processing (as there is less energy available to the hippocampus). this is a disorganized system but it's by design to help you survive - simply thrown into a cabinet, from which they can re-emerge when you encounter a trigger that reminds you of one of these fragments.<br />
+- so when your brain encounters a trigger, it activates the stress response system again, as it has stored that trigger as part of the memory that you lived through. hence you panic without knowing why. your brain and body react as if the threat were real - "actually, actually" reliving the past - because they do not know the difference yet. your brain and body cannot tell the difference between the present and the past.<br />
+- two broad categories for addressing this: re-telling (if the trouble is the narrative part of the memory file) = narrating the traumatic event while feeling the emotions, i.e. while you are through that portal to the past, which allows you to take those fragments stuffed into the cabinet and order them correctly in the coherent filing system. re-educating (the meaning tags on the file) = "sweeping distress [...] a cascade of shame, a belief that you are bad or unworthy or unbroken" indicating that the event hasn't been integrated into your story.<br />
+- we have more power than we might think for reorganizing memory files.<br />
+- trauma is a grain of truth (we are vulnerable) that tells us a lie<br />
+- we need to hold a contradiction: we are vulnerable, and we are safe<br />
+- there's no big T and little T trauma, the example of a war/disaster correspondent who was traumatized was not travelling to sites of disaster but rather her recent break-up<br />
+- its not just the traumatic event, but also what the event means<br />
+- if the smoke alarm goes off whenever you cook, it's not that it's not working, it is working - it just needs some recalibration as it has become more sensitive than would be most useful<br />
+- recalibration - you can begin to interrupt the reassignment of energy to fight/flight/freeze when you're re-exposed to the trauma response. this doesn't erase the emotional content of the memory file. but it does decrease the intensity of the emotional content, because your brain no longer thinks the content is going to kill you. so it might still feel sad or upsetting, but you can then feel empowered to assign it new meaning, so you can spend time with the content then get on with your day like your other memories.<br />
+- tetris :O and anything that similarly engages your prefrontal cortex. reminds me of the digital poker in Undone<br />
+- recalibrating your sphere of influence - looking for areas in which you can exercise influence (in the sense of making one choice rather than a different choice), no matter how small, and being mindful while you do so. you're restoring control, switching off the fear circuit and the feelings of helplessness. "helps you become you again"<br />
+- "unbearable" does not mean that you can't survive it - it means you can't fold it into your story + give it a relational home. so more like unprocessable.<br />
+- you're not alone<br />
+<br />
+
+</details>
+
+<details>
+<summary>The Undervalued Self: Restore Your Love/Power Balance, Transform the Inner Voice That Holds You Back, and Find Your True Self-Worth (Elaine N. Aron) (R)</summary>
 
 <br />
 - actually the second time i've read this, and i happened to have my notes saved from the first read<br />
