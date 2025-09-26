@@ -2276,6 +2276,20 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Science
 
 <details>
+<summary>The Eerie Silence: Renewing Our Search for Alien Intelligence (Paul Davies)</summary>
+
+<br />
+- This is such a good book. I really vibe with the author's views on science and reasoning - his reasoning is highly rigorous despite this being a very speculative and all-encompassing area of thought. Really excellent science communication too.<br />
+- pretty amazing that this scientist, a big player on the seti field, on balance thinks its most likely that there is no life, let alone intelligent life, beyond our solar system (but conveys this claim with the necessarily low level of confidence)<br />
+- "Remember, this is the same government that runs the post office." hahahaha<br />
+- "Theoretical physicists are masters at predicting things that might exist, but don't seem to be there. Exotic subatomic particles with whimsical names such as neutralinos, shadow matter and axions grace the theorists' lexicon, but haven't yet shown up in the lab. At the other end of the mass range are mini-black holes, quark stars and cosmic texture, to name but a few. Did ET make off with them?" hahahaha amazing<br />
+- TIL that it's a completely open question whether some microbes could be completely unrelated to life as we know it, as methods used to study microbes only work for known biochemistry, and the diversity and abundance of microbes is staggering and largely unexplored<br />
+- a 62 M year peak of extinctions, corresponding to when the solar system migrates to its northernmost extent away from the plane of the solar system!<br />
+<br />
+
+</details>
+
+<details>
 <summary>An Infinity of Worlds: Cosmic Inflation and the Beginning of the Universe (Will Kinney)</summary>
 
 <br />
