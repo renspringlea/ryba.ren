@@ -2276,6 +2276,17 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Science
 
 <details>
+<summary>Otherlands: A Journey Through Earth's Extinct Worlds (Thomas Halliday)</summary>
+
+<br />
+- beautiful and evocative storytelling. the science communication isnt perfect, occasionally dips back into jargon terminology or meaningless quantities. and even though i agree with much of the authors politics (e.g. around the concept of nativeness), id have preferred the book without that.<br />
+- the earlier dinosaurs (?) never saw a flower or a grass, both of which (angiosperms + grasses) very recently in the cretaceous<br />
+- marine sloths ...<br />
+<br />
+
+</details>
+
+<details>
 <summary>The Eerie Silence: Renewing Our Search for Alien Intelligence (Paul Davies)</summary>
 
 <br />
