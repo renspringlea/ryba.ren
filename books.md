@@ -2276,6 +2276,15 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Science
 
 <details>
+<summary>At the Edge of Time: Exploring the Mysteries of Our Universe’s First Seconds (Dan Hooper)</summary>
+
+<br />
+- good fun, the science communication was not super strong and repeated some content that was already very familiar, but scratched the itch<br />
+<br />
+
+</details>
+
+<details>
 <summary>Otherlands: A Journey Through Earth's Extinct Worlds (Thomas Halliday)</summary>
 
 <br />
@@ -3385,6 +3394,30 @@ Verdict: A. Completely amazing. Top-notch science communication too. The only re
 <br /></details>
 
 ## Religion, Philosophy, and Lifestyle
+
+<details>
+<summary>What I Mean When I Say I’m Autistic: Unpuzzling a Life on the Autism Spectrum (Annie Kotowicz)</summary>
+
+<br />
+- ah yes, i am not crazy after all<br />
+- sensory joy <br />
+- "intense world theory" holy moly<br />
+- trauma from unexplained rejection<br />
+- we catch things that other people miss, and miss things that other people catch<br />
+- "You can keep something just because you like it?!"<br />
+- when things are better on your senses, things also go better in other ways<br />
+- sensory empathy can be "too intense to process and put into words"<br />
+- often express empathy in ways different to neurotypicals<br />
+- phone calls are seen as efficient if you count from dialling to picking up, but much less efficient if you count the preparation before and the recovery after!<br />
+- getting nothing done on the day before an appt or scheduled call, omg!<br />
+- writing is easier than talking<br />
+- finding friends not by looking for friends, but by focusing on what you love<br />
+- repetitive thoughts - can increase the intensity of experiences or memories<br />
+- meltdowns as a combination of high sensory input and high cognitive load, especially when both are  unexpected. a physical response.<br />
+- "throwing their own body against the wall or floor" for proprioception, uhhhh<br />
+<br />
+
+</details>
 
 <details>
 <summary>Unbroken: The Trauma Response Is Never Wrong, and Other Things You Need to Know to Take Back Your Life (MaryCatherine McDonald)</summary>
