@@ -2276,6 +2276,16 @@ Starling Days (Rowan Hisayo Buchanan)
 ## Science
 
 <details>
+<summary>They Were Here Before Us: Stories from the First Million Years (Ran Barkai and Eyal Halfon)</summary>
+
+<br />
+- good fun, meandering and enjoyable. i really vibe with the tongue-in-cheek descriptions. i don't endorse 100% of the authors' views (especially their repeated implication that hunter-gatherers generally held attitudes of environmental sustainability, which to me seems ludicrous) but i certainly respect them as well-qualified in the subject.<br />
+- among neanderthals, evidence of very small population sizes + even direct genetic evidence of incest<br />
+<br />
+
+</details>
+
+<details>
 <summary>At the Edge of Time: Exploring the Mysteries of Our Universe’s First Seconds (Dan Hooper)</summary>
 
 <br />
