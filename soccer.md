@@ -1,10 +1,21 @@
 australian women's cp team (paramatildas) confirmed GOAT, undefeated run and gold medal at the 2024 world cup!  
 
+## international-friendlies  
+~~~~~~
+2025-10-25  wales v australia
+2025-10-28  england v australia
+~~~~~~
+
+source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
+
 ## champions-league
 ~~~~~~
-2025-09-11  third qualifying round first leg
-2025-09-18  third qualifying round second leg
-2025-10-07  league phase first matches
+2025-10-07  matchday 1
+2025-10-15  matchday 2
+2025-11-11  matchday 3
+2025-11-19  matchday 4
+2025-12-09  matchday 5
+2025-12-17  matchday 6
 ~~~~~~
 source: [wiki](https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Women%27s_Champions_League)
 
@@ -13,13 +24,6 @@ source: [wiki](https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Women%27s_Cham
 2026-03-01  begins
 ~~~~~~
 source: [wiki](https://en.wikipedia.org/wiki/2026_AFC_Women%27s_Asian_Cup)
-
-## international-friendlies  
-~~~~~~
-2025-10-25  wales v australia
-~~~~~~
-
-source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
 
 ## champions-cup
 ~~~~~~
