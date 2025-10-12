@@ -19,12 +19,12 @@ My work focuses on animal advocacy. I have been deeply involved in numerous fish
 
 I have experience in ecology, fisheries science, and statistics from my time in academia and government. I enjoy thinking about politics and social justice. I like soccer!  
 
-* Proudly transgender and neurodivergent
+* Proudly transgender and autistic
 * Kaurna land (South Australia)
 * "Ryba" is pronounced "REE-ber" and it means "fish" in Slovak
 * Years lived: {{lifePercRound}} %
 
-## My work
+## Books
 
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="/shrimp.html"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
 
@@ -32,8 +32,13 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 
 <br />
 
+## Publications
+
 <details>
-<summary>Animal advocacy reports</summary>
+<summary class="mywork">Animal advocacy reports</summary>
+
+<br />
+<br />
 
 <div markdown="1">
 
@@ -72,8 +77,14 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 
 </details>
 
+<br />
+<br />
+
 <details>
-<summary>Academic publications</summary>
+<summary class="mywork">Academic publications</summary>
+
+<br />
+<br />
 
 <div markdown="1">
 
@@ -112,8 +123,13 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 
 </details>
 
+<br />
+<br />
+
 <details>
-<summary>Links and datasets</summary>
+<summary class="mywork">Links and datasets</summary>
+<br />
+<br />
 
 <div markdown="1">
 
@@ -126,6 +142,9 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 </div>
 
 </details>
+
+<br />
+<br />
 
 ## Blog  
 *These posts are hot takes and tidbits on topics that I find interesting, not systematic or rigorous examinations. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write.*  

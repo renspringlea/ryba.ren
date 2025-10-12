@@ -280,3 +280,8 @@ table {
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+
+.mywork {
+  @include relative-font-size(1.375);
+
+}
