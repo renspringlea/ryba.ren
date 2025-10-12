@@ -26,7 +26,6 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 
 ## My work
 
-### Books
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="/shrimp.html"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
 
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Tse Yip Fai, and Peter Singer; order from Routledge <a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459">here</a></span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
@@ -34,7 +33,7 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 <br />
 
 <details>
-<summary><h3>Animal advocacy reports</h3></summary>
+<summary>Animal advocacy reports</summary>
 
 <div markdown="1">
 
@@ -73,45 +72,60 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 
 </details>
 
+<details>
+<summary>Academic publications</summary>
 
-### Academic publications
-Animal welfare  
-- "Breaking free from the trend: Outlier policies promote sustainable poultry practices", *Frontiers in Animal Science*, 2025, with I. Khire ([link](https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2025.1488863/abstract)).
-- "Are slow-growing broiler chickens actually better for animal welfare? Shining light on a poultry welfare concern using a farm-scale economic model", *British Poultry Science*, 2024, with I. Khire ([link](https://doi.org/10.1080/00071668.2024.2432926)).
-- "Evaluating the economic impacts of a cage-free animal welfare policy in Southeast Asian and Indian egg production: A systematic review", *Evaluation Review*, 2024 ([link](https://doi.org/10.1177/0193841X241280681)).
-- "Humane slaughter in Mediterranean sea bass and bream aquaculture: farm characteristics, stakeholder views, and policy implications", *Frontiers in Aquaculture*, 2024, with K. van Pelt ([link](https://doi.org/10.3389/faquc.2024.1383280)).
+<div markdown="1">
 
-Insect farming  
-- "Have the environmental benefits of insect farming been overstated? A critical review", under review, with C. Biteau et al ([link](https://ecoevorxiv.org/repository/view/6919/)).
-- "Beyond the buzz: A review of the prospects of replacing meat consumption with insect-based foods", *npj Sustainable Agriculture*, 2025, with C. Biteau et al ([link](https://www.nature.com/articles/s44264-025-00075-z).
-- "Bugs in the system: The logic of insect farming research is flawed by unfounded assumptions", *npj Sustainable Agriculture*, 2024, with C. Biteau et al ([link](https://www.nature.com/articles/s44264-024-00042-0)).
-- "Offshoring insect farms may jeopardise Europe's food sovereignty", *Global Sustainability*, 2024 ([link](https://doi.org/10.1017/sus.2024.35)).
-- "Is turning food waste into insect feed an uphill climb? A review of persistent challenges", *Sustainable Production and Consumption*, 2024, with C. Biteau et al ([link](https://doi.org/10.1016/j.spc.2024.06.031)).
-- "Insect-based livestock feeds are unlikely to become economically viable in the near future", *Food and Humanity*, 2024, with C. Biteau et al ([link](https://doi.org/10.1016/j.foohum.2024.100383)).
+  **Animal welfare**  
+  - "Breaking free from the trend: Outlier policies promote sustainable poultry practices", *Frontiers in Animal Science*, 2025, with I. Khire ([link](https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2025.1488863/abstract)).
+  - "Are slow-growing broiler chickens actually better for animal welfare? Shining light on a poultry welfare concern using a farm-scale economic model", *British Poultry Science*, 2024, with I. Khire ([link](https://doi.org/10.1080/00071668.2024.2432926)).
+  - "Evaluating the economic impacts of a cage-free animal welfare policy in Southeast Asian and Indian egg production: A systematic review", *Evaluation Review*, 2024 ([link](https://doi.org/10.1177/0193841X241280681)).
+  - "Humane slaughter in Mediterranean sea bass and bream aquaculture: farm characteristics, stakeholder views, and policy implications", *Frontiers in Aquaculture*, 2024, with K. van Pelt ([link](https://doi.org/10.3389/faquc.2024.1383280)).
 
-Science writing  
-- "Climate donations inspired by evidence-based fundraising", *Frontiers in Psychology*, 2022, with M. Dry & S. D. Connell ([link](https://doi.org/10.3389/fpsyg.2022.768823)).
-- "Better writing in scientific publications builds reader confidence and understanding", *Frontiers in Psychology*, 2021, with Z. Doubleday, M. Dry, C. Semmler & S. D. Connell ([link](https://doi.org/10.3389/fpsyg.2021.714321)).
-- "Sparking creativity in science education", *The Journal of Creative Behavior*, 2021, with J. T. Draper & S. D. Connell ([link](https://doi.org/10.1002/jocb.495)).
-- "How can we boost the impact of publications? Try better writing", *Proceedings of the National Academy of Sciences*, 2019, with Z. Doubleday & S. D. Connell ([link](https://doi.org/10.1073/pnas.1819937116))
+  **Insect farming**  
+  - "Have the environmental benefits of insect farming been overstated? A critical review", under review, with C. Biteau et al ([link](https://ecoevorxiv.org/repository/view/6919/)).
+  - "Beyond the buzz: A review of the prospects of replacing meat consumption with insect-based foods", *npj Sustainable Agriculture*, 2025, with C. Biteau et al ([link](https://www.nature.com/articles/s44264-025-00075-z).
+  - "Bugs in the system: The logic of insect farming research is flawed by unfounded assumptions", *npj Sustainable Agriculture*, 2024, with C. Biteau et al ([link](https://www.nature.com/articles/s44264-024-00042-0)).
+  - "Offshoring insect farms may jeopardise Europe's food sovereignty", *Global Sustainability*, 2024 ([link](https://doi.org/10.1017/sus.2024.35)).
+  - "Is turning food waste into insect feed an uphill climb? A review of persistent challenges", *Sustainable Production and Consumption*, 2024, with C. Biteau et al ([link](https://doi.org/10.1016/j.spc.2024.06.031)).
+  - "Insect-based livestock feeds are unlikely to become economically viable in the near future", *Food and Humanity*, 2024, with C. Biteau et al ([link](https://doi.org/10.1016/j.foohum.2024.100383)).
 
-Science and philosophy  
-- "The evolving circle of landscape design", *Restoration Ecology*, 2023, with M. McQuillan ([link](https://doi.org/10.1111/rec.14000)).
-- "Funding conservation through an emerging social movement", *Trends in Ecology and Evolution*, 2021, with S. D. Connell ([link](http://doi.org/10.1016/j.tree.2019.09.002)).
-- "Animal minds, social change, and the future of fisheries science", *Frontiers in Marine Science*, 2021, with S. D. Connell ([link](https://doi.org/10.3389/fmars.2021.684841)).
-- "Advancing government legitimacy through the scientific study of sentience", *World Futures*, 2021, with S. D. Connell ([link](https://doi.org/10.1080/02604027.2021.1944732)).
-- "How can ecologists thrive during the global environmental crisis? Lessons from the ancient world", *Restoration Ecology*, 2019, with T. Preston ([link](https://doi.org/10.1111/rec.13042)).
+  **Science writing**  
+  - "Climate donations inspired by evidence-based fundraising", *Frontiers in Psychology*, 2022, with M. Dry & S. D. Connell ([link](https://doi.org/10.3389/fpsyg.2022.768823)).
+  - "Better writing in scientific publications builds reader confidence and understanding", *Frontiers in Psychology*, 2021, with Z. Doubleday, M. Dry, C. Semmler & S. D. Connell ([link](https://doi.org/10.3389/fpsyg.2021.714321)).
+  - "Sparking creativity in science education", *The Journal of Creative Behavior*, 2021, with J. T. Draper & S. D. Connell ([link](https://doi.org/10.1002/jocb.495)).
+  - "How can we boost the impact of publications? Try better writing", *Proceedings of the National Academy of Sciences*, 2019, with Z. Doubleday & S. D. Connell ([link](https://doi.org/10.1073/pnas.1819937116))
 
-Just for fun  
-- "Books are overwhelmingly supportive of transgender identities: Analysing queer literature using a Goodreads web scrape", 2025, with M. Freeling, preprint ([link](https://doi.org/10.31235/osf.io/exyj7)).
-- "On the relative contribution of sunlight and air temperature to soil solarisation: Observational evidence from Australia", *Soil Science*, 2024, with M. McQuillan & R. Smernik ([link](https://www.publish.csiro.au/sr/SR23168)).
+  **Science and philosophy**  
+  - "The evolving circle of landscape design", *Restoration Ecology*, 2023, with M. McQuillan ([link](https://doi.org/10.1111/rec.14000)).
+  - "Funding conservation through an emerging social movement", *Trends in Ecology and Evolution*, 2021, with S. D. Connell ([link](http://doi.org/10.1016/j.tree.2019.09.002)).
+  - "Animal minds, social change, and the future of fisheries science", *Frontiers in Marine Science*, 2021, with S. D. Connell ([link](https://doi.org/10.3389/fmars.2021.684841)).
+  - "Advancing government legitimacy through the scientific study of sentience", *World Futures*, 2021, with S. D. Connell ([link](https://doi.org/10.1080/02604027.2021.1944732)).
+  - "How can ecologists thrive during the global environmental crisis? Lessons from the ancient world", *Restoration Ecology*, 2019, with T. Preston ([link](https://doi.org/10.1111/rec.13042)).
 
-### Links and datasets
-* Academic publications @ [Google Scholar](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
-* Animal advocacy research @ [Animal Ask](https://www.animalask.org/research)
-* Additional hot takes @ [Effective Altruism Forum](https://forum.effectivealtruism.org/users/ren-ryba)
-* Data on the European fish farming industry @ [Finsight](https://finsight.fish)
-* Data on the global cage-free egg market @ [Cagefr.ee](https://cagefr.ee)  
+  **Just for fun**  
+  - "Books are overwhelmingly supportive of transgender identities: Analysing queer literature using a Goodreads web scrape", 2025, with M. Freeling, preprint ([link](https://doi.org/10.31235/osf.io/exyj7)).
+  - "On the relative contribution of sunlight and air temperature to soil solarisation: Observational evidence from Australia", *Soil Science*, 2024, with M. McQuillan & R. Smernik ([link](https://www.publish.csiro.au/sr/SR23168)).
+
+</div>
+
+</details>
+
+<details>
+<summary>Links and datasets</summary>
+
+<div markdown="1">
+
+  * Academic publications @ [Google Scholar](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
+  * Animal advocacy research @ [Animal Ask](https://www.animalask.org/research)
+  * Additional hot takes @ [Effective Altruism Forum](https://forum.effectivealtruism.org/users/ren-ryba)
+  * Data on the European fish farming industry @ [Finsight](https://finsight.fish)
+  * Data on the global cage-free egg market @ [Cagefr.ee](https://cagefr.ee)  
+
+</div>
+
+</details>
 
 ## Blog  
 *These posts are hot takes and tidbits on topics that I find interesting, not systematic or rigorous examinations. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write.*  
