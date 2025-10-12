@@ -28,7 +28,7 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="/shrimp.html"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Tse Yip Fai, and Peter Singer; order from Routledge <a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459">here</a></span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Tse Yip Fai, and Peter Singer; buy from Routledge <a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459">here</a></span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
 
 <br />
 
@@ -37,7 +37,6 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 <details>
 <summary class="mywork">Animal advocacy reports</summary>
 
-<br />
 <br />
 
 <div markdown="1">
@@ -78,12 +77,10 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 </details>
 
 <br />
-<br />
 
 <details>
 <summary class="mywork">Academic publications</summary>
 
-<br />
 <br />
 
 <div markdown="1">
@@ -124,11 +121,9 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 </details>
 
 <br />
-<br />
 
 <details>
 <summary class="mywork">Links and datasets</summary>
-<br />
 <br />
 
 <div markdown="1">
@@ -143,7 +138,6 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 
 </details>
 
-<br />
 <br />
 
 ## Blog  
