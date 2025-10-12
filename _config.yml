@@ -37,10 +37,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - trashfish.md
-  - shrimp.md
-  - books.md
-  - tattoos.md
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
