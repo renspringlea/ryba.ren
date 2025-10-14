@@ -41,36 +41,36 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 
 <div markdown="1">
 
-  - "The economics of aquaculture and fish welfare in Europe: A systematic review", 2025, ([link](https://www.animalask.org/post/the-economics-of-fish-farming-and-fish-welfare-in-europe)).
-  - "Tiered certification schemes for slower-growing chicken: Can a tiered animal welfare label help the Better Chicken Commitment?", 2025, ([link](https://www.animalask.org/post/tiered-certification-schemes-for-slower-growing-chicken)).
-  - "Salmon aquaculture in Chile: Top opportunities to improve fish welfare", 2025, with George Bridgwater.
-  - "Animal advocacy in Canada", 2025, with George Bridgwater & Max Carpendale, ([link](https://www.animalask.org/post/animal-advocacy-in-canada)).
-  - "Animal advocacy in Brazil: Top opportunities for impact", 2025, with George Bridgwater & Max Carpendale, ([link](https://www.animalask.org/post/animal-advocacy-in-brazil-top-opportunities-for-impact)).
-  - "Slower-growing broilers and greenhouse gas emissions: Briefing report for animal advocacy organisations", 2024.
-  - "Alternative proteins: What are the best government policies to support the industry?", 2024, with Max Carpendale.
-  - "Farm animal welfare in Ghana", 2024, with George Bridgwater & Max Carpendale ([link](https://www.animalask.org/post/farm-animal-welfare-in-ghana)).
-  - "Animal welfare in the United States: Opportunities for impact", 2024 ([link](https://www.animalask.org/post/animal-welfare-in-the-united-states-opportunities-for-impact)).
-  - "Global performance indicators: Could they help improve animal welfare policy?", 2024, ([link](https://www.animalask.org/post/global-performance-indicators-could-they-help-improve-animal-welfare-policy)).
-  - "Meat reduction: How much can digital media and mass media help?", 2024 ([link](https://www.animalask.org/post/meat-reduction-how-much-can-digital-media-and-mass-media-help)).
-  - "Reforming the regulatory framework for animal welfare in Slovenia: An initial look", 2024.
-  - "Modelling the outcomes of animal welfare interventions: One possible approach to the trade-offs between subjective experiences", 2024 ([link](https://www.animalask.org/post/modelling-the-outcomes-of-animal-welfare-interventions-one-possible-approach-to-the-trade-offs-betw)).
-  - "Reminding myself just how awful pain can get (plus, an experiment on myself)", 2023, ([link](https://forum.effectivealtruism.org/posts/xtcgsLA2G8bn8vj99/reminding-myself-just-how-awful-pain-can-get-plus-an).
-  - "Recommendations for optimising the European Chicken Commitment", 2023, with George Bridgwater & Max Carpendale.
-  - "Party politics for animal advocacy: Part 2 – Establishing groups across or within major parties", 2023, ([link](https://www.animalask.org/post/party-politics-for-animal-advocacy-1)).
-  - "Party politics for animal advocacy: Part 1 – Animal-focused minor political parties", 2023 ([link](https://www.animalask.org/post/party-politics-for-animal-advocacy)).
-  - "Farmed animal advocacy in Zimbabwe: Top opportunities for improving animal welfare and community health", 2023, with Max Carpendale, Matthew Blyth & Nadine Grinberg ([link](https://www.animalask.org/post/farmed-animal-advocacy-in-zimbabwe)).
-  - "Can the trajectory of meat consumption and production in developing countries be influenced by policy? An agenda for animal advocacy researchers", 2023, with Matthew Blyth ([link](https://www.animalask.org/post/meat-consumption-and-production-in-developing-countries-who-bucks-the-trend)).
-  - "Economic evaluation of the transition to cage-free housing on the EU egg and pigmeat industries: A systematic review", 2023 ([link](https://www.animalask.org/post/economic-evaluation-of-the-transition-to-cage-free-housing-on-the-eu-egg-and-pigmeat-industries)).
-  - "Animal welfare during transport: A first look", 2023 ([link](https://www.animalask.org/post/animal-welfare-during-transport-a-first-look)).
-  - "Farmed fish advocacy in Denmark: Top opportunities for improving the lives of fish", 2023, with George Bridgwater & Max Carpendale. ([link](https://www.animalask.org/post/farmed-fish-advocacy-in-denmark)).
-  - "Farmed animal advocacy in Uganda: Top opportunities for improving animal welfare and community health", 2022 ([link](https://www.animalask.org/post/farmed-animal-advocacy-in-uganda)).
-  - "Subsidies: Which reforms can help animals?", 2022 ([link](https://www.animalask.org/post/subsidies-which-reforms-can-help-animals)).
-  - "Independent Office of Animal Protection", 2022 ([link](https://www.animalask.org/post/independent-office-of-animal-protection)).
-  - "CCTV cameras in slaughterhouses: Modest benefits for animal welfare", 2022 ([link](https://www.animalask.org/post/cctv-cameras-in-slaughterhouses-modest-benefits-for-animal-welfare)).
-  - "Meat tax: Why chickens pay the price", 2022 ([link](https://www.animalask.org/post/meat-tax-why-chickens-pay-the-price)).
-  - "Imports to meet UK animal welfare standards", 2022 ([link](https://www.animalask.org/post/imports-to-meet-uk-animal-welfare-standards)).
-  - "The challenges with measuring the impact of lobbying", 2022 ([link](https://www.animalask.org/post/the-challenges-with-measuring-the-impact-of-lobbying)).
-  - "Economic evaluation of humane slaughter methods for farmed fish in Italy", 2022 ([link](https://www.eurogroupforanimals.org/files/eurogroupforanimals/2023-02/Italy_Humane%20Slaughter%20for%20Farmed%20Fish_0.pdf); accompanying Greece report [link](https://www.eurogroupforanimals.org/files/eurogroupforanimals/2023-02/Greece_Humane%20Slaughter%20for%20Farmed%20Fish.pdf)).
+  - [The economics of aquaculture and fish welfare in Europe: A systematic review](https://www.animalask.org/post/the-economics-of-fish-farming-and-fish-welfare-in-europe), 2025.
+  - [Tiered certification schemes for slower-growing chicken: Can a tiered animal welfare label help the Better Chicken Commitment?](https://www.animalask.org/post/tiered-certification-schemes-for-slower-growing-chicken), 2025.
+  - Salmon aquaculture in Chile: Top opportunities to improve fish welfare, 2025, with George Bridgwater.
+  - [Animal advocacy in Canada](https://www.animalask.org/post/animal-advocacy-in-canada), 2025, with George Bridgwater & Max Carpendale.
+  - [Animal advocacy in Brazil: Top opportunities for impact](https://www.animalask.org/post/animal-advocacy-in-brazil-top-opportunities-for-impact), 2025, with George Bridgwater & Max Carpendale.
+  - Slower-growing broilers and greenhouse gas emissions: Briefing report for animal advocacy organisations, 2024.
+  - Alternative proteins: What are the best government policies to support the industry?, 2024, with Max Carpendale.
+  - [Farm animal welfare in Ghana](https://www.animalask.org/post/farm-animal-welfare-in-ghana), 2024, with George Bridgwater & Max Carpendale.
+  - [Animal welfare in the United States: Opportunities for impact](https://www.animalask.org/post/animal-welfare-in-the-united-states-opportunities-for-impact), 2024.
+  - [Global performance indicators: Could they help improve animal welfare policy?](https://www.animalask.org/post/global-performance-indicators-could-they-help-improve-animal-welfare-policy), 2024.
+  - [Meat reduction: How much can digital media and mass media help?](https://www.animalask.org/post/meat-reduction-how-much-can-digital-media-and-mass-media-help), 2024.
+  - Reforming the regulatory framework for animal welfare in Slovenia: An initial look, 2024.
+  - [Modelling the outcomes of animal welfare interventions: One possible approach to the trade-offs between subjective experiences](https://www.animalask.org/post/modelling-the-outcomes-of-animal-welfare-interventions-one-possible-approach-to-the-trade-offs-betw), 2024.
+  - Reminding myself just how awful pain can get (plus, an experiment on myself), 2023, ([link](https://forum.effectivealtruism.org/posts/xtcgsLA2G8bn8vj99/reminding-myself-just-how-awful-pain-can-get-plus-an).
+  - Recommendations for optimising the European Chicken Commitment, 2023, with George Bridgwater & Max Carpendale.
+  - [Party politics for animal advocacy: Part 2 – Establishing groups across or within major parties](https://www.animalask.org/post/party-politics-for-animal-advocacy-1), 2023.
+  - [Party politics for animal advocacy: Part 1 – Animal-focused minor political parties](https://www.animalask.org/post/party-politics-for-animal-advocacy), 2023.
+  - [Farmed animal advocacy in Zimbabwe: Top opportunities for improving animal welfare and community health](https://www.animalask.org/post/farmed-animal-advocacy-in-zimbabwe), 2023, with Max Carpendale, Matthew Blyth & Nadine Grinberg.
+  - [Can the trajectory of meat consumption and production in developing countries be influenced by policy? An agenda for animal advocacy researchers](https://www.animalask.org/post/meat-consumption-and-production-in-developing-countries-who-bucks-the-trend), 2023, with Matthew Blyth.
+  - [Economic evaluation of the transition to cage-free housing on the EU egg and pigmeat industries: A systematic review](https://www.animalask.org/post/economic-evaluation-of-the-transition-to-cage-free-housing-on-the-eu-egg-and-pigmeat-industries), 2023.
+  - [Animal welfare during transport: A first look](https://www.animalask.org/post/animal-welfare-during-transport-a-first-look), 2023.
+  - [Farmed fish advocacy in Denmark: Top opportunities for improving the lives of fish](https://www.animalask.org/post/farmed-fish-advocacy-in-denmark), 2023, with George Bridgwater & Max Carpendale..
+  - [Farmed animal advocacy in Uganda: Top opportunities for improving animal welfare and community health](https://www.animalask.org/post/farmed-animal-advocacy-in-uganda), 2022.
+  - [Subsidies: Which reforms can help animals?](https://www.animalask.org/post/subsidies-which-reforms-can-help-animals), 2022.
+  - [Independent Office of Animal Protection](https://www.animalask.org/post/independent-office-of-animal-protection), 2022.
+  - [CCTV cameras in slaughterhouses: Modest benefits for animal welfare](https://www.animalask.org/post/cctv-cameras-in-slaughterhouses-modest-benefits-for-animal-welfare), 2022.
+  - [Meat tax: Why chickens pay the price](https://www.animalask.org/post/meat-tax-why-chickens-pay-the-price), 2022.
+  - [Imports to meet UK animal welfare standards](https://www.animalask.org/post/imports-to-meet-uk-animal-welfare-standards), 2022.
+  - [The challenges with measuring the impact of lobbying](https://www.animalask.org/post/the-challenges-with-measuring-the-impact-of-lobbying), 2022.
+  - [Economic evaluation of humane slaughter methods for farmed fish in Italy](https://www.eurogroupforanimals.org/files/eurogroupforanimals/2023-02/Italy_Humane%20Slaughter%20for%20Farmed%20Fish_0.pdf); [accompanying Greece report](https://www.eurogroupforanimals.org/files/eurogroupforanimals/2023-02/Greece_Humane%20Slaughter%20for%20Farmed%20Fish.pdf), 2022.
 
 </div>
 
@@ -86,35 +86,35 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 <div markdown="1">
 
   **Animal welfare**  
-  - "Breaking free from the trend: Outlier policies promote sustainable poultry practices", *Frontiers in Animal Science*, 2025, with I. Khire ([link](https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2025.1488863/abstract)).
-  - "Are slow-growing broiler chickens actually better for animal welfare? Shining light on a poultry welfare concern using a farm-scale economic model", *British Poultry Science*, 2024, with I. Khire ([link](https://doi.org/10.1080/00071668.2024.2432926)).
-  - "Evaluating the economic impacts of a cage-free animal welfare policy in Southeast Asian and Indian egg production: A systematic review", *Evaluation Review*, 2024 ([link](https://doi.org/10.1177/0193841X241280681)).
-  - "Humane slaughter in Mediterranean sea bass and bream aquaculture: farm characteristics, stakeholder views, and policy implications", *Frontiers in Aquaculture*, 2024, with K. van Pelt ([link](https://doi.org/10.3389/faquc.2024.1383280)).
+  - [Breaking free from the trend: Outlier policies promote sustainable poultry practices](https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2025.1488863/abstract), *Frontiers in Animal Science*, 2025, with I. Khire.
+  - [Are slow-growing broiler chickens actually better for animal welfare? Shining light on a poultry welfare concern using a farm-scale economic model](https://doi.org/10.1080/00071668.2024.2432926), *British Poultry Science*, 2024, with I. Khire.
+  - [Evaluating the economic impacts of a cage-free animal welfare policy in Southeast Asian and Indian egg production: A systematic review](https://doi.org/10.1177/0193841X241280681), *Evaluation Review*, 2024.
+  - [Humane slaughter in Mediterranean sea bass and bream aquaculture: farm characteristics, stakeholder views, and policy implications](https://doi.org/10.3389/faquc.2024.1383280), *Frontiers in Aquaculture*, 2024, with K. van Pelt.
 
   **Insect farming**  
-  - "Have the environmental benefits of insect farming been overstated? A critical review", under review, with C. Biteau et al ([link](https://ecoevorxiv.org/repository/view/6919/)).
-  - "Beyond the buzz: A review of the prospects of replacing meat consumption with insect-based foods", *npj Sustainable Agriculture*, 2025, with C. Biteau et al ([link](https://www.nature.com/articles/s44264-025-00075-z).
-  - "Bugs in the system: The logic of insect farming research is flawed by unfounded assumptions", *npj Sustainable Agriculture*, 2024, with C. Biteau et al ([link](https://www.nature.com/articles/s44264-024-00042-0)).
-  - "Offshoring insect farms may jeopardise Europe's food sovereignty", *Global Sustainability*, 2024 ([link](https://doi.org/10.1017/sus.2024.35)).
-  - "Is turning food waste into insect feed an uphill climb? A review of persistent challenges", *Sustainable Production and Consumption*, 2024, with C. Biteau et al ([link](https://doi.org/10.1016/j.spc.2024.06.031)).
-  - "Insect-based livestock feeds are unlikely to become economically viable in the near future", *Food and Humanity*, 2024, with C. Biteau et al ([link](https://doi.org/10.1016/j.foohum.2024.100383)).
+  - [Have the environmental benefits of insect farming been overstated? A critical review](https://ecoevorxiv.org/repository/view/6919/), under review, with C. Biteau et al.
+  - Beyond the buzz: A review of the prospects of replacing meat consumption with insect-based foods, *npj Sustainable Agriculture*, 2025, with C. Biteau et al ([link](https://www.nature.com/articles/s44264-025-00075-z).
+  - [Bugs in the system: The logic of insect farming research is flawed by unfounded assumptions](https://www.nature.com/articles/s44264-024-00042-0), *npj Sustainable Agriculture*, 2024, with C. Biteau et al.
+  - [Offshoring insect farms may jeopardise Europe's food sovereignty](https://doi.org/10.1017/sus.2024.35), *Global Sustainability*, 2024.
+  - [Is turning food waste into insect feed an uphill climb? A review of persistent challenges](https://doi.org/10.1016/j.spc.2024.06.031), *Sustainable Production and Consumption*, 2024, with C. Biteau et al.
+  - [Insect-based livestock feeds are unlikely to become economically viable in the near future](https://doi.org/10.1016/j.foohum.2024.100383), *Food and Humanity*, 2024, with C. Biteau et al.
 
   **Science writing**  
-  - "Climate donations inspired by evidence-based fundraising", *Frontiers in Psychology*, 2022, with M. Dry & S. D. Connell ([link](https://doi.org/10.3389/fpsyg.2022.768823)).
-  - "Better writing in scientific publications builds reader confidence and understanding", *Frontiers in Psychology*, 2021, with Z. Doubleday, M. Dry, C. Semmler & S. D. Connell ([link](https://doi.org/10.3389/fpsyg.2021.714321)).
-  - "Sparking creativity in science education", *The Journal of Creative Behavior*, 2021, with J. T. Draper & S. D. Connell ([link](https://doi.org/10.1002/jocb.495)).
-  - "How can we boost the impact of publications? Try better writing", *Proceedings of the National Academy of Sciences*, 2019, with Z. Doubleday & S. D. Connell ([link](https://doi.org/10.1073/pnas.1819937116))
+  - [Climate donations inspired by evidence-based fundraising](https://doi.org/10.3389/fpsyg.2022.768823), *Frontiers in Psychology*, 2022, with M. Dry & S. D. Connell.
+  - [Better writing in scientific publications builds reader confidence and understanding](https://doi.org/10.3389/fpsyg.2021.714321), *Frontiers in Psychology*, 2021, with Z. Doubleday, M. Dry, C. Semmler & S. D. Connell.
+  - [Sparking creativity in science education](https://doi.org/10.1002/jocb.495), *The Journal of Creative Behavior*, 2021, with J. T. Draper & S. D. Connell.
+  - How can we boost the impact of publications? Try better writing, *Proceedings of the National Academy of Sciences*, 2019, with Z. Doubleday & S. D. Connell ([link](https://doi.org/10.1073/pnas.1819937116))
 
   **Science and philosophy**  
-  - "The evolving circle of landscape design", *Restoration Ecology*, 2023, with M. McQuillan ([link](https://doi.org/10.1111/rec.14000)).
-  - "Funding conservation through an emerging social movement", *Trends in Ecology and Evolution*, 2021, with S. D. Connell ([link](http://doi.org/10.1016/j.tree.2019.09.002)).
-  - "Animal minds, social change, and the future of fisheries science", *Frontiers in Marine Science*, 2021, with S. D. Connell ([link](https://doi.org/10.3389/fmars.2021.684841)).
-  - "Advancing government legitimacy through the scientific study of sentience", *World Futures*, 2021, with S. D. Connell ([link](https://doi.org/10.1080/02604027.2021.1944732)).
-  - "How can ecologists thrive during the global environmental crisis? Lessons from the ancient world", *Restoration Ecology*, 2019, with T. Preston ([link](https://doi.org/10.1111/rec.13042)).
+  - [The evolving circle of landscape design](https://doi.org/10.1111/rec.14000), *Restoration Ecology*, 2023, with M. McQuillan.
+  - [Funding conservation through an emerging social movement](http://doi.org/10.1016/j.tree.2019.09.002), *Trends in Ecology and Evolution*, 2021, with S. D. Connell.
+  - [Animal minds, social change, and the future of fisheries science](https://doi.org/10.3389/fmars.2021.684841), *Frontiers in Marine Science*, 2021, with S. D. Connell.
+  - [Advancing government legitimacy through the scientific study of sentience](https://doi.org/10.1080/02604027.2021.1944732), *World Futures*, 2021, with S. D. Connell.
+  - [How can ecologists thrive during the global environmental crisis? Lessons from the ancient world](https://doi.org/10.1111/rec.13042), *Restoration Ecology*, 2019, with T. Preston.
 
   **Just for fun**  
-  - "Books are overwhelmingly supportive of transgender identities: Analysing queer literature using a Goodreads web scrape", 2025, with M. Freeling, preprint ([link](https://doi.org/10.31235/osf.io/exyj7)).
-  - "On the relative contribution of sunlight and air temperature to soil solarisation: Observational evidence from Australia", *Soil Science*, 2024, with M. McQuillan & R. Smernik ([link](https://www.publish.csiro.au/sr/SR23168)).
+  - [Books are overwhelmingly supportive of transgender identities: Analysing queer literature using a Goodreads web scrape](https://doi.org/10.31235/osf.io/exyj7), 2025, with M. Freeling, preprint.
+  - [On the relative contribution of sunlight and air temperature to soil solarisation: Observational evidence from Australia](https://www.publish.csiro.au/sr/SR23168), *Soil Science*, 2024, with M. McQuillan & R. Smernik.
 
 </div>
 
@@ -123,16 +123,13 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 <br />
 
 <details>
-<summary class="mywork">Links and datasets</summary>
+<summary class="mywork">Datasets</summary>
 <br />
 
 <div markdown="1">
 
-  * Academic publications @ [Google Scholar](https://www.scholar.google.com/citations?hl=en&user=hCCZcZYAAAAJ&view_op=list_works&sortby=pubdate)
-  * Animal advocacy research @ [Animal Ask](https://www.animalask.org/research)
-  * Additional hot takes @ [Effective Altruism Forum](https://forum.effectivealtruism.org/users/ren-ryba)
-  * Data on the European fish farming industry @ [Finsight](https://finsight.fish)
-  * Data on the global cage-free egg market @ [Cagefr.ee](https://cagefr.ee)  
+  - Data on the European fish farming industry @ [Finsight](https://finsight.fish)
+  - Data on the global cage-free egg market @ [Cagefr.ee](https://cagefr.ee)  
 
 </div>
 
