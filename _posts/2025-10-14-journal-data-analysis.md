@@ -44,7 +44,7 @@ I used VADER in R to calculate a valence score (from -1/very unhappy, to +1/very
 
 ![time series of VADER valence score](/assets/images/journal3a.png){: width='800' }
 
-Alternatively, you can visualize this data as a series of colored bars, where the color represents the negative or positive intensity. This is the same technique as the iconic [climate stripes](https://showyourstripes.info/). Sadly, this doesn't look as good for my journal entries - there are more data points, and there's lots of variance from day to day. So it looks a bit ugly.
+Alternatively, you can visualize this data as a series of colored bars, where the color represents the negative or positive intensity. This is the same technique as the iconic [climate stripes](https://showyourstripes.info/). Sadly, this doesn't look as good for my journal entries - there are lots of gaps, more data points, and there's lots of variance from day to day. So it looks a bit ugly. You could address some of this by averaging over months rather than days, but my mood varies significantly from day to day, so I don't think monthly averages would convey any useful information.
 
 ![time series of VADER valence score](/assets/images/journal3b.png){: width='800' }
 
