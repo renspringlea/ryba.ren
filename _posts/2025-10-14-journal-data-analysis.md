@@ -46,6 +46,6 @@ I used VADER in R to calculate a valence score (from -1/very unhappy, to +1/very
 
 Alternatively, you can visualize this data as a series of colored bars, where the color represents the negative or positive intensity. This is the same technique as the iconic [climate stripes](https://showyourstripes.info/). Sadly, this doesn't look as good for my journal entries - there are more data points, and there's lots of variance from day to day. So it looks a bit ugly.
 
-![time series of VADER valence score](/assets/images/journal3a.png){: width='800' }
+![time series of VADER valence score](/assets/images/journal3b.png){: width='800' }
 
 Either way, VADER hasn't revealed the trends I was expecting. For example, there was a huge crash in my mood in mid-September 2025, but this does not show up on this graph. Perhaps a different method for sentiment or valence analysis would be more appropriate and would capture mood changes like that one.
