@@ -92,8 +92,8 @@ I have experience in ecology, fisheries science, and statistics from my time in 
   - [Humane slaughter in Mediterranean sea bass and bream aquaculture: farm characteristics, stakeholder views, and policy implications](https://doi.org/10.3389/faquc.2024.1383280), *Frontiers in Aquaculture*, 2024, with K. van Pelt.
 
   **Insect farming**  
-  - [Have the environmental benefits of insect farming been overstated? A critical review](https://ecoevorxiv.org/repository/view/6919/), under review, with C. Biteau et al.
-  - Beyond the buzz: A review of the prospects of replacing meat consumption with insect-based foods, *npj Sustainable Agriculture*, 2025, with C. Biteau et al ([link](https://www.nature.com/articles/s44264-025-00075-z).
+  - [Have the environmental benefits of insect farming been overstated? A critical review](https://ecoevorxiv.org/repository/view/6919/), under review, 2025, with C. Biteau et al.
+  - [Beyond the buzz: A review of the prospects of replacing meat consumption with insect-based foods](https://www.nature.com/articles/s44264-025-00075-z), *npj Sustainable Agriculture*, 2025, with C. Biteau et al.
   - [Bugs in the system: The logic of insect farming research is flawed by unfounded assumptions](https://www.nature.com/articles/s44264-024-00042-0), *npj Sustainable Agriculture*, 2024, with C. Biteau et al.
   - [Offshoring insect farms may jeopardise Europe's food sovereignty](https://doi.org/10.1017/sus.2024.35), *Global Sustainability*, 2024.
   - [Is turning food waste into insect feed an uphill climb? A review of persistent challenges](https://doi.org/10.1016/j.spc.2024.06.031), *Sustainable Production and Consumption*, 2024, with C. Biteau et al.
@@ -103,7 +103,7 @@ I have experience in ecology, fisheries science, and statistics from my time in 
   - [Climate donations inspired by evidence-based fundraising](https://doi.org/10.3389/fpsyg.2022.768823), *Frontiers in Psychology*, 2022, with M. Dry & S. D. Connell.
   - [Better writing in scientific publications builds reader confidence and understanding](https://doi.org/10.3389/fpsyg.2021.714321), *Frontiers in Psychology*, 2021, with Z. Doubleday, M. Dry, C. Semmler & S. D. Connell.
   - [Sparking creativity in science education](https://doi.org/10.1002/jocb.495), *The Journal of Creative Behavior*, 2021, with J. T. Draper & S. D. Connell.
-  - How can we boost the impact of publications? Try better writing, *Proceedings of the National Academy of Sciences*, 2019, with Z. Doubleday & S. D. Connell ([link](https://doi.org/10.1073/pnas.1819937116))
+  - [How can we boost the impact of publications? Try better writing](https://doi.org/10.1073/pnas.1819937116)), *Proceedings of the National Academy of Sciences*, 2019, with Z. Doubleday & S. D. Connell.
 
   **Science and philosophy**  
   - [The evolving circle of landscape design](https://doi.org/10.1111/rec.14000), *Restoration Ecology*, 2023, with M. McQuillan.
