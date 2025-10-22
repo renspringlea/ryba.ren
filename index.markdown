@@ -54,7 +54,7 @@ I have experience in ecology, fisheries science, and statistics from my time in 
   - [Meat reduction: How much can digital media and mass media help?](https://www.animalask.org/post/meat-reduction-how-much-can-digital-media-and-mass-media-help), 2024.
   - Reforming the regulatory framework for animal welfare in Slovenia: An initial look, 2024.
   - [Modelling the outcomes of animal welfare interventions: One possible approach to the trade-offs between subjective experiences](https://www.animalask.org/post/modelling-the-outcomes-of-animal-welfare-interventions-one-possible-approach-to-the-trade-offs-betw), 2024.
-  - Reminding myself just how awful pain can get (plus, an experiment on myself), 2023, ([link](https://forum.effectivealtruism.org/posts/xtcgsLA2G8bn8vj99/reminding-myself-just-how-awful-pain-can-get-plus-an).
+  - [Reminding myself just how awful pain can get (plus, an experiment on myself)](https://forum.effectivealtruism.org/posts/xtcgsLA2G8bn8vj99/reminding-myself-just-how-awful-pain-can-get-plus-an), 2023.
   - Recommendations for optimising the European Chicken Commitment, 2023, with George Bridgwater & Max Carpendale.
   - [Party politics for animal advocacy: Part 2 – Establishing groups across or within major parties](https://www.animalask.org/post/party-politics-for-animal-advocacy-1), 2023.
   - [Party politics for animal advocacy: Part 1 – Animal-focused minor political parties](https://www.animalask.org/post/party-politics-for-animal-advocacy), 2023.

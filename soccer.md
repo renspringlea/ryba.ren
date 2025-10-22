@@ -4,6 +4,8 @@ australian women's cp team (paramatildas) confirmed GOAT, undefeated run and gol
 ~~~~~~
 2025-10-25  wales v australia
 2025-10-28  england v australia
+2025-11-28  australia v new zealand
+2025-12-02  australia v new zealand (@ adelaide!)
 ~~~~~~
 
 source: [matildas](https://www.matildas.com.au/fixtures#!/t6231)  
