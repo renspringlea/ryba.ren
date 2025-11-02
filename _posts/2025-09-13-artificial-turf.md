@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Notes on artificial turf, with a focus on invertebrate animals"
+title: "Non-violence against insects part 1/4: Notes on artificial turf, with a focus on invertebrate animals"
 tags: soccer animals research effective-altruism
 ---
+
+*This is the first of a four-part series of blog articles exploring how I can practice non-violence against insects in my day-to-day life. The [second post]({% post_url 2025-10-14-insects-driving %}) makes some rough calculations to estimate the number of insect killed by driving. The [third post]({% post_url 2025-11-03-soccer-insects %}) applies those calculations to a specific decision in my life: choosing which of two soccer clubs I should play at for the 2026 season.*  
 
 My soccer team usually plays on grass, but we play on artificial/synthetic turf about four times each season. Most of my teammates dislike artificial turf, which I understand. I like how it's consistent (no mud or pot-holes in my penalty box)—but that's coming from the privilege of a goalkeeper who doesn't have to spend the whole game running!
 
