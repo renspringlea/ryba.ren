@@ -4,14 +4,14 @@ title: "Mental health and premenstrual/period symptoms in transgender women"
 tags: mental-health queer research
 ---
 
-*Content warning: This article mentions depression, mental illness, mental health, suicidal ideation, and bias against women. There are also swear words. *
+*Content warning: This article mentions depression, mental illness, mental health, suicidal ideation, and bias against women. There are also swear words.*  
 
 Here is a graph of my depression over the past month or so. The score is the depression subscale from the Depression, Anxiety and Stress Scale (DASS-21), detailed [here](https://www.academia.edu/download/45493280/Dass21.pdf). Higher numbers correspond to higher depression. A score 21+ indicates severe depression, and a score 28+ indicates extremely severe depression.
 
 ![Graph of depression over time](/assets/images/g_dass_d.png){: width='600' }
 
 Here's the interesting thing: there was a clear peak in depression on 20 Oct (in fact, I began recording my mood that day precisely because I was experiencing such intense depression). But there was also a clear peak one month later.
-  
+
 I didn't track my mood before October. However, I do keep a journal. Here are some journal entries from approximately the same time of the month:
 
 - 2025-09-21: "panic attack, help"
