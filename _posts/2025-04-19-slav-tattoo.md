@@ -51,5 +51,3 @@ I'm not the only one interested in Slovak and Czech history and tattoos. [This R
 Also, the Slovak tattoo artist [Andrea "Adra" Kopecká](https://www.instagram.com/adra.ttt.art/?hl=en) uses designs inspired by traditional Slovak embroidery ([Youtube](https://www.youtube.com/watch?v=HOJvh32eFsk&embeds_referring_euri=https%3A%2F%2Fspectator.sme.sk%2F&source_ve_path=Mjg2NjY)). Kopecká's designs are astonishingly beautiful and intricate. Here are two that I picked at random from that Youtube video:
 
 ![kopecka_slovak_tattoos.jpg](/assets/images/kopecka_slovak_tattoos.jpg){: width='600' }
-
-I think I've found the artist for my neck piece!
