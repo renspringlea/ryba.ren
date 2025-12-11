@@ -37,3 +37,11 @@ I also encountered this tidbit in *Tattooing in Contemporary Society: Identity a
 > When I decided to become visible tattooed, I decided to myself that I was not concerned about ﬁnding a job with tattoos because it’s some- thing that I have wanted to be done, I deﬁnitely thought long and hard about this but it’s more important to me to live my life how I want to and not for a corporate company. (Heather, 25)  
 
 > For these respondents, and many others, key was demonstrating a commitment to the self that was realised through having tattoos, particularly where these were located in visible locations. Readily available for others to read, including those within their ﬁgurations who they considered as having more power such as employers, these individuals demonstrated their authenticity by having tattoos that could potentially limit their future opportunities, but eschewed any regrets by demonstrating a commitment to living their life how they wanted, a key aspect in quests for personal authenticity.  
+
+*Update 2025-12-11*
+
+Two additional relevant passages from *Tattooing the World: Pacific Designs in Print and Skin* by Juniper Ellis:
+
+> Depending upon who bears the tattoo and where that person stands in social, geographical, and cultural realms, the meaning of the marks may change. Those meanings may be claimed by the individual or assigned by the community, and in either case may be assented to or overturned by the viewer. In their implications the marks may be playful or deadly serious; they may wrap the bearer in a sacred second skin or cast the bearer out of human society; they may create erotic enticement or painful ignominy. [...] tattoo defines and redefines the reach and the limits of human existence.
+
+> Summing up the power of moko [the traditional tattooing practice of the Māori of Aotearoa / New Zealand], Te Awekotuku declares, "It was, and still is, about metamorphosis, about change, about crisis, and about coping too; and for many contemporary wearers, the descendants of those first illustrated chieftains encountered by Cook, painted by Parkinson, Ta moko is a strategy too, a means of encounter, an expression of self."
