@@ -26,9 +26,8 @@ To paraphrase Burkeman, it is precisely the fact that getting a tattoo foreclose
 
 The joy of missing out, indeed.
 
-\n
 
-\n
+  
 
 ### Note — Why skin is not canvas  
 
