@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "Non-violence against insects part 2/4: Insects killed by driving"
+title: "Non-violence against insects part 2/5: Insects killed by driving"
 tags: animals effective-altruism research
 ---
 
-*This is the second of a four-part series of blog articles exploring how I can practice non-violence against insects in my day-to-day life. The [first post]({% post_url 2025-09-13-artificial-turf %}) offered some brief notes on insect abundance in artificial turf sports pitches (as opposed to grass pitches). The [third post]({% post_url 2025-11-03-soccer-insects %}) applies those calculations to a specific decision in my life: choosing which of two soccer clubs I should play at for the 2026 season.*  
+This is the second of a five-part series of blog articles exploring how I can practice non-violence against insects in my day-to-day life:  
+
+- The [first post]({% post_url 2025-09-13-artificial-turf %}) offered some brief notes on insect abundance in artificial turf sports pitches (as opposed to grass pitches).
+- The [third post]({% post_url 2025-11-03-soccer-insects %}) applies those calculations to a specific decision in my life: choosing which of two soccer clubs I should play at for the 2026 season.
+- The [fourth post]({% post_url 2025-12-15-sensible-prior %}) gives some common sense reason why this entire line of reasoning might be silly.  
+
+---
 
 Take-home message:
 - Driving a car for 1 km kills an estimated average of: ~90 insects (by the estimate that I find most rigorous), ~0.5 - 2.5 insects (by another reasonable estimate, but an underestimate), and ~0.005 insects (I think that estimate is problematic, but including for honesty's sake).

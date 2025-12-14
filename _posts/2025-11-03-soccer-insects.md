@@ -1,10 +1,16 @@
 ---    
 layout: post    
-title: "Non-violence against insects part 3/4: Choosing a different sports club to kill fewer insects?"    
+title: "Non-violence against insects part 3/5: Choosing a different sports club to kill fewer insects?"    
 tags: animals research soccer effective-altruism    
 ---    
 
-*This is the third of a four-part series of blog articles exploring how I can practice non-violence against insects in my day-to-day life. The [first post]({% post_url 2025-09-13-artificial-turf %}) offered some brief notes on insect abundance in artificial turf sports pitches (as opposed to grass pitches). The [second post]({% post_url 2025-10-14-insects-driving %}) made some rough calculations to estimate the number of insect killed by driving.*    
+This is the third of a five-part series of blog articles exploring how I can practice non-violence against insects in my day-to-day life:  
+
+- The [first post]({% post_url 2025-09-13-artificial-turf %}) offered some brief notes on insect abundance in artificial turf sports pitches (as opposed to grass pitches).
+- The [second post]({% post_url 2025-10-14-insects-driving %}) made some rough calculations to estimate the number of insect killed by driving.
+- The [fourth post]({% post_url 2025-12-15-sensible-prior %}) gives some common sense reason why this entire line of reasoning might be silly.
+
+---    
 
 Summary    
 - In this post, I highlight two ways that everyday life can cause direct suffering to sentient animals: by hitting insects with the car while driving, and by stepping on grass where invertebrates live.    
