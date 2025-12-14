@@ -138,7 +138,10 @@ I have experience in ecology, fisheries science, and statistics from my time in 
 <br />
 
 ## Blog  
-*These posts are hot takes and tidbits on topics that I find interesting, not systematic or rigorous examinations. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write.*  
+
+To subscribe, use [this Atom feed](https://ryba.ren/feed.xml) with any feed reader software. If you prefer an email newsletter, you can use the tool [Feedrabbit](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fryba.ren%2Ffeed.xml) to sign up for an email feed with your chosen frequency.  
+
+These posts are hot takes and tidbits on topics that I find interesting, not systematic or rigorous examinations. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write.  
 
 <script type="text/javascript">
   function filterUsingTag(selectedTag) {
