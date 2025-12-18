@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The underappreciated time burden of drinking alcohol"
+title: "Notes on the underappreciated time burden of drinking alcohol"
 tags: research mental-health
 ---
 
