@@ -38,3 +38,9 @@ Castellani ([2019](https://www.taylorfrancis.com/chapters/edit/10.4324/978042931
 Shoham ([2015](https://link.springer.com/book/10.1007/978-3-319-15871-6)) writes about tattoo cultures among imprisoned people from the former Soviet Union:  
 
 > Different tattoos contain parodies of Soviet regime propaganda. In other words, the regime may have been able to hurt a prisoner, but as long as he lives his body continued to represent his protest against the symbols of the regime and its authority. In this way, criminals can rebel against the conventions and authority of prison and normative society; for skin can be neither conﬁscated nor supervised. The tattoos that symbolize resistance to the regime appear in various camps and among different crime families in multiple versions, but their meaning is always the same—rejection of the institution and its set of values.
+
+*Update 2025-12-21*:
+
+The episode "[Lucy Thompson - The Nipple Innovation Project](https://open.spotify.com/episode/16ZB57gLfaHNj8s7TopwzN?si=88KiTrqwT_WySebe4Ug5XA)" (26 May 2020) in the podcast Women In Tattooing Society discusses the Nipple Innovation Project, where highly trained tattoo artists produce outstanding nipple tattoos for people who have been through breast surgeries like mastectomy and trans-affirming top surgery.
+
+I also found this quote from the interviewed artist Lucy Thompson relevant. When asked about how she initially got into this form of tattooing, Thompson said: "I'd helped a friend, a client who's become a really close friend now, cover up a lot of her tattoos from domestic violence, and I'd seen how confident- it just changed her life, genuinely changed her life."
