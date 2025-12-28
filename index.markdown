@@ -1,5 +1,5 @@
 ---
-title: Ren Ryba
+title: Ren Grace Ryba
 layout: home
 ---
 
