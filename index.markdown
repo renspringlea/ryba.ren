@@ -13,11 +13,11 @@ layout: home
 {%   assign lifePerc = lifeProp | times: 100  %}
 {%   assign lifePercRound = lifePerc | round  %}
 
-*she/her or they/them*  
+*she/her*  
 
-My work focuses on animal advocacy. I have been deeply involved in numerous fish welfare projects in particular. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor. I like researching things, planning things, and organising things. I'm the proud parent of two special-needs rescue dogs.  
+My work focuses on animal advocacy, and I have been deeply involved in numerous fish welfare projects in particular. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor. My scientific expertise includes economics, environmental science, fish biology, and statistics/data analysis. I also really enjoy helping projects run smoothly through operations, administration, and automation.
 
-I have experience in ecology, fisheries science, and statistics from my time in academia and government. I enjoy thinking about politics and social justice. I like soccer!  
+Outside of work, my special interests include women's soccer, space exploration, and tattoos. I like thinking about politics, history, and social justice. I'm the proud parent of two special-needs rescue dogs.  
 
 * Proudly transgender and autistic
 * Kaurna land (South Australia)
