@@ -1,5 +1,5 @@
 ---
-title: Ren Ryba
+title: Ren Grace Ryba
 layout: home
 ---
 
@@ -21,6 +21,7 @@ Outside of work, my special interests include women's soccer, space exploration,
 
 * Proudly transgender and autistic
 * Kaurna land (South Australia)
+* I go by my middle name Grace in my everyday life, but I use my first name Ren professionally for historical reasons.
 * "Ryba" is pronounced "REE-ber" and it means "fish" in Slovak
 * Years lived: {{lifePercRound}} %
 
