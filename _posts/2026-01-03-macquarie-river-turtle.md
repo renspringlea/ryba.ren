@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Notes on the ecology and welfare of the Macquarie River turtle (*Emydura macquarii*)"  
+title: "Notes on the ecology, physiology, and welfare of the Macquarie River turtle (Emydura macquarii)"  
 tags: animals research  
 ---  
 
@@ -15,6 +15,9 @@ tags: animals research
 - Emydura macquarii is a short-necked species of turtle with a carapace that islight brown to black in colour. Body size is highly variable, with reported maximumsizes for females ranging from 180 mm in the Macleay-Hastings rivers (Cann, 1998) toover 320 mm in the Murray River (Chessman, 1978). Similarly, body shape is alsovariable, both within and amongst populations.  
 - Adult males are easily distinguished from adult females by their longer, thicker tail. Em. macquarii prefersdeep permanent still waterbodies such as rivers and its backwaters (swamps andlagoons) where they are generally the pre-dominant turtle species (Chessman, 1988).The high rate of evaporative water loss under desiccating conditions prevents Em.macquarii from migrating overland (Chessman, 1984), thereby restricting them topermanent waterholes.  
 - Emydura macquarii is omnivorous consuming a wide range of food types suchas filamentous algae, periphyton, aquatic macrophytes and invertebrates, terrestrial insects and carrion (Georges, 1982b; Chessman, 1986). Juveniles tend to be more carnivorous than adults (Georges, 1982b).  
+- Age determination: "Growth ring data was only used for juveniles and young adults, as rings became intermittent and undetectable in older individuals"
+scute annuli (costal scutes)
+- [Figure 3.5 shows age-length relationship from age 0 (~25 mm) until age 7 years (~200 mm)]
 
 ## Bower et al 2016, Salinity tolerances of two Australian freshwater turtles, Chelodina expansa and Emydura macquarii (Testudinata: Chelidae), [link](https://academic.oup.com/conphys/article-abstract/4/1/cow042/2404592)  
 
@@ -64,3 +67,13 @@ tags: animals research
 ## Pahuja & Marayan 2021, Evaluating the Stressors Impacting Rescued Reptilian Wildlife, [link](https://www.preprints.org/frontend/manuscript/842488d7630b9423258ae11fe23004bb/download_pub)  
 
 - In this study we identified 4 degrees of stressor categories (preliminary, primary, secondary and tertiary) in rescued reptiles admitted at the Adelaide Koalaand Wildlife Hospital, South Australia. (!)  
+
+## Spencer 2002, Growth patterns of two widely distributed freshwater turtles and a comparison of common methods used to estimate age, [link](https://connectsci.au/zo/article-abstract/50/5/477/43478/Growth-patterns-of-two-widely-distributed)
+
+- Age determination: [Table 2 shows the sex-specific parameters of the von Bertalanffy age-length relationship, which is illustrated in Fig. 2 and 3]
+- [Table 1 shows an estimated relationship (conditioned on empirical catch-and-release data) from age 1 (plastron length = 68.3 mm) to 10 years (PL = 189 mm)]
+- [Fig. 1 shows that this species stops growing at around 225 mm, after which the growth rate = 0]
+
+## Victoria State Government, Emydura macquarii: Murray River Turtle, [link](https://bio-prd-naturekit-public-data.s3.ap-southeast-2.amazonaws.com/species_assessments/Emydura_macquarii_5135.pdf)
+
+- The generation length of the Murray River Turtle is inferred to be 25 to 30 years. Age of first breeding for females is around 9-11 years (Spencer 2002) and longevity is approximately 40-50 years.
