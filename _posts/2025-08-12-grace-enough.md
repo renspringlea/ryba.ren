@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Simple grace - You are always enough"  
+title: "* Simple grace - You are always enough"  
 tags: philosophy religion mental-health queer self-improvement  
 ---  
 

@@ -1,6 +1,6 @@
 ---    
 layout: post    
-title: "Non-violence against insects part 3/5: Choosing a different sports club to kill fewer insects?"    
+title: "* Non-violence against insects part 3/5: Choosing a different sports club to kill fewer insects?"    
 tags: animals research soccer effective-altruism    
 ---    
 

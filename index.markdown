@@ -15,13 +15,14 @@ layout: home
 
 *she/her*  
 
-My work focuses on animal advocacy, and I have been deeply involved in numerous fish welfare projects in particular. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor. My scientific expertise includes economics, environmental science, fish biology, and statistics/data analysis. I also really enjoy helping projects run smoothly through operations, administration, and automation.
+I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either.
+
+My work focuses on animal advocacy, and I have been deeply involved in numerous fish welfare projects in particular. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor. My scientific expertise includes economics, environmental science, fish biology, political analysis, and statistics/data analysis. I also really enjoy helping projects run smoothly through operations, administration, and automation.
 
 Outside of work, my special interests include women's soccer, space exploration, and tattoos. I like thinking about politics, history, and social justice. I'm the proud parent of two special-needs rescue dogs.  
 
 * Proudly transgender and autistic
 * Kaurna land (South Australia)
-* I go by my middle name Grace in my everyday life, but I use my first name Ren professionally for historical reasons.
 * "Ryba" is pronounced "REE-ber" and it means "fish" in Slovak
 * Years lived: {{lifePercRound}} %
 
@@ -34,6 +35,26 @@ Outside of work, my special interests include women's soccer, space exploration,
 <br />
 
 ## Publications
+
+<details>
+<summary class="mywork">My favorites!</summary>
+
+<br />
+
+<div markdown="1">
+
+  - [The economics of aquaculture and fish welfare in Europe: A systematic review](https://www.animalask.org/post/the-economics-of-fish-farming-and-fish-welfare-in-europe), 2025.
+  - [Tiered certification schemes for slower-growing chicken: Can a tiered animal welfare label help the Better Chicken Commitment?](https://www.animalask.org/post/tiered-certification-schemes-for-slower-growing-chicken), 2025.
+  - [Are slow-growing broiler chickens actually better for animal welfare? Shining light on a poultry welfare concern using a farm-scale economic model](https://doi.org/10.1080/00071668.2024.2432926), *British Poultry Science*, 2024, with I. Khire.
+  - [Party politics for animal advocacy: Part 1 – Animal-focused minor political parties](https://www.animalask.org/post/party-politics-for-animal-advocacy), 2023.
+  - [Reminding myself just how awful pain can get (plus, an experiment on myself)](https://forum.effectivealtruism.org/posts/xtcgsLA2G8bn8vj99/reminding-myself-just-how-awful-pain-can-get-plus-an), 2023. (While I wrote this post in my spare time, it is actually the post that people mention most frequently to me at conferences.)
+  - [Subsidies: Which reforms can help animals?](https://www.animalask.org/post/subsidies-which-reforms-can-help-animals), 2022.
+
+</div>
+
+</details>
+
+<br />
 
 <details>
 <summary class="mywork">Animal advocacy reports</summary>
@@ -56,6 +77,7 @@ Outside of work, my special interests include women's soccer, space exploration,
   - Reforming the regulatory framework for animal welfare in Slovenia: An initial look, 2024.
   - [Modelling the outcomes of animal welfare interventions: One possible approach to the trade-offs between subjective experiences](https://www.animalask.org/post/modelling-the-outcomes-of-animal-welfare-interventions-one-possible-approach-to-the-trade-offs-betw), 2024.
   - [Reminding myself just how awful pain can get (plus, an experiment on myself)](https://forum.effectivealtruism.org/posts/xtcgsLA2G8bn8vj99/reminding-myself-just-how-awful-pain-can-get-plus-an), 2023.
+  - [Demodex mites: Large and neglected group of wild animals](https://forum.effectivealtruism.org/posts/jYdmcrgAj5odTunCT/demodex-mites-large-and-neglected-group-of-wild-animals), 2023 (originally written under a pseudonym).
   - Recommendations for optimising the European Chicken Commitment, 2023, with George Bridgwater & Max Carpendale.
   - [Party politics for animal advocacy: Part 2 – Establishing groups across or within major parties](https://www.animalask.org/post/party-politics-for-animal-advocacy-1), 2023.
   - [Party politics for animal advocacy: Part 1 – Animal-focused minor political parties](https://www.animalask.org/post/party-politics-for-animal-advocacy), 2023.
@@ -139,6 +161,8 @@ Outside of work, my special interests include women's soccer, space exploration,
 <br />
 
 ## Blog  
+
+My favorite blog posts are denoted by an asterisk (*). If you want to know what I'm all about, I suggest you begin with these.  
 
 To subscribe, use [this Atom feed](https://ryba.ren/feed.xml) with any feed reader software. If you prefer an email newsletter, you can use the tool [Feedrabbit](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fryba.ren%2Ffeed.xml) to sign up for an email feed with your chosen frequency.  
 

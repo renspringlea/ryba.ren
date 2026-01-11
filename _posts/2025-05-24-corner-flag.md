@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "The economics of taking the ball to the corner flag in soccer"  
+title: "* The economics of taking the ball to the corner flag in soccer"  
 tags: soccer research  
 ---  
 

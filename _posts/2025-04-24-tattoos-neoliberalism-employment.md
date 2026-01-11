@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Tattoos, embodiment, and neoliberal 'professionalism' ideology"  
+title: "* Tattoos, embodiment, and neoliberal 'professionalism' ideology"  
 tags: tattoos research social-challenges  
 ---    
 

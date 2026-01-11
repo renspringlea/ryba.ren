@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shame and judgment is a task you can safely delegate to somebody else"
+title: "* Shame and judgment is a task you can safely delegate to somebody else"
 tags: mental-health self-improvement
 ---
 

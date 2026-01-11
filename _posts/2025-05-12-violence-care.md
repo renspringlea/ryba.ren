@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Violent activities (when done with skill and consent) involve showing more care to ourselves and others"  
+title: "* Violent activities (when done with skill and consent) involve showing more care to ourselves and others"  
 tags: philosophy mental-health soccer tattoos  
 ---  
 
