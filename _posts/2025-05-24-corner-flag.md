@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "* The economics of taking the ball to the corner flag in soccer"  
-tags: soccer research  
+tags: soccer research my-favorites  
 ---  
 
 In soccer, it is common to see the following tactic. Team A has a one-goal lead against Team B. There are just one or two minutes of the match left. So, Team A kicks the ball into their offensive corner of the pitch (i.e. on the same side of the pitch as their opponents' goal, but to the corner of that side of the pitch). Team A then stops the ball dead and fiercely guards the ball to keep the opponents from gaining possession of the ball.  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "* The Azbantium wall from Doctor Who and the central mission of animal advocacy"  
-tags: animals effective-altruism mental-health philosophy self-improvement
+tags: animals effective-altruism mental-health philosophy self-improvement my-favorites
 ---
 
 *Content warning: Spoilers for Doctor Who S09E11! Also some references to animal suffering and mortality.*

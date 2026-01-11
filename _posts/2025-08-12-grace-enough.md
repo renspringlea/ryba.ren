@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "* Simple grace - You are always enough"  
-tags: philosophy religion mental-health queer self-improvement  
+tags: philosophy religion mental-health queer self-improvement my-favorites  
 ---  
 
 Before we begin: this article is written from the perspective of my own Christian (and, to a lesser extent, Buddhist) worldview. This is reflected in my language and terminology. But nothing I say means anything different if you don't identify with Christianity or Buddhism. I might use Christian language, but everything in this article is demonstrably true from a fully secular perspective.  

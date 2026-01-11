@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "* Shame and judgment is a task you can safely delegate to somebody else"
-tags: mental-health self-improvement
+tags: mental-health self-improvement my-favorites
 ---
 
 I have a lot of interests. If I had many lifetimes ahead of me, I might pursue all of these careers:

@@ -1,7 +1,7 @@
 ---    
 layout: post    
 title: "* Non-violence against insects part 3/5: Choosing a different sports club to kill fewer insects?"    
-tags: animals research soccer effective-altruism    
+tags: animals research soccer effective-altruism my-favorites    
 ---    
 
 This is the third of a five-part series of blog articles exploring how I can practice non-violence against insects in my day-to-day life:  

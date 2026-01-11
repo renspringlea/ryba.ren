@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "* Tattoos, embodiment, and neoliberal 'professionalism' ideology"  
-tags: tattoos research social-challenges  
+tags: tattoos research social-challenges my-favorites  
 ---    
 
 When considering whether to get a tattoo, people are frequently concerned about implications for employability. There is a general perception that tattoos—particularly large designs on visible parts of the body—might interfere with future employment.  
