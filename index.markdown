@@ -17,9 +17,10 @@ layout: home
 
 I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either.
 
-My work focuses on animal advocacy, and I have been deeply involved in numerous fish welfare projects in particular. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor. My scientific expertise includes economics, environmental science, fish biology, political analysis, and statistics/data analysis. I also really enjoy helping projects run smoothly through operations, administration, and automation.
+My work focuses on animal advocacy, and I have been deeply involved in numerous fish welfare projects in particular. I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor.  
 
-Outside of work, my special interests include women's soccer, space exploration, and tattoos. I like thinking about politics, history, and social justice. I'm the proud parent of two special-needs rescue dogs.  
+Scientific expertise: economics 🪙 | environmental science 🌱 | fish biology 🐟 | political systems 🏛️ | statistics/data analysis 📈
+Personal interests: women's soccer ⚽ | tattoos 🖋️ | space exploration 🪐 | history ⏳ | my two special-needs rescue dogs 🐶🐶
 
 * Proudly transgender and autistic
 * Kaurna land (South Australia)
@@ -162,7 +163,7 @@ Outside of work, my special interests include women's soccer, space exploration,
 
 ## Blog  
 
-My favorite blog posts are denoted by an asterisk (*). If you want to know what I'm all about, I suggest you begin with these. To show only favorites, click <a href="#disable" id="{{ t }}" onclick="filterUsingTag(this.id)">here</a>.  
+My favorite blog posts are denoted by an asterisk (*). If you want to know what I'm all about, I suggest you begin with these. To show only favorites, click <a href="#disable" id="my-favorites" onclick="filterUsingTag(this.id)">here</a>.  
 
 To subscribe, use [this Atom feed](https://ryba.ren/feed.xml) with any feed reader software. If you prefer an email newsletter, you can use the tool [Feedrabbit](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fryba.ren%2Ffeed.xml) to sign up for an email feed with your chosen frequency.  
 
