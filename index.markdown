@@ -162,7 +162,7 @@ Outside of work, my special interests include women's soccer, space exploration,
 
 ## Blog  
 
-My favorite blog posts are denoted by an asterisk (*). If you want to know what I'm all about, I suggest you begin with these. To show only favorites, click <a href="#disable" id="{{ t }}" onclick="filterUsingTag(this.id)">{{ t }}</a>here</a>.  
+My favorite blog posts are denoted by an asterisk (*). If you want to know what I'm all about, I suggest you begin with these. To show only favorites, click <a href="#disable" id="{{ t }}" onclick="filterUsingTag(this.id)">here</a>.  
 
 To subscribe, use [this Atom feed](https://ryba.ren/feed.xml) with any feed reader software. If you prefer an email newsletter, you can use the tool [Feedrabbit](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fryba.ren%2Ffeed.xml) to sign up for an email feed with your chosen frequency.  
 
