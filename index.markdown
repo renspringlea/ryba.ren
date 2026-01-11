@@ -19,7 +19,7 @@ I use my middle name Grace in my everyday life, but I use my first name Ren prof
 
 I am an animal welfare advocate, and I have been particularly involved in working to improve laws to help the billions of fish commodified by economic systems and tortured by routine industrial practices. I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor.  
 
-Scientific expertise: economics 🪙 \| environmental science 🌱 \| fish biology 🐟 \| political systems 🏛️ \| statistics/data analysis 📈
+Scientific expertise: economics 🪙 \| environmental science 🌱 \| fish biology 🐟 \| political systems 🏛️ \| statistics/data analysis 📈  
 Personal interests: women's soccer ⚽ \| tattoos 🖋️ \| space exploration 🪐 \| history ⏳ \| my two special-needs rescue dogs 🐶🐶
 
 * Proudly transgender 🏳️‍⚧️ and autistic ♾️
@@ -163,7 +163,7 @@ Personal interests: women's soccer ⚽ \| tattoos 🖋️ \| space exploration �
 
 ## Blog  
 
-My favorite blog posts are denoted by an asterisk (*). If you want to know what I'm all about, I suggest you begin with these. To show only favorites, click <a href="#disable" id="my-favorites" onclick="filterUsingTag(this.id)">here</a>.  
+To show my favorites (*), click <a href="#disable" id="my-favorites" onclick="filterUsingTag(this.id)">here</a>.  
 
 To subscribe, use [this Atom feed](https://ryba.ren/feed.xml) with any feed reader software. If you prefer an email newsletter, you can use the tool [Feedrabbit](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fryba.ren%2Ffeed.xml) to sign up for an email feed with your chosen frequency.  
 
