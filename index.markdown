@@ -19,8 +19,12 @@ I use my middle name Grace in my everyday life, but I use my first name Ren prof
 
 My work focuses on animal advocacy, and I have been deeply involved in numerous fish welfare projects in particular. I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor.  
 
+<pre>
+
 Scientific expertise: economics 🪙 | environmental science 🌱 | fish biology 🐟 | political systems 🏛️ | statistics/data analysis 📈
 Personal interests: women's soccer ⚽ | tattoos 🖋️ | space exploration 🪐 | history ⏳ | my two special-needs rescue dogs 🐶🐶
+
+</pre>
 
 * Proudly transgender and autistic
 * Kaurna land (South Australia)
