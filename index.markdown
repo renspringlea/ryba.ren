@@ -17,16 +17,12 @@ layout: home
 
 I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either.
 
-My work focuses on animal advocacy, and I have been deeply involved in numerous fish welfare projects in particular. I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor.  
+I am an animal welfare advocate, and I have been particularly involved in working to improve laws to help the billions of fish commodified by economic systems and tortured by routine industrial practices. I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor.  
 
-<pre>
+Scientific expertise: economics 🪙 \| environmental science 🌱 \| fish biology 🐟 \| political systems 🏛️ \| statistics/data analysis 📈
+Personal interests: women's soccer ⚽ \| tattoos 🖋️ \| space exploration 🪐 \| history ⏳ \| my two special-needs rescue dogs 🐶🐶
 
-Scientific expertise: economics 🪙 | environmental science 🌱 | fish biology 🐟 | political systems 🏛️ | statistics/data analysis 📈
-Personal interests: women's soccer ⚽ | tattoos 🖋️ | space exploration 🪐 | history ⏳ | my two special-needs rescue dogs 🐶🐶
-
-</pre>
-
-* Proudly transgender and autistic
+* Proudly transgender 🏳️‍⚧️ and autistic ♾️
 * Kaurna land (South Australia)
 * "Ryba" is pronounced "REE-ber" and it means "fish" in Slovak
 * Years lived: {{lifePercRound}} %
