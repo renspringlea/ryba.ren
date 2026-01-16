@@ -17,7 +17,7 @@ layout: home
 
 I am an animal welfare advocate, and I have been particularly involved in working to improve laws for the billions of fish commodified by economic systems and tortured by routine industrial practices. I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor.  
 
-**Scientific expertise** 🪙 economics \| 🌱 environmental science \| 🐟 fish biology \| 🏛️ political systems \| 📈 statistics/data analysis  
+**Scientific expertise** 🏭 economics \| 🌱 environmental science \| 🐟 fish biology \| 🏛️ political systems \| 📈 statistics/data analysis  
 **Personal interests** ⚽ women's soccer \| 🖋️ tattoos️ \| 🪐 space exploration \| ⏳ history \| 🐶🐶 my two special-needs rescue dogs
 
 * I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either.
@@ -36,7 +36,7 @@ I am an animal welfare advocate, and I have been particularly involved in workin
 
 ## Data
 
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://finsight.fish/"><img src="/assets/images/homepage_finsight.jpg" alt="An example data visualization showing a line map of Europe, with countries in different colors" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="https://cagefr.ee/"><img src="/assets/images/homepage_cagefree.jpg" alt="A data table showing different supermarkets and some information about eggs sold" width="300" /></a></span></div>
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://finsight.fish/"><img src="/assets/images/homepage_finsight.png" alt="An example data visualization showing a line map of Europe, with countries in different colors" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="https://cagefr.ee/"><img src="/assets/images/homepage_cagefree.png" alt="A data table showing different supermarkets and some information about eggs sold" width="300" /></a></span></div>
 
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://finsight.fish/">finsight.fish</a><br />Data on the European fish farming industry</span><span style="text-align: center; width: 50%;"><a href="https://cagefr.ee/">cagefr.ee</a><br />Data on the global cage-free egg market<br /></span></div>
 
