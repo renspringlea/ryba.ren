@@ -38,7 +38,7 @@ I am an animal welfare advocate, and I have been particularly involved in workin
 
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://finsight.fish/"><img src="/assets/images/homepage_finsight.png" alt="An example data visualization showing a line map of Europe, with countries in different colors" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="https://cagefr.ee/"><img src="/assets/images/homepage_cagefree.png" alt="A data table showing different supermarkets and some information about eggs sold" width="300" /></a></span></div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://finsight.fish/">finsight.fish</a><br />Data on the European fish farming industry</span><span style="text-align: center; width: 50%;"><a href="https://cagefr.ee/">cagefr.ee</a><br />Data on the global cage-free egg market<br /></span></div>
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;">Data on the European fish farming industry<br />@ <a href="https://finsight.fish/">finsight.fish</a></span><span style="text-align: center; width: 50%;">Data on the global cage-free egg market<br />@ <a href="https://cagefr.ee/">cagefr.ee</a></span></div>
 
 <br />
 
