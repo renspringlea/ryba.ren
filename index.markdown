@@ -15,16 +15,15 @@ layout: home
 
 *she/her*  
 
-I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either.
+I am an animal welfare advocate, and I have been particularly involved in working to improve laws for the billions of fish commodified by economic systems and tortured by routine industrial practices. I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor.  
 
-I am an animal welfare advocate, and I have been particularly involved in working to improve laws to help the billions of fish commodified by economic systems and tortured by routine industrial practices. I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor.  
+**Scientific expertise** 🪙 economics \| 🌱 environmental science \| 🐟 fish biology \| 🏛️ political systems \| 📈 statistics/data analysis  
+**Personal interests** ⚽ women's soccer \| 🖋️ tattoos️ \| 🪐 space exploration \| ⏳ history \| 🐶🐶 my two special-needs rescue dogs
 
-Scientific expertise: economics 🪙 \| environmental science 🌱 \| fish biology 🐟 \| political systems 🏛️ \| statistics/data analysis 📈  
-Personal interests: women's soccer ⚽ \| tattoos 🖋️ \| space exploration 🪐 \| history ⏳ \| my two special-needs rescue dogs 🐶🐶
-
+* I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either.
+* "Ryba" is pronounced "REE-ber" and it means "fish" in Slovak
 * Proudly transgender 🏳️‍⚧️ and autistic ♾️
 * Kaurna land (South Australia)
-* "Ryba" is pronounced "REE-ber" and it means "fish" in Slovak
 * Years lived: {{lifePercRound}} %
 
 ## Books
@@ -32,6 +31,14 @@ Personal interests: women's soccer ⚽ \| tattoos 🖋️ \| space exploration �
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="/shrimp.html"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
 
 <div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Tse Yip Fai, and Peter Singer; buy from Routledge <a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459">here</a></span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
+
+<br />
+
+## Data
+
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://finsight.fish/"><img src="/assets/images/homepage_finsight.jpg" alt="An example data visualization showing a line map of Europe, with countries in different colors" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="https://cagefr.ee/"><img src="/assets/images/homepage_cagefree.jpg" alt="A data table showing different supermarkets and some information about eggs sold" width="300" /></a></span></div>
+
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://finsight.fish/">finsight.fish</a><br />Data on the European fish farming industry</span><span style="text-align: center; width: 50%;"><a href="https://cagefr.ee/">cagefr.ee</a><br />Data on the global cage-free egg market<br /></span></div>
 
 <br />
 
@@ -139,21 +146,6 @@ Personal interests: women's soccer ⚽ \| tattoos 🖋️ \| space exploration �
   **Just for fun**  
   - [Books are overwhelmingly supportive of transgender identities: Analysing queer literature using a Goodreads web scrape](https://doi.org/10.31235/osf.io/exyj7), 2025, with M. Freeling, preprint.
   - [On the relative contribution of sunlight and air temperature to soil solarisation: Observational evidence from Australia](https://www.publish.csiro.au/sr/SR23168), *Soil Science*, 2024, with M. McQuillan & R. Smernik.
-
-</div>
-
-</details>
-
-<br />
-
-<details>
-<summary class="mywork">Datasets</summary>
-<br />
-
-<div markdown="1">
-
-  - Data on the European fish farming industry @ [Finsight](https://finsight.fish)
-  - Data on the global cage-free egg market @ [Cagefr.ee](https://cagefr.ee)  
 
 </div>
 
