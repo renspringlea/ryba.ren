@@ -36,9 +36,9 @@ I am an animal welfare advocate, and I have been particularly involved in workin
 
 ## Data
 
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="https://finsight.fish/"><img src="/assets/images/homepage_finsight.png" alt="An example data visualization showing a line map of Europe, with countries in different colors" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="https://cagefr.ee/"><img src="/assets/images/homepage_cagefree.png" alt="A data table showing different supermarkets and some information about eggs sold" width="300" /></a></span></div>
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 33%;"><a href="https://finsight.fish/"><img src="/assets/images/homepage_finsight.png" alt="An ASCII art image of a fish" width="200" /></a></span><span style="text-align: center; width: 33%;"><a href="https://cagefr.ee/"><img src="/assets/images/homepage_cagefree.png" alt="An ASCII art image of a baby chick" width="200" /></a></span><span style="text-align: center; width: 33%;"><a href="https://she.football/"><img src="/assets/images/homepage_shefootball.png" alt="An ASCII art image of a soccer ball" width="200" /></a></span></div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;">Data on the European fish farming industry<br />@ <a href="https://finsight.fish/">finsight.fish</a></span><span style="text-align: center; width: 50%;">Data on the global cage-free egg market<br />@ <a href="https://cagefr.ee/">cagefr.ee</a></span></div>
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 33%;">Data on the European fish farming industry<br />@ <a href="https://finsight.fish/">finsight.fish</a></span><span style="text-align: center; width: 33%;">Data on the global cage-free egg market<br />@ <a href="https://cagefr.ee/">cagefr.ee</a></span><span style="text-align: center; width: 33%;">Data visualizations on women's football<br />@ <a href="https://she.football/">she.football</a></span></div>
 
 <br />
 
