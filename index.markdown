@@ -13,9 +13,8 @@ layout: home
 {%   assign lifePerc = lifeProp | times: 100  %}
 {%   assign lifePercRound = lifePerc | round  %}
 
-*she/her | Kaurna land (South Australia) | Proudly transgender 🏳️‍⚧️ and autistic ♾️*  
-
-"Ryba" is pronounced "REE-ber" and it means "fish" in Slovak. I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either.
+*she/her \| Kaurna land (South Australia)
+Proudly transgender 🏳️‍⚧️ and autistic ♾️*  
 
 I advocate for animal rights and welfare. I have been involved in working to improve laws for the billions of chickens, fish, pigs, and other animals commodified by economic systems and tortured by routine industrial practices.
 
@@ -27,6 +26,8 @@ I am the proud parent of two special needs rescue dogs, Max and Shiloh 🐶🐶.
 
 | **Scientific expertise** | 🏭 economics \| 🌱 environmental science \| 🐟 fish biology \| 🏛️ political systems \| 📈 statistics/data analysis |
 | **Qualifications** | PhD in environmental policy and marine biology \| Grad Cert in economics \| BSc (Advanced) in environmental science |  
+
+"Ryba" is pronounced "REE-ber" and it means "fish" in Slovak. I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either.
 
 Years lived: {{lifePercRound}} %
 
