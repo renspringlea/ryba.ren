@@ -13,8 +13,9 @@ layout: home
 {%   assign lifePerc = lifeProp | times: 100  %}
 {%   assign lifePercRound = lifePerc | round  %}
 
-*she/her \| Kaurna land (South Australia)
-Proudly transgender 🏳️‍⚧️ and autistic ♾️*  
+*she/her \| Kaurna land (South Australia)*  
+
+*Proudly transgender 🏳️‍⚧️ and autistic ♾️*  
 
 I advocate for animal rights and welfare. I have been involved in working to improve laws for the billions of chickens, fish, pigs, and other animals commodified by economic systems and tortured by routine industrial practices.
 
