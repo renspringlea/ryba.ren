@@ -14,14 +14,13 @@ layout: home
 {%   assign lifePercRound = lifePerc | round  %}
 
 *she/her \| Kaurna land (South Australia)*  
-
 *Proudly transgender 🏳️‍⚧️ and autistic ♾️*  
 
-I advocate for animal rights and welfare. I have been involved in working to improve laws for the billions of chickens, fish, pigs, and other animals commodified by economic systems and tortured by routine industrial practices.
+I advocate for animal rights and welfare. I work to improve laws for the billions of chickens, fish, pigs, and other animals commodified by economic systems and tortured by routine industrial practices.
 
-I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I'm currently a grant evaluator at the [EA Funds Animal Welfare Fund](https://funds.effectivealtruism.org/funds/animal-welfare) and an independent contractor on several animal welfare campaigns.
+I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I'm currently a grant evaluator at the [EA Animal Welfare Fund](https://funds.effectivealtruism.org/funds/animal-welfare) and an independent contractor on several animal welfare campaigns around the world.
 
-From 2021 to 2025, I worked at Animal Ask where I helped to maximize the impact of animal advocacy campaigns on every continent except Antarctica. I have run for parliament with the Animal Justice Party, and I have worked in the fisheries department of state government.  
+From 2021 to 2025, I worked at Animal Ask, where I helped to maximize the impact of animal advocacy campaigns on every continent except Antarctica. I have run for parliament with the Animal Justice Party and worked in the fisheries department of state government.  
 
 I am the proud parent of two special needs rescue dogs, Max and Shiloh 🐶🐶. Outside of work, I enjoy playing soccer, getting tattoos, and reading about history and space exploration.  
 
