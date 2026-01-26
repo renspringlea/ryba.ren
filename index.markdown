@@ -15,9 +15,12 @@ layout: home
 
 *she/her*  
 
-I am an animal welfare advocate, and I have been particularly involved in working to improve laws for the billions of fish commodified by economic systems and tortured by routine industrial practices. I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I worked at Animal Ask from 2021 to 2025, and I'm now an independent contractor.  
+I advocate for animal rights and welfare. I have been involved in working to improve laws for the billions of chickens, fish, pigs, and other animals commodified by economic systems and tortured by routine industrial practices.
+
+I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I'm currently a grant evaluator at the [EA Funds Animal Welfare Fund](https://funds.effectivealtruism.org/funds/animal-welfare) and an independent contractor on several animal welfare campaigns. From 2021 to 2025, I worked at Animal Ask where I helped to maximize the impact of animal advocacy campaigns on every continent except Antarctica. I have run for parliament with the Animal Justice Party, and I have worked in the fisheries department of state government.  
 
 **Scientific expertise** 🏭 economics \| 🌱 environmental science \| 🐟 fish biology \| 🏛️ political systems \| 📈 statistics/data analysis  
+**Qualifications** PhD in environmental policy and marine biology \| Grad Cert in economics \| BSc (Advanced) in environmental science  
 **Personal interests** ⚽ women's soccer \| 🖋️ tattoos️ \| 🪐 space exploration \| ⏳ history \| 🐶🐶 my two special-needs rescue dogs
 
 * I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either.
