@@ -37,4 +37,4 @@ You can listen to these particular sounds on Youtube:
 - [Jackhammer Rotary Tattoo Machine Demo](https://youtube.com/watch?v=-hHjdaS3d98)  
 - [Ambition Mars-U 2.2-4.2mm Adjustable Stroke Wireless Tattoo Machine #ambition #tattoomachine #artist](https://youtube.com/watch?v=YIloXCgZm2Q)
 - [The Whang Od tattoo experience. Getting a mambabatok, from the world’s oldest tattoo artist 107yrs](https://youtube.com/watch?v=nmuG_oITchw)
-- [][ASMR]Tebori Tattoo by horimasa #asmr](https://youtube.com/watch?v=wQnd8xR7L0Q)
+- [ASMR Tebori Tattoo by horimasa #asmr](https://youtube.com/watch?v=wQnd8xR7L0Q)

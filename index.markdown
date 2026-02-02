@@ -24,8 +24,8 @@ From 2021 to 2025, I worked at Animal Ask, where I helped to maximize the impact
 
 I am the proud parent of two special needs rescue dogs, Max and Shiloh 🐶🐶. Outside of work, I enjoy playing soccer, getting tattoos, and reading about history and space exploration.  
 
-| **Scientific expertise** | <ul><li>🏭 economics</li><li>🌱 environmental science</li><li>🐟 fish biology</li><li>🏛️ political systems</li><li>📈 statistics/data analysis</li></ul> |
-| **Qualifications** | <ul><li>PhD in environmental policy and marine biology</li><li>Grad Cert in economics</li><li>BSc (Advanced) in environmental science</li></ul> |  
+| **Scientific expertise** | 🏭 economics \| 🌱 environmental science \| 🐟 fish biology \| 🏛️ political systems \| 📈 statistics/data analysis |
+| **Qualifications** | PhD in environmental policy and marine biology \| Grad Cert in economics \| BSc (Advanced) in environmental science |  
 
 "Ryba" is pronounced "REE-ber" and it means "fish" in Slovak. I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either.
 
