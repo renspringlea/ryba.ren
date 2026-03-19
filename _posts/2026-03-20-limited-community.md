@@ -11,7 +11,7 @@ From *Four Thousand Weeks: Time Management for Mortals* by Oliver Burkeman:
 
 From *You're Only Human: How Your Limits Reflect God's Design and Why That's Good News* by Kelly M. Kapic:
 - "Our limitations are a gift from God"
-- "Our dependency [...] takes concrete form when we rely on others, on the earth, on institutions and traditions. We must learn the value and truthfulness of our finitude, eventually getting to the point where we might even **praise God for our limits**."
+- "Our dependency [...] takes concrete form when we rely on others, on the earth, on institutions and traditions. We must learn the value and truthfulness of our finitude, eventually getting to the point where we might even **praise God for our limits**." [emphasis mine because I think that's such a profound statement]
 - "God designed the person for the community and the community for the person. What is impossible for the particular Christian becomes possible for the church as Christ’s body"
 - "We tend to admire the driven individual who seeks personal triumph more than we do the relational person who is embedded within a community. [...] But the story of the isolated hero is much easier to tell than the complicated narrative of community and mutual relations, so we focus on the superheroes."
 
@@ -19,7 +19,9 @@ From *The Upward Spiral: Using Neuroscience to Reverse the Course of Depression,
 - "Depression is an isolating disease. It makes you feel separate and alone, even around other people, and this often makes people want to be physically separate. But that desire for solitude is just a symptom of the depressed brain, and it perpetuates the disease [...] even though you may feel like being alone, the cure to depression often lies in other people."
 - "Humans are a social species—we evolved to survive with each other, and our brains are healthiest when we interact with and feel connected to others."
 
-Likewise, Meadow DeVor's book *The Worthy Mind* identifies "taking steps to invest in community" as one pathway out of low self-worth.
+Likewise, Meadow DeVor's book *The Worthy Mind* identifies "taking steps to invest in community" as one ingredient in a much larger pathway for stepping into self-worth.
+
+Sarah J. Robinson cautions: "People can't heal me, but I need them anyway." Community, in itself, does not make you worthy or valuable. You (the person reading this) are already worthy and valuable beyond measure. But that immeasurable value comes from elsewhere — call it the intrinsic worth of every sentient being, or the grace of God, or fundamental human value, or whatever you will. 
 
 In [a recent blog post]({% post_url 2026-03-14-ai-advocacy %}), I discussed how the age of artificial intelligence is changing advocacy and what it means to do the most good. I identified five areas where humans still have (and are likely to keep) serious advantages over computers. Four of these are: take responsibility and accountability for high-stakes decisions; develop deep, specific context about projects; share an authentic lived experience; and do things in the physical world.
 
