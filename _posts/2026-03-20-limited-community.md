@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Individual humans are profoundly limited — and community can set us free"
+tags: philosophy mental-health self-improvement effective-altruism religion ai
+---
+
+From *Four Thousand Weeks: Time Management for Mortals* by Oliver Burkeman:
+- "The real problem [...] isn’t that we’re bad at prioritising the big rocks. It’s that there are too many rocks – and most of them are never making it anywhere near that jar. The critical question isn’t how to differentiate between activities that matter and those that don’t, but what to do when far too many things feel at least somewhat important, and therefore arguably qualify as big rocks."
+- "[A]ny attempt to bring our ideas into concrete reality must inevitably fall short of our dreams, no matter how brilliantly we succeed in carrying things off – because reality, unlike fantasy, is a realm in which we don’t have limitless control, and can’t possibly hope to meet our perfectionist standards. [...] judged by the flawless standards of your imagination, you definitely won’t do a good enough job. So you might as well make a start."
+- "[T]ime just feels realer – more intense, more vivid, more filled with meaning – when you’re synchronised well with others. [...] synchrony is also a portal to another dimension – to that sacred place where the boundaries of the self grow fuzzy, and time seems not to exist. I’ve felt it as a member of a community choir, when the sharp and flat tones of amateur voices combine into a perfection that few of the singers involved could attain on their own."
+
+From *You're Only Human: How Your Limits Reflect God's Design and Why That's Good News* by Kelly M. Kapic:
+- "Our limitations are a gift from God"
+- "Our dependency [...] takes concrete form when we rely on others, on the earth, on institutions and traditions. We must learn the value and truthfulness of our finitude, eventually getting to the point where we might even **praise God for our limits**."
+- "God designed the person for the community and the community for the person. What is impossible for the particular Christian becomes possible for the church as Christ’s body"
+- "We tend to admire the driven individual who seeks personal triumph more than we do the relational person who is embedded within a community. [...] But the story of the isolated hero is much easier to tell than the complicated narrative of community and mutual relations, so we focus on the superheroes."
+
+From *The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time* by Alex Korb:
+- "Depression is an isolating disease. It makes you feel separate and alone, even around other people, and this often makes people want to be physically separate. But that desire for solitude is just a symptom of the depressed brain, and it perpetuates the disease [...] even though you may feel like being alone, the cure to depression often lies in other people."
+- "Humans are a social species—we evolved to survive with each other, and our brains are healthiest when we interact with and feel connected to others."
+
+Likewise, Meadow DeVor's book *The Worthy Mind* identifies "taking steps to invest in community" as one pathway out of low self-worth.
+
+In [a recent blog post]({% post_url 2026-03-14-ai-advocacy %}), I discussed how the age of artificial intelligence is changing advocacy and what it means to do the most good. I identified five areas where humans still have (and are likely to keep) serious advantages over computers. Four of these are: take responsibility and accountability for high-stakes decisions; develop deep, specific context about projects; share an authentic lived experience; and do things in the physical world.
+
+It's noteworthy that these four skills so strongly involve community. In that article, I wrote that I am "shifting from a mindset of individual action (taking the individual actions that do the most good) to the organization and movement level (supporting larger units to take collective actions that do the most good). [...] This also supports a more low-key lifestyle and work-life balance — it doesn’t matter as much how much work or output that you get out of each workday, as the more important thing is supporting collectives to take sound, careful action."
+
+And thank God for that — imagine if all of the various and profound problems of the world were resting on your shoulders, or on the shoulders of any individual. Good grief!
