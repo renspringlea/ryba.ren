@@ -21,10 +21,16 @@ From *The Upward Spiral: Using Neuroscience to Reverse the Course of Depression,
 
 Likewise, Meadow DeVor's book *The Worthy Mind* identifies "taking steps to invest in community" as one ingredient in a much larger pathway for stepping into self-worth.
 
-Sarah J. Robinson cautions: "People can't heal me, but I need them anyway." Community, in itself, does not make you worthy or valuable. You (the person reading this) are already worthy and valuable beyond measure. But that immeasurable value comes from elsewhere — call it the intrinsic worth of every sentient being, or the grace of God, or fundamental human value, or whatever you will. 
+Sarah J. Robinson cautions: "People can't heal me, but I need them anyway." Community, in itself, does not make you worthy or valuable. You (the person reading this) are already worthy and valuable beyond measure. But that immeasurable value comes from elsewhere — call it the intrinsic worth of every sentient being, or the grace of God, or fundamental human value, or whatever you will.
 
 In [a recent blog post]({% post_url 2026-03-14-ai-advocacy %}), I discussed how the age of artificial intelligence is changing advocacy and what it means to do the most good. I identified five areas where humans still have (and are likely to keep) serious advantages over computers. Four of these are: take responsibility and accountability for high-stakes decisions; develop deep, specific context about projects; share an authentic lived experience; and do things in the physical world.
 
 It's noteworthy that these four skills so strongly involve community. In that article, I wrote that I am "shifting from a mindset of individual action (taking the individual actions that do the most good) to the organization and movement level (supporting larger units to take collective actions that do the most good). [...] This also supports a more low-key lifestyle and work-life balance — it doesn’t matter as much how much work or output that you get out of each workday, as the more important thing is supporting collectives to take sound, careful action."
 
 And thank God for that — imagine if all of the various and profound problems of the world were resting on your shoulders, or on the shoulders of any individual. Good grief!
+
+
+*Update 2026-04-24*  
+
+From *A Testament of Devotion: Five Quaker Essays on Finding Inner Peace Through God's Presence and Simplification* by Thomas R. Kelly (1941):  
+- - But it is a particularization of my responsibility also, in a world too vast and a lifetime too short for me to carry all responsibilities. My cosmic love, or the Divine Lover loving within me, cannot accomplish its full intent, which is universal saviourhood, within the limits of three score years and ten. But the Loving Presence does not burden us equally with all things, but considerately puts upon each of us just a few central tasks, as emphatic responsibilities. For each of us these special undertakings are our share in the joyous burdens of love.  Thus the state of having a concern has a foreground and a background. In the foreground is the special task, uniquely illuminated, toward which we feel a special yearning and care. [...] But in the background is a second level, or layer, of universal concern for all the multitude of good things that need doing. Toward them all we feel kindly, but we are dismissed from active service in most of them. And we have an easy mind in the presence of desperately real needs which are not our direct responsibility. We cannot die on every cross, nor are we expected to.
