@@ -71,6 +71,5 @@ I find it telling that actual professional footballers suffer from significant b
 ## Further reading  
 
 - *The Contemporary Reader of Gender and Fat Studies* (ed. Amy Erdman Farrell 2023), [link](https://www.routledge.com/The-Contemporary-Reader-of-Gender-and-Fat-Studies/Farrell/p/book/9780367691684)  
-- *Body Neutral: A Revolutionary Guide to Overcoming Body Image Issues* (Jessi Kneeland 2023), [link](https://www.jessikneeland.com/bodyneutral)  
-Fat Sex: New Directions in Theory and Activism 	ed. Helen Hester and Caroline Waters  
-- *Breaking Free from Body Shame: Dare to Reclaim What God Has Named Good (Jess Connolly 2021), [link](https://www.jessconnolly.com/breaking-free)  
+- *Body Neutral: A Revolutionary Guide to Overcoming Body Image Issues* (Jessi Kneeland 2023), [link](https://www.jessikneeland.com/bodyneutral)   
+- *Breaking Free from Body Shame: Dare to Reclaim What God Has Named Good* (Jess Connolly 2021), [link](https://www.jessconnolly.com/breaking-free)  
