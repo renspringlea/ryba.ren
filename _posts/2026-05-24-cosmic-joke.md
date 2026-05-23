@@ -70,7 +70,7 @@ But there are some directions that speak to me:
 - Religion — living in relationship with my God and, perhaps just as important, participating in the traditions of my ancestors, while knowing I may never have answers to the biggest questions.  
 - Hedonism — not drinking and partying and going wild, but the bread, pot of cheese, and good company of Epicurus.  
 - Games — unnecessary contests staged purely for our enjoyment and pleasure, games we play for their own sake (see Steffen Borge 2019, *The Philosophy of Football*), while knowing I will never become a *flawless* goalkeeper.  
-- Art - similar to games, a practice done for its own sake. For me, this takes the form of receiving tattoos — a way to represent my stories on my skin, which offers a "refuge of stability" in an age of liquid modernity (Chris William Martin 2018, *The Social Semiotics of Tattoos: Skin and Self*)  
+- Art — similar to games, a practice done for its own sake. For me, this takes the form of receiving tattoos — a way to represent my stories on my skin, which offers a "refuge of stability" in an age of liquid modernity (Chris William Martin 2018, *The Social Semiotics of Tattoos: Skin and Self*)  
 
 Again, no one of these things is the *only* important thing. There is no general theory — these are all facets of a gem, doors into a meaningful life.  
 
