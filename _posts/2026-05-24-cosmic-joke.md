@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "The cosmic joke: Depression in an absurd universe"  
-tags: religion mental-health  
+tags: religion mental-health effective-altruism social-challenges philosophy
 ---  
 
 > Dr. Heuschrecke: Please have a chair, Mr. Sneak. No, not the couch, please. I am not a psychiatrist.  
@@ -45,7 +45,7 @@ The world, in essence, is a joke — and moreover, a joke that cannot be solved 
 
 Under this view, depression is not a symptom of a mood disorder, like major depressive disorder. Rather, depression arises from caring very much, having so much love to give, in a world built for neither care nor love.  
 
-And to be honest, I find this highly liberating. I am guaranteed to fail at most of the things I care most about. When I die, whether that is sooner or later, the world will keep on spinning, the universe will continue to expand, political systems will remain imperfect, animals will continue to suffer, people will continue to discriminate. In this realization, I feel a freedom.  
+And to be honest, I find this highly liberating. I am guaranteed to fail at most of the things I care most about. When I die, whether that is sooner or later, the world will keep on spinning, the universe will continue to expand, political systems will remain imperfect, animals will continue to suffer, people will continue to discriminate. In this realization, I feel a freedom. One can "be an observer", as my tattoo artist likes to say, because one can only ever observe (as opposed to influence) 99.9999% of reality.  
 
 > It seems to me that reality itself has a screw loose somewhere. That's why I try to keep at least myself in line as much as possible.  
 
@@ -59,6 +59,8 @@ The universe isn't simply incomprehensibly vast — it is also incomprehensibly 
 
 In the past, I've fallen into the trap of searching for a "general theory" that will, once and for all, explain my mental anguish and my neurodivergence and my behavior. Recently, it has dawned on me that there is no general theory — just countless facets of an infinitely complex gemstone (84,000 dharma doors, or ways to enter into the practice, as the Buddhists say). We can chip away at the gemstone and polish individual facets — and indeed, this is a highly worthy task — but there will never be a point where I sort my life out (another hat tip to Burkeman).  
 
+In terms of mental health, cognitive behavioral therapy (CBT) is a facet. Internal family systems (IFS) therapy is a facet. Antidepressant medication is a facet. Mindfulness meditation is a facet. The upward spiral is a facet (see Alex Korb 2015, *The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time*). None of them are a general theory, or a single idea that will, say, cure my mental illness. But they're all worth practicing and pursuing.  
+
 > For who knows what is good for mortals while they live the few days of their vain life, which they pass like a shadow?  
 
 — Ecclesiastes 6:12 NRSVUE  
@@ -70,7 +72,7 @@ But there are some directions that speak to me:
 - Religion — living in relationship with my God and, perhaps just as important, participating in the traditions of my ancestors, while knowing I may never have answers to the biggest questions.  
 - Hedonism — not drinking and partying and going wild, but the bread, pot of cheese, and good company of Epicurus.  
 - Games — unnecessary contests staged purely for our enjoyment and pleasure, games we play for their own sake (see Steffen Borge 2019, *The Philosophy of Football*), while knowing I will never become a *flawless* goalkeeper.  
-- Art — similar to games, a practice done for its own sake. For me, this takes the form of receiving tattoos — a way to represent my stories on my skin, which offers a "refuge of stability" in an age of liquid modernity (Chris William Martin 2018, *The Social Semiotics of Tattoos: Skin and Self*)  
+- Art — similar to games, a practice done for its own sake. Reading lets me enjoy the fruits of other people's imagination (fiction) or deep expertise and research (non-fiction). For me, art also takes the form of receiving tattoos — a way to represent my stories on my skin, which offers a "refuge of stability" in an age of liquid modernity (Chris William Martin 2018, *The Social Semiotics of Tattoos: Skin and Self*).  
 
 Again, no one of these things is the *only* important thing. There is no general theory — these are all facets of a gem, doors into a meaningful life.  
 
