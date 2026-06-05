@@ -24,6 +24,8 @@ Korb cites an abundance of neuroscientific research in support of this tool, as 
 
 Exercising executive function is also, often, a more *achievable* facet of Korb's upward spiral. When I'm depressed, it can be really, really hard to haul my ass into my garage for a workout or to invite a friend for coffee. I often exercise my executive function as the first entry into that upward spiral — after which those more involved facets, like exercise and socialising, feel within reach.
 
+I suspect this might be why, at my job, I find operations and administration such enjoyable tasks — organising things simply makes the brain feel good.  
+
 I also find echoes of this concept in Lewis Richmond's book *Aging as a Spiritual Practice: A Contemplative Guide to Growing Older and Wiser*. Richmond explores "the way we lose old pieces of our identity as we age, and the opportunity to create new identities to replace what we have lost" and describes how the people who age well tend to be the people who adapt with flexibility, seeking out new activities and connections and cultivating a curiosity and enthusiasm for what is happening around them as they age.
 
 As I've alluded to above, executive function has repeatedly proven itself as a powerful tool in my own toolbox while navigating mental illness. During November 2025, I experienced my darkest period yet — I was briefly hospitalized for my own safety, and I was facing a significant upheaval of my personal life. This was truly a week from hell, the very depths of despair.
