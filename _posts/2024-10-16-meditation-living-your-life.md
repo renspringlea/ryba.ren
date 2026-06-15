@@ -35,3 +35,13 @@ It does not make sense for students of the Buddha to isolate themselves inside a
 
 And Ecclesiastes offers a wonderful synthesis (3:12-13 NIV, emphasis mine):
 I know that there is nothing better for people than to be happy **and to do good** while they live. That each of them may eat and drink, and find satisfaction in all their toil—this is the gift of God.
+
+*Update 2026-06-15*  
+
+Another tidbit from *Aging as a Spiritual Practice: A Contemplative Guide to Growing Older and Wiser* by Lewis Richmond:  
+
+> Enlightenment is not something to have; it is something to live. An enlightened life means to live in mindful awareness, expressing compassion in each situation.  
+
+
+
+1

@@ -16,4 +16,12 @@ Some passages from the literature along these lines:
 
 "There is also the very nonjudgemental nature of human–animal interactions (i.e., unconditional positive regard)... Thus, interacting with animals can provide an opportunity for emotional investment that is free of negative evaluation and not subject to feelings of rejection (i.e., unconditional positive regard). This factor of unconditional positive regard has often been proposed to be a key factor in the positive relationships that children have with their companion animals (Robin & ten Bensel, 1985)." - Fawcett and Gullone 2001 [(link)[https://www.researchgate.net/profile/Eleonora-Gullone/publication/247830678_Cute_and_Cuddly_and_a_Whole_Lot_More_A_Call_for_Empirical_Investigation_into_the_Therapeutic_Benefits_of_Human-Animal_Interaction_for_Children/links/0046353190fbf606e3000000/Cute-and-Cuddly-and-a-Whole-Lot-More-A-Call-for-Empirical-Investigation-into-the-Therapeutic-Benefits-of-Human-Animal-Interaction-for-Children.pdf]]
 
-  And that final study also begins with this quote, attributed to George Elio (1857): "Animals are such agreeable friends — they ask no questions, they pass no criticisms."
+And that final study also begins with this quote, attributed to George Elio (1857): "Animals are such agreeable friends — they ask no questions, they pass no criticisms."
+
+*Update 2026-06-15*  
+
+This topic is also explored in depth - including from a critical perspective - by Caroline Knapp's excellent book *Pack of Two: The Intricate Bond Between People and Dogs*:  
+
+> Dogs don’t judge us. They are oblivious to the standards humans use to assess one another—appearance and social status, color and class and profession—and so we’re often less guarded in their presence, freer to do, say, and feel things we might not do, say, or feel in front of humans. [...] In other words, you can be as crazy as you want with the dog, and the dog will never utter a word.  
+
+> The term “unconditional love” comes up; it’s inevitable. [...] Dogs love us—or they appear to—in a purer, more accepting way than our spouses or our best friends or even our parents. [...] And yet I’ve always found the term “unconditional love” to be a little thin when it comes to humans and dogs, static and lacking somehow. [...] “It implies,” [Steve Zawistowski] says, “that dogs don’t need respect, that you can beat and kick them and they’ll crawl back.” It also implies that the relationship is essentially nonreciprocal, as though our only role with dogs is to stand there and absorb. In fact, I think the healing power of dogs has less to do with what they give us than what they bring out in us, with what their presence allows us to feel and experience.  

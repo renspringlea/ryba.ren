@@ -33,3 +33,9 @@ As I've alluded to above, executive function has repeatedly proven itself as a p
 I can recall the precise time when this despair gave way to a sober and modest form of hope — I didn't feel *better* by any means, and my personal life and material situation was still facing upheaval, but I began to see a path foward.
 
 One of the things that got me there (apart from the love and support of pretty much every friend and close family member in my life) was, strangely, planning what my life was going to look like after this period. I was suffering deeply, but I could ask my sister to help me shop for a used car (which I was going to need), and I could make a plan to attend the upcoming pre-season kickaround with my new football team, and I could ask to join my dear friends to play some card game — in short, taking agency and exercising my executive function.  
+
+*Update 2026-06-15*  
+
+This view is explored, in the context of motivation and decision-making, by Charles Duhigg's book *Smarter Better Faster: The Secrets of Being Productive in Life in Business*:  
+
+> From these insights, a theory of motivation has emerged: The first step in creating drive is giving people opportunities to make choices that provide them with a sense of autonomy and self-determination. [...] This is a useful lesson for anyone hoping to motivate themselves or others, because it suggests an easy method for triggering the will to act: Find a choice, almost any choice, that allows you to exert control.  
