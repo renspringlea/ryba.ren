@@ -30,5 +30,5 @@ Further reading:
 - [Sustaining Spirit: Self-care for Social Justice (Naomi Ortiz)](https://www.goodreads.com/book/show/40399029-sustaining-spirit)  
 - [Social Justice for the Sensitive Soul: How to Change the World in Quiet Ways (Dorcas Cheng-Tozun)](https://www.goodreads.com/en/book/show/61903859-social-justice-for-the-sensitive-soul)  
 - [Taking a Break from Saving the World: A Conservation Activist’s Journey from Burnout to Balance (Stephen Legault)](https://www.goodreads.com/book/show/53401587-taking-a-break-from-saving-the-world)  
-- [The Idealist’s Survival Kit: 75 Simple Ways to Avoid Burnout (Alessandra Pigni)](https://www.goodreads.com/book/show/33652611-the-idealist-s-survival-kit?from_search=true&from_srp=true&qid=NbR1KCQfrd&rank=1)  
+- [The Idealist's Survival Kit: 75 Simple Ways to Avoid Burnout (Alessandra Pigni)](https://www.goodreads.com/book/show/33652611-the-idealist-s-survival-kit?from_search=true&from_srp=true&qid=NbR1KCQfrd&rank=1)  
 - [Self-Care for Autistic People (Megan Anna Neff)](https://www.goodreads.com/book/show/176442569-self-care-for-autistic-people?from_search=true&from_srp=true&qid=r6Xftcu8h9&rank=1)  
