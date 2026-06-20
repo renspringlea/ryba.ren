@@ -23,7 +23,7 @@ Therefore, I've found that competence satisfaction is often easier to access. Co
 
 Related blog articles:
 - [Self-care in animal advocacy: Some resources I like](https://forum.effectivealtruism.org/posts/FFae7MGJjz2She6qL/self-care-in-animal-advocacy-some-resources-i-like)
-- [Exhaustion and God]({% post_url 2026-05-20 %})
+- [Exhaustion and God]({% post_url 2026-05-20-exhaustion-god %})
 - [Quotes on being patient as an activist]({% post_url 2025-04-14-patient-activist-quotes %})  
 
 Further reading:  

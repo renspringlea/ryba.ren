@@ -1,7 +1,7 @@
 ---  
 layout: post  
-title: "The cosmic joke: Depression in an absurd universe"  
-tags: religion mental-health effective-altruism social-challenges philosophy
+title: "* The cosmic joke: Depression in an absurd universe"  
+tags: religion mental-health effective-altruism social-challenges philosophy my-favorites
 ---  
 
 > Dr. Heuschrecke: Please have a chair, Mr. Sneak. No, not the couch, please. I am not a psychiatrist.  
