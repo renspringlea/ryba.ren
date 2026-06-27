@@ -36,7 +36,7 @@ Currently, my list contains these items:
 - Exercise - move your body, a little or a lot
 - Nutrition - eat the right amount of nourishing foods
 - Community - nourishing your relationships with loved ones, regularly immersing yourself in social connection, and asking trusted people for help and support
-- Hobbies - immersive, engaging activities that can help you enter monotropic focus (also see Cal Newport's []*Digital Minimalism*](https://www.goodreads.com/en/book/show/40672036-digital-minimalism) for a deeper exploration of meaningful hobbies)
+- Hobbies - immersive, engaging activities that can help you enter monotropic focus (also see Cal Newport's [*Digital Minimalism*](https://www.goodreads.com/en/book/show/40672036-digital-minimalism) for a deeper exploration of meaningful hobbies)
 - Executive function - [make a plan or a decision, and it almost doesn't matter what exactly]({% post_url 2026-06-05-agonise-organise-executive %})
 - Outdoors - seeing the sky, walking around the block, going to the park
 - Novelty - trying new things, even if they seem silly (e.g., pick a new vegetable to use in a meal, or visit a new cafe)
