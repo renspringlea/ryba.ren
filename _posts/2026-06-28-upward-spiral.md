@@ -7,7 +7,7 @@ tags: mental-health life-ops
 There are three books that I've found astonishingly useful for living with mental illness, particularly depression:
 - [The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time by Alex Korb, PhD](https://www.goodreads.com/book/show/21413760-the-upward-spiral)
 - [The Cognitive Behavioral Workbook for Depression: A Step-by-step Program by William J. Knaus, EdD](https://www.goodreads.com/book/show/397354.The_Cognitive_Behavioral_Workbook_for_Depression)
-- [The Cognitive Behavioral Workbook for Anxiety: A Step-by-Step Program by William J. Knaus, EdD(https://www.goodreads.com/book/show/3101136-the-cognitive-behavioral-workbook-for-anxiety)
+- [The Cognitive Behavioral Workbook for Anxiety: A Step-by-Step Program by William J. Knaus, EdD](https://www.goodreads.com/book/show/3101136-the-cognitive-behavioral-workbook-for-anxiety)
 
 Korb's *The Upward Spiral* identifies a collection of tools, each of which can, gradually and over time, help to improve one's mental state and soften the grasp of depression. As Korb explains:
 
