@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Non-violence against insects part 1/5: Notes on artificial turf, with a focus on invertebrate animals"
-tags: soccer animals research effective-altruism
+title: "Non-violence against insects part 1/5: Notes on artificial turf, with a focus on invertebrate animals"  
 ---
 
 This is the first of a five-part series of blog articles exploring how I can practice non-violence against insects in my day-to-day life:  

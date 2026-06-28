@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The upward spiral - the single most useful tool I've found for navigating depression"
-tags: mental-health life-ops
 ---
 
 There are three books that I've found astonishingly useful for living with mental illness, particularly depression:

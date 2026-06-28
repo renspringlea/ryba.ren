@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Individual humans are profoundly limited — and community can set us free"
-tags: philosophy mental-health self-improvement effective-altruism religion ai
 ---
 
 From *Four Thousand Weeks: Time Management for Mortals* by Oliver Burkeman:

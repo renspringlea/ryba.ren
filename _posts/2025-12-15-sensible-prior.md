@@ -1,7 +1,6 @@
 ---  
 layout: post  
 title: "Non-violence against insects part 4/5: Common sense prior, and exercising caution around hypothesized moral catastrophes"  
-tags: animals research soccer effective-altruism      
 ---  
 
 This is the fourth of a five-part series of blog articles exploring how I can practice non-violence against insects in my day-to-day life:    

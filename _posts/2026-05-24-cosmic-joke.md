@@ -1,7 +1,6 @@
 ---  
 layout: post  
-title: "* The cosmic joke: Depression in an absurd universe"  
-tags: religion mental-health effective-altruism social-challenges philosophy my-favorites
+title: "The cosmic joke: Depression in an absurd universe"  
 ---  
 
 > Dr. Heuschrecke: Please have a chair, Mr. Sneak. No, not the couch, please. I am not a psychiatrist.  
@@ -35,7 +34,7 @@ The reason is that we are finite creatures living in an incomprehensibly vast an
 
 But even with this astonishing power, when we consider the age of humanity (let alone Earth), the scale of the universe, the limited scale of our lives — our eighty odd years, if we're blessed with a long life, out of the 13.8 billion years of the universe so far — is a joke.  
 
-We will always fail at almost everything. When you (the reader) and I are both dead and buried, animals will continue to suffer and die at the hands of industrial-scale abuse, children will continue to suffer and die in poverty, loving families will continue to be torn apart by state violence. If I work hard, I might be able to curb some of the excessive violence inflicted on, say, fish farmed in Uganda — but this will come at the expense of helping the hens in China or supporting the queer youth in sub-saharan Africa, let alone adopting [rescue pigeons]({% post_url 2023-08-21-why-pigeons-are-the-greatest %}), or improving my goalkeeping skills, or opening my own funeral home, or getting all the tattoos I want.  
+We will always fail at almost everything. When you (the reader) and I are both dead and buried, animals will continue to suffer and die at the hands of industrial-scale abuse, children will continue to suffer and die in poverty, loving families will continue to be torn apart by state violence. If I work hard, I might be able to curb some of the excessive violence inflicted on, say, fish farmed in Uganda — but this will come at the expense of helping the hens in China or supporting the queer youth in sub-saharan Africa, let alone adopting rescue pigeons, or improving my goalkeeping skills, or opening my own funeral home, or getting all the tattoos I want.  
 
 Even if one adopts the tenets of effective altruism, which I do, and one aims to use their life to *do the most good*, "the most good" will still only ever be a drop in the ocean.  
 

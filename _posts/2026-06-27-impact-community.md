@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Positive impact can be credited to communities, but not to individual people"
-tags: effective-altruism animals philosophy academic-life
 ---
 
 One of my favourite novels from this century is *Idlewild* by James Frankie Thomas. The novel is a long reflection on the relationship between two queer teenagers, Fay and Nell, during their troubled years at a Quaker school called Idlewild in New York City and the particular impacts of the 9/11 attacks on the students' psyche.

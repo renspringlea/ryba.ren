@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Non-violence against insects part 2/5: Insects killed by driving"
-tags: animals effective-altruism research
 ---
 
 This is the second of a five-part series of blog articles exploring how I can practice non-violence against insects in my day-to-day life:  

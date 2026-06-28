@@ -13,8 +13,7 @@ layout: home
 {%   assign lifePerc = lifeProp | times: 100  %}
 {%   assign lifePercRound = lifePerc | round  %}
 
-*she/her \| Kaurna land (South Australia)*  
-*Proudly transgender 🏳️‍⚧️ and autistic ♾️*   
+*she/her 🏳️‍⚧️ \| Kaurna land (South Australia)*  
 
 I advocate for animal rights and welfare. I work to improve laws for the billions of chickens, fish, pigs, and other animals commodified by economic systems and tortured by routine industrial practices.
 
@@ -31,20 +30,6 @@ I use my middle name Grace in my everyday life, but I use my first name Ren prof
 
 Years lived: {{lifePercRound}} %
 
-## Books
-
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><a href="/shrimp.html"><img src="/assets/images/shrimpbookcover.jpg" alt="Book cover for Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry, showing an underwater close-up photograph of a red shrimp with white spots standing against grey-blue rocks" width="300" /></a></span><span style="text-align: center; width: 50%;"><a href="/trashfish.html"><img src="/assets/trashfish/cover_compressed.jpg" alt="Book cover for Trash Fish, a zine-style illustration of pink and blue fish with background images of a soccer ball, a rosary, and dog paws" width="300" /></a></span></div>
-
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 50%;"><i>Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy</i><br />An academic book with Shannon M Davis, Tse Yip Fai, and Peter Singer; buy from Routledge <a href="https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459">here</a></span><span style="text-align: center; width: 50%;"><i>Trash Fish: Navigating the Shoals of Gender, Species, and Meaning in an Oppressive World</i><br />A book of autobiographical essays, free to read and download <a href="/trashfish.html">here</a><br /><br /></span></div>
-
-<br />
-
-## Data
-
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 33%;"><a href="https://finsight.fish/"><img src="/assets/images/homepage_finsight.png" alt="An ASCII art image of a fish" width="200" /></a></span><span style="text-align: center; width: 33%;"><a href="https://cagefr.ee/"><img src="/assets/images/homepage_cagefree.png" alt="An ASCII art image of a baby chick" width="200" /></a></span><span style="text-align: center; width: 33%;"><a href="https://she.football/"><img src="/assets/images/homepage_shefootball.png" alt="An ASCII art image of a soccer ball" width="200" /></a></span></div>
-
-<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 33%;">Data on the European fish farming industry<br />@ <a href="https://finsight.fish/">finsight.fish</a></span><span style="text-align: center; width: 33%;">Data on the global cage-free egg market<br />@ <a href="https://cagefr.ee/">cagefr.ee</a></span><span style="text-align: center; width: 33%;">Data visualizations on women's football<br />@ <a href="https://she.football/">she.football</a></span></div>
-
 <br />
 
 ## Publications
@@ -57,6 +42,7 @@ Years lived: {{lifePercRound}} %
 <div markdown="1">
 
   - [The economics of aquaculture and fish welfare in Europe: A systematic review](https://www.animalask.org/post/the-economics-of-fish-farming-and-fish-welfare-in-europe), 2025.
+  - [Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy](https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459), 2025, with Shannon M Davis, Tse Yip Fai, and Peter Singer.
   - [Tiered certification schemes for slower-growing chicken: Can a tiered animal welfare label help the Better Chicken Commitment?](https://www.animalask.org/post/tiered-certification-schemes-for-slower-growing-chicken), 2025.
   - [Are slow-growing broiler chickens actually better for animal welfare? Shining light on a poultry welfare concern using a farm-scale economic model](https://doi.org/10.1080/00071668.2024.2432926), *British Poultry Science*, 2024, with I. Khire.
   - [Party politics for animal advocacy: Part 1 – Animal-focused minor political parties](https://www.animalask.org/post/party-politics-for-animal-advocacy), 2023.
@@ -77,6 +63,7 @@ Years lived: {{lifePercRound}} %
 <div markdown="1">
 
   - [The economics of aquaculture and fish welfare in Europe: A systematic review](https://www.animalask.org/post/the-economics-of-fish-farming-and-fish-welfare-in-europe), 2025.
+  - [Shrimp and Prawn Welfare in the Wild-Caught Fishing Industry: A Global Review and Recommendations for Research and Policy](https://www.routledge.com/Shrimp-and-Prawn-Welfare-in-the-Wild-Caught-Fishing-Industry-A-Global-Review-and-Recommendations-for-Research-and-Policy/Ryba-Davis-Tse-Singer/p/book/9781032901459), 2025, with Shannon M Davis, Tse Yip Fai, and Peter Singer.
   - [Tiered certification schemes for slower-growing chicken: Can a tiered animal welfare label help the Better Chicken Commitment?](https://www.animalask.org/post/tiered-certification-schemes-for-slower-growing-chicken), 2025.
   - Salmon aquaculture in Chile: Top opportunities to improve fish welfare, 2025, with George Bridgwater.
   - [Animal advocacy in Canada](https://www.animalask.org/post/animal-advocacy-in-canada), 2025, with George Bridgwater & Max Carpendale.
@@ -158,35 +145,15 @@ Years lived: {{lifePercRound}} %
 
 <br />
 
-## Blog  
 
-To show my favorites (*), click <a href="#disable" id="my-favorites" onclick="filterUsingTag(this.id)">here</a>.  
+## Datasets
 
-To subscribe, use [this Atom feed](https://ryba.ren/feed.xml) with any feed reader software. If you prefer an email newsletter, you can use the tool [Feedrabbit](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fryba.ren%2Ffeed.xml) to sign up for an email feed with your chosen frequency.  
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 33%;"><a href="https://finsight.fish/"><img src="/assets/images/homepage_finsight.png" alt="An ASCII art image of a fish" width="200" /></a></span><span style="text-align: center; width: 33%;"><a href="https://cagefr.ee/"><img src="/assets/images/homepage_cagefree.png" alt="An ASCII art image of a baby chick" width="200" /></a></span><span style="text-align: center; width: 33%;"><a href="https://she.football/"><img src="/assets/images/homepage_shefootball.png" alt="An ASCII art image of a soccer ball" width="200" /></a></span></div>
 
-These posts are hot takes and tidbits on topics that I find interesting, not systematic or rigorous examinations. "Notes on" posts summarise key academic sources on a given topic, rather than involving my own reasoning or views. I do not use generative AI to write.  
+<div style="display: flex; align-items: center; justify-content: space-between;"><span style="text-align: center; width: 33%;">Data on the European fish farming industry<br />@ <a href="https://finsight.fish/">finsight.fish</a></span><span style="text-align: center; width: 33%;">Data on the global cage-free egg market<br />@ <a href="https://cagefr.ee/">cagefr.ee</a></span><span style="text-align: center; width: 33%;">Data visualizations on women's football<br />@ <a href="https://she.football/">she.football</a></span></div>
 
-<script type="text/javascript">
-  function filterUsingTag(selectedTag) {
-    var id = 0;
-    {% for post in site.posts %}
-      var ts = {{ post.tags | jsonify }}
+<br />
 
-      var postDiv = document.getElementById(++id);
-      postDiv.style.display =
-        (selectedTag == 'All' || ts.includes(selectedTag))
-          ? 'list-item'
-          : 'none';
-    {% endfor %}
-  }
-</script>
+## Blog (legacy)    
 
-<p style="text-align: justify;">
-filter&nbsp;
-{%- assign tags = site.tags | sort -%}
-{%- for tag in tags -%}
-  {%- assign t = tag | first -%}
-<a href="#disable" id="{{ t }}" onclick="filterUsingTag(this.id)">{{ t }}</a>&nbsp;
-{%- endfor -%}
-| <a href="#disable" id="All" onclick="filterUsingTag('All')">show all</a>
-</p>
+*This blog is no longer actively updated.*

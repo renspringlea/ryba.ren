@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "* Don't agonise, organise - executive function as mental healing"
-tags: mental-health life-ops my-favorites
+title: "Don't agonise, organise - executive function as mental healing"  
 ---
 
 In the biography *Pelosi*, author Molly Ball relates the American Democratic politician Nancy Pelosi's response to Republican's attacks on the Affordable Care Act:

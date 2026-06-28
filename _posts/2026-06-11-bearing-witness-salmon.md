@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bearing witness to 8.9 million individual animals killed in Chile"
-tags: animals effective-altruism social-challenges
 ---
 
 Among fish farmed in aquaculture operations around the world, a key species in Atlantic salmon (*Salmo salar*).

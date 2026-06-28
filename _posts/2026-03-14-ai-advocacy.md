@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "* Doing the most good in a world with superb-quality AI"
-tags: ai effective-altruism animals life-ops my-favorites
+title: "Doing the most good in a world with superb-quality AI"  
 ---
 
 ## Part 1 - AI
@@ -33,5 +32,3 @@ There are two related shifts in my mindset that I have been contemplating:
 So, generally, this represents a shift from quantitative productivity at the individual level to qualitative sound action at the collective level.
 
 This also supports a more low-key lifestyle and work-life balance — it doesn't matter as much how much work or output that you get out of each workday, as the more important thing is supporting collectives to take sound, careful action. It also aligns with the fact that as I age, productivity will necessarily give way, but in return I will develop wisdom and experience.  
-
-Also see my earlier blog article: [Constructive vs productive]({% post_url 2024-09-24-constructive %}). In that article, I explore the distinction between being productive and being constructive, which is relevant for shifting from a "quantitative productivity" mindset to a "qualitative sound action" mindset.

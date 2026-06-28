@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "* Is the United States likely to collapse? Should social justice advocates respond?"
-tags: effective-altruism research social-challenges politics history my-favorites
+title: "Is the United States likely to collapse? Should social justice advocates respond?"
 ---
+
 ## Key points
-
-
 
 * In this article, I explore my concerns about whether the United States could realistically witness a political collapse in the next couple of decades.
 * I'm motivated by the need to figure out whether social justice advocates working in the United States (e.g. animal advocates, or people working on whatever specific social issue) should give serious thought to incorporating the risk of collapse into their advocacy strategies. This could involve conducting advocacy in other countries or switching to working directly on reforming the political system.

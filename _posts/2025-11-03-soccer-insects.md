@@ -1,7 +1,6 @@
 ---    
 layout: post    
-title: "* Non-violence against insects part 3/5: Choosing a different sports club to kill fewer insects?"    
-tags: animals research soccer effective-altruism my-favorites    
+title: "Non-violence against insects part 3/5: Choosing a different sports club to kill fewer insects?"    
 ---    
 
 This is the third of a five-part series of blog articles exploring how I can practice non-violence against insects in my day-to-day life:  
@@ -126,7 +125,7 @@ With that caveat in mind, here are some rough numbers of invertebrate abundance 
 Estimates from inside Australia:    
 - ~460 insects in each trap, with three traps per 3.6 m² plot, suggesting ~380 insects/m² figure 1a    
 - An average of 2,865 insects were found by sampling mostly unmanaged grasslands - the area sampled is unclear, but this project is particularly relevant as it was conducted near where I live https://onlinelibrary.wiley.com/doi/pdf/10.1155/2014/202056 table 4    
-- 40,897 invertebrates found in 20x 0.25 m² plots in parks in New Zealand (which isn't in Australia, but [close enough]({% post_url 2025-04-12-australia-new-zealand %})) - indicating ~8,200 invertebrates/m² https://link.springer.com/content/pdf/10.1007/s11252-025-01728-0.pdf table 2    
+- 40,897 invertebrates found in 20x 0.25 m² plots in parks in New Zealand (which isn't in Australia, but close enough) - indicating ~8,200 invertebrates/m² https://link.springer.com/content/pdf/10.1007/s11252-025-01728-0.pdf table 2    
 
 Estimates from outside of Australia:    
 - [44k - 6M insects in a 0.2 acre lawn](https://reducing-suffering.org/convert-grass-lawns-to-gravel-to-reduce-insect-suffering/#How_many_insects_are_helped), indicating ~55 - 7,500 insects/m²    
