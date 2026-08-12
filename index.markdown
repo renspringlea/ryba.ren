@@ -12,7 +12,7 @@ Previous roles:
 - Research scientist @ [Animal Ask](https://animalask.org)
 - Strategy, policy analysis, and project execution @ several animal advocacy campaigns around the world  
 
-Outside of work, I am the proud parent of two special needs rescue dogs, Max and Shiloh 🐶🐶. I enjoy goalkeeping, reading, and getting tattoos.
+Outside of work, I am the proud parent of two special needs rescue dogs, Max and Shiloh 🐶🐶. I enjoy goalkeeping, reading, and getting tattoos.  
 
 I go by Grace (my middle name) but I previously went by Ren (my first name) which is also perfectly fine. “Ryba” is pronounced “REE-ber” and means “fish” in Slovak.  
 
