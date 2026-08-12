@@ -3,34 +3,23 @@ title: Ren Grace Ryba
 layout: home
 ---
 
-{%   assign today = site.time | date: '%s'      %}
-{%   assign start = '17-06-1996 04:00:00' | date: '%s'  %}
-{%   assign secondsSince = today | minus: start     %}
-{%   assign hoursSince = secondsSince | divided_by: 60 | divided_by: 60     %}
-{%   assign daysSince = hoursSince | divided_by: 24  %}
-{%   assign weeksSince = daysSince | divided_by: 7  %}
-{%   assign lifeProp = weeksSince | divided_by: 4106.0  %}
-{%   assign lifePerc = lifeProp | times: 100  %}
-{%   assign lifePercRound = lifePerc | round  %}
+*she/her \| Kaurna land (Adelaide, Australia)*  
 
-*she/her \| Kaurna land (South Australia)*  
+I work in animal advocacy, aiming to improve laws, policies, and industrial practices for the billions of chickens, fish, pigs, and other animals exploited by industrial and economic systems. I am currently launching and directing a new animal advocacy organisation, which will be announced publicly in the next few months.  
 
-I advocate for animal rights and welfare. I work to improve laws for the billions of chickens, fish, pigs, and other animals commodified by economic systems and tortured by routine industrial practices.
+Previous roles:  
+- Fund manager @ [EA Animal Welfare Fund](https://funds.effectivealtruism.org/funds/animal-welfare)
+- Research scientist @ [Animal Ask](https://animalask.org)
+- Strategy, policy analysis, and project execution @ several animal advocacy campaigns around the world  
 
-I am a researcher and an analyst, and I enjoy helping projects run smoothly through operations, administration, and automation. I'm currently a grant evaluator at the [EA Animal Welfare Fund](https://funds.effectivealtruism.org/funds/animal-welfare) and an independent contractor on several animal welfare campaigns around the world.
+Outside of work, I am the proud parent of two special needs rescue dogs, Max and Shiloh 🐶🐶. I enjoy goalkeeping, reading, and getting tattoos.
 
-From 2021 to 2025, I worked at Animal Ask, where I helped to maximize the impact of animal advocacy campaigns on every continent except Antarctica. I have run for parliament with the Animal Justice Party and worked in the fisheries department of state government.  
+I go by Grace (my middle name) but I previously went by Ren (my first name) which is also perfectly fine. “Ryba” is pronounced “REE-ber” and means “fish” in Slovak.  
 
-I am the proud parent of two special needs rescue dogs, Max and Shiloh 🐶🐶. Outside of work, I enjoy playing soccer, getting tattoos, and reading about history and space exploration.  
-
-I use my middle name Grace in my everyday life, but I use my first name Ren professionally. Feel free to use either. "Ryba" is pronounced "REE-ber" and it means "fish" in Slovak.  
-
-I am proud to be transgender 🏳️‍⚧️  
+I am proud to be transgender 🏳️‍⚧️, and I live with the ongoing work of surviving major depression 💚  
 
 | **Scientific expertise** | 🏭 economics \| 🌱 environmental science \| 🐟 fish biology \| 🏛️ political systems \| 📈 statistics/data analysis |
 | **Qualifications** | PhD in environmental policy and marine biology \| Grad Cert in economics \| BSc (Advanced) in environmental science |  
-
-Years lived: {{lifePercRound}} %
 
 <br />
 
@@ -158,4 +147,4 @@ Years lived: {{lifePercRound}} %
 
 ## Blog (legacy)    
 
-*This blog is no longer actively updated.*
+*This blog is no longer actively updated. Any views expressed here belong only to me, not my organisation.*
