@@ -9,8 +9,8 @@ I am the Executive Director of [BluePerch](https://blueperch.org), a fund that m
 
 I previously went by the first name Ren, which is also fine. My surname "Ryba" is pronounced "REE-ber", and means "fish" in Slovak. I am proud to be transgender 🏳️‍⚧️, and I live with the ongoing work of surviving major depression 💚.  
 
-| **Scientific expertise** | 🏭 economics \| 🌱 environmental science \| 🐟 fish biology \| 🏛️ political systems \| 📈 statistics/data analysis |
-| **Qualifications** | PhD in environmental policy and marine biology \| Grad Cert in economics \| BSc (Advanced) in environmental science |  
+| **Scientific expertise** | 🏭 economics · 🌱 environmental science · 🐟 fish biology · 🏛️ political systems · 📈 statistics/data analysis |
+| **Qualifications** | PhD in environmental policy and marine biology · Grad Cert in economics · BSc (Advanced) in environmental science |  
 
 My previous roles include Fund Manager at the [EA Animal Welfare Fund](https://funds.effectivealtruism.org/funds/animal-welfare) and Research Scientist at [Animal Ask](https://animalask.org). I've also worked on strategy, policy analysis, and project execution across several animal advocacy campaigns around the world.  
 
