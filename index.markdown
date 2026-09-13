@@ -1,25 +1,18 @@
 ---
-title: Grace (Ren) Ryba
+title: Grace Ryba
 layout: home
 ---
 
-*she/her \| Kaurna land (Adelaide, Australia)*  
+*she/her · Kaurna land (Adelaide, Australia)*  
 
-I work in animal advocacy, aiming to improve laws, policies, and industrial practices for the billions of chickens, fish, pigs, and other animals exploited by industrial and economic systems. I am currently launching and directing a new animal advocacy organisation, which will be announced publicly in the next few months.  
+I am the Executive Director of [BluePerch](https://blueperch.org), a fund that makes grants to promising, high-impact animal advocacy projects around the world. Our work supports improvements in laws, policies, and industrial practices for the billions of chickens, fish, pigs, and other animals exploited by industrial and economic systems.  
 
-Previous roles:  
-- Fund manager @ [EA Animal Welfare Fund](https://funds.effectivealtruism.org/funds/animal-welfare)
-- Research scientist @ [Animal Ask](https://animalask.org)
-- Strategy, policy analysis, and project execution @ several animal advocacy campaigns around the world  
-
-Outside of work, I am the proud parent of two special needs rescue dogs, Max and Shiloh 🐶🐶. I enjoy goalkeeping, reading, and getting tattoos.  
-
-I go by Grace (my middle name) but I previously went by Ren (my first name) which is also perfectly fine. “Ryba” is pronounced “REE-ber” and means “fish” in Slovak.  
-
-I am proud to be transgender 🏳️‍⚧️, and I live with the ongoing work of surviving major depression 💚  
+I previously went by Ren - either is fine. "Ryba" is pronounced "REE-ber", and means "fish" in Slovak. I am proud to be transgender 🏳️‍⚧️, and I live with the ongoing work of surviving major depression 💚. Outside of work, I am the proud parent of two special needs rescue dogs, Max and Shiloh 🐶🐶, and I enjoy goalkeeping, reading, and getting tattoos.  
 
 | **Scientific expertise** | 🏭 economics \| 🌱 environmental science \| 🐟 fish biology \| 🏛️ political systems \| 📈 statistics/data analysis |
 | **Qualifications** | PhD in environmental policy and marine biology \| Grad Cert in economics \| BSc (Advanced) in environmental science |  
+
+My previous roles include Fund Manager at the [EA Animal Welfare Fund](https://funds.effectivealtruism.org/funds/animal-welfare) and Research Scientist at [Animal Ask](https://animalask.org). I've also worked on strategy, policy analysis, and project execution across several animal advocacy campaigns around the world.  
 
 <br />
 
